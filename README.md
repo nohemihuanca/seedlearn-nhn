@@ -75,6 +75,8 @@ python scripts/run_pipeline.py --specimen SRAPHEDE2 \
 
 See [CLI Reference](docs/scripts.md) for full argument documentation, few-shot evaluation workflows, and how to regenerate embeddings and splits.
 
+For the current handoff/consolidation state, see [SeedLearn Project State, August 2026](docs/status/2026-08-project-state.md).
+
 ## Dataset Splits
 
 Pre-computed individual-level splits (5 seeds, 70/15/15) are available on shared NFS. All images of the same plant stay in the same partition — no data leakage across train/val/test boundaries.

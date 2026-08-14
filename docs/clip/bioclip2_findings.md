@@ -3,7 +3,7 @@
 **Date**: 2026-01-29
 **Updated**: 2026-02-12
 **Branch**: dev
-**Status**: Tasks 1-4 complete, Tasks 5-9 pending
+**Status**: Tasks 1-4 complete, BioCLIP 2 embeddings verified on NFS, Tasks 5-9 pending
 
 > **See also**: [Embedding Architecture Reference](embedding-architecture.md) — comprehensive technical deep dive on BioCLIP 2's architecture, pre-training, latent space, preprocessing, and software stack. Written 2026-02-12.
 
@@ -21,6 +21,17 @@
 | Cached embeddings | `family_features.npz` (8377, 512), `species_features.npz` (8377, 512) |
 | Best result | SimpleShot 36.52% family accuracy (10-shot, Oct 23 clean data) |
 | Known bugs | Demo classifier missing mean-centering, temperature scaling (see `bioclip_simpleshot_explainer.html`) |
+
+### August 2026 verification
+
+Cluster inspection on 2026-08-14 found a newer BioCLIP 2 cache on shared NFS:
+
+| File | Shape | Notes |
+|------|-------|-------|
+| `data/embeddings/2026-01-29_v2026-01-29_12K/family_features.npz` | `(10407, 768)` | Legacy single-rank family cache |
+| `data/embeddings/2026-01-29_v2026-01-29_12K/features.npz` | `(10407, 768)` | Multi-rank cache with image paths, individual IDs, family/genus/species labels |
+
+This confirms BioCLIP 2 embedding extraction was completed for the current 2026-01-29 image catalog. A search under `data/experiments` did not find 2026-01-29 SimpleShot metrics or reports, so the downstream BioCLIP 2 few-shot baselines still need to be run or located outside the standard experiments tree.
 
 ---
 
@@ -143,7 +154,7 @@ With ~49 images per species, LoRA is the ceiling of what's responsible. Full fin
 |---|------|------------|--------|-------|
 | 1 | Fix demo classifier bug (mean-centering) | - | Done | SimpleShot rewritten with proper mean-centering |
 | 2 | Update model string to `bioclip-2`, verify pybioclip 2.x compat | - | Done | Default fixed in `extract_embeddings.py` (commit `fb659c3`) |
-| 3 | Regenerate static embeddings with BioCLIP 2 | 2 | **Next** | GPU job — see [Embedding Architecture](embedding-architecture.md#gpu-requirements-for-extraction) |
+| 3 | Regenerate static embeddings with BioCLIP 2 | 2 | Done | Verified `10407 x 768` caches under `data/embeddings/2026-01-29_v2026-01-29_12K/` |
 | 4 | Update embedding consumers for 768-dim | 3 | Done | All code is dimension-agnostic (verified) |
 | 5 | Run SimpleShot experiments (BioCLIP 2 baseline) | 3 | Pending | New ground truth scores |
 | 6 | Generate comparison reports (v1 vs v2) | 5 | Pending | Quantify improvement |

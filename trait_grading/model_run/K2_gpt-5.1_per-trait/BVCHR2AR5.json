@@ -1,0 +1,47 @@
+{
+  "specimen_id": "BVCHR2AR5",
+  "source_answer_key": "Sapotaceae_Chrysophyllum_argenteum_BVCHR2AR5",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "whorled",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "1",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic to narrowly elliptic",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "clearly visible, c. 8\u201312 pairs per leaf, evenly spaced along midrib",
+            "surface_features": "glabrous, shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "light brown to reddish-brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "N/A (no additional clearly distinctive seedling traits visible beyond simple elliptic leaves with some margin and surface damage)"
+        }
+      }
+    }
+  }
+}

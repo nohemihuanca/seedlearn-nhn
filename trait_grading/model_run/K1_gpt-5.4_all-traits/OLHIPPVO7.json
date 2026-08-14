@@ -1,0 +1,47 @@
+{
+  "specimen_id": "OLHIPPVO7",
+  "source_answer_key": "Celastraceae_Hippocratea_volubilis_OLHIPPVO7",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "unclear",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "toothed, serrate",
+            "shape": "lanceolate to elliptic",
+            "apex": "acuminate",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "clearly visible, closely spaced, numerous, about 8\u201312 pairs per leaf",
+            "surface_features": "glabrous, shiny, slightly rugose",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "unclear"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "brown to reddish-brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Leaves show minor damage in a few places, including holes present and small sections of margin missing. A smaller neighboring seedling appears near the base in some views; assessment is based on the taller marked seedling only."
+        }
+      }
+    }
+  }
+}

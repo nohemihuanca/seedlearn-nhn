@@ -1,0 +1,72 @@
+{
+  "specimen_id": "BVHEISAC9",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Olacaceae/by_genus/Heisteria/by_species/acuminata/BVHEISAC9/Olacaceae_Heisteria_acuminata_BVHEISAC9_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Olacaceae/by_genus/Heisteria/by_species/acuminata/BVHEISAC9/Olacaceae_Heisteria_acuminata_BVHEISAC9_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Olacaceae/by_genus/Heisteria/by_species/acuminata/BVHEISAC9/Olacaceae_Heisteria_acuminata_BVHEISAC9_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Olacaceae/by_genus/Heisteria/by_species/acuminata/BVHEISAC9/Olacaceae_Heisteria_acuminata_BVHEISAC9_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Olacaceae/by_genus/Heisteria/by_species/acuminata/BVHEISAC9/Olacaceae_Heisteria_acuminata_BVHEISAC9_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {},
+          "leaf_complexity": {},
+          "leaf_morphology": {
+            "margin": "[entire"
+          },
+          "stem_traits": {},
+          "special_features": {},
+          "notes": "The primary subject is a seedling with several leaves that are clearly visible from multiple angles. All views confirm a smooth, unbroken leaf margin. (Note: A different, toothed plant is visible in the background of image 4, but the assessment focuses on the seedling in question)."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nC. Leaf Morphology\n    7.\tLeaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): [entire (the leaf edges form a continuous, smooth curve without any teeth, serrations, or lobes)]\nF. Notes: The primary subject is a seedling with several leaves that are clearly visible from multiple angles. All views confirm a smooth, unbroken leaf margin. (Note: A different, toothed plant is visible in the background of image 4, but the assessment focuses on the seedling in question).\n####",
+        "thinking": null,
+        "few_shot_delivery": {
+          "n_examples": 0,
+          "n_exemplar_images": 0,
+          "n_specimen_images": 5,
+          "max_images": 10,
+          "images_over_budget": false,
+          "prompt_chars": 2155
+        }
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 1697.974170000066
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 1697.974170000066,
+  "benchmark_metadata": {
+    "scientific_name": "Heisteria acuminata",
+    "family": "Olacaceae",
+    "genus": "Heisteria",
+    "species_epithet": "acuminata",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

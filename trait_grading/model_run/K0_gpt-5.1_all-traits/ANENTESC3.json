@@ -1,0 +1,47 @@
+{
+  "specimen_id": "ANENTESC3",
+  "source_answer_key": "Fabaceae_Robrichia_schomburgkii_ANENTESC3",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "unclear",
+            "spacing": "unclear"
+          },
+          "leaf_complexity": {
+            "type": "compound",
+            "compound_type": "unclear",
+            "num_leaflets": "unclear",
+            "leaflet_arrangement": "subopposite"
+          },
+          "leaf_morphology": {
+            "margin": "toothed, serrate",
+            "shape": "lanceolate",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "visible, closely spaced, numerous",
+            "surface_features": "glabrous, slightly shiny",
+            "trichomes": "absent",
+            "petiole_length": "unclear",
+            "petiole_features": "unclear"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "absent",
+            "color": "green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Plant appears to be a fern bearing a single arching, at least bipinnate frond emerging from leaf litter adjacent to a fallen log; because only one frond is clearly visible and the rhizome or shoot system is obscured, traits related to overall shoot architecture and leaf arrangement on the plant remain uncertain."
+        }
+      }
+    }
+  }
+}

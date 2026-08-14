@@ -1,0 +1,47 @@
+{
+  "specimen_id": "METYNACR4",
+  "source_answer_key": "Bignoniaceae_Tynanthus_croatianus_METYNACR4",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "unclear",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "opposite"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "faint but discernible; evenly spaced along the midrib; approximately 4\u20136 pairs per leaf side",
+            "surface_features": "glabrous, dull",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "unclear",
+            "color": "brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "unclear",
+            "tendrils": "absent"
+          },
+          "notes": "Leaves appear simple and elliptic with entire margins and short petioles; some leaf blades show holes present and small sections of margin missing; seedling is self-supporting with an upright stem and no climbing structures (based on overall habit and leaf morphology seen in all images)"
+        }
+      }
+    }
+  }
+}

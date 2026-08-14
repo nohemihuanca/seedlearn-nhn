@@ -1,0 +1,91 @@
+{
+  "specimen_id": "SHTAPIGU7",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Anacardiaceae/by_genus/Tapirira/by_species/guianensis/SHTAPIGU7/Anacardiaceae_Tapirira_guianensis_SHTAPIGU7_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Anacardiaceae/by_genus/Tapirira/by_species/guianensis/SHTAPIGU7/Anacardiaceae_Tapirira_guianensis_SHTAPIGU7_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Anacardiaceae/by_genus/Tapirira/by_species/guianensis/SHTAPIGU7/Anacardiaceae_Tapirira_guianensis_SHTAPIGU7_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Anacardiaceae/by_genus/Tapirira/by_species/guianensis/SHTAPIGU7/Anacardiaceae_Tapirira_guianensis_SHTAPIGU7_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Anacardiaceae/by_genus/Tapirira/by_species/guianensis/SHTAPIGU7/Anacardiaceae_Tapirira_guianensis_SHTAPIGU7_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "alternate",
+            "spacing": "distal"
+          },
+          "leaf_complexity": {
+            "type": "compound",
+            "compound_type": "odd-pinnate",
+            "num_leaflets": "7",
+            "leaflet_arrangement": "opposite"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "visible, closely spaced, numerous",
+            "surface_features": "shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "greenish-brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Some leaflets show holes, likely from physical damage or herbivory, but no clear evidence of cause. The seedling appears healthy overall. A red tag is tied to the stem, likely for identification or research purposes. All images show the same individual from different angles, confirming consistent morphology. The surrounding environment includes leaf litter and other vegetation, but habitat conditions are not clearly visible for inference."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): alternate (leaves attach at successive nodes along the stem, alternating sides; visible in multiple images)\n    2. Leaf spacing (clustered / distal): distal (leaves are spaced apart along the stem, not clustered at nodes)\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): compound (each leaf has multiple leaflets attached to a central rachis)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): odd-pinnate (leaflets arranged in pairs along rachis with one terminal leaflet; terminal leaflet visible in all images)\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): 7 (each compound leaf has three pairs of leaflets plus one terminal leaflet, totaling 7; visible in all images)\n    6. Leaflet arrangement (opposite / alternate / subopposite): opposite (leaflets arranged in pairs along the rachis, with one terminal leaflet; visible in all images)\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (margins smooth with no teeth or serrations; visible in all images)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): elliptic (leaflets are broadest near the middle and taper to both ends; visible in all images)\n    9. Leaf apex (acute, obtuse, acuminate): acute (leaflets taper to a sharp point; visible in all images)\n    10. Leaf base (rounded, cordate, cuneate): cuneate (leaflets taper to a narrow base; visible in all images)\n    11. Venation type (pinnate / palmate / parallel): pinnate (main vein runs lengthwise with secondary veins branching off perpendicularly; visible in all images)\n    12. Secondary veins (visibility, spacing, number): visible, closely spaced, numerous (secondary veins are clearly visible and run parallel to each other, closely spaced; visible in all images)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): shiny (leaf surface is glossy and reflects light; visible in all images)\n    14. Leaf surface trichomes (present / absent): absent (no visible hairs or trichomes on leaf surface; visible in all images)\n    15. Petiole length (short / long): short (petiole is short, connecting leaf to stem; visible in all images)\n    16. Petiole features (winged / grooved / terete): terete (petiole is round and cylindrical in cross-section; visible in all images)\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): woody (stem appears firm and slightly thickened, typical of woody seedlings; visible in all images)\n    18. Stem trichomes (present / absent): absent (no visible hairs on stem; visible in all images)\n    19. Stem color: greenish-brown (stem is green near the apex, transitioning to brownish at the base; visible in all images)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (stem surface appears smooth without ridges or lenticels; visible in all images)\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules observed at leaf bases; visible in all images)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no latex exudate visible; visible in all images)\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no visible pulvinus at leaflet or leaf bases; visible in all images)\n    24. Tendrils (present / absent): absent (no tendrils present; visible in all images)\nF. Notes: Some leaflets show holes, likely from physical damage or herbivory, but no clear evidence of cause. The seedling appears healthy overall. A red tag is tied to the stem, likely for identification or research purposes. All images show the same individual from different angles, confirming consistent morphology. The surrounding environment includes leaf litter and other vegetation, but habitat conditions are not clearly visible for inference.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 23629.78962995112
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 23629.78962995112,
+  "benchmark_metadata": {
+    "scientific_name": "Tapirira guianensis",
+    "family": "Anacardiaceae",
+    "genus": "Tapirira",
+    "species_epithet": "guianensis",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

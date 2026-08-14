@@ -1,0 +1,30 @@
+<!doctype html><meta charset="utf-8">
+<title>Leaf-margin experiment comparison</title>
+<style>
+body{font-family:system-ui,sans-serif;margin:2rem;max-width:1100px}
+table{border-collapse:collapse;margin:1rem 0;width:100%}
+th,td{border:1px solid #ccc;padding:.4rem .6rem;text-align:left;font-size:.9rem}
+th{background:#f4f4f4}
+.ext{background:#e8eaf6;color:#3949ab;font-size:.7rem;padding:.1rem .3rem;border-radius:3px}
+.ceiling{background:#fff8e1;border-left:4px solid #f9a825;padding:.6rem 1rem;margin:1rem 0}
+.note{color:#555;font-size:.85rem}
+</style>
+<h1>Leaf-margin extraction — condition comparison</h1>
+<div class="ceiling"><b>Roni vs Carmen (human ceiling): 92.9% agreement, κ 0.796 (n=112)</b><br>
+<span class="note">Model-vs-human agreement should be read against this human ceiling, not against 100%.
+Leaf margin is graded as a coarse 3-way (entire / toothed / lobed); serration subtypes collapse to "toothed".</span></div>
+<h2>Per-condition leaf-margin agreement</h2>
+<table><tr><th>Condition</th><th>Model</th><th>Granularity</th><th>n</th>
+<th>vs Roni</th><th>vs Carmen</th><th>vs STRI (acc)</th></tr>
+<tr><td>baseline_qwen3-vl-32b</td><td>Qwen/Qwen3-VL-32B-Instruct-FP8</td><td></td><td>114</td><td style='background:#d9ef8b'>83.9% (κ 0.503, n=112)</td><td style='background:#91cf60'>91.2% (κ 0.672, n=114)</td><td>93.2% (n=74)</td></tr><tr><td>K1_gpt-5.4_all-traits <span class='ext'>external</span></td><td>gpt-5.4</td><td>all_traits</td><td>113</td><td style='background:#d9ef8b'>83.8% (κ 0.502, n=111)</td><td style='background:#91cf60'>91.2% (κ 0.671, n=113)</td><td>93.2% (n=74)</td></tr><tr><td>K2_gpt-5.1_per-trait <span class='ext'>external</span></td><td>gpt-5.1</td><td>per_trait</td><td>113</td><td style='background:#fee08b'>81.1% (κ 0.395, n=111)</td><td style='background:#d9ef8b'>88.4% (κ 0.544, n=112)</td><td>94.5% (n=73)</td></tr><tr><td>K3_gpt-5.1_per-section <span class='ext'>external</span></td><td>gpt-5.1</td><td>per_section</td><td>113</td><td style='background:#fee08b'>80.2% (κ 0.358, n=111)</td><td style='background:#d9ef8b'>86.7% (κ 0.474, n=113)</td><td>94.6% (n=74)</td></tr>
+</table>
+<p class="note">Cells colored by Cohen's κ (Landis &amp; Koch bands): red = worse-than-chance … green = almost-perfect.
+External (cloud GPT) conditions are labeled; read granularity effects <b>within a model</b> (e.g. K2 vs K3, both GPT-5.1),
+not across models.</p>
+<h2>Paired deltas vs baseline (McNemar, model-vs-Roni)</h2>
+<table><tr><th>Comparison</th><th>n paired</th><th>Δ agreement rate</th>
+<th>newly-correct / newly-wrong</th><th>McNemar p</th></tr>
+<tr><td>K1_gpt-5.4_all-traits vs baseline_qwen3-vl-32b</td><td>111</td><td>0.0%</td><td>+2 / −2</td><td>1.000</td></tr><tr><td>K2_gpt-5.1_per-trait vs baseline_qwen3-vl-32b</td><td>111</td><td>-2.7%</td><td>+0 / −3</td><td>0.250</td></tr><tr><td>K3_gpt-5.1_per-section vs baseline_qwen3-vl-32b</td><td>111</td><td>-3.6%</td><td>+0 / −4</td><td>0.125</td></tr>
+</table>
+<p class="note">Δ and the McNemar test are computed on the specimens both conditions scored (paired design).
+"newly-correct" = specimens the condition gets right that the baseline gets wrong (and vice-versa).</p>

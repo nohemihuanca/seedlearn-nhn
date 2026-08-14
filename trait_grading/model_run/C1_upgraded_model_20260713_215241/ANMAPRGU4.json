@@ -1,0 +1,91 @@
+{
+  "specimen_id": "ANMAPRGU4",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Euphorbiaceae/by_genus/Maprounea/by_species/guianensis/ANMAPRGU4/Euphorbiaceae_Maprounea_guianensis_ANMAPRGU4_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Euphorbiaceae/by_genus/Maprounea/by_species/guianensis/ANMAPRGU4/Euphorbiaceae_Maprounea_guianensis_ANMAPRGU4_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Euphorbiaceae/by_genus/Maprounea/by_species/guianensis/ANMAPRGU4/Euphorbiaceae_Maprounea_guianensis_ANMAPRGU4_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Euphorbiaceae/by_genus/Maprounea/by_species/guianensis/ANMAPRGU4/Euphorbiaceae_Maprounea_guianensis_ANMAPRGU4_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Euphorbiaceae/by_genus/Maprounea/by_species/guianensis/ANMAPRGU4/Euphorbiaceae_Maprounea_guianensis_ANMAPRGU4_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "alternate",
+            "spacing": "distal"
+          },
+          "leaf_complexity": {
+            "type": "compound",
+            "compound_type": "odd-pinnate",
+            "num_leaflets": "9",
+            "leaflet_arrangement": "opposite"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "ovate",
+            "apex": "acuminate",
+            "base": "rounded",
+            "venation": "pinnate",
+            "secondary_veins": "visible",
+            "surface_features": "shiny",
+            "trichomes": "absent",
+            "petiole_length": "long",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "absent",
+            "color": "green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "The specimen is growing among forest floor debris, including dry leaves and other vegetation. The leaflets show some minor yellow spotting, but no significant structural damage is evident. The overall habit suggests a climbing or trailing growth form."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): alternate (leaves are clearly attached at successive nodes along the stem, alternating sides)\n    2. Leaf spacing (clustered / distal): distal (leaves are spaced out along the elongated rachis with noticeable internodes)\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): compound (the leaf structure consists of multiple leaflets attached to a central axis)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): odd-pinnate (the rachis terminates in a single terminal leaflet)\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): 9 (the visible leaf in the close-up image contains 4 pairs of lateral leaflets plus 1 terminal leaflet)\n    6. Leaflet arrangement (opposite / alternate / subopposite): opposite (the leaflets are attached in pairs at the same node along the rachis)\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.): entire (the leaflet margins appear smooth and continuous)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): ovate (the leaflets are broadly egg-shaped, widest below the middle)\n    9. Leaf apex (acute, obtuse, acuminate): acuminate (the leaflets taper to a distinct, slender point)\n    10. Leaf base (rounded, cordate, cuneate): rounded (the base of the leaflets appears broadly rounded to slightly cordate)\n    11. Venation type (pinnate / palmate / parallel): pinnate (a central midrib is visible with veins branching off)\n    12. Secondary veins (visibility, spacing, number): visible (secondary veins branch off the midrib at an angle and are clearly visible on the leaf surface)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): shiny (the leaflets reflect light, indicating a smooth, somewhat glossy surface)\n    14. Leaf surface trichomes (present / absent): absent (no visible hairs are present on the leaf surface)\n    15. Petiole length (short / long): long (the petiole connecting the leaf to the stem is elongated)\n    16. Petiole features (winged / grooved / terete): terete (the petiole appears cylindrical and round in cross-section)\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): herbaceous (the stem appears green, slender, and flexible)\n    18. Stem trichomes (present / absent): absent (the stem surface appears smooth without visible hairs)\n    19. Stem color: green (the stem is consistently green throughout the visible length)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (the stem surface appears even and lacks ridges or lenticels)\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no distinct stipules are visible at the leaf attachment points)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no latex is visible)\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no pulvinus is clearly visible at the leaf base)\n    24. Tendrils (present / absent): absent (no tendrils are visible on the stem)\nF. Notes: The specimen is growing among forest floor debris, including dry leaves and other vegetation. The leaflets show some minor yellow spotting, but no significant structural damage is evident. The overall habit suggests a climbing or trailing growth form.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 4885.912354569882
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 4885.912354569882,
+  "benchmark_metadata": {
+    "scientific_name": "Maprounea guianensis",
+    "family": "Euphorbiaceae",
+    "genus": "Maprounea",
+    "species_epithet": "guianensis",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

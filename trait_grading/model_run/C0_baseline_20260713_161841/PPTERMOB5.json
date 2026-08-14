@@ -1,0 +1,91 @@
+{
+  "specimen_id": "PPTERMOB5",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Combretaceae/by_genus/Terminalia/by_species/oblonga/PPTERMOB5/Combretaceae_Terminalia_oblonga_PPTERMOB5_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Combretaceae/by_genus/Terminalia/by_species/oblonga/PPTERMOB5/Combretaceae_Terminalia_oblonga_PPTERMOB5_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Combretaceae/by_genus/Terminalia/by_species/oblonga/PPTERMOB5/Combretaceae_Terminalia_oblonga_PPTERMOB5_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Combretaceae/by_genus/Terminalia/by_species/oblonga/PPTERMOB5/Combretaceae_Terminalia_oblonga_PPTERMOB5_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Combretaceae/by_genus/Terminalia/by_species/oblonga/PPTERMOB5/Combretaceae_Terminalia_oblonga_PPTERMOB5_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "whorled",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "acute",
+            "base": "rounded",
+            "venation": "pinnate",
+            "secondary_veins": "visible, moderately spaced, numerous",
+            "surface_features": "shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "green to dark brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Multiple images show the same seedling with consistent whorled leaf arrangement. Some leaves have small holes and margin damage, likely from physical or biological factors, but cause is not inferable. Soil is moist and litter-covered, but habitat is not explicitly visible. Leaf surfaces are shiny and wet, suggesting recent rain. The plant appears to be a young tree seedling with woody stems and simple, elliptic leaves in whorls. No flowers, fruits, or reproductive structures are visible."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): whorled (multiple leaves are clearly attached at the same node, forming a whorled pattern, visible in close-up images)\n    2. Leaf spacing (clustered / distal): clustered (leaves are grouped closely together at each node, with short internodes between whorls)\n\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): simple (each leaf is a single blade without subdivisions into leaflets)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): N/A (leaf complexity is simple)\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): N/A (leaf complexity is simple)\n    6. Leaflet arrangement (opposite / alternate / subopposite): N/A (leaf complexity is simple)\n\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (margins are smooth without teeth or serrations, visible in close-up images)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): elliptic (leaves are broadly oval with tapering ends, wider in the middle)\n    9. Leaf apex (acute, obtuse, acuminate): acute (tip is sharply pointed)\n    10. Leaf base (rounded, cordate, cuneate): rounded (base is broadly curved, not tapered or heart-shaped)\n    11. Venation type (pinnate / palmate / parallel): pinnate (primary veins extend from midrib to margin, with secondary veins branching off midrib)\n    12. Secondary veins (visibility, spacing, number): visible, moderately spaced, numerous (secondary veins are clearly visible, running perpendicular to midrib, with multiple pairs per leaf)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): shiny (surface is glossy and reflective, likely due to moisture and waxy cuticle)\n    14. Leaf surface trichomes (present / absent): absent (no visible hairs or fuzz on leaf surface)\n    15. Petiole length (short / long): short (petioles are relatively short, not elongated, attaching leaf blade to stem)\n    16. Petiole features (winged / grooved / terete): terete (petioles are round in cross-section, without wings or grooves)\n\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): woody (stems appear firm and slightly lignified, typical of young tree seedlings)\n    18. Stem trichomes (present / absent): absent (no visible hairs on stem surface)\n    19. Stem color: green to dark brown (stems are green near apex, transitioning to darker brown toward base)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (surface appears smooth without prominent ridges or lenticels)\n\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules observed at leaf bases)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no exudate or milky sap visible when stem is broken)\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no swollen joint at leaf base visible; not applicable as leaf arrangement is whorled, not typical of Fabaceae)\n    24. Tendrils (present / absent): absent (no tendrils observed)\n\nF. Notes: Multiple images show the same seedling with consistent whorled leaf arrangement. Some leaves have small holes and margin damage, likely from physical or biological factors, but cause is not inferable. Soil is moist and litter-covered, but habitat is not explicitly visible. Leaf surfaces are shiny and wet, suggesting recent rain. The plant appears to be a young tree seedling with woody stems and simple, elliptic leaves in whorls. No flowers, fruits, or reproductive structures are visible.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 21293.06919174269
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 21293.06919174269,
+  "benchmark_metadata": {
+    "scientific_name": "Terminalia oblonga",
+    "family": "Combretaceae",
+    "genus": "Terminalia",
+    "species_epithet": "oblonga",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

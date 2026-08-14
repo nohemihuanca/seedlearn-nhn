@@ -1,0 +1,72 @@
+{
+  "specimen_id": "BAR0010",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Burseraceae/by_genus/Protium/by_species/stevensonii/BAR0010/Burseraceae_Protium_stevensonii_BAR0010_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Burseraceae/by_genus/Protium/by_species/stevensonii/BAR0010/Burseraceae_Protium_stevensonii_BAR0010_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Burseraceae/by_genus/Protium/by_species/stevensonii/BAR0010/Burseraceae_Protium_stevensonii_BAR0010_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Burseraceae/by_genus/Protium/by_species/stevensonii/BAR0010/Burseraceae_Protium_stevensonii_BAR0010_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Burseraceae/by_genus/Protium/by_species/stevensonii/BAR0010/Burseraceae_Protium_stevensonii_BAR0010_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {},
+          "leaf_complexity": {},
+          "leaf_morphology": {
+            "margin": "entire"
+          },
+          "stem_traits": {},
+          "special_features": {},
+          "notes": "Some leaves show circular holes (likely insect damage), but the intact margins are smooth."
+        },
+        "raw_response": "Based on the analysis of the provided images, the leaf margins of the seedling are smooth and continuous, lacking any teeth, serrations, or lobes. Although there are some holes caused by damage, the intact portions of the leaf edge are clearly entire.\n\n=== Morphological Assessment Form ===\nC. Leaf Morphology\n    7.\tLeaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (smooth edge with no teeth or indentations)\nF. Notes: Some leaves show circular holes (likely insect damage), but the intact margins are smooth.\n\n####",
+        "thinking": null,
+        "few_shot_delivery": {
+          "n_examples": 1,
+          "n_exemplar_images": 3,
+          "n_specimen_images": 5,
+          "max_images": 10,
+          "images_over_budget": false,
+          "prompt_chars": 2155
+        }
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 1719.3738260000373
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 1719.3738260000373,
+  "benchmark_metadata": {
+    "scientific_name": "Protium stevensonii",
+    "family": "Burseraceae",
+    "genus": "Protium",
+    "species_epithet": "stevensonii",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

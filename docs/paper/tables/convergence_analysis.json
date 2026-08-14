@@ -1,0 +1,12 @@
+{
+  "moderate": {
+    "n": 94,
+    "accuracy": 0.8404255319148937,
+    "n_correct": 79
+  },
+  "divergent": {
+    "n": 106,
+    "accuracy": 0.9150943396226415,
+    "n_correct": 97
+  }
+}

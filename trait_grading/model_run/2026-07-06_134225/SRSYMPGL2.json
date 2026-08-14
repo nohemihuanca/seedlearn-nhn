@@ -1,0 +1,493 @@
+{
+  "specimen_id": "SRSYMPGL2",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Clusiaceae/by_genus/Symphonia/by_species/globulifera/SRSYMPGL2/Clusiaceae_Symphonia_globulifera_SRSYMPGL2_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Clusiaceae/by_genus/Symphonia/by_species/globulifera/SRSYMPGL2/Clusiaceae_Symphonia_globulifera_SRSYMPGL2_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Clusiaceae/by_genus/Symphonia/by_species/globulifera/SRSYMPGL2/Clusiaceae_Symphonia_globulifera_SRSYMPGL2_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Clusiaceae/by_genus/Symphonia/by_species/globulifera/SRSYMPGL2/Clusiaceae_Symphonia_globulifera_SRSYMPGL2_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Clusiaceae/by_genus/Symphonia/by_species/globulifera/SRSYMPGL2/Clusiaceae_Symphonia_globulifera_SRSYMPGL2_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "alternate",
+            "spacing": "distal"
+          },
+          "leaf_complexity": {
+            "type": "compound",
+            "compound_type": "odd-pinnate",
+            "num_leaflets": "8",
+            "leaflet_arrangement": "alternate"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "lanceolate",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "visible, closely spaced, numerous",
+            "surface_features": "shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "green to brownish-green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "[NOTE] The seedling exhibits compound, odd-pinnate leaves with lanceolate leaflets arranged alternately along the rachis. The leaves are shiny and entire, with a cuneate base and acute apex. The stem is woody, smooth, and green to brownish-green in color. Some minor damage, such as small holes and marginal notches, is present on a few leaflets, but no significant herbivory or pathogen signs are evident. The plant is growing in a shaded, leaf-littered forest environment, likely on the forest floor or near a larger tree base, as indicated by the surrounding mossy roots and detritus. The pink tag at the base suggests it may be part of a monitoring or research plot. All observations are based on the provided images and follow conservative annotation rules."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): alternate (leaves are attached at successive nodes along the stem, alternating sides, as seen in the sequence of nodes in the images)\n    2. Leaf spacing (clustered / distal): distal (leaves are spaced out along the stem, not clustered at the apex or in dense groups)\n\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): compound (each leaf is composed of multiple leaflets attached to a central rachis, as seen in the close-up images)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): odd-pinnate (the leaflets are arranged along a central axis with one terminal leaflet, as seen in the terminal leaflet at the end of the rachis in the close-up images)\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): 8 (each compound leaf has four pairs of leaflets plus one terminal leaflet, totaling 9 leaflets; however, in the images, some leaflets are partially obscured or damaged, but a clear count of 8 leaflets is visible on the main compound leaf in the second and fifth images)\n    6. Leaflet arrangement (opposite / alternate / subopposite): alternate (leaflets are arranged alternately along the rachis, with each leaflet arising from a different side of the rachis, as seen in the close-up images)\n\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (margins are smooth and uninterrupted, with no visible teeth or serrations)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): lanceolate (leaflets are elongated with a broad base tapering to a pointed tip, characteristic of lanceolate shape)\n    9. Leaf apex (acute, obtuse, acuminate): acute (leaflet tips are sharply pointed but not elongated into a long taper)\n    10. Leaf base (rounded, cordate, cuneate): cuneate (leaflet bases are wedge-shaped, tapering to the petiolule attachment point)\n    11. Venation type (pinnate / palmate / parallel): pinnate (primary vein runs from base to apex, with secondary veins branching off and running parallel to the margin)\n    12. Secondary veins (visibility, spacing, number): visible, closely spaced, numerous (secondary veins are clearly visible, forming a dense network, spaced closely together along the leaf surface)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): shiny (leaf surface has a glossy appearance, reflecting light, indicating a waxy cuticle)\n    14. Leaf surface trichomes (present / absent): absent (no visible hairs or trichomes on the leaf surface; surface appears smooth)\n    15. Petiole length (short / long): short (petiole is short, connecting the leaf base to the stem, as seen in the close-up images)\n    16. Petiole features (winged / grooved / terete): terete (petiole is round in cross-section, without wings or grooves)\n\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): woody (stem is firm and rigid, with a brownish, slightly rough surface, indicating woody tissue)\n    18. Stem trichomes (present / absent): absent (no visible hairs on the stem surface; surface appears smooth)\n    19. Stem color: green to brownish-green (young stem is green, transitioning to brownish-green with age, as seen in the images)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (stem surface is relatively smooth, without prominent ridges or lenticels)\n\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules are visible at the base of the leaves or leaflets in any of the images)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no latex exudate is visible when the stem or leaves are damaged; no signs of milky sap)\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no pulvinus is visible at the base of leaflets or leaves; this trait is not present)\n    24. Tendrils (present / absent): absent (no tendrils are present; the plant does not exhibit climbing structures)\n\nF. Notes: [NOTE] The seedling exhibits compound, odd-pinnate leaves with lanceolate leaflets arranged alternately along the rachis. The leaves are shiny and entire, with a cuneate base and acute apex. The stem is woody, smooth, and green to brownish-green in color. Some minor damage, such as small holes and marginal notches, is present on a few leaflets, but no significant herbivory or pathogen signs are evident. The plant is growing in a shaded, leaf-littered forest environment, likely on the forest floor or near a larger tree base, as indicated by the surrounding mossy roots and detritus. The pink tag at the base suggests it may be part of a monitoring or research plot. All observations are based on the provided images and follow conservative annotation rules.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 26776.63775300607
+    },
+    "classification": {
+      "data": {
+        "predictions_by_rank": {
+          "family": [
+            {
+              "rank_value": "Apocynaceae",
+              "softmax_score": 0.028196537867188454,
+              "rank_position": 1,
+              "l2_distance": 0.7668316960334778,
+              "cosine_similarity": 0.6459195613861084
+            },
+            {
+              "rank_value": "Fabaceae",
+              "softmax_score": 0.025050953030586243,
+              "rank_position": 2,
+              "l2_distance": 0.8851190805435181,
+              "cosine_similarity": 0.4794331192970276
+            },
+            {
+              "rank_value": "Calophyllaceae",
+              "softmax_score": 0.024964051321148872,
+              "rank_position": 3,
+              "l2_distance": 0.8885940313339233,
+              "cosine_similarity": 0.540942907333374
+            },
+            {
+              "rank_value": "Melastomataceae",
+              "softmax_score": 0.023557448759675026,
+              "rank_position": 4,
+              "l2_distance": 0.9465887546539307,
+              "cosine_similarity": 0.38043421506881714
+            },
+            {
+              "rank_value": "Myrtaceae",
+              "softmax_score": 0.02297341823577881,
+              "rank_position": 5,
+              "l2_distance": 0.9716930389404297,
+              "cosine_similarity": 0.29346963763237
+            }
+          ],
+          "genus": [
+            {
+              "rank_value": "Symphonia",
+              "softmax_score": 0.01747111976146698,
+              "rank_position": 1,
+              "l2_distance": 0.48033180832862854,
+              "cosine_similarity": 0.8872156143188477
+            },
+            {
+              "rank_value": "Tabernaemontana",
+              "softmax_score": 0.013182488270103931,
+              "rank_position": 2,
+              "l2_distance": 0.7619917392730713,
+              "cosine_similarity": 0.6475982069969177
+            },
+            {
+              "rank_value": "Myrcia",
+              "softmax_score": 0.01273063849657774,
+              "rank_position": 3,
+              "l2_distance": 0.7968695163726807,
+              "cosine_similarity": 0.6044762134552002
+            },
+            {
+              "rank_value": "Aspidosperma",
+              "softmax_score": 0.012556280940771103,
+              "rank_position": 4,
+              "l2_distance": 0.8106600642204285,
+              "cosine_similarity": 0.602824330329895
+            },
+            {
+              "rank_value": "Swartzia",
+              "softmax_score": 0.012055191211402416,
+              "rank_position": 5,
+              "l2_distance": 0.8513856530189514,
+              "cosine_similarity": 0.5270870923995972
+            }
+          ],
+          "species": [
+            {
+              "rank_value": "Symphonia globulifera",
+              "softmax_score": 0.01236147154122591,
+              "rank_position": 1,
+              "l2_distance": 0.48033180832862854,
+              "cosine_similarity": 0.8872156143188477
+            },
+            {
+              "rank_value": "Mouriri panamensis",
+              "softmax_score": 0.009363221004605293,
+              "rank_position": 2,
+              "l2_distance": 0.758126974105835,
+              "cosine_similarity": 0.6630346775054932
+            },
+            {
+              "rank_value": "Tabernaemontana undulata",
+              "softmax_score": 0.009327104315161705,
+              "rank_position": 3,
+              "l2_distance": 0.7619917392730713,
+              "cosine_similarity": 0.6475982069969177
+            },
+            {
+              "rank_value": "Myrcia splendens",
+              "softmax_score": 0.009013084694743156,
+              "rank_position": 4,
+              "l2_distance": 0.7962390184402466,
+              "cosine_similarity": 0.6052782535552979
+            },
+            {
+              "rank_value": "Aspidosperma desmanthum",
+              "softmax_score": 0.008884039707481861,
+              "rank_position": 5,
+              "l2_distance": 0.8106600642204285,
+              "cosine_similarity": 0.602824330329895
+            }
+          ]
+        },
+        "margin_by_rank": {
+          "family": 0.003145584836602211,
+          "genus": 0.0042886314913630486,
+          "species": 0.002998250536620617
+        },
+        "per_image_predictions": [
+          {
+            "image_path": "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Clusiaceae/by_genus/Symphonia/by_species/globulifera/SRSYMPGL2/Clusiaceae_Symphonia_globulifera_SRSYMPGL2_001.jpg",
+            "top1_label": "Apocynaceae",
+            "top1_softmax_score": 0.02714735083281994
+          },
+          {
+            "image_path": "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Clusiaceae/by_genus/Symphonia/by_species/globulifera/SRSYMPGL2/Clusiaceae_Symphonia_globulifera_SRSYMPGL2_002.jpg",
+            "top1_label": "Apocynaceae",
+            "top1_softmax_score": 0.02675483748316765
+          },
+          {
+            "image_path": "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Clusiaceae/by_genus/Symphonia/by_species/globulifera/SRSYMPGL2/Clusiaceae_Symphonia_globulifera_SRSYMPGL2_003.jpg",
+            "top1_label": "Apocynaceae",
+            "top1_softmax_score": 0.027110863476991653
+          },
+          {
+            "image_path": "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Clusiaceae/by_genus/Symphonia/by_species/globulifera/SRSYMPGL2/Clusiaceae_Symphonia_globulifera_SRSYMPGL2_004.jpg",
+            "top1_label": "Apocynaceae",
+            "top1_softmax_score": 0.02621234953403473
+          },
+          {
+            "image_path": "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Clusiaceae/by_genus/Symphonia/by_species/globulifera/SRSYMPGL2/Clusiaceae_Symphonia_globulifera_SRSYMPGL2_005.jpg",
+            "top1_label": "Apocynaceae",
+            "top1_softmax_score": 0.02833794616162777
+          }
+        ],
+        "nearest_support": [
+          {
+            "label": "Clusiaceae",
+            "l2_distance": 0.33149802684783936,
+            "cosine_similarity": 0.9450545310974121,
+            "image_path": "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Clusiaceae/by_genus/Symphonia/by_species/globulifera/SRSYMPGL2/Clusiaceae_Symphonia_globulifera_SRSYMPGL2_003.jpg"
+          },
+          {
+            "label": "Clusiaceae",
+            "l2_distance": 0.3499172031879425,
+            "cosine_similarity": 0.9387788772583008,
+            "image_path": "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Clusiaceae/by_genus/Symphonia/by_species/globulifera/SRSYMPGL2/Clusiaceae_Symphonia_globulifera_SRSYMPGL2_004.jpg"
+          },
+          {
+            "label": "Clusiaceae",
+            "l2_distance": 0.3976639211177826,
+            "cosine_similarity": 0.9209315776824951,
+            "image_path": "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Clusiaceae/by_genus/Symphonia/by_species/globulifera/SRSYMPGL2/Clusiaceae_Symphonia_globulifera_SRSYMPGL2_001.jpg"
+          },
+          {
+            "label": "Clusiaceae",
+            "l2_distance": 0.4328928291797638,
+            "cosine_similarity": 0.9063017964363098,
+            "image_path": "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Clusiaceae/by_genus/Symphonia/by_species/globulifera/SRSYMPGL2/Clusiaceae_Symphonia_globulifera_SRSYMPGL2_005.jpg"
+          },
+          {
+            "label": "Clusiaceae",
+            "l2_distance": 0.5185458064079285,
+            "cosine_similarity": 0.8655550479888916,
+            "image_path": "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Clusiaceae/by_genus/Symphonia/by_species/globulifera/SRSYMPGL2/Clusiaceae_Symphonia_globulifera_SRSYMPGL2_002.jpg"
+          }
+        ],
+        "embedding_dim": 768,
+        "num_images_pooled": 5,
+        "hierarchical_consistency": {
+          "consistent": false,
+          "notes": [
+            "Genus 'Symphonia' belongs to family 'Clusiaceae', but family classifier predicted 'Apocynaceae'",
+            "Species 'Symphonia globulifera' belongs to family 'Clusiaceae', but family classifier predicted 'Apocynaceae'"
+          ],
+          "family_genus_agree": false,
+          "species_genus_agree": true,
+          "species_family_agree": false
+        }
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 182.28045897558331
+    },
+    "trait_retrieval": {
+      "data": {
+        "query": "Tropical tree seedling with relative_position: alternate, spacing: distal, type: compound, compound_type: odd-pinnate, num_leaflets: 8, leaflet_arrangement: alternate, margin: entire, shape: lanceolate, apex: acute, base: cuneate, venation: pinnate, secondary_veins: visible, closely spaced, numerous, surface_features: shiny, trichomes: absent, petiole_length: short, petiole_features: terete, type: woody, trichomes: absent, color: green to brownish-green, texture: smooth, stipules: absent, pulvinus: absent, tendrils: absent, notes: [note] the seedling exhibits compound, odd-pinnate leaves with lanceolate leaflets arranged alternately along the rachis. the leaves are shiny and entire, with a cuneate base and acute apex. the stem is woody, smooth, and green to brownish-green in color. some minor damage, such as small holes and marginal notches, is present on a few leaflets, but no significant herbivory or pathogen signs are evident. the plant is growing in a shaded, leaf-littered forest environment, likely on the forest floor or near a larger tree base, as indicated by the surrounding mossy roots and detritus. the pink tag at the base suggests it may be part of a monitoring or research plot. all observations are based on the provided images and follow conservative annotation rules.",
+        "rag_matches": [
+          {
+            "taxon": "Connaraceae",
+            "rank": "Family",
+            "description": "Trees, climbing shrubs, or lianas; stipules absent. Leaves compound, odd-pinnate or trifoliate, indumentum of simple trichomes, the blade sometimes with glandular dots on the underside, margin entire; petiole and petiolules pulvinated. Inflorescences in panicles, racemes, or spike-like, axillary or terminal. Flowers bisexual, white, yellowish, or pale pink; sepals 5, valvate or imbricate; petals 5, free; stamens 10, forming a short tube at the base; ovary superior, carpels 1-5, style one per carpel; ovules 2 per carpel. Fruit in follicles, often red; seeds 1 per fruit, black, the aril bright red, yellow, white, or orange.\nThe family consists of 16 genera and about 300\u2013350 species, pantropical, with a distribution center in western Africa; for tropical America, 5 genera and 108 species are known; 3 genera and 9 species in CR.\nIt is characterized by its compound leaves, mainly trifoliate or odd-pinnate, leaflets alternate on the rachis, sometimes with dendritic trichomes, petioles clearly pulvinated, stipules absent, and the fruit follicles with a black seed with a reddish basal aril. In vegetative form, its general appearance relates it directly to the family Fabaceae, but several of the characteristics mentioned earlier allow it to be separated.\nTraditionally, the family has been placed within the Order Rosales, or in close relation to the Order Sapindales, and some have suggested a link between such Orders. However, recent molecular studies suggest that its placement is in the Order Oxalidales, along with families such as: Oxalidaceae, Cunnoniaceae, Elaeocarpaceae, etc.",
+            "score": 0.7033441066741943
+          },
+          {
+            "taxon": "Connaraceae",
+            "rank": "Family",
+            "description": "Trees, climbing shrubs, or lianas; stipules absent. Leaves compound, odd-pinnate or trifoliate, indumentum of simple trichomes, the blade sometimes with glandular dots on the underside, margin entire; petiole and petiolules pulvinated. Inflorescences in panicles, racemes, or spike-like, axillary or terminal. Flowers bisexual, white, yellowish, or pale pink; sepals 5, valvate or imbricate; petals 5, free; stamens 10, forming a short tube at the base; ovary superior, carpels 1-5, style one per carpel; ovules 2 per carpel. Fruit in follicles, often red; seeds 1 per fruit, black, the aril bright red, yellow, white, or orange.\nThe family consists of 16 genera and about 300\u2013350 species, pantropical, with a distribution center in western Africa; for tropical America, 5 genera and 108 species are known; 3 genera and 9 species in CR.\nIt is characterized by its compound leaves, mainly trifoliate or odd-pinnate, leaflets alternate on the rachis, sometimes with dendritic trichomes, petioles clearly pulvinated, stipules absent, and the fruit follicles with a black seed with a reddish basal aril. In vegetative form, its general appearance relates it directly to the family Fabaceae, but several of the characteristics mentioned earlier allow it to be separated.\nTraditionally, the family has been placed within the Order Rosales, or in close relation to the Order Sapindales, and some have suggested a link between such Orders. However, recent molecular studies suggest that its placement is in the Order Oxalidales, along with families such as: Oxalidaceae, Cunnoniaceae, Elaeocarpaceae, etc.",
+            "score": 0.7033441066741943
+          },
+          {
+            "taxon": "Inga pezizifera",
+            "rank": "Species",
+            "description": "Tree, to 27 m tall and 40 cm dbh, glabrous to puberulent throughout; trunk \u00b1 involuted with many prominent horizontal wrinkles; outer bark thin; inner bark reddish; young stems very prominently lenticellate. Petioles margined; rachis margined to narrowly winged; leaflets in 2-5 (usually 4) pairs, narrowly ovate to lanceolate-elliptic or oblanceolate, acuminate, rounded to acute at base, slightly asymmetrical, the terminal pair 8-22 cm long, 2.5-8 cm wide. Spikes axillary in groups of 1-6; peduncles 1.5-3.5 cm long; rachis shorter than peduncle, very densely flowered, 0.5-3 cm long; bracts ca 5 mm long; flowers sessile; calyx 1-2(3) mm long, the lobes ca 0.5 mm long, blunt; corolla 4-8 mm long, the lobes blunt to acute, ca 1 mm long; stamens and style ca 1 cm long. Legumes flat, 10-22 cm long, (2)2.5-3 cm wide, \u00b1 glabrous, \u00b1 straight, the marginal ribs prominent, the fruits probably mature from July to October. Known only from Panama, from tropical moist forest in the Canal Zone, Bocas del Toro, San Bias, Veraguas, Panama, and Darien, from premontane wet forest in Colon, Chiriqui, Code, and Panama.",
+            "score": 0.6708419322967529
+          },
+          {
+            "taxon": "Inga pezizifera",
+            "rank": "Species",
+            "description": "Tree, to 27 m tall and 40 cm dbh, glabrous to puberulent throughout; trunk \u00b1 involuted with many prominent horizontal wrinkles; outer bark thin; inner bark reddish; young stems very prominently lenticellate. Petioles margined; rachis margined to narrowly winged; leaflets in 2-5 (usually 4) pairs, narrowly ovate to lanceolate-elliptic or oblanceolate, acuminate, rounded to acute at base, slightly asymmetrical, the terminal pair 8-22 cm long, 2.5-8 cm wide. Spikes axillary in groups of 1-6; peduncles 1.5-3.5 cm long; rachis shorter than peduncle, very densely flowered, 0.5-3 cm long; bracts ca 5 mm long; flowers sessile; calyx 1-2(3) mm long, the lobes ca 0.5 mm long, blunt; corolla 4-8 mm long, the lobes blunt to acute, ca 1 mm long; stamens and style ca 1 cm long. Legumes flat, 10-22 cm long, (2)2.5-3 cm wide, \u00b1 glabrous, \u00b1 straight, the marginal ribs prominent.",
+            "score": 0.6708419322967529
+          },
+          {
+            "taxon": "Ardisia pellucida",
+            "rank": "Species",
+            "description": "Shrubby herb or shrub, 0.3-0.8 m; young twigs ferruginous-tomentose or ferruginous-pubescent with trichomes <0.2 mm to glabrescent. Leaves \u00b1 isomorphic; petiole 0.9-1.5 cm; blade 5.5-19 X 2.4-9.3 cm, elliptical to obovate-elliptical, cuneate at the base, acute to shortly acuminate at the tip, thin and irregularly pectinate-dentate, inconspicuously pubescent on the nerves (especially on the underside) to glabrescent, with inconspicuous punctations on the underside. Inflorescences terminal, erect, corymbose-paniculated, 2-4-pinnate, 2.8-15.2 cm, ferruginous-pubescent with trichomes <0.2 mm, the rachis usually straight, the flowers densely clustered, distributed in the distal half of the axes; peduncle absent or up to ca. 1.9 cm; bracts up to ca. 5 mm, scarious. Flowers with pedicel 4-6 mm; sepals 1.7-2.6 mm; petals purple, 2.2-3.8 mm; anthers 0.9-1.4 mm. Fruits 4-5 mm. Very wet forest, 0-900+ m; [in the vertical Caribbean Cordillera Central, in the eastern Cordillera de Talamanca (Amubri), in the Plains of Los Guatusos and San Carlos, in the Baja Talamanca, in the vertical Pacific Cordilleras de Guanacaste and Tilar\u00e1n, in the northern Fila Coste\u00f1a, in the protected area of Parque Nacional Carara]. Fl. Apr.-Jul. [in Mexico, Peru, and Venezuela].",
+            "score": 0.6660647988319397
+          },
+          {
+            "taxon": "Ardisia pellucida",
+            "rank": "Species",
+            "description": "Shrubby herb or shrub, 0.3-0.8 m; young twigs ferruginous-tomentose or ferruginous-pubescent with trichomes <0.2 mm to glabrescent. Leaves \u00b1 isomorphic; petiole 0.9-1.5 cm; blade 5.5-19 X 2.4-9.3 cm, elliptical to obovate-elliptical, cuneate at the base, acute to shortly acuminate at the tip, thin and irregularly pectinate-dentate, inconspicuously pubescent on the nerves (especially on the underside) to glabrescent, with inconspicuous punctations on the underside. Inflorescences terminal, erect, corymbose-paniculated, 2-4-pinnate, 2.8-15.2 cm, ferruginous-pubescent with trichomes <0.2 mm, the rachis usually straight, the flowers densely clustered, distributed in the distal half of the axes; peduncle absent or up to ca. 1.9 cm; bracts up to ca. 5 mm, scarious. Flowers with pedicel 4-6 mm; sepals 1.7-2.6 mm; petals purple, 2.2-3.8 mm; anthers 0.9-1.4 mm. Fruits 4-5 mm. Very wet forest, 0-900+ m; [in the vertical Caribbean Cordillera Central], [in the eastern Cordillera de Talamanca (Amubri)], [in the Plains of Los Guatusos and San Carlos], [in the Baja Talamanca], [in the vertical Pacific Cordilleras de Guanacaste and Tilar\u00e1n], [in the northern Fila Coste\u00f1a], [in the protected area of P.N. Carara]. Fl. Apr.-Jul. [in the regions of Mexico, Peru and Venezuela].",
+            "score": 0.6660647988319397
+          },
+          {
+            "taxon": "Inga punctata",
+            "rank": "Species",
+            "description": "Guavita cansa-boca, Bribri, Guava, Guava del mono Tree, to 15 m tall; branchlets sparsely strigose when young, glabrate in age, minutely lenticellate, minutely ribbed below petioles (at least when dried). Leaves strigose throughout, especially on axis and midrib of leaflets; petiole and rachis terete to narrowly margined; leaflets in 2 or 3 pairs, lanceolate to elliptic, long-acuminate, acute to rounded at base, the terminal pair 9-18 cm long, 3.5-7.5 cm wide. Spikes axillary, in groups of 1-7; peduncle and rachis strigose; peduncles 2-4 cm long; rachis much shorter, 1-2.5 cm long; bracts subulate, to \u00b1 2 mm long; calyx puberulent, 3-5 mm long, the lobes \u00b1 1 mm long; corolla moderately sericeous, 5-9 mm long, the lobes to 2 mm long; stamens and style to ca 2 cm long. Legumes flat, to 16 cm long and 2 cm wide, minutely puberulent, the margins raised.",
+            "score": 0.6648926734924316
+          },
+          {
+            "taxon": "Protium stevensonii",
+            "rank": "Species",
+            "description": "Locating an individual\nIt is mainly observed towards the Southern Boundary (LS), Quebrada El Salto, etc., in rolling or broken terrain.\nDistribution\nFrom Belize to Venezuela, the Guianas, Brazil, and Bolivia. In Costa Rica, it is widely distributed in the medium to low elevations of both slopes, in climates ranging from humid to very humid, although it prefers climates with marked seasonality; 0-700-800 m.\nHabit\nTrees, 15-35 m tall.\nTrunk\nTrunk with reddish-brown outer bark.\nBark\nOuter bark reddish-brown, scaly, inner bark reddish with a pleasant mango scent; white or milky resinous sap.\nLeaves\nOdd-pinnate leaves, with 7-9 leaflets, elliptical, oblong, or oblong-lanceolate, 5-21 x 4-7.2 cm, apex acuminate to abruptly acuminate, base obtuse to asymmetric, generally glabrous; petiolules without evident pulvini, margin entire; petioles 4-14 cm long.\nFlowers\nInflorescences are panicles, 3-15 cm long, axillary. Yellowish or greenish-yellow flowers (unisexual); calyx with 5 lobes, 1-1.5 mm long, cuculiform; petals (tubular corolla), with 5 lobes, 5-5.5 mm long; stamens 10, 1 mm long, filaments inserted at the base of the disc; annular disc with 10 lobes; ovary with 5 lobes, ovoid, with 5 locules; style 1, stigma with 5 lobes.\nFruits\nCapsular and drupe-like fruits, 1.5-2.5 x 1.5 x 3 cm, ovoid or more or less turbinate, with 2-5 lobes, dehiscent by 4-5 valves, scarlet red inside, red to black when mature; pyrenes 3-5, 12-13 mm thick, white, the mesocarp (pseudoaril) reddish turning white upon exposure (dehiscence), fleshy, juicy, sweet, and edible.\nDiagnosis\nCharacterized by being a large tree, the bark on mature trees is somewhat scaly, lenticellate, and the inner bark has a very particular and pleasant mango scent. At the vegetative level, it is sometimes confused with the genus Protium, although its leaves lack pulvinated petiolules and the turpentine aroma when crushed. Its fruits are distinctive for their peculiar turbinate shape.\nHabitat\nIn the Forest; it is mainly observed towards the Southern Boundary (LS), Quebrada El Salto, etc., in rolling or broken terrain.\nPhenology\nFlowers observed in June and August; fruits in August and February.",
+            "score": 0.6647368669509888
+          },
+          {
+            "taxon": "Protium stevensonii",
+            "rank": "Species",
+            "description": "Locating an individual\nIt is mainly observed towards the Southern Boundary (LS), Quebrada El Salto, etc., in rolling or broken terrain.\nDistribution\nFrom Belize to Venezuela, the Guianas, Brazil, and Bolivia. In Costa Rica, it is widely distributed in the medium to low elevations of both slopes, in climates ranging from humid to very humid, although it prefers climates with marked seasonality; 0-700-800 m.\nHabit\nTrees, 15-35 m tall.\nTrunk\nTrunk with reddish-brown outer bark.\nBark\nOuter bark reddish-brown, scaly, inner bark reddish with a pleasant mango scent; white or milky resinous sap.\nLeaves\nOdd-pinnate leaves, with 7-9 leaflets, elliptical, oblong, or oblong-lanceolate, 5-21 x 4-7.2 cm, apex acuminate to abruptly acuminate, base obtuse to asymmetric, generally glabrous; petiolules without evident pulvini, margin entire; petioles 4-14 cm long.\nFlowers\nInflorescences are panicles, 3-15 cm long, axillary. Yellowish or greenish-yellow flowers (unisexual); calyx with 5 lobes, 1-1.5 mm long, cuculiform; petals (tubular corolla), with 5 lobes, 5-5.5 mm long; stamens 10, 1 mm long, filaments inserted at the base of the disc; annular disc with 10 lobes; ovary with 5 lobes, ovoid, with 5 locules; style 1, stigma with 5 lobes.\nFruits\nCapsular and drupe-like fruits, 1.5-2.5 x 1.5 x 3 cm, ovoid or more or less turbinate, with 2-5 lobes, dehiscent by 4-5 valves, scarlet red inside, red to black when mature; pyrenes 3-5, 12-13 mm thick, white, the mesocarp (pseudoaril) reddish turning white upon exposure (dehiscence), fleshy, juicy, sweet, and edible.\nDiagnosis\nCharacterized by being a large tree, the bark on mature trees is somewhat scaly, lenticellate, and the inner bark has a very particular and pleasant mango scent. At the vegetative level, it is sometimes confused with the genus Protium, although its leaves lack pulvinated petiolules and the turpentine aroma when crushed. Its fruits are distinctive for their peculiar turbinate shape.\nHabitat\nIn the Forest; it is mainly observed towards the Southern Boundary (LS), Quebrada El Salto, etc., in rolling or broken terrain.\nPhenology\nFlowers observed in June and August; fruits in August and February.",
+            "score": 0.6647368669509888
+          },
+          {
+            "taxon": "Smilax",
+            "rank": "Genus",
+            "description": "Woody lianas, dioecious; stems frequently with thorns. Leaves simple, alternate, petiolate, with paired stipular tendrils that arise from the expanded base of the petiole; blade 3\u20149-nerved. Inflorescences axillary, solitary umbels, or rarely racemose. Flowers unisexual, actinomorphic, small; members of the perianth (tepals) 6, separate, equal; stamens 6, separate; anthers basifixed, with longitudinal dehiscence; staminodes present in the pistillate flowers; pistil 1, compound; ovary superior, 1\u20143-locular; ovules 1 or 2 per locule; placentation axile or parietal; styles (1)3. Fruit a globose berry; seeds 1-3. [This species] is recognized by its climbing habit, especially by its stipular and paired tendrils and by its leaves with 3-9 parallel veins and umbelliform inflorescences. The rhizomes of several species are used in [Costa Rica] for home treatment of various diseases. More than half of the species in [Costa Rica] have spines, at least towards the base of the stem.",
+            "score": 0.6547299027442932
+          },
+          {
+            "taxon": "Trichilia",
+            "rank": "Genus",
+            "description": "Tree, 5-20 m tall; outer bark minutely fissured, thin (bearing short, raised, horizontal lines on inner surface); inner bark reddish-brown on the outer edge, bearing impressed short horizontal lines, the sap with sweet, distinctive aroma; young twigs, rachises, axes of inflorescences and of leaves moderately short-appressed pubescent, glabrous in age. Leaves alternate, pinnate, mostly 8-25 cm long, essentially glabrous; petioles flat on upper surface with marginal ribs; leaflets usually alternate, often dimorphic, those of full size usually 3-5, often with 1 or 2 pairs of minute, aborted leaflets at base, rarely with 7 full-sized leaflets, the blades \u00b1 elliptic, acuminate, acute to obtuse at base, 6-16 cm long, 2.5-6(7) cm wide; major lateral veins mostly 8-12, scarcely raised below, joining before the margin, the midrib usually flat above. Panicles solitary in upper axils, 5-17 cm long; flowers greenish, mostly 5-parted; calyx bowl-shaped, shallowly lobed, 1-2 mm long, glabrate; petals ovate, 2-3 mm long, usually glabrous but with minute papillae on margin; staminal tube one-half to two-thirds as long as petals, much broader than long, moderately to sparsely pubescent outside at least toward base (often glabrous outside in South America), sparsely to densely pubescent inside; anthers twice the number of petals, slender, slightly tapered toward apex, ca 1 mm long, dehiscing along lateral margins, alternating with and \u00b1 equaling acicular lobes of staminal tube; ovary broadly ovoid, 1-2 mm wide, with 2 or 3 (4) locules, the trichomes dense, appressed, white on basal half; style \u00b1 equaling ovary at anthesis; stigma capitate, inconspicuously lobed, held about at height of anthers. Fruits \u00b1 globose, green at maturity, weakly verrucose, 2-3 cm diam, \u00b1 glabrous, dehiscing by 3 valves; seeds 1 or 2, covered with a shiny red aril. Rare; collected only along the shore between Bat Cove and the dock. Flowers from March to May. The fruits mature from August to September.",
+            "score": 0.6525160074234009
+          },
+          {
+            "taxon": "Sapindaceae",
+            "rank": "Family",
+            "description": "Trees, shrubs, or lianas; twigs often angled or triangularly compound in lianas, ribbed, with simple hair indumentum or rarely with spines; white sap sometimes in lianas (Serjania); stipules often present in lianas (Paullinia, Serjania), absent in tree species; tendrils (modified inflorescence) present in climbing species. Leaves compound (paripinnate, imparipinnate, trifoliate, bipinnate, bi-tri-ternate, etc.), rarely simple (Dodonaea, Llagunoa), alternate, rarely opposite or subopposite (Matayba); rachis often winged, generally with the terminal leaflet aborted in tree species, leaflets normally alternate on the rachis and with entire or serrated margins; petioles pulvinated. Inflorescences terminal, axillary, or sometimes cauliflorous, are panicles, racemes, or fascicles. Flowers generally unisexual; sepals 5-6, free or united; petals 0-5, free, sometimes with a claw; disk present; stamens (5) 8 (10), unequal, pubescent or papillose; carpels 2-3, united; ovary superior, 1-4 locular; placentation usually axillary, ovules 1-2 per locule; style 1, stigmas 2-3. Fruits are capsules, with septicidal or loculicidal dehiscence; drupes or berries, sometimes winged; seeds 1-3 per fruit, globose or flattened, sometimes arillate or with sarcotesta in dehiscent fruits.\nThe family consists of about 147 genera and 2215 species, mainly pantropical, with only a few genera more diverse in temperate regions, the greatest diversity is concentrated in the Neotropics and the tropics of Asia; the most diverse genera are the lianas Serjania and Paullinia; 21 genera and 90 species in CR; 7 genera and 20 species in LS.\nIt is recognized by its mainly compound, alternate leaves, the leaflets alternate on the rachis, with margins usually serrated and pulvinated petioles. In tree species, it is common to find at the apex of the rachis the presence of an aborted leaflet; moreover, this group lacks stipules. Stipules are present only in genera of lianas (Paullinia, Serjania, etc.). This is the only family of lianas with compound leaves, with serrated margins and milky sap. The fruits, in general, capsules with (2) 3 parts, with arillate seeds; sometimes indehiscent or drupe-like (Talisia, Sapindus), or winged and the carpels separated into 3 samaras with one seed each (Serjania, Thinouia, Dodonaea).\nThis family is located in the Order Sapindales, alongside families such as Meliaceae, Rutaceae, Anacardiaceae, etc. The identity of this Order is validated by recent molecular studies, which even suggest that some families considered distinct, e.g., Aceraceae, Hippocastanaceae, etc.; could be reassigned and become part of the family Sapindaceae.\nSome fruit trees are directly related to the family, these include: mam\u00f3n (Melicoccus), rambutan (Nephelium), ak\u00ed (Bligia), etc. The fruits of Sapindus saponaria (chumino, jaboncillo) have been used as a substitute for soap. Several tree species produce good quality wood. The popular Brazilian drink called guaran\u00e1 is extracted from Paullinia cupana, which is said to be the plant with the highest caffeine content (Beck, 2004).",
+            "score": 0.651631236076355
+          },
+          {
+            "taxon": "Sapindaceae",
+            "rank": "Family",
+            "description": "Trees, shrubs, or lianas; twigs often angled or triangularly compound in lianas, ribbed, with simple hair indumentum or rarely with spines; white sap sometimes in lianas (Serjania); stipules often present in lianas (Paullinia, Serjania), absent in tree species; tendrils (modified inflorescence) present in climbing species. Leaves compound (paripinnate, imparipinnate, trifoliate, bipinnate, bi-tri-ternate, etc.), rarely simple (Dodonaea, Llagunoa), alternate, rarely opposite or subopposite (Matayba); rachis often winged, generally with the terminal leaflet aborted in tree species, leaflets normally alternate on the rachis and with entire or serrated margins; petioles pulvinated. Inflorescences terminal, axillary, or sometimes cauliflorous, are panicles, racemes, or fascicles. Flowers generally unisexual; sepals 5-6, free or united; petals 0-5, free, sometimes with a claw; disk present; stamens (5) 8 (10), unequal, pubescent or papillose; carpels 2-3, united; ovary superior, 1-4 locular; placentation usually axillary, ovules 1-2 per locule; style 1, stigmas 2-3. Fruits are capsules, with septicidal or loculicidal dehiscence; drupes or berries, sometimes winged; seeds 1-3 per fruit, globose or flattened, sometimes arillate or with sarcotesta in dehiscent fruits.\nThe family consists of about 147 genera and 2215 species, mainly pantropical, with only a few genera more diverse in temperate regions, the greatest diversity is concentrated in the Neotropics and the tropics of Asia; the most diverse genera are the lianas Serjania and Paullinia; 21 genera and 90 species in CR; 7 genera and 20 species in LS.\nIt is recognized by its mainly compound, alternate leaves, the leaflets alternate on the rachis, with margins usually serrated and pulvinated petioles. In tree species, it is common to find at the apex of the rachis the presence of an aborted leaflet; moreover, this group lacks stipules. Stipules are present only in genera of lianas (Paullinia, Serjania, etc.). This is the only family of lianas with compound leaves, with serrated margins and milky sap. The fruits, in general, capsules with (2) 3 parts, with arillate seeds; sometimes indehiscent or drupe-like (Talisia, Sapindus), or winged and the carpels separated into 3 samaras with one seed each (Serjania, Thinouia, Dodonaea).\nThis family is located in the Order Sapindales, alongside families such as Meliaceae, Rutaceae, Anacardiaceae, etc. The identity of this Order is validated by recent molecular studies, which even suggest that some families considered distinct, e.g., Aceraceae, Hippocastanaceae, etc.; could be reassigned and become part of the family Sapindaceae.\nSome fruit trees are directly related to the family, these include: mam\u00f3n (Melicoccus), rambutan (Nephelium), ak\u00ed (Bligia), etc. The fruits of Sapindus saponaria (chumino, jaboncillo) have been used as a substitute for soap. Several tree species produce good quality wood. The popular Brazilian drink called guaran\u00e1 is extracted from Paullinia cupana, which is said to be the plant with the highest caffeine content (Beck, 2004).",
+            "score": 0.651631236076355
+          },
+          {
+            "taxon": "Smilax",
+            "rank": "Genus",
+            "description": "Woody lianas, dioecious; stems frequently with thorns. Leaves simple, alternate, petiolate, with paired stipular tendrils that arise from the expanded base of the petiole; blade 3\u20149-nerved. Inflorescences axillary, solitary umbels, or rarely racemose. Flowers unisexual, actinomorphic, small; members of the perianth (tepals) 6, separate, equal; stamens 6, separate; anthers basifixed, with longitudinal dehiscence; staminodes present in the pistillate flowers; pistil 1, compound; ovary superior, 1\u20143-locular; ovules 1 or 2 per locule; placentation axile or parietal; styles (1)3. Fruit a globose berry; seeds 1-3. [This plant] is recognized by its climbing habit, especially by its stipular and paired tendrils and by its leaves with 3-9 parallel veins and umbelliform inflorescences. The rhizomes of several species are used in [Costa Rica] for home treatment of various diseases. More than half of the species in [Costa Rica] have spines, at least towards the base of the stem.",
+            "score": 0.6515961289405823
+          },
+          {
+            "taxon": "Miconia elata",
+            "rank": "Species",
+            "description": "Tree, 3.5-11 (13) m tall; trunk usually 6-15 cm dbh; bark with moderately close, deep vertical fissures, but not flaking; young stems, axes of inflorescences, petioles, and underside of veins densely rufous-pubescent, the trichomes pinnately branched, often somewhat stalked. Petioles to 9 cm long; blades broadly elliptic, obtuse to abruptly short-acuminate, obtuse to rounded at base, 9-35 cm long, 6-18 cm wide, denticulate, the surface below canescent and completely covered with trichomes, these sessile, stellate, in part with a brown center; veins 5, dark. Panicles large, terminal, 18-22 cm long, branched many times, the branches \u00b1 flattened or angulate; flowers \u00b1 sessile; hypanthium and calyx together 1.5-2 mm long, campanulate, the teeth obscure or lacking; petals 5, white, obovate, to 1.5 mm long. Berries round to depressedglobose, to 6 mm diam, white to lavender-blue, probably becoming purple-black at full maturity; seeds numerous, minute. Croat 5693, 15070. Known only from shoreline north of the dock and south of Fairchild Point, but undoubtedly more abundant. Seasonal behavior uncertain. Flowers at least in January, February, and May. Mature fruits have been seen in April, May, and October. Easily confused with Miconia argentea, which is similar in most respects except pubescence, trunk bark, and stature. The species ranges from Mexico to Panama and Venezuela; West Indies. In Panama, the species is known only from tropical moist forest in the Canal Zone and Panama and from premontane wet forest in the Canal Zone.",
+            "score": 0.6508604884147644
+          },
+          {
+            "taxon": "Symphonia globulifera",
+            "rank": "Species",
+            "description": "Dioecious, hemiepiphytic tree, to 10 m tall; trunk to 15 cm dbh; branches spiraled, stiff and spreading, densely rooting at the nodes, the roots often extending back to the host tree and enveloping the host tree for support; stems glabrous with prominent leaf scars; sap pale yellow to bright orange (in time), not copious. Petioles to 2 cm long; blades obovate, rounded at apex (sometimes acute to acuminate on juvenile leaves), acute to obtuse at base, 5-15 cm long, 3-10 cm wide, very thick, dark green and glossy above, dull below, coriaceous; veins indistinct, drying with many fine veins. Panicles stout, bracteated, divaricately branched, terminal; buds depressed-globose; pedicels stout, to 1 cm long; flowers thick, 5-parted, spreading at anthesis, to 4.5 cm diam, white to pink, the lobes often marked with maroon or magenta at base or apex; sepals 2, concave, unequal, persisting in fruit; petals 4-10, broadly oblong, 2-2.5 cm long; androecium of staminate flowers cushion-shaped, ca 1 cm wide and 5 mm high with numerous anthers; pollen white, granular, compressed in round or oval pouches ca 1 mm diam, embedded just beneath the sticky surface of the disk; pistillate flowers similar to staminate but the gynoecium divided into (4)9(15) segments, the petals falling soon after anthesis, the sepals closing. Capsules subglobose, 2.5-3 cm long, dehiscing into 5-9 parts at maturity; valves thick, \u00b1 spreading to expose the colorful mass of seeds; seeds numerous, reddish, curved-oblong, ca 5 mm long, embedded in a deeply divided, bright-orange aril. Frequent epiphyte in the forest or on exposed shorelines; epiphytic on rocks or on trees near the edge of the water. Plants are usually supported on tree trunks or large branches but the branches may grow into the top of the canopy. Apparently flowers and fruits sporadically throughout the year. Where plants occur along the shore, the branches usually root at the nodes with the roots hanging in the water. The pollen sacs of the staminate flowers burst under the slightest pressure, and abundant pollen oozes out (sometimes explosively). Several species of small bees, including Trigona spp., have been seen visiting the flowers. The geographical range of Symphonia globulifera extends from Nicaragua to Panama, probably to Colombia. In Panama, known from tropical moist forest in the Canal Zone, Colon, San Bias, Veraguas, Herrera, Panama, and Darien, from premontane wet forest in Code (El Valle) and Panama (Cerro Campana), and from tropical wet forest in Code (La Mesa) and Panama.",
+            "score": 0.6488453149795532
+          },
+          {
+            "taxon": "Trichilia tuberculata",
+            "rank": "Species",
+            "description": "Tree, ca. 5-30(-40) m. Leaves imparipinnate, 10-30 cm; petiole and rachis generally canaliculate, glabrous or sparsely puberulent; leaflets 5-9, alternate (rarely subopposite), 10-15(-20) X 2.5-4.5 cm, narrowly elliptical or oblong to oblanceolate, attenuated at the base, acute to acuminate at the apex, subcoriaceous, generally glabrous, with 13-16 secondary veins per side. Inflorescences axillary, thyrsoid, 10-20 cm, glabrous or puberulent. Flowers with petals white to yellowish-green. Fruits yellow to orange, 1.4-2 X 0.8-1.2 cm, oblong to ellipsoid, densely verrucous (with prominent warts often connected by irregular stripes), often sparsely adpressed-pubescent, with 3 or 4 valves; seeds 1 or 2, black, 0.8-2.2 cm, the aril red. Very humid forest, 0-350 m; Pacific slope, [in the Parque Nacional Carara], [in the Puriscal region (in the Parque Nacional La Cangreja)], [in the Parque Nacional Manuel Antonio], [in Uvita], [in the Gulf Dulce region]. Fl. Feb.-Apr., Jun., Dec. [in Costa Rica and Panama], [in Ecuador and Peru], [in Northeast Brazil].",
+            "score": 0.6452274322509766
+          },
+          {
+            "taxon": "Paullinia bracteosa",
+            "rank": "Species",
+            "description": "Stems conspicuously 3-5-angled to subangular (with age), sparsely lenticels (in stems random shape, the wood forms a ring in cross section; stipules 1-3 cm, leafy, entire. Leaves pinnately compound, the petiole conspicuously winged; rachis conspicuously winged; leaflets 5, 10-32 X 5.5-14 cm, elliptical to obovate, cuneate to obtuse at the base, abruptly acuminate at the apex, sparsely crenate-dentate distally, glabrous on the adaxial surface (except pubescent on the main veins), puberulent to glabrescent on the abaxial surface. Inflorescences axillary (in nodes with leaves), usually solitary, spiciform, 10-30 cm, elongated, puberulent to tomentulose. Flowers with sepals 4.5-5.5 mm, tomentulose; petals white, 5-6 mm. Fruits reddish green to red when ripe, 3.8-6.1 X 2.4-2.8 cm, pear-shaped, not winged, puberulent to glabrescent, with a stipe up to ca. 3 mm. Humid forest, very humid and pluvial, 0-1550+ m; Caribbean slope. [Cords. of Guanacaste, Tilar\u00e1n and Central], [Plains of Los Guatusos], [San Carlos] and [Tortuguero (Tortuguero National Park)], [Baja Talamanca], both slopes of the [Talamanca Cordillera], Pacific slope, [Cerro Caraigres], [Fila Coste\u00f1a], [North Peninsula of Nicoya], [Central Valley], [Carara National Park], [Puriscal region], [Manuel Antonio National Park], [Coto Brus Valley], [Gulf Dulce region]. Fl. Feb., Apr.\u2014Jul., Nov., Dec. SE [Nic.-Bol. and Ven.], [Guianas], [Brazil]. [Species Paullinia bracteosa] is easily recognized by its comparatively large stipules, pinnately 5-foliolate leaves, with the petiole and the rachis conspicuously winged, and comparatively large flowers and fruits.",
+            "score": 0.6451420783996582
+          },
+          {
+            "taxon": "Tapirira guianensis",
+            "rank": "Species",
+            "description": "Locating an individual\nCentral Road (CC) 1300 m, Left.\nDistribution\nFrom Honduras to Bolivia, Paraguay, and southeastern Brazil. In Costa Rica, widespread in mainly very humid climates on both slopes, 10-1,300 m.\nHabit\nTree, 15-35 m tall.\nTrunk\nTrunk with reddish-brown bark, slightly scaly, inner color pink and with slight resinous-milky secretion, short branches; glabrous twigs; stipules absent.\nBark\nReddish-brown bark, slightly scaly, inner color pink and with slight resinous-milky secretion.\nLeaves\nCompound odd-pinnate leaves, alternate, leaflets 5-13, 7.5-23 x 2.5-11.2 cm, elliptical to oblong-elliptical, apex short-acuminate, base asymmetric, opposite, glabrous or slightly pubescent on the underside near the central vein, margin entire; petiole 4-20 cm long.\nFlowers\nFlowers (unisexual) white to yellowish-green and cream; sepals 5, 0.4-0.9 mm long; petals 5, 1.4-2.2 mm long; stamens (8-) 10, unequal, staminodes present in pistillate flowers. The inflorescences have a broad subterminal panicle, with many flowers, 10-35 cm long, rusty-puberulent.\nFruits\nFruit a drupe, 1-1.8 x 0.8-1.3 cm, ovoid, oblong or obovoid, exocarp dark purple to black, endocarp cartilaginous.\nSeeds\nSeed 1.\nDiagnosis\nCharacterized by its compound leaves, leaflets with entire margins, asymmetric at the base and secondary veins weakly forming a submarginal vein (brochidodromous venation), young leaves with silky pubescence on the underside. Its vegetative appearance and trunk color, as well as its inner bark, resemble or may confuse it with a species of Trichilia (Meliaceae), hence its vernacular names. In mature trees, when making a cut on the trunk, it secretes a slight milky sap in the cambium area.\nHabitat\nIn the rainforest, both in primary forest and secondary vegetation.\nPhenology\nFlowers observed in May, fruits in October.",
+            "score": 0.6446186900138855
+          },
+          {
+            "taxon": "Tapirira guianensis",
+            "rank": "Species",
+            "description": "Locating an individual\nCentral Road (CC) 1300 m, Left.\nDistribution\nFrom Honduras to Bolivia, Paraguay, and southeastern Brazil. In Costa Rica, widespread in mainly very humid climates on both slopes, 10-1,300 m.\nHabit\nTree, 15-35 m tall.\nTrunk\nTrunk with reddish-brown bark, slightly scaly, inner color pink and with slight resinous-milky secretion, short branches; glabrous twigs; stipules absent.\nBark\nReddish-brown bark, slightly scaly, inner color pink and with slight resinous-milky secretion.\nLeaves\nCompound odd-pinnate leaves, alternate, leaflets 5-13, 7.5-23 x 2.5-11.2 cm, elliptical to oblong-elliptical, apex short-acuminate, base asymmetric, opposite, glabrous or slightly pubescent on the underside near the central vein, margin entire; petiole 4-20 cm long.\nFlowers\nFlowers (unisexual) white to yellowish-green and cream; sepals 5, 0.4-0.9 mm long; petals 5, 1.4-2.2 mm long; stamens (8-) 10, unequal, staminodes present in pistillate flowers. The inflorescences have a broad subterminal panicle, with many flowers, 10-35 cm long, rusty-puberulent.\nFruits\nFruit a drupe, 1-1.8 x 0.8-1.3 cm, ovoid, oblong or obovoid, exocarp dark purple to black, endocarp cartilaginous.\nSeeds\nSeed 1.\nDiagnosis\nCharacterized by its compound leaves, leaflets with entire margins, asymmetric at the base and secondary veins weakly forming a submarginal vein (brochidodromous venation), young leaves with silky pubescence on the underside. Its vegetative appearance and trunk color, as well as its inner bark, resemble or may confuse it with a species of Trichilia (Meliaceae), hence its vernacular names. In mature trees, when making a cut on the trunk, it secretes a slight milky sap in the cambium area.\nHabitat\nIn the rainforest, both in primary forest and secondary vegetation.\nPhenology\nFlowers observed in May, fruits in October.",
+            "score": 0.6446186900138855
+          }
+        ],
+        "convergence": [
+          {
+            "taxon": "Symphonia globulifera",
+            "signal": "moderate",
+            "rag_score": 0.6488453149795532,
+            "visual_softmax_score": 0.01236147154122591,
+            "source": "both"
+          },
+          {
+            "taxon": "Smilax",
+            "signal": "rag_only",
+            "rag_score": 0.6547299027442932,
+            "visual_softmax_score": 0.0,
+            "source": "literature"
+          },
+          {
+            "taxon": "Tapirira guianensis",
+            "signal": "rag_only",
+            "rag_score": 0.6446186900138855,
+            "visual_softmax_score": 0.0,
+            "source": "literature"
+          },
+          {
+            "taxon": "Miconia elata",
+            "signal": "rag_only",
+            "rag_score": 0.6508604884147644,
+            "visual_softmax_score": 0.0,
+            "source": "literature"
+          },
+          {
+            "taxon": "Tabernaemontana",
+            "signal": "visual_only",
+            "rag_score": 0.0,
+            "visual_softmax_score": 0.013182488270103931,
+            "source": "visual"
+          },
+          {
+            "taxon": "Swartzia",
+            "signal": "visual_only",
+            "rag_score": 0.0,
+            "visual_softmax_score": 0.012055191211402416,
+            "source": "visual"
+          },
+          {
+            "taxon": "Myrcia",
+            "signal": "visual_only",
+            "rag_score": 0.0,
+            "visual_softmax_score": 0.01273063849657774,
+            "source": "visual"
+          }
+        ]
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 4.755242960527539
+    },
+    "evidence_synthesis": {
+      "data": {
+        "evidence_document": "# Evidence Summary\n\n## Morphological Profile\n\n\n### Leaf Arrangement\n\n- **Relative Position**: alternate\n- **Spacing**: distal\n\n### Leaf Complexity\n\n- **Type**: compound\n- **Compound Type**: odd-pinnate\n- **Num Leaflets**: 8\n- **Leaflet Arrangement**: alternate\n\n### Leaf Morphology\n\n- **Margin**: entire\n- **Shape**: lanceolate\n- **Apex**: acute\n- **Base**: cuneate\n- **Venation**: pinnate\n- **Secondary Veins**: visible, closely spaced, numerous\n- **Surface Features**: shiny\n- **Trichomes**: absent\n- **Petiole Length**: short\n- **Petiole Features**: terete\n\n### Stem Traits\n\n- **Type**: woody\n- **Trichomes**: absent\n- **Color**: green to brownish-green\n- **Texture**: smooth\n\n### Special Features\n\n- **Stipules**: absent\n- **Latex**: not observed\n- **Pulvinus**: absent\n- **Tendrils**: absent\n\n### Notes\n\n[NOTE] The seedling exhibits compound, odd-pinnate leaves with lanceolate leaflets arranged alternately along the rachis. The leaves are shiny and entire, with a cuneate base and acute apex. The stem is woody, smooth, and green to brownish-green in color. Some minor damage, such as small holes and marginal notches, is present on a few leaflets, but no significant herbivory or pathogen signs are evident. The plant is growing in a shaded, leaf-littered forest environment, likely on the forest floor or near a larger tree base, as indicated by the surrounding mossy roots and detritus. The pink tag at the base suggests it may be part of a monitoring or research plot. All observations are based on the provided images and follow conservative annotation rules.\n\n## Visual Classification (Multi-Rank)\n\n### Family\n\nDecision margin: 0.003\n\n- #1: **Apocynaceae** (similarity share: 2.8%) | L2: 0.767, cosine: 0.646\n- #2: **Fabaceae** (similarity share: 2.5%) | L2: 0.885, cosine: 0.479\n- #3: **Calophyllaceae** (similarity share: 2.5%) | L2: 0.889, cosine: 0.541\n- #4: **Melastomataceae** (similarity share: 2.4%) | L2: 0.947, cosine: 0.380\n- #5: **Myrtaceae** (similarity share: 2.3%) | L2: 0.972, cosine: 0.293\n\n### Genus\n\nDecision margin: 0.004\n\n- #1: **Symphonia** (similarity share: 1.7%) | L2: 0.480, cosine: 0.887\n- #2: **Tabernaemontana** (similarity share: 1.3%) | L2: 0.762, cosine: 0.648\n- #3: **Myrcia** (similarity share: 1.3%) | L2: 0.797, cosine: 0.604\n- #4: **Aspidosperma** (similarity share: 1.3%) | L2: 0.811, cosine: 0.603\n- #5: **Swartzia** (similarity share: 1.2%) | L2: 0.851, cosine: 0.527\n\n### Species\n\nDecision margin: 0.003\n\n- #1: **Symphonia globulifera** (similarity share: 1.2%) | L2: 0.480, cosine: 0.887\n- #2: **Mouriri panamensis** (similarity share: 0.9%) | L2: 0.758, cosine: 0.663\n- #3: **Tabernaemontana undulata** (similarity share: 0.9%) | L2: 0.762, cosine: 0.648\n- #4: **Myrcia splendens** (similarity share: 0.9%) | L2: 0.796, cosine: 0.605\n- #5: **Aspidosperma desmanthum** (similarity share: 0.9%) | L2: 0.811, cosine: 0.603\n\n### Hierarchical Consistency: INCONSISTENT\n\n- Genus 'Symphonia' belongs to family 'Clusiaceae', but family classifier predicted 'Apocynaceae'\n- Species 'Symphonia globulifera' belongs to family 'Clusiaceae', but family classifier predicted 'Apocynaceae'\n\n### Per-Image Predictions\n\n- /nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Clusiaceae/by_genus/Symphonia/by_species/globulifera/SRSYMPGL2/Clusiaceae_Symphonia_globulifera_SRSYMPGL2_001.jpg: **Apocynaceae** (similarity share: 2.7%)\n- /nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Clusiaceae/by_genus/Symphonia/by_species/globulifera/SRSYMPGL2/Clusiaceae_Symphonia_globulifera_SRSYMPGL2_002.jpg: **Apocynaceae** (similarity share: 2.7%)\n- /nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Clusiaceae/by_genus/Symphonia/by_species/globulifera/SRSYMPGL2/Clusiaceae_Symphonia_globulifera_SRSYMPGL2_003.jpg: **Apocynaceae** (similarity share: 2.7%)\n- /nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Clusiaceae/by_genus/Symphonia/by_species/globulifera/SRSYMPGL2/Clusiaceae_Symphonia_globulifera_SRSYMPGL2_004.jpg: **Apocynaceae** (similarity share: 2.6%)\n- /nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Clusiaceae/by_genus/Symphonia/by_species/globulifera/SRSYMPGL2/Clusiaceae_Symphonia_globulifera_SRSYMPGL2_005.jpg: **Apocynaceae** (similarity share: 2.8%)\n\n### Nearest Support Images\n\n- **Clusiaceae** (L2: 0.331, cosine: 0.945) [/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Clusiaceae/by_genus/Symphonia/by_species/globulifera/SRSYMPGL2/Clusiaceae_Symphonia_globulifera_SRSYMPGL2_003.jpg]\n- **Clusiaceae** (L2: 0.350, cosine: 0.939) [/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Clusiaceae/by_genus/Symphonia/by_species/globulifera/SRSYMPGL2/Clusiaceae_Symphonia_globulifera_SRSYMPGL2_004.jpg]\n- **Clusiaceae** (L2: 0.398, cosine: 0.921) [/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Clusiaceae/by_genus/Symphonia/by_species/globulifera/SRSYMPGL2/Clusiaceae_Symphonia_globulifera_SRSYMPGL2_001.jpg]\n- **Clusiaceae** (L2: 0.433, cosine: 0.906) [/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Clusiaceae/by_genus/Symphonia/by_species/globulifera/SRSYMPGL2/Clusiaceae_Symphonia_globulifera_SRSYMPGL2_005.jpg]\n- **Clusiaceae** (L2: 0.519, cosine: 0.866) [/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Clusiaceae/by_genus/Symphonia/by_species/globulifera/SRSYMPGL2/Clusiaceae_Symphonia_globulifera_SRSYMPGL2_002.jpg]\n\n## Literature Evidence\n\n### Matching Taxa (by trait similarity)\n\n- **Connaraceae** (Family, similarity: 0.70)\n  - Trees, climbing shrubs, or lianas; stipules absent. Leaves compound, odd-pinnate or trifoliate, indumentum of simple trichomes, the blade sometimes with glandular dots on the underside, margin entire;\n- **Connaraceae** (Family, similarity: 0.70)\n  - Trees, climbing shrubs, or lianas; stipules absent. Leaves compound, odd-pinnate or trifoliate, indumentum of simple trichomes, the blade sometimes with glandular dots on the underside, margin entire;\n- **Inga pezizifera** (Species, similarity: 0.67)\n  - Tree, to 27 m tall and 40 cm dbh, glabrous to puberulent throughout; trunk \u00b1 involuted with many prominent horizontal wrinkles; outer bark thin; inner bark reddish; young stems very prominently lentic\n- **Inga pezizifera** (Species, similarity: 0.67)\n  - Tree, to 27 m tall and 40 cm dbh, glabrous to puberulent throughout; trunk \u00b1 involuted with many prominent horizontal wrinkles; outer bark thin; inner bark reddish; young stems very prominently lentic\n- **Ardisia pellucida** (Species, similarity: 0.67)\n  - Shrubby herb or shrub, 0.3-0.8 m; young twigs ferruginous-tomentose or ferruginous-pubescent with trichomes <0.2 mm to glabrescent. Leaves \u00b1 isomorphic; petiole 0.9-1.5 cm; blade 5.5-19 X 2.4-9.3 cm, \n- **Ardisia pellucida** (Species, similarity: 0.67)\n  - Shrubby herb or shrub, 0.3-0.8 m; young twigs ferruginous-tomentose or ferruginous-pubescent with trichomes <0.2 mm to glabrescent. Leaves \u00b1 isomorphic; petiole 0.9-1.5 cm; blade 5.5-19 X 2.4-9.3 cm, \n- **Inga punctata** (Species, similarity: 0.66)\n  - Guavita cansa-boca, Bribri, Guava, Guava del mono Tree, to 15 m tall; branchlets sparsely strigose when young, glabrate in age, minutely lenticellate, minutely ribbed below petioles (at least when dri\n- **Protium stevensonii** (Species, similarity: 0.66)\n  - Locating an individual\nIt is mainly observed towards the Southern Boundary (LS), Quebrada El Salto, etc., in rolling or broken terrain.\nDistribution\nFrom Belize to Venezuela, the Guianas, Brazil, and \n- **Protium stevensonii** (Species, similarity: 0.66)\n  - Locating an individual\nIt is mainly observed towards the Southern Boundary (LS), Quebrada El Salto, etc., in rolling or broken terrain.\nDistribution\nFrom Belize to Venezuela, the Guianas, Brazil, and \n- **Smilax** (Genus, similarity: 0.65)\n  - Woody lianas, dioecious; stems frequently with thorns. Leaves simple, alternate, petiolate, with paired stipular tendrils that arise from the expanded base of the petiole; blade 3\u20149-nerved. Infloresce\n- **Trichilia** (Genus, similarity: 0.65)\n  - Tree, 5-20 m tall; outer bark minutely fissured, thin (bearing short, raised, horizontal lines on inner surface); inner bark reddish-brown on the outer edge, bearing impressed short horizontal lines, \n- **Sapindaceae** (Family, similarity: 0.65)\n  - Trees, shrubs, or lianas; twigs often angled or triangularly compound in lianas, ribbed, with simple hair indumentum or rarely with spines; white sap sometimes in lianas (Serjania); stipules often pre\n- **Sapindaceae** (Family, similarity: 0.65)\n  - Trees, shrubs, or lianas; twigs often angled or triangularly compound in lianas, ribbed, with simple hair indumentum or rarely with spines; white sap sometimes in lianas (Serjania); stipules often pre\n- **Smilax** (Genus, similarity: 0.65)\n  - Woody lianas, dioecious; stems frequently with thorns. Leaves simple, alternate, petiolate, with paired stipular tendrils that arise from the expanded base of the petiole; blade 3\u20149-nerved. Infloresce\n- **Miconia elata** (Species, similarity: 0.65)\n  - Tree, 3.5-11 (13) m tall; trunk usually 6-15 cm dbh; bark with moderately close, deep vertical fissures, but not flaking; young stems, axes of inflorescences, petioles, and underside of veins densely \n- **Symphonia globulifera** (Species, similarity: 0.65)\n  - Dioecious, hemiepiphytic tree, to 10 m tall; trunk to 15 cm dbh; branches spiraled, stiff and spreading, densely rooting at the nodes, the roots often extending back to the host tree and enveloping th\n- **Trichilia tuberculata** (Species, similarity: 0.65)\n  - Tree, ca. 5-30(-40) m. Leaves imparipinnate, 10-30 cm; petiole and rachis generally canaliculate, glabrous or sparsely puberulent; leaflets 5-9, alternate (rarely subopposite), 10-15(-20) X 2.5-4.5 cm\n- **Paullinia bracteosa** (Species, similarity: 0.65)\n  - Stems conspicuously 3-5-angled to subangular (with age), sparsely lenticels (in stems random shape, the wood forms a ring in cross section; stipules 1-3 cm, leafy, entire. Leaves pinnately compound, t\n- **Tapirira guianensis** (Species, similarity: 0.64)\n  - Locating an individual\nCentral Road (CC) 1300 m, Left.\nDistribution\nFrom Honduras to Bolivia, Paraguay, and southeastern Brazil. In Costa Rica, widespread in mainly very humid climates on both slopes,\n- **Tapirira guianensis** (Species, similarity: 0.64)\n  - Locating an individual\nCentral Road (CC) 1300 m, Left.\nDistribution\nFrom Honduras to Bolivia, Paraguay, and southeastern Brazil. In Costa Rica, widespread in mainly very humid climates on both slopes,\n\n## Convergence Analysis\n\n- **Symphonia globulifera** [MODERATE CONVERGENCE] (RAG: 0.65, Visual: 1.2%)\n- **Smilax** [Literature only] (RAG: 0.65, Visual: 0.0%)\n- **Tapirira guianensis** [Literature only] (RAG: 0.64, Visual: 0.0%)\n- **Miconia elata** [Literature only] (RAG: 0.65, Visual: 0.0%)\n- **Tabernaemontana** [Visual only] (RAG: 0.00, Visual: 1.3%)\n- **Swartzia** [Visual only] (RAG: 0.00, Visual: 1.2%)\n- **Myrcia** [Visual only] (RAG: 0.00, Visual: 1.3%)\n",
+        "quality_flags": [
+          "Low classification similarity: top prediction captures only 2.8% of total similarity (threshold: 30.0%)",
+          "Hierarchical inconsistency: Genus 'Symphonia' belongs to family 'Clusiaceae', but family classifier predicted 'Apocynaceae'"
+        ]
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 0.10414677672088146
+    },
+    "reasoning": {
+      "data": {
+        "classification": {
+          "predicted_family": "Clusiaceae",
+          "predicted_genus": "Symphonia",
+          "predicted_species": "Symphonia globulifera",
+          "confidence": "medium",
+          "reasoning": "The visual embedding classifier consistently identifies the specimen as Symphonia globulifera, which belongs to Clusiaceae, despite the family-level prediction being Apocynaceae. The nearest support images are from Clusiaceae with high similarity scores, and literature evidence supports Symphonia globulifera with matching traits such as compound, odd-pinnate leaves, shiny surfaces, and absence of stipules. The hierarchical inconsistency suggests a visual classification error at the family level, but the genus and species predictions are consistent with the morphology and literature.",
+          "supporting_features": [
+            "compound, odd-pinnate leaves with 8 leaflets",
+            "lanceolate leaflets with entire margin and cuneate base",
+            "shiny leaf surface, absent trichomes",
+            "woody stem, green to brownish-green, smooth texture",
+            "absent stipules and latex"
+          ],
+          "alternatives": [
+            {
+              "taxon": "Tabernaemontana",
+              "reason": "Visual classifier ranked it second at genus level, but it belongs to Apocynaceae and typically has different leaf morphology and presence of latex, which is absent here."
+            },
+            {
+              "taxon": "Inga pezizifera",
+              "reason": "Literature match with similar leaf traits and absence of stipules, but Inga species often have more puberulent surfaces and different stem textures, which are not observed here."
+            },
+            {
+              "taxon": "Trichilia tuberculata",
+              "reason": "Literature match with pinnate leaves and similar size, but Trichilia often has canaliculate petioles/rachis and may have puberulence, which are not evident in this specimen."
+            }
+          ]
+        },
+        "raw_response": "{\n  \"predicted_family\": \"Clusiaceae\",\n  \"predicted_genus\": \"Symphonia\",\n  \"predicted_species\": \"Symphonia globulifera\",\n  \"confidence\": \"medium\",\n  \"reasoning\": \"The visual embedding classifier consistently identifies the specimen as Symphonia globulifera, which belongs to Clusiaceae, despite the family-level prediction being Apocynaceae. The nearest support images are from Clusiaceae with high similarity scores, and literature evidence supports Symphonia globulifera with matching traits such as compound, odd-pinnate leaves, shiny surfaces, and absence of stipules. The hierarchical inconsistency suggests a visual classification error at the family level, but the genus and species predictions are consistent with the morphology and literature.\",\n  \"supporting_features\": [\n    \"compound, odd-pinnate leaves with 8 leaflets\",\n    \"lanceolate leaflets with entire margin and cuneate base\",\n    \"shiny leaf surface, absent trichomes\",\n    \"woody stem, green to brownish-green, smooth texture\",\n    \"absent stipules and latex\"\n  ],\n  \"alternatives\": [\n    {\n      \"taxon\": \"Tabernaemontana\",\n      \"reason\": \"Visual classifier ranked it second at genus level, but it belongs to Apocynaceae and typically has different leaf morphology and presence of latex, which is absent here.\"\n    },\n    {\n      \"taxon\": \"Inga pezizifera\",\n      \"reason\": \"Literature match with similar leaf traits and absence of stipules, but Inga species often have more puberulent surfaces and different stem textures, which are not observed here.\"\n    },\n    {\n      \"taxon\": \"Trichilia tuberculata\",\n      \"reason\": \"Literature match with pinnate leaves and similar size, but Trichilia often has canaliculate petioles/rachis and may have puberulence, which are not evident in this specimen.\"\n    }\n  ]\n}",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 8342.200310900807
+    }
+  },
+  "total_elapsed_ms": 35305.97791261971,
+  "benchmark_metadata": {
+    "scientific_name": "Symphonia globulifera",
+    "family": "Clusiaceae",
+    "genus": "Symphonia",
+    "species_epithet": "globulifera",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "specimen_id": "SHTOVOST2",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Clusiaceae/by_genus/Tovomita/by_species/stylosa/SHTOVOST2/Clusiaceae_Tovomita_stylosa_SHTOVOST2_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Clusiaceae/by_genus/Tovomita/by_species/stylosa/SHTOVOST2/Clusiaceae_Tovomita_stylosa_SHTOVOST2_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Clusiaceae/by_genus/Tovomita/by_species/stylosa/SHTOVOST2/Clusiaceae_Tovomita_stylosa_SHTOVOST2_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Clusiaceae/by_genus/Tovomita/by_species/stylosa/SHTOVOST2/Clusiaceae_Tovomita_stylosa_SHTOVOST2_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Clusiaceae/by_genus/Tovomita/by_species/stylosa/SHTOVOST2/Clusiaceae_Tovomita_stylosa_SHTOVOST2_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "whorled",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "acute",
+            "base": "rounded",
+            "venation": "pinnate",
+            "secondary_veins": "visible, closely spaced, numerous",
+            "surface_features": "shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "green to dark green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Multiple images show the same seedling from different angles, confirming whorled leaf arrangement and consistent leaf morphology. Some leaves show minor damage (small holes or margin missing), but no clear cause is visible. The seedling is marked with a pink tag labeled \"TOKST2\". The surrounding forest floor is littered with leaf debris, but habitat conditions are not directly inferable from the images. All observations are based on visible traits only, without inference to taxonomy or ecology."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): whorled (multiple leaves clearly emerge from the same node, visible in overhead views)\n    2. Leaf spacing (clustered / distal): clustered (leaves are arranged in tight whorls along the stem, not spread out)\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): simple (each leaf is a single, undivided blade)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): N/A\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): N/A\n    6. Leaflet arrangement (opposite / alternate / subopposite): N/A\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (smooth margin with no visible teeth or serrations)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): elliptic (broadest near the middle, tapering to both ends)\n    9. Leaf apex (acute, obtuse, acuminate): acute (comes to a sharp, pointed tip)\n    10. Leaf base (rounded, cordate, cuneate): rounded (base is gently curved, not tapering or lobed)\n    11. Venation type (pinnate / palmate / parallel): pinnate (main vein runs from base to apex, with secondary veins branching off at angles)\n    12. Secondary veins (visibility, spacing, number): visible, closely spaced, numerous (secondary veins are prominent, running parallel to each other and perpendicular to the midrib)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): shiny (surface appears glossy and reflective, especially in overhead images)\n    14. Leaf surface trichomes (present / absent): absent (no visible hairs or fuzz on the leaf surface)\n    15. Petiole length (short / long): short (petiole is short, leaf blade appears sessile or nearly so)\n    16. Petiole features (winged / grooved / terete): terete (circular in cross-section, not flattened or winged)\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): woody (stem is firm, dark green to brownish, with slight bark texture, consistent with young woody stem)\n    18. Stem trichomes (present / absent): absent (no visible hairs on the stem surface)\n    19. Stem color: green to dark green (stem is green at the top, becoming darker toward the base)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (surface appears smooth without prominent ridges or lenticels)\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules visible at leaf bases)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no exudate visible from stem or leaves)\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no swollen leaf base or pulvinus visible)\n    24. Tendrils (present / absent): absent (no tendrils observed)\nF. Notes: Multiple images show the same seedling from different angles, confirming whorled leaf arrangement and consistent leaf morphology. Some leaves show minor damage (small holes or margin missing), but no clear cause is visible. The seedling is marked with a pink tag labeled \"TOKST2\". The surrounding forest floor is littered with leaf debris, but habitat conditions are not directly inferable from the images. All observations are based on visible traits only, without inference to taxonomy or ecology.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 20531.50009503588
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 20531.50009503588,
+  "benchmark_metadata": {
+    "scientific_name": "Tovomita stylosa",
+    "family": "Clusiaceae",
+    "genus": "Tovomita",
+    "species_epithet": "stylosa",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

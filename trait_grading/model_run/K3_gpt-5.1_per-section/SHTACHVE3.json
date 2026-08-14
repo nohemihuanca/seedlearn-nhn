@@ -1,0 +1,47 @@
+{
+  "specimen_id": "SHTACHVE3",
+  "source_answer_key": "Fabaceae_Tachigali_panamensis_SHTACHVE3",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "alternate",
+            "spacing": "distal"
+          },
+          "leaf_complexity": {
+            "type": "compound",
+            "compound_type": "unclear",
+            "num_leaflets": "10",
+            "leaflet_arrangement": "opposite"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "clearly visible, regularly spaced, approximately 7\u201312 pairs per leaflet",
+            "surface_features": "glabrous and shiny",
+            "trichomes": "absent",
+            "petiole_length": "long",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "brownish-green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "unclear",
+            "pulvinus": "unclear",
+            "tendrils": "absent"
+          },
+          "notes": "Seedling has pinnate leaves with multiple entire, elliptic leaflets and a slender woody stem; some leaflets show small holes or missing margin portions; seedling is growing at the base of a large tree with leaf litter visible on the ground."
+        }
+      }
+    }
+  }
+}

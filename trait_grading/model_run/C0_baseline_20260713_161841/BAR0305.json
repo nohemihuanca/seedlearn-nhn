@@ -1,0 +1,91 @@
+{
+  "specimen_id": "BAR0305",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Celastraceae/by_genus/Prionostemma/by_species/aspera/BAR0305/Celastraceae_Prionostemma_aspera_BAR0305_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Celastraceae/by_genus/Prionostemma/by_species/aspera/BAR0305/Celastraceae_Prionostemma_aspera_BAR0305_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Celastraceae/by_genus/Prionostemma/by_species/aspera/BAR0305/Celastraceae_Prionostemma_aspera_BAR0305_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Celastraceae/by_genus/Prionostemma/by_species/aspera/BAR0305/Celastraceae_Prionostemma_aspera_BAR0305_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Celastraceae/by_genus/Prionostemma/by_species/aspera/BAR0305/Celastraceae_Prionostemma_aspera_BAR0305_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "opposite",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "visible, closely spaced, numerous",
+            "surface_features": "shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "brownish-green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "The seedling shows signs of minor leaf damage, including small holes and white speckling on some leaves, which may be due to environmental factors or minor biotic interactions. These are noted neutrally as per conservative annotation rules. The plant is growing on a forest floor covered in dry leaf litter, but habitat is not inferred. All images show the same individual from multiple angles, confirming consistent morphological traits. The leaf arrangement is consistently opposite, and the leaves are simple and elliptic with entire margins. The stem is woody and smooth, with no visible trichomes or stipules. No latex or pulvinus is observed."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): opposite (clear paired sets of leaves visible at distinct nodes along the stem; each node shows two leaves directly across from each other)\n    2. Leaf spacing (clustered / distal): clustered (leaves are arranged in close proximity along the stem, forming dense groups at each node, with little space between nodes)\n\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): simple (each leaf is a single undivided blade attached to the stem; no leaflets are present)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): N/A\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): N/A\n    6. Leaflet arrangement (opposite / alternate / subopposite): N/A\n\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (leaf edges are smooth and uninterrupted; no teeth or serrations are visible)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): elliptic (leaves are broadest near the middle and taper toward both ends, forming an oval or elliptical outline)\n    9. Leaf apex (acute, obtuse, acuminate): acute (leaf tip is sharply pointed but not drawn out into a long tail)\n    10. Leaf base (rounded, cordate, cuneate): cuneate (base tapers to a narrow point, forming a wedge shape)\n    11. Venation type (pinnate / palmate / parallel): pinnate (main vein runs from base to apex, with secondary veins branching off laterally and extending to the margin)\n    12. Secondary veins (visibility, spacing, number): visible, closely spaced, numerous (secondary veins are clearly visible, running perpendicular to the midrib, and appear dense and closely packed)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): shiny (leaf surface has a glossy or waxy appearance, reflecting light)\n    14. Leaf surface trichomes (present / absent): absent (no visible hairs or fine projections on the leaf surface; surface appears smooth)\n    15. Petiole length (short / long): short (petioles are short, connecting the leaf blade to the stem without elongation)\n    16. Petiole features (winged / grooved / terete): terete (petioles are round in cross-section, without wings or grooves)\n\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): woody (stem appears firm and slightly thickened, with a brownish color and texture consistent with early woody development)\n    18. Stem trichomes (present / absent): absent (no visible hairs on stem surface; smooth texture)\n    19. Stem color: brownish-green (stem exhibits a mix of green and brown hues, with green near the apex and brown toward the base)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (surface is even and without ridges or visible lenticels)\n\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no structures resembling stipules are visible at the leaf bases)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no milky or clear sap is visible in the images; no evidence of latex exudation)\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no swollen bases at leaf petiole attachments; no visible pulvinus structures)\n    24. Tendrils (present / absent): absent (no modified stems or leaves functioning as tendrils are present)\n\nF. Notes: The seedling shows signs of minor leaf damage, including small holes and white speckling on some leaves, which may be due to environmental factors or minor biotic interactions. These are noted neutrally as per conservative annotation rules. The plant is growing on a forest floor covered in dry leaf litter, but habitat is not inferred. All images show the same individual from multiple angles, confirming consistent morphological traits. The leaf arrangement is consistently opposite, and the leaves are simple and elliptic with entire margins. The stem is woody and smooth, with no visible trichomes or stipules. No latex or pulvinus is observed.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 22945.08369686082
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 22945.08369686082,
+  "benchmark_metadata": {
+    "scientific_name": "Prionostemma aspera",
+    "family": "Celastraceae",
+    "genus": "Prionostemma",
+    "species_epithet": "aspera",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

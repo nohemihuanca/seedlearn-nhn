@@ -1,0 +1,47 @@
+{
+  "specimen_id": "SRANAXAL1",
+  "source_answer_key": "Annonaceae_Anaxagorea_allenii_SRANAXAL1",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "alternate",
+            "spacing": "distal"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "lanceolate",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "faint, moderately spaced, numerous",
+            "surface_features": "glabrous, slightly shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "dark brown to purplish-brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Several leaves are coated with sand/debris, which obscures some surface details; one leaf shows margin missing. Adjacent vegetation overlaps the frame, so scoring was based on the slender dark-stemmed plant with narrow dusty leaves near the pink marker."
+        }
+      }
+    }
+  }
+}

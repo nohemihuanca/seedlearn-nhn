@@ -1,0 +1,91 @@
+{
+  "specimen_id": "SRBANICO6",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Malpighiaceae/by_genus/Bronwenia/by_species/cornifolia/SRBANICO6/Malpighiaceae_Bronwenia_cornifolia_SRBANICO6_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Malpighiaceae/by_genus/Bronwenia/by_species/cornifolia/SRBANICO6/Malpighiaceae_Bronwenia_cornifolia_SRBANICO6_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Malpighiaceae/by_genus/Bronwenia/by_species/cornifolia/SRBANICO6/Malpighiaceae_Bronwenia_cornifolia_SRBANICO6_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Malpighiaceae/by_genus/Bronwenia/by_species/cornifolia/SRBANICO6/Malpighiaceae_Bronwenia_cornifolia_SRBANICO6_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Malpighiaceae/by_genus/Bronwenia/by_species/cornifolia/SRBANICO6/Malpighiaceae_Bronwenia_cornifolia_SRBANICO6_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "opposite",
+            "spacing": "distal"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "obtuse",
+            "base": "rounded",
+            "venation": "pinnate",
+            "secondary_veins": "visible, spaced widely, 6\u20138 pairs per leaf",
+            "surface_features": "shiny, glabrous",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "brownish-green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Multiple images confirm consistent morphology: opposite, simple, elliptic leaves with entire margins, pinnate venation, and short petioles. Some leaves show small holes, likely from physical damage or minor herbivory, but no signs of disease or pathogen. The seedling appears to be a young woody plant in a forest floor setting, with surrounding leaf litter and other understory vegetation. No reproductive structures are visible."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): opposite (multiple images show two leaves attached at the same node, forming a pair, with visible nodes along the stem)\n    2. Leaf spacing (clustered / distal): distal (leaves are spaced along the stem with visible internodes, not clustered at the apex)\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): simple (each leaf has a single blade without subdivisions into leaflets)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): N/A\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): N/A\n    6. Leaflet arrangement (opposite / alternate / subopposite): N/A\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (margins are smooth without teeth or serrations across all images)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): elliptic (leaves are broadly oval with rounded ends, widest near the middle)\n    9. Leaf apex (acute, obtuse, acuminate): obtuse (leaf tips are rounded, not pointed or tapering)\n    10. Leaf base (rounded, cordate, cuneate): rounded (base of leaf is broadly curved, not tapered or heart-shaped)\n    11. Venation type (pinnate / palmate / parallel): pinnate (main vein runs from base to apex, with secondary veins branching off to sides)\n    12. Secondary veins (visibility, spacing, number): visible, spaced widely, 6\u20138 pairs per leaf (secondary veins are prominent and clearly visible, running from midrib to margin, with 6\u20138 pairs estimated per leaf)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): shiny, glabrous (surface is smooth and glossy, reflecting light; no visible hairs)\n    14. Leaf surface trichomes (present / absent): absent (no visible surface hairs or pubescence)\n    15. Petiole length (short / long): short (petiole is relatively short, less than half the length of the leaf blade)\n    16. Petiole features (winged / grooved / terete): terete (petiole is round in cross-section, not flattened or winged)\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): woody (stem appears firm and slightly thickened, typical of young woody seedlings)\n    18. Stem trichomes (present / absent): absent (no visible hairs on stem surface)\n    19. Stem color: brownish-green (stem is light brown with greenish tinge, especially in younger sections)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (stem surface is smooth without ridges or lenticels)\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules visible at leaf base in any image)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no exudate visible when stems or leaves are broken)\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no swollen joints at leaf base or petiole attachment)\n    24. Tendrils (present / absent): absent (no modified stems or leaves functioning as tendrils)\nF. Notes: Multiple images confirm consistent morphology: opposite, simple, elliptic leaves with entire margins, pinnate venation, and short petioles. Some leaves show small holes, likely from physical damage or minor herbivory, but no signs of disease or pathogen. The seedling appears to be a young woody plant in a forest floor setting, with surrounding leaf litter and other understory vegetation. No reproductive structures are visible.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 20908.547113183886
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 20908.547113183886,
+  "benchmark_metadata": {
+    "scientific_name": "Bronwenia cornifolia",
+    "family": "Malpighiaceae",
+    "genus": "Bronwenia",
+    "species_epithet": "cornifolia",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "specimen_id": "PEA0040",
+  "source_answer_key": "Violaceae_Pombalia_prunifolia_PEA0040",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "opposite",
+            "spacing": "distal"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "toothed",
+            "shape": "elliptic",
+            "apex": "acuminate",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "visible but faint, moderately spaced, about 4\u20136 pairs",
+            "surface_features": "glabrous, shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "unclear"
+          },
+          "stem_traits": {
+            "type": "unclear",
+            "trichomes": "unclear",
+            "color": "green",
+            "texture": "lenticellate"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "unclear",
+            "tendrils": "absent"
+          },
+          "notes": "Several leaves show holes present and small missing areas of the margin. Seedling has a very slender, sprawling stem with long internodes, and leaf arrangement away from the clearest central node is difficult to verify from the images."
+        }
+      }
+    }
+  }
+}

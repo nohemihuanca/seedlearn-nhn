@@ -1,0 +1,91 @@
+{
+  "specimen_id": "SHPERAAR2",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Peraceae/by_genus/Pera/by_species/arborea/SHPERAAR2/Peraceae_Pera_arborea_SHPERAAR2_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Peraceae/by_genus/Pera/by_species/arborea/SHPERAAR2/Peraceae_Pera_arborea_SHPERAAR2_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Peraceae/by_genus/Pera/by_species/arborea/SHPERAAR2/Peraceae_Pera_arborea_SHPERAAR2_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Peraceae/by_genus/Pera/by_species/arborea/SHPERAAR2/Peraceae_Pera_arborea_SHPERAAR2_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Peraceae/by_genus/Pera/by_species/arborea/SHPERAAR2/Peraceae_Pera_arborea_SHPERAAR2_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "whorled",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "acute",
+            "base": "rounded",
+            "venation": "pinnate",
+            "secondary_veins": "visible, closely spaced, numerous",
+            "surface_features": "shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "brownish-green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "The seedling is small, with three leaves arranged in a whorl at the apex. The leaves are glossy, elliptic, and entire. There is a pink tag attached to the stem, likely for identification purposes. The surrounding ground is covered with leaf litter and small twigs, but no specific habitat features are clearly visible. No signs of damage such as holes or margin loss are evident on the leaves. All observations are based on the provided images, and no family, genus, or species is identified per conservative annotation rules."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): whorled (three leaves clearly attached at a single node, visible in multiple images)\n    2. Leaf spacing (clustered / distal): clustered (leaves are grouped closely at the apex of the stem)\n\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): simple (each leaf is a single blade without divisions into leaflets)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): N/A\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): N/A\n    6. Leaflet arrangement (opposite / alternate / subopposite): N/A\n\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (smooth margin with no teeth or lobes)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): elliptic (broadest near the middle, tapering to both ends)\n    9. Leaf apex (acute, obtuse, acuminate): acute (comes to a sharp, pointed tip)\n    10. Leaf base (rounded, cordate, cuneate): rounded (base is smoothly curved)\n    11. Venation type (pinnate / palmate / parallel): pinnate (main vein runs from base to apex, with secondary veins branching off laterally)\n    12. Secondary veins (visibility, spacing, number): visible, closely spaced, numerous (secondary veins are clearly visible and run parallel to each other, forming a dense network)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): shiny (surface reflects light, appears glossy)\n    14. Leaf surface trichomes (present / absent): absent (no visible hairs on leaf surface)\n    15. Petiole length (short / long): short (petiole is short, less than 1/3 the length of the leaf blade)\n    16. Petiole features (winged / grooved / terete): terete (round in cross-section, no wings or grooves)\n\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): woody (stem appears firm and slightly lignified, typical of young tree seedlings)\n    18. Stem trichomes (present / absent): absent (no visible hairs on stem)\n    19. Stem color: brownish-green (stem has a greenish hue at the top, turning brown toward the base)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (surface appears smooth without ridges or lenticels)\n\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules visible at leaf base)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no exudate visible when stem is broken or damaged)\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no swollen base at leaf petiole attachment, which would indicate pulvinus)\n    24. Tendrils (present / absent): absent (no tendrils visible)\n\nF. Notes: The seedling is small, with three leaves arranged in a whorl at the apex. The leaves are glossy, elliptic, and entire. There is a pink tag attached to the stem, likely for identification purposes. The surrounding ground is covered with leaf litter and small twigs, but no specific habitat features are clearly visible. No signs of damage such as holes or margin loss are evident on the leaves. All observations are based on the provided images, and no family, genus, or species is identified per conservative annotation rules.",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 20020.051737781614
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 20020.051737781614,
+  "benchmark_metadata": {
+    "scientific_name": "Pera arborea",
+    "family": "Peraceae",
+    "genus": "Pera",
+    "species_epithet": "arborea",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

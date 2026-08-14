@@ -1,0 +1,73 @@
+{
+  "specimen_id": "BVGUATAM5",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Annonaceae/by_genus/Guatteria/by_species/amplifolia/BVGUATAM5/Annonaceae_Guatteria_amplifolia_BVGUATAM5_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Annonaceae/by_genus/Guatteria/by_species/amplifolia/BVGUATAM5/Annonaceae_Guatteria_amplifolia_BVGUATAM5_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Annonaceae/by_genus/Guatteria/by_species/amplifolia/BVGUATAM5/Annonaceae_Guatteria_amplifolia_BVGUATAM5_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Annonaceae/by_genus/Guatteria/by_species/amplifolia/BVGUATAM5/Annonaceae_Guatteria_amplifolia_BVGUATAM5_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Annonaceae/by_genus/Guatteria/by_species/amplifolia/BVGUATAM5/Annonaceae_Guatteria_amplifolia_BVGUATAM5_005.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Annonaceae/by_genus/Guatteria/by_species/amplifolia/BVGUATAM5/Annonaceae_Guatteria_amplifolia_BVGUATAM5_006.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {},
+          "leaf_complexity": {},
+          "leaf_morphology": {
+            "margin": "entire"
+          },
+          "stem_traits": {},
+          "special_features": {},
+          "notes": "The leaves are arranged in a whorl. The leaf blades are oblanceolate to elliptic with a strongly pinnate venation pattern that gives the surface a slightly rugose texture, but the margins themselves remain smooth."
+        },
+        "raw_response": "C. Leaf Morphology\n    7.\tLeaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (the leaf edges are smooth and continuous throughout their length, showing no teeth, serrations, or lobes)\nF. Notes: The leaves are arranged in a whorl. The leaf blades are oblanceolate to elliptic with a strongly pinnate venation pattern that gives the surface a slightly rugose texture, but the margins themselves remain smooth.\n\n####",
+        "thinking": null,
+        "few_shot_delivery": {
+          "n_examples": 0,
+          "n_exemplar_images": 0,
+          "n_specimen_images": 6,
+          "max_images": 10,
+          "images_over_budget": false,
+          "prompt_chars": 2155
+        }
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 1904.8178440000356
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 1904.8178440000356,
+  "benchmark_metadata": {
+    "scientific_name": "Guatteria amplifolia",
+    "family": "Annonaceae",
+    "genus": "Guatteria",
+    "species_epithet": "amplifolia",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "specimen_id": "PPSTRYPA8",
+  "source_answer_key": "Loganiaceae_Strychnos_panamensis_PPSTRYPA8",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "alternate",
+            "spacing": "distal"
+          },
+          "leaf_complexity": {
+            "type": "compound",
+            "compound_type": "N/A",
+            "num_leaflets": "3",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "narrowly elliptic",
+            "apex": "acuminate",
+            "base": "cuneate",
+            "venation": "palmate",
+            "secondary_veins": "moderately visible, moderately spaced, about 4\u20136 finer veins per leaflet side",
+            "surface_features": "glabrous, slightly shiny",
+            "trichomes": "absent",
+            "petiole_length": "long",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "unclear",
+            "trichomes": "absent",
+            "color": "green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "unclear",
+            "tendrils": "absent"
+          },
+          "notes": "Assessment refers to the larger glossy trifoliolate seedling; a separate smaller interwoven plant with much smaller leaves is also present in the images and was excluded from the scoring. Minor holes and small missing portions are visible on a few leaflets."
+        }
+      }
+    }
+  }
+}

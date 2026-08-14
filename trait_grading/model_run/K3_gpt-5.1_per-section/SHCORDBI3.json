@@ -1,0 +1,47 @@
+{
+  "specimen_id": "SHCORDBI3",
+  "source_answer_key": "Boraginaceae_Cordia_bicolor_SHCORDBI3",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "whorled",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "toothed, serrate",
+            "shape": "lanceolate",
+            "apex": "acuminate",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "clearly visible, evenly spaced, approximately 10\u201315 pairs",
+            "surface_features": "dull",
+            "trichomes": "unclear",
+            "petiole_length": "short",
+            "petiole_features": "unclear"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "unclear",
+            "color": "green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Seedling shows a single apparent whorl of several elongate, serrate-margined leaves at the stem apex, with some holes and missing portions along the margins; stem and petiole surfaces appear smooth without obvious appendages."
+        }
+      }
+    }
+  }
+}

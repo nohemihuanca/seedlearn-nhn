@@ -1,0 +1,91 @@
+{
+  "specimen_id": "SRSYMPGL2",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Clusiaceae/by_genus/Symphonia/by_species/globulifera/SRSYMPGL2/Clusiaceae_Symphonia_globulifera_SRSYMPGL2_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Clusiaceae/by_genus/Symphonia/by_species/globulifera/SRSYMPGL2/Clusiaceae_Symphonia_globulifera_SRSYMPGL2_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Clusiaceae/by_genus/Symphonia/by_species/globulifera/SRSYMPGL2/Clusiaceae_Symphonia_globulifera_SRSYMPGL2_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Clusiaceae/by_genus/Symphonia/by_species/globulifera/SRSYMPGL2/Clusiaceae_Symphonia_globulifera_SRSYMPGL2_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Clusiaceae/by_genus/Symphonia/by_species/globulifera/SRSYMPGL2/Clusiaceae_Symphonia_globulifera_SRSYMPGL2_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "opposite",
+            "spacing": "distal"
+          },
+          "leaf_complexity": {
+            "type": "compound",
+            "compound_type": "odd-pinnate",
+            "num_leaflets": "7",
+            "leaflet_arrangement": "opposite"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "lanceolate",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "visible, fine, and numerous",
+            "surface_features": "shiny",
+            "trichomes": "absent",
+            "petiole_length": "long",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "absent",
+            "color": "green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "One leaflet shows a distinct notch or hole in the margin. The plant is growing at the base of a larger tree trunk."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): opposite (pairs of leaflets are clearly visible attached at the same node along the rachis)\n    2. Leaf spacing (clustered / distal): distal (leaflets are spaced out along the rachis, not clustered at the tip)\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): compound (the leaf is composed of multiple distinct leaflets attached to a central axis)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): odd-pinnate (there is a single terminal leaflet at the apex of the rachis)\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): 7 (one terminal leaflet and three pairs of lateral leaflets are visible on the primary leaf)\n    6. Leaflet arrangement (opposite / alternate / subopposite): opposite (the lateral leaflets are arranged in pairs at the nodes)\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.): entire (the leaflet margins appear smooth and continuous)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): lanceolate (leaflets are longer than wide, tapering toward both ends)\n    9. Leaf apex (acute, obtuse, acuminate): acute (the leaflet tips come to a distinct, sharp point)\n    10. Leaf base (rounded, cordate, cuneate): cuneate (the leaflets taper gradually into the petiolule)\n    11. Venation type (pinnate / palmate / parallel): pinnate (a central midrib is visible with secondary veins branching from it)\n    12. Secondary veins (visibility, spacing, number): visible, fine, and numerous (secondary veins branch off the midrib at an acute angle and extend toward the margin)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): shiny (the leaflets have a glossy, reflective surface texture)\n    14. Leaf surface trichomes (present / absent): absent (no hairs or fuzz are visible on the leaf surface)\n    15. Petiole length (short / long): long (the petiole and rachis are elongated relative to the leaflet size)\n    16. Petiole features (winged / grooved / terete): terete (the rachis appears cylindrical and round in cross-section)\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): herbaceous (the young stems appear green and flexible rather than woody)\n    18. Stem trichomes (present / absent): absent (the stems appear smooth and hairless)\n    19. Stem color: green (the stems are a distinct green color)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (the stems appear uniform without ridges or prominent lenticels)\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules are visible at the leaf bases)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no latex is visible)\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no pulvinus is visible at the leaf base)\n    24. Tendrils (present / absent): absent (no tendrils are visible)\nF. Notes: One leaflet shows a distinct notch or hole in the margin. The plant is growing at the base of a larger tree trunk.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 4782.156866043806
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 4782.156866043806,
+  "benchmark_metadata": {
+    "scientific_name": "Symphonia globulifera",
+    "family": "Clusiaceae",
+    "genus": "Symphonia",
+    "species_epithet": "globulifera",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

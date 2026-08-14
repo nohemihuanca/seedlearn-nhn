@@ -1,0 +1,91 @@
+{
+  "specimen_id": "SRLONCAT1",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Lonchocarpus/by_species/atropurpureus/SRLONCAT1/Fabaceae_Lonchocarpus_atropurpureus_SRLONCAT1_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Lonchocarpus/by_species/atropurpureus/SRLONCAT1/Fabaceae_Lonchocarpus_atropurpureus_SRLONCAT1_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Lonchocarpus/by_species/atropurpureus/SRLONCAT1/Fabaceae_Lonchocarpus_atropurpureus_SRLONCAT1_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Lonchocarpus/by_species/atropurpureus/SRLONCAT1/Fabaceae_Lonchocarpus_atropurpureus_SRLONCAT1_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Lonchocarpus/by_species/atropurpureus/SRLONCAT1/Fabaceae_Lonchocarpus_atropurpureus_SRLONCAT1_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "alternate",
+            "spacing": "distal"
+          },
+          "leaf_complexity": {
+            "type": "compound",
+            "compound_type": "odd-pinnate",
+            "num_leaflets": "3",
+            "leaflet_arrangement": "alternate"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "acuminate",
+            "base": "rounded",
+            "venation": "pinnate",
+            "secondary_veins": "clearly visible, spaced, numerous",
+            "surface_features": "shiny, glabrous",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "present",
+            "color": "green to light brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "present",
+            "tendrils": "absent"
+          },
+          "notes": "The plant exhibits trifoliate leaves (3 leaflets), which is a common characteristic in some legumes. The presence of a pulvinus strongly suggests it belongs to the Fabaceae family. The stems show fine trichomes. There are holes present in some of the older leaves on the left side of the image."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): alternate (leaves are attached at successive nodes along the stem, alternating sides)\n    2. Leaf spacing (clustered / distal): distal (leaves are spaced apart along the stem rather than in tight clusters)\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): compound (each leaf unit consists of multiple leaflets attached to a central axis)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): odd-pinnate (each leaf has a terminal leaflet at the end of the rachis)\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): 3 (visible leaves consistently show three leaflets)\n    6. Leaflet arrangement (opposite / alternate / subopposite): alternate (the lateral leaflets are attached slightly offset from each other along the rachis, not perfectly paired)\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.): entire (leaf edges are smooth without teeth)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): elliptic (leaflets are oval-shaped, widest near the middle)\n    9. Leaf apex (acute, obtuse, acuminate): acuminate (leaf tips taper gradually to a distinct point)\n    10. Leaf base (rounded, cordate, cuneate): rounded (leaf bases appear broadly rounded)\n    11. Venation type (pinnate / palmate / parallel): pinnate (a central midrib with veins branching off to the sides)\n    12. Secondary veins (visibility, spacing, number): clearly visible, spaced, numerous (veins are distinct and run towards the margin)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): shiny, glabrous (surfaces reflect light and appear smooth without hair)\n    14. Leaf surface trichomes (present / absent): absent (no hairs visible on the leaf surface)\n    15. Petiole length (short / long): short (the leaflets are attached to the rachis with very short stalks)\n    16. Petiole features (winged / grooved / terete): terete (petioles and rachis appear round in cross-section)\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): woody (stems appear rigid and lignified)\n    18. Stem trichomes (present / absent): present (fine, short hairs are visible on the stems, especially on the younger green parts)\n    19. Stem color: green to light brown (stems show a mix of green on newer growth and brownish tones on older sections)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (stems appear generally smooth, though fine hairs may give a slightly textured feel)\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules are clearly visible at the leaf bases)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no latex exudate is visible)\n    23. Pulvinus, for Fabaceae family only (present / absent): present (a distinct swollen joint is visible at the base of the leaf petiole/rachis where it attaches to the stem)\n    24. Tendrils (present / absent): absent (no tendrils are visible)\nF. Notes: The plant exhibits trifoliate leaves (3 leaflets), which is a common characteristic in some legumes. The presence of a pulvinus strongly suggests it belongs to the Fabaceae family. The stems show fine trichomes. There are holes present in some of the older leaves on the left side of the image.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 4977.92358789593
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 4977.92358789593,
+  "benchmark_metadata": {
+    "scientific_name": "Lonchocarpus atropurpureus",
+    "family": "Fabaceae",
+    "genus": "Lonchocarpus",
+    "species_epithet": "atropurpureus",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "specimen_id": "ANMAPRGU4",
+  "source_answer_key": "Euphorbiaceae_Maprounea_guianensis_ANMAPRGU4",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {},
+          "leaf_complexity": {},
+          "leaf_morphology": {
+            "shape": "elliptic to narrowly ovate",
+            "venation": "pinnate",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "trichomes": "absent"
+          },
+          "special_features": {
+            "tendrils": "absent"
+          },
+          "notes": "Pink petal-like structure visible on the stem; foliage consists of many small, simple, entire, elliptic leaves on thin, flexuous branches (suggesting a delicate, possibly scandent growth habit)."
+        }
+      }
+    }
+  }
+}

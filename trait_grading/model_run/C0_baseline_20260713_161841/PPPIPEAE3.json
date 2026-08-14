@@ -1,0 +1,91 @@
+{
+  "specimen_id": "PPPIPEAE3",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Piperaceae/by_genus/Piper/by_species/aequale/PPPIPEAE3/Piperaceae_Piper_aequale_PPPIPEAE3_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Piperaceae/by_genus/Piper/by_species/aequale/PPPIPEAE3/Piperaceae_Piper_aequale_PPPIPEAE3_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Piperaceae/by_genus/Piper/by_species/aequale/PPPIPEAE3/Piperaceae_Piper_aequale_PPPIPEAE3_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Piperaceae/by_genus/Piper/by_species/aequale/PPPIPEAE3/Piperaceae_Piper_aequale_PPPIPEAE3_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Piperaceae/by_genus/Piper/by_species/aequale/PPPIPEAE3/Piperaceae_Piper_aequale_PPPIPEAE3_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "opposite",
+            "spacing": "distal"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "obtuse",
+            "base": "rounded",
+            "venation": "pinnate",
+            "secondary_veins": "visible, moderately spaced, 5-7 pairs per leaf",
+            "surface_features": "shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "absent",
+            "color": "green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Multiple images show the same seedling from different angles. Some leaves exhibit holes, which are noted as damage without inferring cause. Leaf margins are consistently entire, and venation is clearly pinnate. The stem is herbaceous and green, with no visible trichomes or lenticels. No stipules or pulvinus are visible. The plant appears to be growing in a shaded, leaf-littered forest floor environment, though this is inferred from surroundings and not directly assessed per rules."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): opposite (clear paired leaves at each visible node along the stem, with nodes clearly visible in multiple images)\n    2. Leaf spacing (clustered / distal): distal (leaves spaced out along the stem, not bunched at the apex or base)\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): simple (each leaf is a single blade without divisions into leaflets)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): N/A\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): N/A\n    6. Leaflet arrangement (opposite / alternate / subopposite): N/A\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (smooth margin with no teeth or serrations visible across all images)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): elliptic (broadest near the middle, tapering to both ends, with a rounded apex and base)\n    9. Leaf apex (acute, obtuse, acuminate): obtuse (blunt or rounded tip, not pointed)\n    10. Leaf base (rounded, cordate, cuneate): rounded (smooth, curved base without a distinct angle or notch)\n    11. Venation type (pinnate / palmate / parallel): pinnate (one central midrib with lateral veins branching off, visible in multiple images)\n    12. Secondary veins (visibility, spacing, number): visible, moderately spaced, 5-7 pairs per leaf (secondary veins clearly visible and running parallel to midrib, spaced evenly across leaf width)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): shiny (surface reflects light, indicating a waxy or glossy cuticle)\n    14. Leaf surface trichomes (present / absent): absent (no visible hairs or fuzz on leaf surface)\n    15. Petiole length (short / long): short (petiole is relatively short compared to leaf blade, less than 1/3 of leaf length)\n    16. Petiole features (winged / grooved / terete): terete (round, cylindrical petiole without wings or grooves)\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): herbaceous (stem appears green, flexible, and non-woody, consistent across images)\n    18. Stem trichomes (present / absent): absent (no visible hairs on stem surface)\n    19. Stem color: green (uniform green coloration, consistent in all images)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (no visible ridges or lenticels; surface appears even)\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules observed at leaf bases in any image)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no milky or colored sap visible when stem is broken or damaged)\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no swollen leaf base or joint at petiole-stem junction visible)\n    24. Tendrils (present / absent): absent (no modified leaves or stems coiling or grasping)\nF. Notes: Multiple images show the same seedling from different angles. Some leaves exhibit holes, which are noted as damage without inferring cause. Leaf margins are consistently entire, and venation is clearly pinnate. The stem is herbaceous and green, with no visible trichomes or lenticels. No stipules or pulvinus are visible. The plant appears to be growing in a shaded, leaf-littered forest floor environment, though this is inferred from surroundings and not directly assessed per rules.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 20909.152448177338
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 20909.152448177338,
+  "benchmark_metadata": {
+    "scientific_name": "Piper aequale",
+    "family": "Piperaceae",
+    "genus": "Piper",
+    "species_epithet": "aequale",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

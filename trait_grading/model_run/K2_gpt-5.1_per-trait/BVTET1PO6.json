@@ -1,0 +1,47 @@
+{
+  "specimen_id": "BVTET1PO6",
+  "source_answer_key": "Dilleniaceae_Tetracera_portobellensis_BVTET1PO6",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "whorled",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "toothed, serrate",
+            "shape": "narrowly elliptic",
+            "apex": "acuminate",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "clearly visible, closely spaced, numerous",
+            "surface_features": "glabrous, dull",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "present",
+            "color": "green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Seedling shows a single, basal whorl of approximately 7\u20138 simple leaves; leaves are narrowly elliptic to lanceolate with clearly serrated margins and an acuminate apex. Venation is strongly pinnate with slightly arcuate secondary veins. Petioles are short and attach to a short central stem that appears pubescent, with fine hairs visible at the node. Leaf surfaces appear slightly rough or minutely pubescent. Some leaf margins are partially missing."
+        }
+      }
+    }
+  }
+}

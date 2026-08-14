@@ -1,0 +1,72 @@
+{
+  "specimen_id": "PPSTYLTU5",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Primulaceae/by_genus/Stylogyne/by_species/turbacensis/PPSTYLTU5/Primulaceae_Stylogyne_turbacensis_PPSTYLTU5_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Primulaceae/by_genus/Stylogyne/by_species/turbacensis/PPSTYLTU5/Primulaceae_Stylogyne_turbacensis_PPSTYLTU5_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Primulaceae/by_genus/Stylogyne/by_species/turbacensis/PPSTYLTU5/Primulaceae_Stylogyne_turbacensis_PPSTYLTU5_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Primulaceae/by_genus/Stylogyne/by_species/turbacensis/PPSTYLTU5/Primulaceae_Stylogyne_turbacensis_PPSTYLTU5_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Primulaceae/by_genus/Stylogyne/by_species/turbacensis/PPSTYLTU5/Primulaceae_Stylogyne_turbacensis_PPSTYLTU5_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {},
+          "leaf_complexity": {},
+          "leaf_morphology": {
+            "margin": "entire"
+          },
+          "stem_traits": {},
+          "special_features": {},
+          "notes": "The leaf margins are clearly visible in multiple views and show no evidence of natural dentation or lobing. Some leaves exhibit minor physical damage (torn edges), but the underlying margin structure is smooth and continuous."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nC. Leaf Morphology\n    7.\tLeaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (the leaf margins appear as continuous, smooth lines without any teeth, serrations, or lobes along the intact portions visible in the images)\nF. Notes: The leaf margins are clearly visible in multiple views and show no evidence of natural dentation or lobing. Some leaves exhibit minor physical damage (torn edges), but the underlying margin structure is smooth and continuous.\n####",
+        "thinking": null,
+        "few_shot_delivery": {
+          "n_examples": 0,
+          "n_exemplar_images": 0,
+          "n_specimen_images": 5,
+          "max_images": 10,
+          "images_over_budget": false,
+          "prompt_chars": 2155
+        }
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 1661.9371539999293
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 1661.9371539999293,
+  "benchmark_metadata": {
+    "scientific_name": "Stylogyne turbacensis",
+    "family": "Primulaceae",
+    "genus": "Stylogyne",
+    "species_epithet": "turbacensis",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "specimen_id": "SRCASSEL5",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rhizophoraceae/by_genus/Cassipourea/by_species/elliptica/SRCASSEL5/Rhizophoraceae_Cassipourea_elliptica_SRCASSEL5_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rhizophoraceae/by_genus/Cassipourea/by_species/elliptica/SRCASSEL5/Rhizophoraceae_Cassipourea_elliptica_SRCASSEL5_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rhizophoraceae/by_genus/Cassipourea/by_species/elliptica/SRCASSEL5/Rhizophoraceae_Cassipourea_elliptica_SRCASSEL5_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rhizophoraceae/by_genus/Cassipourea/by_species/elliptica/SRCASSEL5/Rhizophoraceae_Cassipourea_elliptica_SRCASSEL5_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rhizophoraceae/by_genus/Cassipourea/by_species/elliptica/SRCASSEL5/Rhizophoraceae_Cassipourea_elliptica_SRCASSEL5_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {},
+          "leaf_complexity": {},
+          "leaf_morphology": {
+            "margin": "[entire"
+          },
+          "stem_traits": {},
+          "special_features": {},
+          "notes": "[Some leaves show physical damage including holes and chewed edges, but the intact margins are smooth.]"
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nC. Leaf Morphology\n    7.\tLeaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): [entire (the leaf edges appear smooth and continuous without any teeth or serrations, as seen clearly in the second and fifth images)]\nF. Notes: [Some leaves show physical damage including holes and chewed edges, but the intact margins are smooth.]\n####",
+        "thinking": null,
+        "few_shot_delivery": {
+          "n_examples": 0,
+          "n_exemplar_images": 0,
+          "n_specimen_images": 5,
+          "max_images": 10,
+          "images_over_budget": false,
+          "prompt_chars": 940
+        }
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 1653.9948749999667
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 1653.9948749999667,
+  "benchmark_metadata": {
+    "scientific_name": "Cassipourea elliptica",
+    "family": "Rhizophoraceae",
+    "genus": "Cassipourea",
+    "species_epithet": "elliptica",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

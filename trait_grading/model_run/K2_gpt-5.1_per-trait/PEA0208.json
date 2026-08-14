@@ -1,0 +1,47 @@
+{
+  "specimen_id": "PEA0208",
+  "source_answer_key": "Euphorbiaceae_Acalypha_diversifolia_PEA0208",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "opposite",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "1",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "toothed, crenate",
+            "shape": "ovate",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "clearly visible, pinnate, regularly and fairly closely spaced, approximately 8\u201310 pairs per leaf",
+            "surface_features": "dull to slightly rugose",
+            "trichomes": "present",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "present",
+            "color": "light brown to grayish-brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "unclear",
+            "tendrils": "absent"
+          },
+          "notes": "Seedling has simple, ovate leaves with serrated margins and a hairy stem, but no climbing or grasping organs observed (supports coding of tendrils as absent)."
+        }
+      }
+    }
+  }
+}

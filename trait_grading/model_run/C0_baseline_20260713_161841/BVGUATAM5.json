@@ -1,0 +1,92 @@
+{
+  "specimen_id": "BVGUATAM5",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Annonaceae/by_genus/Guatteria/by_species/amplifolia/BVGUATAM5/Annonaceae_Guatteria_amplifolia_BVGUATAM5_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Annonaceae/by_genus/Guatteria/by_species/amplifolia/BVGUATAM5/Annonaceae_Guatteria_amplifolia_BVGUATAM5_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Annonaceae/by_genus/Guatteria/by_species/amplifolia/BVGUATAM5/Annonaceae_Guatteria_amplifolia_BVGUATAM5_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Annonaceae/by_genus/Guatteria/by_species/amplifolia/BVGUATAM5/Annonaceae_Guatteria_amplifolia_BVGUATAM5_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Annonaceae/by_genus/Guatteria/by_species/amplifolia/BVGUATAM5/Annonaceae_Guatteria_amplifolia_BVGUATAM5_005.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Annonaceae/by_genus/Guatteria/by_species/amplifolia/BVGUATAM5/Annonaceae_Guatteria_amplifolia_BVGUATAM5_006.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "whorled",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "acute",
+            "base": "rounded",
+            "venation": "pinnate",
+            "secondary_veins": "visible, closely spaced, numerous",
+            "surface_features": "shiny, glabrous",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "green to reddish-brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "The seedling exhibits a whorled leaf arrangement with 5\u20136 leaves emerging from a single node, forming a rosette. Leaves are simple, elliptic, with entire margins and a glossy surface. The stem is short, green to reddish-brown, and appears woody. No damage or trichomes are evident. An orange tag is attached to the stem, likely for identification purposes. All images show the same individual from slightly different angles, confirming the consistency of these traits. No diagnostic features such as latex or pulvinus are visible."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): whorled (multiple leaves clearly attach at the same node, visible in close-up images)\n    2. Leaf spacing (clustered / distal): clustered (leaves are grouped at the apex of the stem, forming a rosette-like cluster)\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): simple (each leaf is a single blade with no divisions into leaflets)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): N/A\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): N/A\n    6. Leaflet arrangement (opposite / alternate / subopposite): N/A\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (smooth margin with no teeth or lobes visible)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): elliptic (broadest near the middle, tapering gradually to both ends)\n    9. Leaf apex (acute, obtuse, acuminate): acute (tapering to a sharp point)\n    10. Leaf base (rounded, cordate, cuneate): rounded (base is broad and gently curved)\n    11. Venation type (pinnate / palmate / parallel): pinnate (main vein runs lengthwise with secondary veins branching off at angles)\n    12. Secondary veins (visibility, spacing, number): visible, closely spaced, numerous (clearly visible and running parallel to each other, numerous across the leaf surface)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): shiny, glabrous (surface is smooth and glossy, reflecting light)\n    14. Leaf surface trichomes (present / absent): absent (no visible hairs or fuzz on leaf surface)\n    15. Petiole length (short / long): short (petiole is short, barely visible, leaves appear nearly sessile)\n    16. Petiole features (winged / grooved / terete): terete (petiole is round in cross-section, no wings or grooves observed)\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): woody (stem appears firm and slightly thickened, consistent with young woody growth)\n    18. Stem trichomes (present / absent): absent (no visible hairs on stem)\n    19. Stem color: green to reddish-brown (stem is primarily green with some reddish-brown tones, especially near the base)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (surface appears smooth without ridges or lenticels)\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules visible at leaf base)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no exudate visible when stem is broken or damaged)\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no visible pulvinus at leaf base)\n    24. Tendrils (present / absent): absent (no tendrils observed)\nF. Notes: The seedling exhibits a whorled leaf arrangement with 5\u20136 leaves emerging from a single node, forming a rosette. Leaves are simple, elliptic, with entire margins and a glossy surface. The stem is short, green to reddish-brown, and appears woody. No damage or trichomes are evident. An orange tag is attached to the stem, likely for identification purposes. All images show the same individual from slightly different angles, confirming the consistency of these traits. No diagnostic features such as latex or pulvinus are visible.",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 22471.310761291534
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 22471.310761291534,
+  "benchmark_metadata": {
+    "scientific_name": "Guatteria amplifolia",
+    "family": "Annonaceae",
+    "genus": "Guatteria",
+    "species_epithet": "amplifolia",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

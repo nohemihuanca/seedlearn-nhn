@@ -1,0 +1,47 @@
+{
+  "specimen_id": "PEA0224",
+  "source_answer_key": "Convolvulaceae_Maripa_panamensis_PEA0224",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "opposite",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic-lanceolate",
+            "apex": "acuminate",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "clearly visible, regularly spaced, about 6\u20139 pairs",
+            "surface_features": "glabrous, shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "unclear",
+            "trichomes": "absent",
+            "color": "green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "A few leaves show minor damage, including holes present and a small section of margin missing; the stem base and some nodes are partly obscured by surrounding litter and branches."
+        }
+      }
+    }
+  }
+}

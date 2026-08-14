@@ -1,0 +1,47 @@
+{
+  "specimen_id": "ANROUPMO6",
+  "source_answer_key": "Proteaceae_Roupala_montana_ANROUPMO6",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "unclear",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "compound",
+            "compound_type": "odd-pinnate",
+            "num_leaflets": "32",
+            "leaflet_arrangement": "opposite"
+          },
+          "leaf_morphology": {
+            "margin": "toothed, serrate",
+            "shape": "lanceolate",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "unclear",
+            "surface_features": "glabrous, dull",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "unclear"
+          },
+          "stem_traits": {
+            "type": "unclear",
+            "trichomes": "absent",
+            "color": "light green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "unclear",
+            "tendrils": "absent"
+          },
+          "notes": "Compound leaf with numerous serrated leaflets visible (leaflets arranged along a central rachis with sharp-toothed margins); some leaflets show holes present (discrete round to irregular perforations); seedling situated among other broad-leaved understory vegetation (surrounding plants with strap-like leaves visible in background)"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "specimen_id": "PPABUTRA10",
+  "source_answer_key": "Menispermaceae_Abuta_racemosa_PPABUTRA10",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "unclear",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "ovate",
+            "apex": "acuminate",
+            "base": "rounded",
+            "venation": "pinnate",
+            "secondary_veins": "clearly visible, moderately spaced, approximately 6\u20139 pairs per side",
+            "surface_features": "glabrous, shiny, rugose",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "unclear",
+            "trichomes": "absent",
+            "color": "light brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "unclear",
+            "tendrils": "absent"
+          },
+          "notes": "Seedling displays simple, entire, ovate leaves with pronounced reticulate venation and appears upright without obvious climbing or twining structures (morphological description only, no taxonomic inference)"
+        }
+      }
+    }
+  }
+}

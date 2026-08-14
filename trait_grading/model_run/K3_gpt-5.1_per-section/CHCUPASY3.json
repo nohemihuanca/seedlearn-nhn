@@ -1,0 +1,47 @@
+{
+  "specimen_id": "CHCUPASY3",
+  "source_answer_key": "Sapindaceae_Cupania_seemannii_CHCUPASY3",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "alternate",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "visible, 6\u201310 pairs, evenly spaced",
+            "surface_features": "glabrous, dull",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "brown to green-brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "unclear",
+            "tendrils": "absent"
+          },
+          "notes": "Leaves appear simple, elliptic to narrowly elliptic with entire margins where intact (some areas of margin missing), pinnate venation, and a glabrous surface; seedling is slender and tagged with pink tape at a lower branch."
+        }
+      }
+    }
+  }
+}

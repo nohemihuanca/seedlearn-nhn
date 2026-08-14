@@ -1,0 +1,91 @@
+{
+  "specimen_id": "ANCONNPA5",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Connaraceae/by_genus/Connarus/by_species/panamensis/ANCONNPA5/Connaraceae_Connarus_panamensis_ANCONNPA5_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Connaraceae/by_genus/Connarus/by_species/panamensis/ANCONNPA5/Connaraceae_Connarus_panamensis_ANCONNPA5_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Connaraceae/by_genus/Connarus/by_species/panamensis/ANCONNPA5/Connaraceae_Connarus_panamensis_ANCONNPA5_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Connaraceae/by_genus/Connarus/by_species/panamensis/ANCONNPA5/Connaraceae_Connarus_panamensis_ANCONNPA5_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Connaraceae/by_genus/Connarus/by_species/panamensis/ANCONNPA5/Connaraceae_Connarus_panamensis_ANCONNPA5_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "opposite",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "ovate",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "visible and evenly spaced, curving towards the leaf margin",
+            "surface_features": "glabrous and shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "absent",
+            "color": "green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "The seedling shows clear signs of damage with multiple holes in the leaf margins and midribs. The leaves are arranged in a decussate pattern (opposite pairs at successive nodes). The leaf blades appear somewhat thick or leathery."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): opposite (clearly visible paired leaves attached at the same node on the stem)\n    2. Leaf spacing (clustered / distal): clustered (leaves are grouped closely together at the terminal end of the shoot)\nB. Leaf Complexity\n    3.\tLeaf complexity (simple / compound): simple (individual leaves are undivided)\n    4.\tCompound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): N/A\n    5.\tNumber of leaflets (integer estimate 2, 4, 8, \u2026): N/A\n    6.\tLeaflet arrangement (opposite / alternate / subopposite): N/A\nC. Leaf Morphology\n    7.\tLeaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (smooth edge without teeth)\n    8.\tLeaf shape (elliptic, obovate, lanceolate, etc.): ovate (broadest near the base and tapering to the tip)\n    9.\tLeaf apex (acute, obtuse, acuminate): acute (tapering to a sharp point)\n    10.\tLeaf base (rounded, cordate, cuneate): cuneate (wedge-shaped, narrowing towards the petiole)\n    11.\tVenation type (pinnate / palmate / parallel): pinnate (single midrib with secondary veins branching off)\n    12.\tSecondary veins (visibility, spacing, number): visible and evenly spaced, curving towards the leaf margin\n    13.\tLeaf surface features (glabrous, shiny, dull, rugose): glabrous and shiny (smooth surface with a noticeable sheen)\n    14.\tLeaf surface trichomes (present / absent): absent\n    15.\tPetiole length (short / long): short (petioles are visible but relatively short compared to the leaf blade)\n    16.\tPetiole features (winged / grooved / terete): terete (cylindrical and round in cross-section)\nD. Stem & Shoot Traits\n    17.\tStem type, may not be visible (woody / herbaceous): herbaceous (thin, flexible green stem typical of a young seedling)\n    18.\tStem trichomes (present / absent): absent\n    19.\tStem color: green (with some darker brownish tones at the nodes)\n    20.\tStem texture (smooth / ridged / lenticellate): smooth\nE. Other Visible Seedling Traits\n    21.\tStipules, sometimes visible only in close-up images (present / absent): absent\n    22.\tLatex, rarely visible but extremely diagnostic when present (present / not observed): not observed\n    23.\tPulvinus, for Fabaceae family only (present / absent): absent\n    24.\tTendrils (present / absent): absent\nF. Notes: The seedling shows clear signs of damage with multiple holes in the leaf margins and midribs. The leaves are arranged in a decussate pattern (opposite pairs at successive nodes). The leaf blades appear somewhat thick or leathery.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 4318.925711791962
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 4318.925711791962,
+  "benchmark_metadata": {
+    "scientific_name": "Connarus panamensis",
+    "family": "Connaraceae",
+    "genus": "Connarus",
+    "species_epithet": "panamensis",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

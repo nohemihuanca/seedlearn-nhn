@@ -1,0 +1,487 @@
+{
+  "specimen_id": "BAR0401",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Sapotaceae/by_genus/Pouteria/by_species/reticulata/BAR0401/Sapotaceae_Pouteria_reticulata_BAR0401_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Sapotaceae/by_genus/Pouteria/by_species/reticulata/BAR0401/Sapotaceae_Pouteria_reticulata_BAR0401_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Sapotaceae/by_genus/Pouteria/by_species/reticulata/BAR0401/Sapotaceae_Pouteria_reticulata_BAR0401_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Sapotaceae/by_genus/Pouteria/by_species/reticulata/BAR0401/Sapotaceae_Pouteria_reticulata_BAR0401_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Sapotaceae/by_genus/Pouteria/by_species/reticulata/BAR0401/Sapotaceae_Pouteria_reticulata_BAR0401_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "whorled",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "lanceolate",
+            "apex": "acuminate",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "visible, closely spaced, numerous",
+            "surface_features": "shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "green to brownish-green",
+            "texture": "ridged"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Some leaves show minor damage including holes and brown patches, likely due to environmental factors or minor herbivory. The seedling exhibits a rosette-like whorled leaf arrangement at each node, with leaves radiating outward. The overall plant appears healthy and growing in a shaded, leaf-littered forest floor environment. The glossy, lanceolate leaves with pinnate venation and acuminate apex are consistent across all images. No flowers or fruits are visible. The stem is upright and slightly ridged with a woody texture."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): whorled (multiple leaves clearly attached at the same node, forming a radial pattern, visible in top-down views)\n    2. Leaf spacing (clustered / distal): clustered (leaves are grouped tightly at each node, forming whorls along the stem)\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): simple (each leaf is a single blade without subdivisions into leaflets)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): N/A\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): N/A\n    6. Leaflet arrangement (opposite / alternate / subopposite): N/A\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (margins are smooth without teeth or lobes, visible in close-up images)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): lanceolate (long, narrow leaves tapering to a point, visible in side and top views)\n    9. Leaf apex (acute, obtuse, acuminate): acuminate (tapering to a long, fine point, visible in top and side views)\n    10. Leaf base (rounded, cordate, cuneate): cuneate (wedge-shaped base tapering to the petiole, visible in side views)\n    11. Venation type (pinnate / palmate / parallel): pinnate (main vein runs lengthwise with secondary veins branching off laterally, visible in close-ups)\n    12. Secondary veins (visibility, spacing, number): visible, closely spaced, numerous (secondary veins clearly visible, running perpendicular to midrib, densely packed)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): shiny (surface has a glossy appearance, reflecting light, visible in all images)\n    14. Leaf surface trichomes (present / absent): absent (no visible hairs or fuzz on leaf surface, surface appears smooth)\n    15. Petiole length (short / long): short (petioles are short, connecting leaf blade to stem, visible in side views)\n    16. Petiole features (winged / grooved / terete): terete (petioles are rounded and cylindrical, not flattened or winged, visible in side views)\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): woody (stem appears firm and slightly rough, consistent with woody tissue, visible in side views)\n    18. Stem trichomes (present / absent): absent (no visible hairs on stem surface, appears smooth)\n    19. Stem color: green to brownish-green (stem is primarily green with some brownish tones, especially near base, visible in side views)\n    20. Stem texture (smooth / ridged / lenticellate): ridged (stem shows slight longitudinal ridges, visible in close-up side views)\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no structures resembling stipules are visible at leaf bases)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no milky or clear sap visible in stem or leaves)\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no swollen joint at leaf base or petiole, not characteristic of Fabaceae)\n    24. Tendrils (present / absent): absent (no modified stems or leaves forming tendrils)\nF. Notes: Some leaves show minor damage including holes and brown patches, likely due to environmental factors or minor herbivory. The seedling exhibits a rosette-like whorled leaf arrangement at each node, with leaves radiating outward. The overall plant appears healthy and growing in a shaded, leaf-littered forest floor environment. The glossy, lanceolate leaves with pinnate venation and acuminate apex are consistent across all images. No flowers or fruits are visible. The stem is upright and slightly ridged with a woody texture.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 21867.630176013336
+    },
+    "classification": {
+      "data": {
+        "predictions_by_rank": {
+          "family": [
+            {
+              "rank_value": "Verbenaceae",
+              "softmax_score": 0.0283877681940794,
+              "rank_position": 1,
+              "l2_distance": 0.7251062989234924,
+              "cosine_similarity": 0.6919223070144653
+            },
+            {
+              "rank_value": "Vochysiaceae",
+              "softmax_score": 0.028079377487301826,
+              "rank_position": 2,
+              "l2_distance": 0.7360292673110962,
+              "cosine_similarity": 0.6781232357025146
+            },
+            {
+              "rank_value": "Sapotaceae",
+              "softmax_score": 0.028063535690307617,
+              "rank_position": 3,
+              "l2_distance": 0.73659348487854,
+              "cosine_similarity": 0.7067240476608276
+            },
+            {
+              "rank_value": "Lecythidaceae",
+              "softmax_score": 0.02416800521314144,
+              "rank_position": 4,
+              "l2_distance": 0.8860349059104919,
+              "cosine_similarity": 0.4649844765663147
+            },
+            {
+              "rank_value": "Ochnaceae",
+              "softmax_score": 0.023183591663837433,
+              "rank_position": 5,
+              "l2_distance": 0.9276198148727417,
+              "cosine_similarity": 0.3901423215866089
+            }
+          ],
+          "genus": [
+            {
+              "rank_value": "Pouteria",
+              "softmax_score": 0.01813238300383091,
+              "rank_position": 1,
+              "l2_distance": 0.43122613430023193,
+              "cosine_similarity": 0.9281485676765442
+            },
+            {
+              "rank_value": "Petrea",
+              "softmax_score": 0.013515258207917213,
+              "rank_position": 2,
+              "l2_distance": 0.7251062989234924,
+              "cosine_similarity": 0.6919223070144653
+            },
+            {
+              "rank_value": "Vochysia",
+              "softmax_score": 0.013368435204029083,
+              "rank_position": 3,
+              "l2_distance": 0.7360292673110962,
+              "cosine_similarity": 0.6781232357025146
+            },
+            {
+              "rank_value": "Gustavia",
+              "softmax_score": 0.01150625478476286,
+              "rank_position": 4,
+              "l2_distance": 0.8860349059104919,
+              "cosine_similarity": 0.4649844765663147
+            },
+            {
+              "rank_value": "Ouratea",
+              "softmax_score": 0.011037579737603664,
+              "rank_position": 5,
+              "l2_distance": 0.9276198148727417,
+              "cosine_similarity": 0.3901423215866089
+            }
+          ],
+          "species": [
+            {
+              "rank_value": "Pouteria reticulata",
+              "softmax_score": 0.012933854945003986,
+              "rank_position": 1,
+              "l2_distance": 0.43122613430023193,
+              "cosine_similarity": 0.9281485676765442
+            },
+            {
+              "rank_value": "Petrea volubilis",
+              "softmax_score": 0.00964045338332653,
+              "rank_position": 2,
+              "l2_distance": 0.7251062989234924,
+              "cosine_similarity": 0.6919223070144653
+            },
+            {
+              "rank_value": "Vochysia ferruginea",
+              "softmax_score": 0.00953572429716587,
+              "rank_position": 3,
+              "l2_distance": 0.7360292673110962,
+              "cosine_similarity": 0.6781232357025146
+            },
+            {
+              "rank_value": "Gustavia superba",
+              "softmax_score": 0.008207428269088268,
+              "rank_position": 4,
+              "l2_distance": 0.8860349059104919,
+              "cosine_similarity": 0.4649844765663147
+            },
+            {
+              "rank_value": "Hiraea faginea",
+              "softmax_score": 0.007915206253528595,
+              "rank_position": 5,
+              "l2_distance": 0.922288715839386,
+              "cosine_similarity": 0.44865718483924866
+            }
+          ]
+        },
+        "margin_by_rank": {
+          "family": 0.00030839070677757263,
+          "genus": 0.004617124795913696,
+          "species": 0.003293401561677456
+        },
+        "per_image_predictions": [
+          {
+            "image_path": "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Sapotaceae/by_genus/Pouteria/by_species/reticulata/BAR0401/Sapotaceae_Pouteria_reticulata_BAR0401_001.jpg",
+            "top1_label": "Verbenaceae",
+            "top1_softmax_score": 0.027145985513925552
+          },
+          {
+            "image_path": "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Sapotaceae/by_genus/Pouteria/by_species/reticulata/BAR0401/Sapotaceae_Pouteria_reticulata_BAR0401_002.jpg",
+            "top1_label": "Verbenaceae",
+            "top1_softmax_score": 0.02597777172923088
+          },
+          {
+            "image_path": "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Sapotaceae/by_genus/Pouteria/by_species/reticulata/BAR0401/Sapotaceae_Pouteria_reticulata_BAR0401_003.jpg",
+            "top1_label": "Sapotaceae",
+            "top1_softmax_score": 0.02462797239422798
+          },
+          {
+            "image_path": "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Sapotaceae/by_genus/Pouteria/by_species/reticulata/BAR0401/Sapotaceae_Pouteria_reticulata_BAR0401_004.jpg",
+            "top1_label": "Verbenaceae",
+            "top1_softmax_score": 0.0273736584931612
+          },
+          {
+            "image_path": "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Sapotaceae/by_genus/Pouteria/by_species/reticulata/BAR0401/Sapotaceae_Pouteria_reticulata_BAR0401_005.jpg",
+            "top1_label": "Sapotaceae",
+            "top1_softmax_score": 0.028365368023514748
+          }
+        ],
+        "nearest_support": [
+          {
+            "label": "Sapotaceae",
+            "l2_distance": 0.4798363149166107,
+            "cosine_similarity": 0.8848785758018494,
+            "image_path": "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Sapotaceae/by_genus/Pouteria/by_species/reticulata/BAR0401/Sapotaceae_Pouteria_reticulata_BAR0401_001.jpg"
+          },
+          {
+            "label": "Sapotaceae",
+            "l2_distance": 0.5350387096405029,
+            "cosine_similarity": 0.8568668365478516,
+            "image_path": "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Sapotaceae/by_genus/Pouteria/by_species/reticulata/BAR0401/Sapotaceae_Pouteria_reticulata_BAR0401_005.jpg"
+          },
+          {
+            "label": "Sapotaceae",
+            "l2_distance": 0.5787923336029053,
+            "cosine_similarity": 0.8324996829032898,
+            "image_path": "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Sapotaceae/by_genus/Pouteria/by_species/reticulata/BAR0401/Sapotaceae_Pouteria_reticulata_BAR0401_004.jpg"
+          },
+          {
+            "label": "Sapotaceae",
+            "l2_distance": 0.615487277507782,
+            "cosine_similarity": 0.8105877637863159,
+            "image_path": "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Sapotaceae/by_genus/Pouteria/by_species/reticulata/BAR0401/Sapotaceae_Pouteria_reticulata_BAR0401_002.jpg"
+          },
+          {
+            "label": "Sapotaceae",
+            "l2_distance": 0.6197134852409363,
+            "cosine_similarity": 0.8079777359962463,
+            "image_path": "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Sapotaceae/by_genus/Pouteria/by_species/reticulata/BAR0252/Sapotaceae_Pouteria_reticulata_BAR0252_003.jpg"
+          }
+        ],
+        "embedding_dim": 768,
+        "num_images_pooled": 5,
+        "hierarchical_consistency": {
+          "consistent": false,
+          "notes": [
+            "Genus 'Pouteria' belongs to family 'Sapotaceae', but family classifier predicted 'Verbenaceae'",
+            "Species 'Pouteria reticulata' belongs to family 'Sapotaceae', but family classifier predicted 'Verbenaceae'"
+          ],
+          "family_genus_agree": false,
+          "species_genus_agree": true,
+          "species_family_agree": false
+        }
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 196.1217790376395
+    },
+    "trait_retrieval": {
+      "data": {
+        "query": "Tropical tree seedling with relative_position: whorled, spacing: clustered, type: simple, margin: entire, shape: lanceolate, apex: acuminate, base: cuneate, venation: pinnate, secondary_veins: visible, closely spaced, numerous, surface_features: shiny, trichomes: absent, petiole_length: short, petiole_features: terete, type: woody, trichomes: absent, color: green to brownish-green, texture: ridged, stipules: absent, pulvinus: absent, tendrils: absent, notes: some leaves show minor damage including holes and brown patches, likely due to environmental factors or minor herbivory. the seedling exhibits a rosette-like whorled leaf arrangement at each node, with leaves radiating outward. the overall plant appears healthy and growing in a shaded, leaf-littered forest floor environment. the glossy, lanceolate leaves with pinnate venation and acuminate apex are consistent across all images. no flowers or fruits are visible. the stem is upright and slightly ridged with a woody texture.",
+        "rag_matches": [
+          {
+            "taxon": "Trichilia tuberculata",
+            "rank": "Species",
+            "description": "Tree, ca. 5-30(-40) m. Leaves imparipinnate, 10-30 cm; petiole and rachis generally canaliculate, glabrous or sparsely puberulent; leaflets 5-9, alternate (rarely subopposite), 10-15(-20) X 2.5-4.5 cm, narrowly elliptical or oblong to oblanceolate, attenuated at the base, acute to acuminate at the apex, subcoriaceous, generally glabrous, with 13-16 secondary veins per side. Inflorescences axillary, thyrsoid, 10-20 cm, glabrous or puberulent. Flowers with petals white to yellowish-green. Fruits yellow to orange, 1.4-2 X 0.8-1.2 cm, oblong to ellipsoid, densely verrucous (with prominent warts often connected by irregular stripes), often sparsely adpressed-pubescent, with 3 or 4 valves; seeds 1 or 2, black, 0.8-2.2 cm, the aril red. Very humid forest, 0-350 m; Pacific slope, [in the Parque Nacional Carara], [in the Puriscal region (in the Parque Nacional La Cangreja)], [in the Parque Nacional Manuel Antonio], [in Uvita], [in the Gulf Dulce region]. Fl. Feb.-Apr., Jun., Dec. [in Costa Rica and Panama], [in Ecuador and Peru], [in Northeast Brazil].",
+            "score": 0.6967738270759583
+          },
+          {
+            "taxon": "Trichilia tuberculata",
+            "rank": "Species",
+            "description": "Tree, ca. 5-30(-40) m. Leaves imparipinnate, 10-30 cm; petiole and rachis generally canaliculate, glabrous or sparsely puberulent; leaflets 5-9, alternate (rarely subopposite), 10-15(-20) X 2.5-4.5 cm, narrowly elliptical or oblong to oblanceolate, attenuated at the base, acute to acuminate at the apex, subcoriaceous, generally glabrous, with 13-16 secondary veins per side. Inflorescences axillary, thyrsoid, 10-20 cm, glabrous or puberulent. Flowers with petals white to yellowish-green. Fruits yellow to orange, 1.4-2 X 0.8-1.2 cm, oblong to ellipsoid, densely verrucous (with prominent warts often connected by irregular stripes), often sparsely adpressed-pubescent, with 3 or 4 valves; seeds 1 or 2, black, 0.8-2.2 cm, the aril red. Very humid forest, 0-350 m; Pacific slope, [in the National Park Carara], [in the Puriscal region] (P.N. La Cangreja), [in the National Park Manuel Antonio], [in Uvita], [in the Gulf Dulce region]. Fl. Feb.-Apr., Jun., Dec. [in Costa Rica] and [in Panama], [in Ecuador] and [in Peru], [in Northern Brazil]. Trichilia tuberculata is distinguished by its densely verrucous fruits and restricted distribution in [Costa Rica] to very humid forest of the Pacific slope.",
+            "score": 0.6960071325302124
+          },
+          {
+            "taxon": "Rinorea dasyadena",
+            "rank": "Species",
+            "description": "Shrub or tree, 2-7(-20) m, the twigs grayish brown; stipules 0.2-0.25 cm. Opposite leaves, petiole 0.2-0.9 cm; blade to [unclear reference], scattered-1% [unclear reference]. Inflorescences with peduncle 0.4-8 cm, [unclear reference], [unclear reference]. Flowers with the articulated pedicel 1/7-1/2 of the base; sepals 1/3-1/2 the [unclear reference] coacuminate at the apex, 1-5-nerved; petals [unclear reference], extended laterally and apical-pubescent on the coast (especially distally); stamens [unclear reference], sparsely puberulent [unclear reference] (> the total length of the anther), subentire; style 1.75-2 mm. Fruits [unclear reference]; seeds 6-8 mm, puberulent. Very humid forest, often near water, 0-850 m; [unclear reference] of Agulcahs Pitilla and Talamanca, San Carlos Plains and [unclear reference]. Fl. mar.-may., nov.",
+            "score": 0.6932163238525391
+          },
+          {
+            "taxon": "Protium tenuifolium",
+            "rank": "Species",
+            "description": "Functionally unisexual tree, to 18 m tall, to 27 cm dbh; outer bark thin, flaking in firm sheets, lenticellate; inner bark moderately thick, reddish; sap slowly forming viscid, cloudy droplets after slash, with strong, sweet aroma; stems glabrous, prominently brown-lenticellate. Leaves imparipinnate; petioles flattened above with sharp margins; petiolules thickened at both ends; leaflets 5-9 (13), mostly oblong to oblong-elliptic, acuminate with blunt acumen, acute to rounded at base, often \u00b1 inequilateral, 10-20(27) cm long, 5-9(12) cm wide, glabrous except for minute papillae. Panicles axillary, near stem apex, the branches ferruginous; staminate inflorescences somewhat larger than pistillate inflorescences (to 24 cm long); flowers 5-parted, sessile, 3.5-5 mm long; calyx to 2 mm long, cupulate, 5-lobed, minutely pubescent, the lobes acute; petals lanceolate, yellow-green, thickened medially on outside, ca 3 mm long, erect to somewhat spreading at anthesis; stamens 10, alternately long and short, the longest to 2 mm long, the shortest to 1.3 mm long, scarcely longer than the prominent, pubescent disk; ovary ovoid, densely pubescent; style short, the ovary and style together ca 2.7 mm long; stigma 5-lobed, persisting in fruit. Capsules drupaceous, bearing 1-5 pyrenes, ovoid to depressed-globose, with 4 or 5 lobes (rarely 2- or 3-lobed), mostly 2-3 cm diam, red at maturity, usually rounded at both ends, the carpels 4 or 5, each dehiscing by a single valve, the valve falling free to expose the white mesocarp surrounding the pyrene; pyrenes black, 1 per carpel, 1-seeded, ovoid in face view, irregular in side view. Croat 11109, 14822. Common along the shore; occasional in the forest. Flowers chiefly in April and May. The fruits mature chiefly in the middle of the rainy season (August to October). Small bees, possibly Trigona species, have been seen visiting the flowers. The fruits are edible. Costa Rica and Panama. In Panama, known only from tropical moist forest in the Canal Zone, Chiriqui Province, Panama, and Darien Province. Reported from tropical wet forest in Costa Rica (Holdridge et al, 1971).",
+            "score": 0.691071093082428
+          },
+          {
+            "taxon": "Symphonia globulifera",
+            "rank": "Species",
+            "description": "Dioecious, hemiepiphytic tree, to 10 m tall; trunk to 15 cm dbh; branches spiraled, stiff and spreading, densely rooting at the nodes, the roots often extending back to the host tree and enveloping the host tree for support; stems glabrous with prominent leaf scars; sap pale yellow to bright orange (in time), not copious. Petioles to 2 cm long; blades obovate, rounded at apex (sometimes acute to acuminate on juvenile leaves), acute to obtuse at base, 5-15 cm long, 3-10 cm wide, very thick, dark green and glossy above, dull below, coriaceous; veins indistinct, drying with many fine veins. Panicles stout, bracteated, divaricately branched, terminal; buds depressed-globose; pedicels stout, to 1 cm long; flowers thick, 5-parted, spreading at anthesis, to 4.5 cm diam, white to pink, the lobes often marked with maroon or magenta at base or apex; sepals 2, concave, unequal, persisting in fruit; petals 4-10, broadly oblong, 2-2.5 cm long; androecium of staminate flowers cushion-shaped, ca 1 cm wide and 5 mm high with numerous anthers; pollen white, granular, compressed in round or oval pouches ca 1 mm diam, embedded just beneath the sticky surface of the disk; pistillate flowers similar to staminate but the gynoecium divided into (4)9(15) segments, the petals falling soon after anthesis, the sepals closing. Capsules subglobose, 2.5-3 cm long, dehiscing into 5-9 parts at maturity; valves thick, \u00b1 spreading to expose the colorful mass of seeds; seeds numerous, reddish, curved-oblong, ca 5 mm long, embedded in a deeply divided, bright-orange aril. Frequent epiphyte in the forest or on exposed shorelines; epiphytic on rocks or on trees near the edge of the water. Plants are usually supported on tree trunks or large branches but the branches may grow into the top of the canopy. Apparently flowers and fruits sporadically throughout the year. Where plants occur along the shore, the branches usually root at the nodes with the roots hanging in the water. The pollen sacs of the staminate flowers burst under the slightest pressure, and abundant pollen oozes out (sometimes explosively). Several species of small bees, including Trigona spp., have been seen visiting the flowers. The geographical range of Symphonia globulifera extends from Nicaragua to Panama, probably to Colombia. In Panama, known from tropical moist forest in the Canal Zone, Colon, San Bias, Veraguas, Herrera, Panama, and Darien, from premontane wet forest in Code (El Valle) and Panama (Cerro Campana), and from tropical wet forest in Code (La Mesa) and Panama.",
+            "score": 0.6882241368293762
+          },
+          {
+            "taxon": "Rinorea squamata",
+            "rank": "Species",
+            "description": "Shrub or tree, 1-10(-18) m, the twigs brown; stipules deciduous (but sometimes present with submature leaves). Leaves opposite or with a cuspidate apex, often puberulent and (often) entire or serrated (with the glands of the teeth). Petiole 0.2-0.4 cm, lamina 3.5-11 cm, also hirsute on the midrib on the underside. Flowers with the pedicel articulated at the base; sepals 1/4-1/3 the length of the petals, acute to rounded at the apex, indistinctly 1-3-nerved; petals whitish to pale yellow or orange, 3.5-4.2 mm, glabrous or glabrate; stamens with the connective scale extended laterally and apically (< the total length of the anther), subentire; style 1.252 mm. Fruits 1.5-1.9 cm, slightly velvety; seeds 4-8 mm, glabrous. Wet and very wet forest, 0-600+ m; Caribbean slope and near the Continental Divide, Cordilleras of Guanacaste and Talamanca, Plains of Los Guatusos, Tortuguero, and Santa Clara, Lower Talamanca, Pacific slope N Cord. of Talamanca (Cerro Nara), S Nicoya Peninsula, P.N. Carara, Puriscal region (P.N. La Cangreja), vicinity of Palmar Norte, Gulf Dulce region, Burica Peninsula. Fl. Jan., Mar.\u2014May, Jul., Nov. SE Hond.\u2014Pan. [The fruits with the pedicel articulated at the base and glabrous seeds] easily distinguish Rinorea squamata from its congeners in Costa Rica with opposite leaves. Due to its densely puberulent leaf blades and (often) also hirsute on the midrib on the underside, Rinorea squamata is somewhat similar to Rinorea sylvatica, but vegetatively very different due to its smaller stipules and blades with the glands of the acicular teeth (vs. broadly conical).",
+            "score": 0.6854715347290039
+          },
+          {
+            "taxon": "Rinorea squamata",
+            "rank": "Species",
+            "description": "Shrub or tree, 1-10(-18) m, the twigs brown; stipules deciduous (but sometimes present with submature leaves). Leaves opposite or with a cuspidate apex, often puberulent and (often) entire or serrated (with the glands of the teeth). Petiole 0.2-0.4 cm, lamina 3.5-11 cm, also hirsute on the midrib on the underside. Flowers with the pedicel articulated at the base; sepals 1/4-1/3 the length of the petals, acute to rounded at the apex, indistinctly 1-3-nerved; petals whitish to pale yellow or orange, 3.5-4.2 mm, glabrous or glabrate; stamens with the connective scale extended laterally and apically (< the total length of the anther), subentire; style 1.252 mm. Fruits 1.5-1.9 cm, slightly velvety; seeds 4-8 mm, glabrous. Wet and very wet forest, 0-600+ m; Caribbean slope and near the Continental Divide, Cordilleras of Guanacaste and Talamanca, Plains of Los Guatusos, Tortuguero, and Santa Clara, Lower Talamanca, Pacific slope North Cordillera of Talamanca (Cerro Nara), South Nicoya Peninsula, Parque Nacional Carara, Puriscal region (Parque Nacional La Cangreja), vicinity of Palmar Norte, Gulf Dulce region, Burica Peninsula. Fl. Jan., Mar.\u2014May, Jul., Nov. Southeastern Honduras\u2014Panama. The fruits with the pedicel articulated at the base and glabrous seeds easily distinguish Rinorea squamata from its congeners in Costa Rica with opposite leaves. Due to its densely puberulent leaf blades and (often) also hirsute on the midrib on the underside, Rinorea squamata is somewhat similar to Rinorea sylvatica, but vegetatively very different due to its smaller stipules and blades with the glands of the acicular teeth (versus broadly conical).",
+            "score": 0.6854715347290039
+          },
+          {
+            "taxon": "Lindackeria laurina",
+            "rank": "Species",
+            "description": "Tree, 3-8 (15) m tall, 5-35 cm dbh; wood yellow; stems weakly striate, brown or with a thin gray flaky crust, the leaf scars 3-sided, raised. Petioles 5-11 cm long, canaliculate, somewhat swollen at apex; blades \u00b1 oblong-elliptic, long-acuminate, obtuse to rounded at base, 10-30 cm long, 5-11 cm wide, glabrous, the midrib raised above. Panicles axillary and terminal, to ca 20 cm long; pedicels to 1.5 cm long; flowers ca 1.2 cm diam, conspicuous and sweetly scented; sepals 3, reflexed at anthesis, caducous; petals 6-12, white, blunt at apex; stamens numerous, unequal, exserted; anthers slightly bifid at apex; style 4-6 mm long; stigma shortly trilobate. Capsules 1-1.5 cm diam, covered with stiff bristles, dehiscing into 3 or 4 parts to expose seed; seed usually solitary, smooth, broadly ovate, ca 7 mm long, flattened on one side, gray-coated, with a shiny, bright red, lateral aril. [Croat 6097, 7753]. Locally abundant along some areas of the shore, especially on the southern side of the island; frequent in the forest. Flowers principally in the rainy season from May to October, rarely as early as April or as late as December. The fruits mature in the early dry season (January to March). Southern Mexico to northern South America. In Panama, known from tropical moist forest in the Canal Zone, Chiriqui, Panama, and Darien, from premontane wet forest in Chiriqui and Panama, and from tropical wet forest in Colon.",
+            "score": 0.6845428943634033
+          },
+          {
+            "taxon": "Inga pezizifera",
+            "rank": "Species",
+            "description": "Tree, to 27 m tall and 40 cm dbh, glabrous to puberulent throughout; trunk \u00b1 involuted with many prominent horizontal wrinkles; outer bark thin; inner bark reddish; young stems very prominently lenticellate. Petioles margined; rachis margined to narrowly winged; leaflets in 2-5 (usually 4) pairs, narrowly ovate to lanceolate-elliptic or oblanceolate, acuminate, rounded to acute at base, slightly asymmetrical, the terminal pair 8-22 cm long, 2.5-8 cm wide. Spikes axillary in groups of 1-6; peduncles 1.5-3.5 cm long; rachis shorter than peduncle, very densely flowered, 0.5-3 cm long; bracts ca 5 mm long; flowers sessile; calyx 1-2(3) mm long, the lobes ca 0.5 mm long, blunt; corolla 4-8 mm long, the lobes blunt to acute, ca 1 mm long; stamens and style ca 1 cm long. Legumes flat, 10-22 cm long, (2)2.5-3 cm wide, \u00b1 glabrous, \u00b1 straight, the marginal ribs prominent, the fruits probably mature from July to October. Known only from Panama, from tropical moist forest in the Canal Zone, Bocas del Toro, San Bias, Veraguas, Panama, and Darien, from premontane wet forest in Colon, Chiriqui, Code, and Panama.",
+            "score": 0.683794379234314
+          },
+          {
+            "taxon": "Inga pezizifera",
+            "rank": "Species",
+            "description": "Tree, to 27 m tall and 40 cm dbh, glabrous to puberulent throughout; trunk \u00b1 involuted with many prominent horizontal wrinkles; outer bark thin; inner bark reddish; young stems very prominently lenticellate. Petioles margined; rachis margined to narrowly winged; leaflets in 2-5 (usually 4) pairs, narrowly ovate to lanceolate-elliptic or oblanceolate, acuminate, rounded to acute at base, slightly asymmetrical, the terminal pair 8-22 cm long, 2.5-8 cm wide. Spikes axillary in groups of 1-6; peduncles 1.5-3.5 cm long; rachis shorter than peduncle, very densely flowered, 0.5-3 cm long; bracts ca 5 mm long; flowers sessile; calyx 1-2(3) mm long, the lobes ca 0.5 mm long, blunt; corolla 4-8 mm long, the lobes blunt to acute, ca 1 mm long; stamens and style ca 1 cm long. Legumes flat, 10-22 cm long, (2)2.5-3 cm wide, \u00b1 glabrous, \u00b1 straight, the marginal ribs prominent.",
+            "score": 0.683794379234314
+          },
+          {
+            "taxon": "Psychotria brachybotrya",
+            "rank": "Species",
+            "description": "Shrub, 1-1.8 m tall; stems and leaves glabrate. Stipules persistent, 3-5 mm long, bifid to near base, the lobes distant, acuminate; petioles 1-1.5 cm long; blades \u00b1 elliptic, acute to acuminate, cuneate at base, 10-16 (20) cm long, 4-6 cm wide, drying light green. Racemes short, terminal, usually to 1.5 cm long at anthesis, to 3 cm long in fruit; peduncles lacking or to 1.2 cm long; inflorescence branches, pedicels, and calyces with short, \u00b1 erect, sparse trichomes, the lowermost branches subtended by a distinct, oblong-elliptic bract ca 5 mm long; bracts green, ovate, 2-7 mm long, acute, foliate, persistent, subtending groups of 2-4(7) flowers, exceeding the flowers; flowers white, sessile, ca 3.5 mm long, the tube ca 2 mm long, the lobes oblong, to ca 1.5 mm long; filaments ca 0.5 mm long, affixed above the middle of the tube; anthers ca 1 mm long; style ca 4 mm long; stigmas 0.2 mm long. Berries \u00b1 globose, 3-4 mm diam, flattened laterally and somewhat grooved, glabrous or sparsely puberulent at least when immature; seeds 2, flat, with a deep groove on the inside surface, rounded and 4- or 5-grooved on the outside surface. Croat 11132. Apparently rare; found in the younger forest south of Fairchild Point and in the forest north of Barbour Trail. Flowers mostly from June to September, principally in July, rarely also in the dry season. The fruits mature from July to October, principally in August. In Panama, Psychotria brachybotrya is most easily confused with Psychotria involucrata Sw., a superfluous name for Psychotria officinalis (Aubl.) Sw. (Steyermark, 1972). Psychotria brachybotrya differs from Psychotria officinalis by having distinct bracts beneath the lower inflorescence branches and leaves that usually dry a lighter green. Psychotria brachybotrya usually occurs in drier areas than Psychotria officinalis, which occurs principally in premontane wet forest and tropical wet forest. Psychotria brachybotrya has also been confused with Psychotria furcata DC, but is distinguished from Psychotria furcata by its larger, lighter-colored leaves and green, rather than purple, inflorescence bracts. Psychotria brachybotrya is distributed from Panama to Colombia, Venezuela, the Guianas, Brazil, Peru, and Bolivia; Trinidad. In Panama, Psychotria brachybotrya is ecologically variable; known from tropical moist forest in the Canal Zone, Bocas del Toro, Colon, Herrera, Panama, and Darien, from tropical dry forest in Panama, and from premontane wet forest in Colon, Panama, and Darien.",
+            "score": 0.6832868456840515
+          },
+          {
+            "taxon": "Protium stevensonii",
+            "rank": "Species",
+            "description": "Locating an individual\nIt is mainly observed towards the Southern Boundary (LS), Quebrada El Salto, etc., in rolling or broken terrain.\nDistribution\nFrom Belize to Venezuela, the Guianas, Brazil, and Bolivia. In Costa Rica, it is widely distributed in the medium to low elevations of both slopes, in climates ranging from humid to very humid, although it prefers climates with marked seasonality; 0-700-800 m.\nHabit\nTrees, 15-35 m tall.\nTrunk\nTrunk with reddish-brown outer bark.\nBark\nOuter bark reddish-brown, scaly, inner bark reddish with a pleasant mango scent; white or milky resinous sap.\nLeaves\nOdd-pinnate leaves, with 7-9 leaflets, elliptical, oblong, or oblong-lanceolate, 5-21 x 4-7.2 cm, apex acuminate to abruptly acuminate, base obtuse to asymmetric, generally glabrous; petiolules without evident pulvini, margin entire; petioles 4-14 cm long.\nFlowers\nInflorescences are panicles, 3-15 cm long, axillary. Yellowish or greenish-yellow flowers (unisexual); calyx with 5 lobes, 1-1.5 mm long, cuculiform; petals (tubular corolla), with 5 lobes, 5-5.5 mm long; stamens 10, 1 mm long, filaments inserted at the base of the disc; annular disc with 10 lobes; ovary with 5 lobes, ovoid, with 5 locules; style 1, stigma with 5 lobes.\nFruits\nCapsular and drupe-like fruits, 1.5-2.5 x 1.5 x 3 cm, ovoid or more or less turbinate, with 2-5 lobes, dehiscent by 4-5 valves, scarlet red inside, red to black when mature; pyrenes 3-5, 12-13 mm thick, white, the mesocarp (pseudoaril) reddish turning white upon exposure (dehiscence), fleshy, juicy, sweet, and edible.\nDiagnosis\nCharacterized by being a large tree, the bark on mature trees is somewhat scaly, lenticellate, and the inner bark has a very particular and pleasant mango scent. At the vegetative level, it is sometimes confused with the genus Protium, although its leaves lack pulvinated petiolules and the turpentine aroma when crushed. Its fruits are distinctive for their peculiar turbinate shape.\nHabitat\nIn the Forest; it is mainly observed towards the Southern Boundary (LS), Quebrada El Salto, etc., in rolling or broken terrain.\nPhenology\nFlowers observed in June and August; fruits in August and February.",
+            "score": 0.6778637170791626
+          },
+          {
+            "taxon": "Protium stevensonii",
+            "rank": "Species",
+            "description": "Locating an individual\nIt is mainly observed towards the Southern Boundary (LS), Quebrada El Salto, etc., in rolling or broken terrain.\nDistribution\nFrom Belize to Venezuela, the Guianas, Brazil, and Bolivia. In Costa Rica, it is widely distributed in the medium to low elevations of both slopes, in climates ranging from humid to very humid, although it prefers climates with marked seasonality; 0-700-800 m.\nHabit\nTrees, 15-35 m tall.\nTrunk\nTrunk with reddish-brown outer bark.\nBark\nOuter bark reddish-brown, scaly, inner bark reddish with a pleasant mango scent; white or milky resinous sap.\nLeaves\nOdd-pinnate leaves, with 7-9 leaflets, elliptical, oblong, or oblong-lanceolate, 5-21 x 4-7.2 cm, apex acuminate to abruptly acuminate, base obtuse to asymmetric, generally glabrous; petiolules without evident pulvini, margin entire; petioles 4-14 cm long.\nFlowers\nInflorescences are panicles, 3-15 cm long, axillary. Yellowish or greenish-yellow flowers (unisexual); calyx with 5 lobes, 1-1.5 mm long, cuculiform; petals (tubular corolla), with 5 lobes, 5-5.5 mm long; stamens 10, 1 mm long, filaments inserted at the base of the disc; annular disc with 10 lobes; ovary with 5 lobes, ovoid, with 5 locules; style 1, stigma with 5 lobes.\nFruits\nCapsular and drupe-like fruits, 1.5-2.5 x 1.5 x 3 cm, ovoid or more or less turbinate, with 2-5 lobes, dehiscent by 4-5 valves, scarlet red inside, red to black when mature; pyrenes 3-5, 12-13 mm thick, white, the mesocarp (pseudoaril) reddish turning white upon exposure (dehiscence), fleshy, juicy, sweet, and edible.\nDiagnosis\nCharacterized by being a large tree, the bark on mature trees is somewhat scaly, lenticellate, and the inner bark has a very particular and pleasant mango scent. At the vegetative level, it is sometimes confused with the genus Protium, although its leaves lack pulvinated petiolules and the turpentine aroma when crushed. Its fruits are distinctive for their peculiar turbinate shape.\nHabitat\nIn the Forest; it is mainly observed towards the Southern Boundary (LS), Quebrada El Salto, etc., in rolling or broken terrain.\nPhenology\nFlowers observed in June and August; fruits in August and February.",
+            "score": 0.6778637170791626
+          },
+          {
+            "taxon": "Trophis racemosa",
+            "rank": "Species",
+            "description": "Dioecious tree, to 17 m tall, to 25 cm dbh; trunk with broad, horizontal leaf scars; outer bark thin, sometimes reddish; inner bark thick, granular, tan; glabrous all over or sparsely puberulent on young stems, petioles, leaf veins below, and fruit; sap thin, copious, milky. Leaves alternate; petioles to 1(1.6) cm long; stipules lanceolate, lateral, minute, subpersistent; blades mostly oblongelliptic to obovate, abruptly long-acuminate, rounded to obtuse at base, 7-15(23) cm long, 2.5-6(10) cm wide, entire or minutely serrate near apex, slightly asperous above and below. Staminate spikes pendent, 4-6.5 cm long, ca 5-6 mm wide, very densely flowered; tepals 4, broadly oval, to ca 1.7 mm long, densely and minutely pubescent; stamens 4, 2-3 mm long, strongly inflexed in bud; filament elongating, the anther springing free to fling the powdery white pollen into the air; pistillode ca 0.5 mm long. Pistillate spikes densely grayish-velutinous, usually less than 2 cm long, the flowers 4-15 per spike, sessile, ovoid, or conic; perianth minutely 4-lobed at the narrowly opened apex, 2-4.5 mm long; style branches 2, 2-5.5 mm long, long-exserted. Drupes sessile, ovoid to globular, ca 1 cm diam, densely and minutely velutinous, red becoming purple at maturity.",
+            "score": 0.6776101589202881
+          },
+          {
+            "taxon": "Lindackeria laurina",
+            "rank": "Species",
+            "description": "Tree, 3-8 (15) m tall, 5-35 cm dbh; wood yellow; stems weakly striate, brown or with a thin gray flaky crust, the leaf scars 3-sided, raised. Petioles 5-11 cm long, canaliculate, somewhat swollen at apex; blades \u00b1 oblong-elliptic, long-acuminate, obtuse to rounded at base, 10-30 cm long, 5-11 cm wide, glabrous, the midrib raised above. Panicles axillary and terminal, to ca 20 cm long; pedicels to 1.5 cm long; flowers ca 1.2 cm diam, conspicuous and sweetly scented; sepals 3, reflexed at anthesis, caducous; petals 6-12, white, blunt at apex; stamens numerous, unequal, exserted; anthers slightly bifid at apex; style 4-6 mm long; stigma shortly trilobate. Capsules 1-1.5 cm diam, covered with stiff bristles, dehiscing into 3 or 4 parts to expose seeds; seeds usually solitary, smooth, broadly ovate, ca 7 mm long, flattened on one side, gray-coated, with a shiny, bright red, lateral aril. Occasional, in some areas of the shore, especially on the southern side of the island; frequent in the forest. Flowers principally in the rainy season from May to October, rarely as early as April or as late as December. The fruits mature in the early dry season (January to March). Many leaves fall in late June. Southern Mexico to northern South America. In Panama, known from tropical moist forest in the Canal Zone, Chiriqui, Panama, and Darien, from premontane wet forest in Chiriqui and Panama, and from tropical wet forest in Colon.",
+            "score": 0.6760340929031372
+          },
+          {
+            "taxon": "Maquira",
+            "rank": "Genus",
+            "description": "Life Form: Tree, Shrub 10. Maquira Aubl. By C.C. Berg. Trees or shrubs, dioecious. Leaves alternate, distichous on lateral branches; blade leathery, margins entire, pinnate-veined; stipules not completely amplexicaul, free. Inflorescences on spurs in the axils of the leaves, unisexual, discoid-capitate, involucrate. Staminate inflorescences often several together, pedunculate; flowers not covered by the inner involucral bracts before anthesis, numerous; perianth 4-parted to 4-divided; stamens 4; pistillode absent. Pistillate inflorescences subsessile; flowers numerous; perianth 4-lobed; ovary adnate to the perianth; stigmas 2, tongue-shaped. Fruit-bearing perianth enlarged, fleshy, orange; fruits adnate to the perianth; seed large, without endosperm, cotyledons thick and equal. 4 spp. Tropical America.",
+            "score": 0.6743793487548828
+          },
+          {
+            "taxon": "Maquira",
+            "rank": "Genus",
+            "description": "Life Form: Tree, Shrub 10. Maquira Aubl. By C.C. Berg. Trees or shrubs, dioecious. Leaves alternate, distichous on lateral branches; blade leathery, margins entire, pinnate-veined; stipules not completely amplexicaul, free. Inflorescences on spurs in the axils of the leaves, unisexual, discoid-capitate, involucrate. Staminate inflorescences often several together, pedunculate; flowers not covered by the inner involucral bracts before anthesis, numerous; perianth 4-parted to 4-divided; stamens 4; pistillode absent. Pistillate inflorescences subsessile; flowers numerous; perianth 4-lobed; ovary adnate to the perianth; stigmas 2, tongue-shaped. Fruit-bearing perianth enlarged, fleshy, orange; fruits adnate to the perianth; seed large, without endosperm, cotyledons thick and equal. 4 spp. Tropical America.",
+            "score": 0.6743793487548828
+          },
+          {
+            "taxon": "Heisteria concinna",
+            "rank": "Species",
+            "description": "Shrub or tree, (2-)8-20 m, the crown dense and rounded; young branches cylindrical. Leaves with brown petiole, 0.7-2 cm; blade 4.3-19.3 X 2.5-10.2 cm, elliptical to ovate-oblong, attenuate to obtuse and often oblique at the base, abruptly acuminate at the apex, subcoriaceous or thinly coriaceous, flexible, thin and \u00b1 densely tuberculate (but shiny) on the adaxial surface (in dry specimens). Inflorescences with 6-10 flowers. Flowers white or greenish, aromatic; calyx crateriform, 5-lobed, in fruit spreading, pink to red, 15-26 mm in diameter, lobed. Fruits white or yellowish-green when ripe, 1-1.5 X 0.8-1 cm, broadly ellipsoid to subglobose, vermicular. Very wet forest, 0-300(-600) m; Caribbean slope, Central Cordillera (E.B. Fa Selva) and Talamanca, basin of the Sapo\u00e1 River, Tortuguero lowland, Pacific slope, Montes del Aguacate, P.N. Carara, P. N. Manuel Antonio, Osa Peninsula. Flowering Jan., Feb., Apr.-Jun., Aug., Nov., Dec. Recognized by its often tree-like habit, leaf blades thin and densely tuberculate (but shiny) on the adaxial surface and fruits white or yellowish-green.",
+            "score": 0.6737139225006104
+          },
+          {
+            "taxon": "Amaioua glomerulata",
+            "rank": "Species",
+            "description": "Dioecious shrub or tree, to 15 m tall; trunk slender or to 20 cm dbh and deeply invaginated; stems sericeous when very young, glabrate in age, with conspicuous leaf scars. Leaves somewhat clustered at apex of branchlets; stipules caducous, to 1 cm long, sericeous, leaving a conspicuous interpetiolar line of trichomes; petioles 6-14 mm long, sericeous to glabrate; blades ovate-elliptic to obovate-elliptic, abruptly short-acuminate, usually obtuse and \u00b1 decurrent onto petiole at base, 7-13(21) cm long, 3.5-8 (12) cm wide, glabrous or with sparse long trichomes on major veins below and tufts of trichomes in axils, the margins ciliate and \u00b1 revolute.",
+            "score": 0.6733359694480896
+          },
+          {
+            "taxon": "Licania hypoleuca",
+            "rank": "Species",
+            "description": "Tree, to 15 m tall; trunk ca 20 cm dbh; outer bark unfissured, minutely roughened, thin; inner bark reddish-brown, thin, hard; branches enlarged at base; young branchlets and petioles puberulent; sap with faint, pungent odor. Petioles 0.5-1 cm long; stipules minute, paired, subpersistent; blades ovate, acuminate at apex, obtuse to rounded at base, 5.5-10 cm long, 2.5-5 cm wide, glabrous above, whitish below with dense, minute, arachnoid trichomes. Flowers minute, in terminal or upper-axillary panicles 10-20 cm long, the branches and pedicels densely and minutely puberulent; hypanthium campanulate or turbinate, to 2 mm long; calyx lobes 5, minute, ovate, acute; petals lacking; stamens 3, less than 1 mm long; anthers about half as long as filaments; ovary whitehirsute; style to 2 mm long, adjacent to the 2 stamenless calyx lobes. Fruits pyriform to obovate, to 2.5 cm long and 2 cm diam, at first pink to red, becoming white and soft at maturity, usually with a minute depression at apex; mesocarp thick, fleshy, sweet, somewhat pithy; seed obovate, ca 1 cm diam. [Licania hypoleuca] is infrequent, in both the younger and older forests. [Licania hypoleuca] probably flowers in the early dry season. The fruits of [Licania hypoleuca] are mature mostly from April to June. Southern Mexico to Colombia, Venezuela, the Guianas, and Amazonian Brazil. In Panama, [Licania hypoleuca] is known from tropical moist forest on [Barro Colorado Island] and in [Darien] and from premontane wet forest in [Panama] ([Cerro Azul]).",
+            "score": 0.673324704170227
+          }
+        ],
+        "convergence": [
+          {
+            "taxon": "Trophis racemosa",
+            "signal": "rag_only",
+            "rag_score": 0.6776101589202881,
+            "visual_softmax_score": 0.0,
+            "source": "literature"
+          },
+          {
+            "taxon": "Maquira",
+            "signal": "rag_only",
+            "rag_score": 0.6743793487548828,
+            "visual_softmax_score": 0.0,
+            "source": "literature"
+          },
+          {
+            "taxon": "Rinorea dasyadena",
+            "signal": "rag_only",
+            "rag_score": 0.6932163238525391,
+            "visual_softmax_score": 0.0,
+            "source": "literature"
+          },
+          {
+            "taxon": "Pouteria reticulata",
+            "signal": "visual_only",
+            "rag_score": 0.0,
+            "visual_softmax_score": 0.012933854945003986,
+            "source": "visual"
+          },
+          {
+            "taxon": "Vochysia ferruginea",
+            "signal": "visual_only",
+            "rag_score": 0.0,
+            "visual_softmax_score": 0.00953572429716587,
+            "source": "visual"
+          },
+          {
+            "taxon": "Petrea volubilis",
+            "signal": "visual_only",
+            "rag_score": 0.0,
+            "visual_softmax_score": 0.00964045338332653,
+            "source": "visual"
+          }
+        ]
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 4.557110136374831
+    },
+    "evidence_synthesis": {
+      "data": {
+        "evidence_document": "# Evidence Summary\n\n## Morphological Profile\n\n\n### Leaf Arrangement\n\n- **Relative Position**: whorled\n- **Spacing**: clustered\n\n### Leaf Complexity\n\n- **Type**: simple\n- **Compound Type**: N/A\n- **Num Leaflets**: N/A\n- **Leaflet Arrangement**: N/A\n\n### Leaf Morphology\n\n- **Margin**: entire\n- **Shape**: lanceolate\n- **Apex**: acuminate\n- **Base**: cuneate\n- **Venation**: pinnate\n- **Secondary Veins**: visible, closely spaced, numerous\n- **Surface Features**: shiny\n- **Trichomes**: absent\n- **Petiole Length**: short\n- **Petiole Features**: terete\n\n### Stem Traits\n\n- **Type**: woody\n- **Trichomes**: absent\n- **Color**: green to brownish-green\n- **Texture**: ridged\n\n### Special Features\n\n- **Stipules**: absent\n- **Latex**: not observed\n- **Pulvinus**: absent\n- **Tendrils**: absent\n\n### Notes\n\nSome leaves show minor damage including holes and brown patches, likely due to environmental factors or minor herbivory. The seedling exhibits a rosette-like whorled leaf arrangement at each node, with leaves radiating outward. The overall plant appears healthy and growing in a shaded, leaf-littered forest floor environment. The glossy, lanceolate leaves with pinnate venation and acuminate apex are consistent across all images. No flowers or fruits are visible. The stem is upright and slightly ridged with a woody texture.\n\n## Visual Classification (Multi-Rank)\n\n### Family\n\nDecision margin: 0.000\n\n- #1: **Verbenaceae** (similarity share: 2.8%) | L2: 0.725, cosine: 0.692\n- #2: **Vochysiaceae** (similarity share: 2.8%) | L2: 0.736, cosine: 0.678\n- #3: **Sapotaceae** (similarity share: 2.8%) | L2: 0.737, cosine: 0.707\n- #4: **Lecythidaceae** (similarity share: 2.4%) | L2: 0.886, cosine: 0.465\n- #5: **Ochnaceae** (similarity share: 2.3%) | L2: 0.928, cosine: 0.390\n\n### Genus\n\nDecision margin: 0.005\n\n- #1: **Pouteria** (similarity share: 1.8%) | L2: 0.431, cosine: 0.928\n- #2: **Petrea** (similarity share: 1.4%) | L2: 0.725, cosine: 0.692\n- #3: **Vochysia** (similarity share: 1.3%) | L2: 0.736, cosine: 0.678\n- #4: **Gustavia** (similarity share: 1.2%) | L2: 0.886, cosine: 0.465\n- #5: **Ouratea** (similarity share: 1.1%) | L2: 0.928, cosine: 0.390\n\n### Species\n\nDecision margin: 0.003\n\n- #1: **Pouteria reticulata** (similarity share: 1.3%) | L2: 0.431, cosine: 0.928\n- #2: **Petrea volubilis** (similarity share: 1.0%) | L2: 0.725, cosine: 0.692\n- #3: **Vochysia ferruginea** (similarity share: 1.0%) | L2: 0.736, cosine: 0.678\n- #4: **Gustavia superba** (similarity share: 0.8%) | L2: 0.886, cosine: 0.465\n- #5: **Hiraea faginea** (similarity share: 0.8%) | L2: 0.922, cosine: 0.449\n\n### Hierarchical Consistency: INCONSISTENT\n\n- Genus 'Pouteria' belongs to family 'Sapotaceae', but family classifier predicted 'Verbenaceae'\n- Species 'Pouteria reticulata' belongs to family 'Sapotaceae', but family classifier predicted 'Verbenaceae'\n\n### Per-Image Predictions\n\n- /nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Sapotaceae/by_genus/Pouteria/by_species/reticulata/BAR0401/Sapotaceae_Pouteria_reticulata_BAR0401_001.jpg: **Verbenaceae** (similarity share: 2.7%)\n- /nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Sapotaceae/by_genus/Pouteria/by_species/reticulata/BAR0401/Sapotaceae_Pouteria_reticulata_BAR0401_002.jpg: **Verbenaceae** (similarity share: 2.6%)\n- /nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Sapotaceae/by_genus/Pouteria/by_species/reticulata/BAR0401/Sapotaceae_Pouteria_reticulata_BAR0401_003.jpg: **Sapotaceae** (similarity share: 2.5%)\n- /nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Sapotaceae/by_genus/Pouteria/by_species/reticulata/BAR0401/Sapotaceae_Pouteria_reticulata_BAR0401_004.jpg: **Verbenaceae** (similarity share: 2.7%)\n- /nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Sapotaceae/by_genus/Pouteria/by_species/reticulata/BAR0401/Sapotaceae_Pouteria_reticulata_BAR0401_005.jpg: **Sapotaceae** (similarity share: 2.8%)\n\n### Nearest Support Images\n\n- **Sapotaceae** (L2: 0.480, cosine: 0.885) [/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Sapotaceae/by_genus/Pouteria/by_species/reticulata/BAR0401/Sapotaceae_Pouteria_reticulata_BAR0401_001.jpg]\n- **Sapotaceae** (L2: 0.535, cosine: 0.857) [/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Sapotaceae/by_genus/Pouteria/by_species/reticulata/BAR0401/Sapotaceae_Pouteria_reticulata_BAR0401_005.jpg]\n- **Sapotaceae** (L2: 0.579, cosine: 0.832) [/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Sapotaceae/by_genus/Pouteria/by_species/reticulata/BAR0401/Sapotaceae_Pouteria_reticulata_BAR0401_004.jpg]\n- **Sapotaceae** (L2: 0.615, cosine: 0.811) [/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Sapotaceae/by_genus/Pouteria/by_species/reticulata/BAR0401/Sapotaceae_Pouteria_reticulata_BAR0401_002.jpg]\n- **Sapotaceae** (L2: 0.620, cosine: 0.808) [/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Sapotaceae/by_genus/Pouteria/by_species/reticulata/BAR0252/Sapotaceae_Pouteria_reticulata_BAR0252_003.jpg]\n\n## Literature Evidence\n\n### Matching Taxa (by trait similarity)\n\n- **Trichilia tuberculata** (Species, similarity: 0.70)\n  - Tree, ca. 5-30(-40) m. Leaves imparipinnate, 10-30 cm; petiole and rachis generally canaliculate, glabrous or sparsely puberulent; leaflets 5-9, alternate (rarely subopposite), 10-15(-20) X 2.5-4.5 cm\n- **Trichilia tuberculata** (Species, similarity: 0.70)\n  - Tree, ca. 5-30(-40) m. Leaves imparipinnate, 10-30 cm; petiole and rachis generally canaliculate, glabrous or sparsely puberulent; leaflets 5-9, alternate (rarely subopposite), 10-15(-20) X 2.5-4.5 cm\n- **Rinorea dasyadena** (Species, similarity: 0.69)\n  - Shrub or tree, 2-7(-20) m, the twigs grayish brown; stipules 0.2-0.25 cm. Opposite leaves, petiole 0.2-0.9 cm; blade to [unclear reference], scattered-1% [unclear reference]. Inflorescences with pedun\n- **Protium tenuifolium** (Species, similarity: 0.69)\n  - Functionally unisexual tree, to 18 m tall, to 27 cm dbh; outer bark thin, flaking in firm sheets, lenticellate; inner bark moderately thick, reddish; sap slowly forming viscid, cloudy droplets after s\n- **Symphonia globulifera** (Species, similarity: 0.69)\n  - Dioecious, hemiepiphytic tree, to 10 m tall; trunk to 15 cm dbh; branches spiraled, stiff and spreading, densely rooting at the nodes, the roots often extending back to the host tree and enveloping th\n- **Rinorea squamata** (Species, similarity: 0.69)\n  - Shrub or tree, 1-10(-18) m, the twigs brown; stipules deciduous (but sometimes present with submature leaves). Leaves opposite or with a cuspidate apex, often puberulent and (often) entire or serrated\n- **Rinorea squamata** (Species, similarity: 0.69)\n  - Shrub or tree, 1-10(-18) m, the twigs brown; stipules deciduous (but sometimes present with submature leaves). Leaves opposite or with a cuspidate apex, often puberulent and (often) entire or serrated\n- **Lindackeria laurina** (Species, similarity: 0.68)\n  - Tree, 3-8 (15) m tall, 5-35 cm dbh; wood yellow; stems weakly striate, brown or with a thin gray flaky crust, the leaf scars 3-sided, raised. Petioles 5-11 cm long, canaliculate, somewhat swollen at a\n- **Inga pezizifera** (Species, similarity: 0.68)\n  - Tree, to 27 m tall and 40 cm dbh, glabrous to puberulent throughout; trunk \u00b1 involuted with many prominent horizontal wrinkles; outer bark thin; inner bark reddish; young stems very prominently lentic\n- **Inga pezizifera** (Species, similarity: 0.68)\n  - Tree, to 27 m tall and 40 cm dbh, glabrous to puberulent throughout; trunk \u00b1 involuted with many prominent horizontal wrinkles; outer bark thin; inner bark reddish; young stems very prominently lentic\n- **Psychotria brachybotrya** (Species, similarity: 0.68)\n  - Shrub, 1-1.8 m tall; stems and leaves glabrate. Stipules persistent, 3-5 mm long, bifid to near base, the lobes distant, acuminate; petioles 1-1.5 cm long; blades \u00b1 elliptic, acute to acuminate, cunea\n- **Protium stevensonii** (Species, similarity: 0.68)\n  - Locating an individual\nIt is mainly observed towards the Southern Boundary (LS), Quebrada El Salto, etc., in rolling or broken terrain.\nDistribution\nFrom Belize to Venezuela, the Guianas, Brazil, and \n- **Protium stevensonii** (Species, similarity: 0.68)\n  - Locating an individual\nIt is mainly observed towards the Southern Boundary (LS), Quebrada El Salto, etc., in rolling or broken terrain.\nDistribution\nFrom Belize to Venezuela, the Guianas, Brazil, and \n- **Trophis racemosa** (Species, similarity: 0.68)\n  - Dioecious tree, to 17 m tall, to 25 cm dbh; trunk with broad, horizontal leaf scars; outer bark thin, sometimes reddish; inner bark thick, granular, tan; glabrous all over or sparsely puberulent on yo\n- **Lindackeria laurina** (Species, similarity: 0.68)\n  - Tree, 3-8 (15) m tall, 5-35 cm dbh; wood yellow; stems weakly striate, brown or with a thin gray flaky crust, the leaf scars 3-sided, raised. Petioles 5-11 cm long, canaliculate, somewhat swollen at a\n- **Maquira** (Genus, similarity: 0.67)\n  - Life Form: Tree, Shrub 10. Maquira Aubl. By C.C. Berg. Trees or shrubs, dioecious. Leaves alternate, distichous on lateral branches; blade leathery, margins entire, pinnate-veined; stipules not comple\n- **Maquira** (Genus, similarity: 0.67)\n  - Life Form: Tree, Shrub 10. Maquira Aubl. By C.C. Berg. Trees or shrubs, dioecious. Leaves alternate, distichous on lateral branches; blade leathery, margins entire, pinnate-veined; stipules not comple\n- **Heisteria concinna** (Species, similarity: 0.67)\n  - Shrub or tree, (2-)8-20 m, the crown dense and rounded; young branches cylindrical. Leaves with brown petiole, 0.7-2 cm; blade 4.3-19.3 X 2.5-10.2 cm, elliptical to ovate-oblong, attenuate to obtuse a\n- **Amaioua glomerulata** (Species, similarity: 0.67)\n  - Dioecious shrub or tree, to 15 m tall; trunk slender or to 20 cm dbh and deeply invaginated; stems sericeous when very young, glabrate in age, with conspicuous leaf scars. Leaves somewhat clustered at\n- **Licania hypoleuca** (Species, similarity: 0.67)\n  - Tree, to 15 m tall; trunk ca 20 cm dbh; outer bark unfissured, minutely roughened, thin; inner bark reddish-brown, thin, hard; branches enlarged at base; young branchlets and petioles puberulent; sap \n\n## Convergence Analysis\n\n- **Trophis racemosa** [Literature only] (RAG: 0.68, Visual: 0.0%)\n- **Maquira** [Literature only] (RAG: 0.67, Visual: 0.0%)\n- **Rinorea dasyadena** [Literature only] (RAG: 0.69, Visual: 0.0%)\n- **Pouteria reticulata** [Visual only] (RAG: 0.00, Visual: 1.3%)\n- **Vochysia ferruginea** [Visual only] (RAG: 0.00, Visual: 1.0%)\n- **Petrea volubilis** [Visual only] (RAG: 0.00, Visual: 1.0%)\n",
+        "quality_flags": [
+          "Low classification similarity: top prediction captures only 2.8% of total similarity (threshold: 30.0%)",
+          "Per-image disagreement: images predict 2 distinct labels (Sapotaceae, Verbenaceae)",
+          "Hierarchical inconsistency: Genus 'Pouteria' belongs to family 'Sapotaceae', but family classifier predicted 'Verbenaceae'"
+        ]
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 0.09891204535961151
+    },
+    "reasoning": {
+      "data": {
+        "classification": {
+          "predicted_family": "Sapotaceae",
+          "predicted_genus": "Pouteria",
+          "predicted_species": "Pouteria reticulata",
+          "confidence": "medium",
+          "reasoning": "The visual embedding classification strongly favors Pouteria reticulata, with high cosine similarity and nearest support images matching the specimen. Although the family classifier output was inconsistent (predicting Verbenaceae), the genus and species predictions are taxonomically consistent with Sapotaceae, and the morphological traits (glossy, lanceolate leaves with pinnate venation, short petioles, woody ridged stem, whorled arrangement) align well with Pouteria species. The literature evidence does not strongly support any alternative, and the visual evidence is the most specific and consistent.",
+          "supporting_features": [
+            "glossy, lanceolate leaves with acuminate apex",
+            "pinnate venation with closely spaced secondary veins",
+            "short, terete petioles",
+            "woody, ridged stem",
+            "whorled leaf arrangement"
+          ],
+          "alternatives": [
+            {
+              "taxon": "Vochysia ferruginea",
+              "reason": "Visual classifier ranked it second at species level and third at genus level, but lacks matching morphological traits such as stipules or specific leaf shape, and is in Vochysiaceae, which contradicts the leaf morphology."
+            },
+            {
+              "taxon": "Petrea volubilis",
+              "reason": "Ranked second in species and genus predictions, but is in Verbenaceae and typically has opposite leaves, which contradicts the observed whorled arrangement."
+            },
+            {
+              "taxon": "Maquira",
+              "reason": "Literature match with similar leaf traits, but lacks visual support and has different growth form (dioecious trees/shrubs with distichous leaves), not matching the whorled arrangement."
+            }
+          ]
+        },
+        "raw_response": "{\n  \"predicted_family\": \"Sapotaceae\",\n  \"predicted_genus\": \"Pouteria\",\n  \"predicted_species\": \"Pouteria reticulata\",\n  \"confidence\": \"medium\",\n  \"reasoning\": \"The visual embedding classification strongly favors Pouteria reticulata, with high cosine similarity and nearest support images matching the specimen. Although the family classifier output was inconsistent (predicting Verbenaceae), the genus and species predictions are taxonomically consistent with Sapotaceae, and the morphological traits (glossy, lanceolate leaves with pinnate venation, short petioles, woody ridged stem, whorled arrangement) align well with Pouteria species. The literature evidence does not strongly support any alternative, and the visual evidence is the most specific and consistent.\",\n  \"supporting_features\": [\n    \"glossy, lanceolate leaves with acuminate apex\",\n    \"pinnate venation with closely spaced secondary veins\",\n    \"short, terete petioles\",\n    \"woody, ridged stem\",\n    \"whorled leaf arrangement\"\n  ],\n  \"alternatives\": [\n    {\n      \"taxon\": \"Vochysia ferruginea\",\n      \"reason\": \"Visual classifier ranked it second at species level and third at genus level, but lacks matching morphological traits such as stipules or specific leaf shape, and is in Vochysiaceae, which contradicts the leaf morphology.\"\n    },\n    {\n      \"taxon\": \"Petrea volubilis\",\n      \"reason\": \"Ranked second in species and genus predictions, but is in Verbenaceae and typically has opposite leaves, which contradicts the observed whorled arrangement.\"\n    },\n    {\n      \"taxon\": \"Maquira\",\n      \"reason\": \"Literature match with similar leaf traits, but lacks visual support and has different growth form (dioecious trees/shrubs with distichous leaves), not matching the whorled arrangement.\"\n    }\n  ]\n}",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 8321.207783883438
+    }
+  },
+  "total_elapsed_ms": 30389.615761116147,
+  "benchmark_metadata": {
+    "scientific_name": "Pouteria reticulata",
+    "family": "Sapotaceae",
+    "genus": "Pouteria",
+    "species_epithet": "reticulata",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

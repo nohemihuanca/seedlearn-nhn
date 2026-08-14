@@ -1,0 +1,47 @@
+{
+  "specimen_id": "ANSIPAGU5",
+  "source_answer_key": "Siparunaceae_Siparuna_guianensis_ANSIPAGU5",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "opposite",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic-lanceolate",
+            "apex": "acuminate",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "clearly visible, fairly evenly spaced, about 6\u20138 pairs per leaf",
+            "surface_features": "glabrous, dull",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "unclear"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "reddish-brown to green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "present",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Leaves appear decussate from successive opposite pairs, with minor damage on a few blades including holes present and some tip or margin missing; newest leaves are paler green than older leaves."
+        }
+      }
+    }
+  }
+}

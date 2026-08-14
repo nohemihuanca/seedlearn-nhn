@@ -1,0 +1,91 @@
+{
+  "specimen_id": "MEPERIPR9",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Celastraceae/by_genus/Peritassa/by_species/pruinosa/MEPERIPR9/Celastraceae_Peritassa_pruinosa_MEPERIPR9_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Celastraceae/by_genus/Peritassa/by_species/pruinosa/MEPERIPR9/Celastraceae_Peritassa_pruinosa_MEPERIPR9_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Celastraceae/by_genus/Peritassa/by_species/pruinosa/MEPERIPR9/Celastraceae_Peritassa_pruinosa_MEPERIPR9_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Celastraceae/by_genus/Peritassa/by_species/pruinosa/MEPERIPR9/Celastraceae_Peritassa_pruinosa_MEPERIPR9_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Celastraceae/by_genus/Peritassa/by_species/pruinosa/MEPERIPR9/Celastraceae_Peritassa_pruinosa_MEPERIPR9_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "whorled",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "compound",
+            "compound_type": "odd-pinnate",
+            "num_leaflets": "8",
+            "leaflet_arrangement": "alternate"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "lanceolate",
+            "apex": "acuminate",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "visible, closely spaced, numerous",
+            "surface_features": "shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "greenish-brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Some leaflets show minor damage including holes and brown spots, likely due to environmental exposure or minor injury. The seedling is growing in a leaf litter-covered forest floor, though habitat is not explicitly annotated per rules. The compound leaves are arranged in whorls, with each whorl containing multiple leaflets. The rachis is visible and supports the leaflets in an odd-pinnate arrangement. No flowers or fruits are present. The overall morphology suggests a young tropical tree seedling with pinnate compound leaves. ####"
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): whorled (multiple leaves clearly attached at the same node along the stem, visible in all images)\n    2. Leaf spacing (clustered / distal): clustered (leaves are arranged in tight groups at nodes, not spaced far apart)\n\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): compound (each leaf is composed of multiple leaflets attached to a central axis)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): odd-pinnate (leaflets arranged along a central rachis with one terminal leaflet, visible in close-up images)\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): 8 (each compound leaf has approximately 8 leaflets, counting visible ones in multiple images)\n    6. Leaflet arrangement (opposite / alternate / subopposite): alternate (leaflets alternate along the rachis, not paired directly opposite each other)\n\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (margins are smooth without teeth or lobes, visible across all images)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): lanceolate (long and narrow with a pointed tip, widest near the base, visible in all images)\n    9. Leaf apex (acute, obtuse, acuminate): acuminate (tapering to a long, narrow point, visible in all images)\n    10. Leaf base (rounded, cordate, cuneate): cuneate (wedge-shaped, tapering to the petiole, visible in close-up views)\n    11. Venation type (pinnate / palmate / parallel): pinnate (main vein runs lengthwise with secondary veins branching off laterally, visible in all images)\n    12. Secondary veins (visibility, spacing, number): visible, closely spaced, numerous (secondary veins clearly visible and running parallel to each other, close together)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): shiny (surface appears glossy and reflective, especially in overhead images)\n    14. Leaf surface trichomes (present / absent): absent (no visible hairs or fuzz on leaf surface)\n    15. Petiole length (short / long): short (petioles are short, attaching leaflets closely to the rachis)\n    16. Petiole features (winged / grooved / terete): terete (petioles are round and cylindrical, no wings or grooves)\n\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): woody (stem appears firm and slightly thickened, typical of young tree seedling)\n    18. Stem trichomes (present / absent): absent (no visible hairs on stem)\n    19. Stem color: greenish-brown (stem is light brown with greenish tinge, visible in close-ups)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (surface appears smooth without ridges or lenticels)\n\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules observed at leaf bases)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no latex exudate visible)\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no swollen joints at leaflet bases visible)\n    24. Tendrils (present / absent): absent (no tendrils observed)\n\nF. Notes: Some leaflets show minor damage including holes and brown spots, likely due to environmental exposure or minor injury. The seedling is growing in a leaf litter-covered forest floor, though habitat is not explicitly annotated per rules. The compound leaves are arranged in whorls, with each whorl containing multiple leaflets. The rachis is visible and supports the leaflets in an odd-pinnate arrangement. No flowers or fruits are present. The overall morphology suggests a young tropical tree seedling with pinnate compound leaves. ####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 22047.589955851436
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 22047.589955851436,
+  "benchmark_metadata": {
+    "scientific_name": "Peritassa pruinosa",
+    "family": "Celastraceae",
+    "genus": "Peritassa",
+    "species_epithet": "pruinosa",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

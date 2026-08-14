@@ -1,0 +1,47 @@
+{
+  "specimen_id": "SHNECTPU10",
+  "source_answer_key": "Lauraceae_Damburneya_purpurea_SHNECTPU10",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "unclear",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "acuminate",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "conspicuous, moderately spaced, approximately 8\u201312 pairs per leaf",
+            "surface_features": "glabrous, shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "unclear",
+            "trichomes": "absent",
+            "color": "dark brown to purplish-brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Simple, glossy, entire leaves with prominent secondary venation and small areas of leaf margin missing; stem erect without climbing structures. (summarizes key visible features and corroborates lack of tendrils)"
+        }
+      }
+    }
+  }
+}

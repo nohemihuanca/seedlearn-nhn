@@ -1,0 +1,47 @@
+{
+  "specimen_id": "SHMICOSI7",
+  "source_answer_key": "Melastomataceae_Miconia_simplex_SHMICOSI7",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "whorled",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "narrowly elliptic",
+            "apex": "acuminate",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "very conspicuous, closely spaced, numerous",
+            "surface_features": "glabrous and shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "reddish",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Seedling shows a rosette-like cluster of several leaves at the apex; leaves are elliptic to narrowly elliptic with entire margins, glossy surface, and strong parallel secondary veins; petioles and stem apex appear reddish; leaf blades show holes and missing portions in several areas."
+        }
+      }
+    }
+  }
+}

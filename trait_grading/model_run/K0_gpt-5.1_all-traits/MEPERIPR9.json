@@ -1,0 +1,47 @@
+{
+  "specimen_id": "MEPERIPR9",
+  "source_answer_key": "Celastraceae_Peritassa_pruinosa_MEPERIPR9",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "alternate",
+            "spacing": "distal"
+          },
+          "leaf_complexity": {
+            "type": "compound",
+            "compound_type": "odd-pinnate",
+            "num_leaflets": "8",
+            "leaflet_arrangement": "subopposite"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "lanceolate",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "visible, fairly closely spaced, numerous",
+            "surface_features": "glabrous and moderately shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "light brown to greenish-brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "unclear",
+            "tendrils": "absent"
+          },
+          "notes": "Some leaflets show circular discolored spots and a few leaflet tips are missing; overall seedling has several pinnate leaves with narrow lanceolate leaflets emerging from a single central stem amid leaf litter on the ground."
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "specimen_id": "BAR0401",
+  "source_answer_key": "Sapotaceae_Pouteria_reticulata_BAR0401",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "whorled",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "lanceolate",
+            "apex": "acuminate",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "clearly visible, moderately close spacing, approximately 8\u201312 pairs per leaf, slightly arcuate toward margin",
+            "surface_features": "glabrous and shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "light brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "unclear",
+            "tendrils": "absent"
+          },
+          "notes": "Seedling with a single upright stem and an apparent rosette of numerous long, narrow, entire-margined leaves at the upper node; leaves glossy and slightly undulate with some holes and missing margin portions; no additional organs (flowers, fruits, buds) visible."
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "specimen_id": "PPCALLLA6",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Callichlamys/by_species/latifolia/PPCALLLA6/Bignoniaceae_Callichlamys_latifolia_PPCALLLA6_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Callichlamys/by_species/latifolia/PPCALLLA6/Bignoniaceae_Callichlamys_latifolia_PPCALLLA6_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Callichlamys/by_species/latifolia/PPCALLLA6/Bignoniaceae_Callichlamys_latifolia_PPCALLLA6_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Callichlamys/by_species/latifolia/PPCALLLA6/Bignoniaceae_Callichlamys_latifolia_PPCALLLA6_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Callichlamys/by_species/latifolia/PPCALLLA6/Bignoniaceae_Callichlamys_latifolia_PPCALLLA6_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "alternate",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "compound",
+            "compound_type": "odd-pinnate",
+            "num_leaflets": "8",
+            "leaflet_arrangement": "opposite"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "acute",
+            "base": "rounded",
+            "venation": "pinnate",
+            "secondary_veins": "prominent and well-spaced",
+            "surface_features": "shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "absent",
+            "color": "green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "The seedling displays pinnately compound leaves with opposite leaflets. The leaves are clustered at the branch tips. The overall appearance suggests a young tropical tree seedling. Some leaflets show minor damage (small holes)."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): alternate (clearly visible in multiple images where leaves are attached at successive nodes along the stem, alternating sides)\n    2. Leaf spacing (clustered / distal): clustered (leaves are grouped in dense clusters at the ends of the branches)\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): compound (individual leaflets are clearly visible attached to a central rachis)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): odd-pinnate (each leaf structure terminates in a single terminal leaflet)\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): 8 (based on the most complete visible leaf structures)\n    6. Leaflet arrangement (opposite / alternate / subopposite): opposite (leaflets are arranged in pairs along the rachis)\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.): entire (leaf margins appear smooth and continuous without teeth)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): elliptic (leaflets are broadly oval with the widest point near the middle)\n    9. Leaf apex (acute, obtuse, acuminate): acute (leaf tips come to a distinct, sharp point)\n    10. Leaf base (rounded, cordate, cuneate): rounded (the base of the leaflets appears broadly rounded)\n    11. Venation type (pinnate / palmate / parallel): pinnate (a distinct central midrib with secondary veins branching off)\n    12. Secondary veins (visibility, spacing, number): prominent and well-spaced (secondary veins are clearly visible and curve towards the leaf margin)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): shiny (leaf surfaces reflect light, indicating a smooth, glossy texture)\n    14. Leaf surface trichomes (present / absent): absent (no hairs are visible on the leaf surface)\n    15. Petiole length (short / long): short (petioles appear relatively short compared to the leaf blade size)\n    16. Petiole features (winged / grooved / terete): terete (petioles appear round in cross-section)\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): herbaceous (the young stems appear green and flexible, not woody)\n    18. Stem trichomes (present / absent): absent (stems appear smooth without visible hairs)\n    19. Stem color: green (stems are predominantly green)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (stems appear smooth without obvious ridges or lenticels)\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules are clearly visible at the leaf bases)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no latex is visible)\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no pulvinus is visible at the base of the leaflets)\n    24. Tendrils (present / absent): absent (no tendrils are visible)\nF. Notes: The seedling displays pinnately compound leaves with opposite leaflets. The leaves are clustered at the branch tips. The overall appearance suggests a young tropical tree seedling. Some leaflets show minor damage (small holes).\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 4974.25333596766
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 4974.25333596766,
+  "benchmark_metadata": {
+    "scientific_name": "Callichlamys latifolia",
+    "family": "Bignoniaceae",
+    "genus": "Callichlamys",
+    "species_epithet": "latifolia",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

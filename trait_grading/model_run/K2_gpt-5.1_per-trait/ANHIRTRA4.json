@@ -1,0 +1,47 @@
+{
+  "specimen_id": "ANHIRTRA4",
+  "source_answer_key": "Chrysobalanaceae_Hirtella_racemosa_ANHIRTRA4",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "alternate",
+            "spacing": "distal"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "1",
+            "leaflet_arrangement": "unclear"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "lanceolate",
+            "apex": "acuminate",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "faintly visible pinnate secondary veins, moderately spaced, approximately 6\u20139 pairs per leaf",
+            "surface_features": "glabrous, shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "unclear",
+            "tendrils": "absent"
+          },
+          "notes": "Seedling appears upright and self-supporting with several slender woody stems and narrow elliptic leaves; some leaves show small holes and portions of the margin missing (overall morphology and visible leaf damage noted, with no climbing adaptations observed)"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "specimen_id": "SHSMILS14",
+  "source_answer_key": "Smilacaceae_Smilax_spinosa_SHSMILS14",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "whorled",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "1",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "narrowly elliptic",
+            "apex": "acuminate",
+            "base": "rounded",
+            "venation": "pinnate",
+            "secondary_veins": "clearly visible and prominently raised, closely spaced, with roughly 7\u201310 pairs per leaf",
+            "surface_features": "glabrous, shiny, rugose",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "dark brown to olive-green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Leaves show small circular holes and the seedling stem appears to twine around adjacent vertical supports (holes are visible on multiple leaves, and a thin main stem can be seen wrapping around nearby upright stems)."
+        }
+      }
+    }
+  }
+}

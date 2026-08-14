@@ -1,0 +1,91 @@
+{
+  "specimen_id": "BVCHR2AR5",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Sapotaceae/by_genus/Chrysophyllum/by_species/argenteum/BVCHR2AR5/Sapotaceae_Chrysophyllum_argenteum_BVCHR2AR5_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Sapotaceae/by_genus/Chrysophyllum/by_species/argenteum/BVCHR2AR5/Sapotaceae_Chrysophyllum_argenteum_BVCHR2AR5_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Sapotaceae/by_genus/Chrysophyllum/by_species/argenteum/BVCHR2AR5/Sapotaceae_Chrysophyllum_argenteum_BVCHR2AR5_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Sapotaceae/by_genus/Chrysophyllum/by_species/argenteum/BVCHR2AR5/Sapotaceae_Chrysophyllum_argenteum_BVCHR2AR5_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Sapotaceae/by_genus/Chrysophyllum/by_species/argenteum/BVCHR2AR5/Sapotaceae_Chrysophyllum_argenteum_BVCHR2AR5_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "whorled",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "acuminate",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "clearly visible, parallel, and regularly spaced curving toward the apex",
+            "surface_features": "shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Some leaves exhibit irregular holes and missing sections along the margins."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): whorled (multiple leaves clearly arise from a single node in a circular arrangement, visible in all images)\n    2. Leaf spacing (clustered / distal): clustered (leaves are grouped densely at the shoot tips rather than widely spaced along the stem)\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): simple (leaves are undivided single blades)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): N/A\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): N/A\n    6. Leaflet arrangement (opposite / alternate / subopposite): N/A\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.): entire (margins are smooth, though some leaves show holes/damage)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): elliptic (broadest point is near the middle, tapering toward both ends)\n    9. Leaf apex (acute, obtuse, acuminate): acuminate (tapering to a distinct, elongated point)\n    10. Leaf base (rounded, cordate, cuneate): cuneate (wedge-shaped, narrowing gradually toward the petiole)\n    11. Venation type (pinnate / palmate / parallel): pinnate (single midrib with lateral veins branching off)\n    12. Secondary veins (visibility, spacing, number): clearly visible, parallel, and regularly spaced curving toward the apex\n    13. Leaf surface features (glabrous, shiny, dull, rugose): shiny (surface reflects light distinctly)\n    14. Leaf surface trichomes (present / absent): absent (surface appears smooth without visible hairs)\n    15. Petiole length (short / long): short (petioles are distinct but do not extend significantly beyond the leaf blade)\n    16. Petiole features (winged / grooved / terete): terete (cylindrical cross-section)\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): woody (stem appears rigid and lignified)\n    18. Stem trichomes (present / absent): absent (stem appears smooth)\n    19. Stem color: brown (visible where not obscured by leaves or tags)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (no obvious ridges or rough texture)\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules visible at the nodes)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no distinct swollen joint at the leaf base)\n    24. Tendrils (present / absent): absent\nF. Notes: Some leaves exhibit irregular holes and missing sections along the margins.\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 4282.438597176224
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 4282.438597176224,
+  "benchmark_metadata": {
+    "scientific_name": "Chrysophyllum argenteum",
+    "family": "Sapotaceae",
+    "genus": "Chrysophyllum",
+    "species_epithet": "argenteum",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

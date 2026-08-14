@@ -1,0 +1,90 @@
+{
+  "specimen_id": "SHCALOLO10",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Calophyllaceae/by_genus/Calophyllum/by_species/longifolium/SHCALOLO10/Calophyllaceae_Calophyllum_longifolium_SHCALOLO10_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Calophyllaceae/by_genus/Calophyllum/by_species/longifolium/SHCALOLO10/Calophyllaceae_Calophyllum_longifolium_SHCALOLO10_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Calophyllaceae/by_genus/Calophyllum/by_species/longifolium/SHCALOLO10/Calophyllaceae_Calophyllum_longifolium_SHCALOLO10_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Calophyllaceae/by_genus/Calophyllum/by_species/longifolium/SHCALOLO10/Calophyllaceae_Calophyllum_longifolium_SHCALOLO10_004.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "whorled",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "oblanceolate",
+            "apex": "obtuse",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "clearly visible, parallel, and densely spaced",
+            "surface_features": "shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "not observed",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "The seedling exhibits a distinct rosette-like appearance due to the whorled arrangement of leaves. The leaves are thick and leathery in texture. Some leaves show minor physical damage, such as small holes and missing margin fragments. A pink tag is attached to the stem of the seedling."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): whorled (multiple leaves are clearly visible attached at the same node, forming a whorl around the stem apex)\n    2. Leaf spacing (clustered / distal): clustered (leaves are densely arranged at the terminal end of the shoot)\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): simple (each leaf unit is a single blade without leaflets)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): N/A\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): N/A\n    6. Leaflet arrangement (opposite / alternate / subopposite): N/A\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.): entire (margins appear smooth and continuous, though some minor physical damage/holes are present)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): oblanceolate (leaves are broadest near the tip and taper towards the base)\n    9. Leaf apex (acute, obtuse, acuminate): obtuse (the leaf tips appear rounded rather than pointed)\n    10. Leaf base (rounded, cordate, cuneate): cuneate (the base tapers distinctly toward the petiole attachment)\n    11. Venation type (pinnate / palmate / parallel): pinnate (a central midrib is clearly visible with secondary veins branching off)\n    12. Secondary veins (visibility, spacing, number): clearly visible, parallel, and densely spaced (running from the midrib toward the margin)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): shiny (the leaf surfaces reflect light, indicating a smooth texture)\n    14. Leaf surface trichomes (present / absent): absent (the surface appears smooth without visible hairs)\n    15. Petiole length (short / long): short (petioles are visible but relatively short compared to the leaf blade length)\n    16. Petiole features (winged / grooved / terete): terete (petioles appear cylindrical and rounded in cross-section)\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): woody (the stem appears firm, brown, and lignified)\n    18. Stem trichomes (present / absent): absent (the visible parts of the stem appear smooth)\n    19. Stem color: brown (the stem exhibits a brownish hue)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (no obvious ridges or large lenticels are visible)\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): not observed (stipules are not clearly visible in the provided images)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no latex is visible)\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no distinct pulvinus is visible at the petiole base)\n    24. Tendrils (present / absent): absent (no tendrils are visible)\nF. Notes: The seedling exhibits a distinct rosette-like appearance due to the whorled arrangement of leaves. The leaves are thick and leathery in texture. Some leaves show minor physical damage, such as small holes and missing margin fragments. A pink tag is attached to the stem of the seedling.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 4792.350756004453
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 4792.350756004453,
+  "benchmark_metadata": {
+    "scientific_name": "Calophyllum longifolium",
+    "family": "Calophyllaceae",
+    "genus": "Calophyllum",
+    "species_epithet": "longifolium",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

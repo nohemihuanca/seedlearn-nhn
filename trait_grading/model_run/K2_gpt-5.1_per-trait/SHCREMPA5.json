@@ -1,0 +1,47 @@
+{
+  "specimen_id": "SHCREMPA5",
+  "source_answer_key": "Annonaceae_Cremastosperma_panamense_SHCREMPA5",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "unclear",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "unclear"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "narrowly elliptic",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "clearly visible, pinnate, closely spaced, approximately 10\u201315 pairs per leaf",
+            "surface_features": "glabrous, shiny, rugose",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "absent",
+            "color": "light green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Seedling with simple, narrow-elliptic, glossy leaves with entire margins and strongly impressed secondary veins, growing on ground surface among visible leaf litter (all features observable in the images)"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "specimen_id": "ANCONNPA5",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Connaraceae/by_genus/Connarus/by_species/panamensis/ANCONNPA5/Connaraceae_Connarus_panamensis_ANCONNPA5_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Connaraceae/by_genus/Connarus/by_species/panamensis/ANCONNPA5/Connaraceae_Connarus_panamensis_ANCONNPA5_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Connaraceae/by_genus/Connarus/by_species/panamensis/ANCONNPA5/Connaraceae_Connarus_panamensis_ANCONNPA5_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Connaraceae/by_genus/Connarus/by_species/panamensis/ANCONNPA5/Connaraceae_Connarus_panamensis_ANCONNPA5_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Connaraceae/by_genus/Connarus/by_species/panamensis/ANCONNPA5/Connaraceae_Connarus_panamensis_ANCONNPA5_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {},
+          "leaf_complexity": {},
+          "leaf_morphology": {
+            "margin": "[entire"
+          },
+          "stem_traits": {},
+          "special_features": {},
+          "notes": "[The leaf margins are clearly intact and smooth; some leaves exhibit irregular holes from insect damage, which were excluded from the margin assessment.]"
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nC. Leaf Morphology\n    7.\tLeaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): [entire (the leaf margins are smooth and continuous throughout, lacking any teeth, serrations, or scalloping)]\nF. Notes: [The leaf margins are clearly intact and smooth; some leaves exhibit irregular holes from insect damage, which were excluded from the margin assessment.]\n####",
+        "thinking": null,
+        "few_shot_delivery": {
+          "n_examples": 1,
+          "n_exemplar_images": 3,
+          "n_specimen_images": 5,
+          "max_images": 10,
+          "images_over_budget": false,
+          "prompt_chars": 2155
+        }
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 1622.3596490000318
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 1622.3596490000318,
+  "benchmark_metadata": {
+    "scientific_name": "Connarus panamensis",
+    "family": "Connaraceae",
+    "genus": "Connarus",
+    "species_epithet": "panamensis",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

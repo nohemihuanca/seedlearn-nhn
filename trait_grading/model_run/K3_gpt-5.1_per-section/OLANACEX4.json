@@ -1,0 +1,47 @@
+{
+  "specimen_id": "OLANACEX4",
+  "source_answer_key": "Anacardiaceae_Anacardium_excelsum_OLANACEX4",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "whorled",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "lanceolate",
+            "apex": "acuminate",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "clearly visible, closely and evenly spaced, numerous",
+            "surface_features": "shiny and slightly rugose",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "unclear"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "absent",
+            "color": "light green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Seedling has a single upright stem with an apparent whorl-like cluster of five simple, glossy, elliptic leaves at the apex (pseudo-whorl at a single node); leaves show pinnate venation with slightly impressed secondary veins and entire margins, with small holes and minor margin loss visible on some leaves (damage present but cause not inferred)."
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "specimen_id": "PPPIT1RU4",
+  "source_answer_key": "Fabaceae_Cojoba_rufescens_PPPIT1RU4",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "unclear",
+            "spacing": "distal"
+          },
+          "leaf_complexity": {
+            "type": "compound",
+            "compound_type": "odd-pinnate",
+            "num_leaflets": "10",
+            "leaflet_arrangement": "opposite"
+          },
+          "leaf_morphology": {
+            "margin": "toothed, serrate",
+            "shape": "lanceolate",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "visible, moderately spaced, several pairs",
+            "surface_features": "shiny",
+            "trichomes": "absent",
+            "petiole_length": "long",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "unclear",
+            "trichomes": "absent",
+            "color": "greenish-brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "unclear",
+            "tendrils": "absent"
+          },
+          "notes": "Some leaflets show margin missing and small holes present, indicating physical damage. A separate neighboring plant with thicker, broader, very glossy simple leaves is visible in some images and should not be confused with the compound-leaved seedling described here."
+        }
+      }
+    }
+  }
+}

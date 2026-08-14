@@ -1,0 +1,72 @@
+{
+  "specimen_id": "MEMACHM29",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Machaerium/by_species/milleflorum/MEMACHM29/Fabaceae_Machaerium_milleflorum_MEMACHM29_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Machaerium/by_species/milleflorum/MEMACHM29/Fabaceae_Machaerium_milleflorum_MEMACHM29_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Machaerium/by_species/milleflorum/MEMACHM29/Fabaceae_Machaerium_milleflorum_MEMACHM29_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Machaerium/by_species/milleflorum/MEMACHM29/Fabaceae_Machaerium_milleflorum_MEMACHM29_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Machaerium/by_species/milleflorum/MEMACHM29/Fabaceae_Machaerium_milleflorum_MEMACHM29_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {},
+          "leaf_complexity": {},
+          "leaf_morphology": {
+            "margin": "[entire"
+          },
+          "stem_traits": {},
+          "special_features": {},
+          "notes": "[The plant features compound leaves with multiple small leaflets. The primary subject's leaflets consistently show an entire margin across all provided images. There are visible holes in some leaflets, but these are interpreted as damage rather than a margin feature.]"
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nC. Leaf Morphology\n    7.\tLeaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): [entire (the leaflets display smooth, continuous edges with no visible teeth, serrations, or lobes)]\nF. Notes: [The plant features compound leaves with multiple small leaflets. The primary subject's leaflets consistently show an entire margin across all provided images. There are visible holes in some leaflets, but these are interpreted as damage rather than a margin feature.]\n####",
+        "thinking": null,
+        "few_shot_delivery": {
+          "n_examples": 0,
+          "n_exemplar_images": 0,
+          "n_specimen_images": 5,
+          "max_images": 10,
+          "images_over_budget": false,
+          "prompt_chars": 2155
+        }
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 1670.103207000011
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 1670.103207000011,
+  "benchmark_metadata": {
+    "scientific_name": "Machaerium milleflorum",
+    "family": "Fabaceae",
+    "genus": "Machaerium",
+    "species_epithet": "milleflorum",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

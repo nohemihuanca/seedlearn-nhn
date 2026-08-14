@@ -1,0 +1,91 @@
+{
+  "specimen_id": "BVTET1PO6",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Dilleniaceae/by_genus/Tetracera/by_species/portobellensis/BVTET1PO6/Dilleniaceae_Tetracera_portobellensis_BVTET1PO6_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Dilleniaceae/by_genus/Tetracera/by_species/portobellensis/BVTET1PO6/Dilleniaceae_Tetracera_portobellensis_BVTET1PO6_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Dilleniaceae/by_genus/Tetracera/by_species/portobellensis/BVTET1PO6/Dilleniaceae_Tetracera_portobellensis_BVTET1PO6_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Dilleniaceae/by_genus/Tetracera/by_species/portobellensis/BVTET1PO6/Dilleniaceae_Tetracera_portobellensis_BVTET1PO6_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Dilleniaceae/by_genus/Tetracera/by_species/portobellensis/BVTET1PO6/Dilleniaceae_Tetracera_portobellensis_BVTET1PO6_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "whorled",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "toothed, serrate",
+            "shape": "lanceolate",
+            "apex": "acuminate",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "visible, closely spaced, numerous",
+            "surface_features": "dull, rugose",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "present",
+            "color": "green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "The seedling exhibits a whorled leaf arrangement with multiple lanceolate, serrate leaves clustered at the apex. The stem is herbaceous, green, and bears fine trichomes near the node. Leaf surfaces are dull and rugose with pinnate venation. No stipules, latex, or tendrils are visible. Damage is noted on some leaves, including small holes and margin irregularities, but cause is not inferred. The pink tag is an artificial marker and not a plant feature."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): whorled (multiple leaves clearly attached at the same node, visible in close-up images)\n    2. Leaf spacing (clustered / distal): clustered (leaves are grouped tightly at the apex of the stem)\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): simple (each leaf is a single blade without divisions into leaflets)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): N/A\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): N/A\n    6. Leaflet arrangement (opposite / alternate / subopposite): N/A\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): toothed, serrate (margins have small, sharp, forward-pointing teeth visible along the edge)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): lanceolate (narrow, tapering to a point, widest near the base)\n    9. Leaf apex (acute, obtuse, acuminate): acuminate (tapering to a long, narrow point)\n    10. Leaf base (rounded, cordate, cuneate): cuneate (wedge-shaped, tapering to the petiole)\n    11. Venation type (pinnate / palmate / parallel): pinnate (main vein runs lengthwise with lateral veins branching off)\n    12. Secondary veins (visibility, spacing, number): visible, closely spaced, numerous (secondary veins clearly visible and run perpendicular to the midrib, forming a distinct network)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): dull, rugose (surface appears slightly wrinkled or textured, not glossy)\n    14. Leaf surface trichomes (present / absent): absent (no visible hairs on leaf surface)\n    15. Petiole length (short / long): short (petioles are short, attaching leaves close to the stem)\n    16. Petiole features (winged / grooved / terete): terete (circular in cross-section, not flattened or winged)\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): herbaceous (stem appears soft, green, and flexible, not woody)\n    18. Stem trichomes (present / absent): present (fine hairs visible on stem surface, especially near the node)\n    19. Stem color: green (stem is green, with some darker, brownish areas near the node)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (no ridges or lenticels visible; surface is relatively smooth)\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipule structures observed at leaf bases)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no exudate or latex visible)\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no swollen joint at leaf base; not applicable for Fabaceae, but observed as absent)\n    24. Tendrils (present / absent): absent (no tendrils present)\nF. Notes: The seedling exhibits a whorled leaf arrangement with multiple lanceolate, serrate leaves clustered at the apex. The stem is herbaceous, green, and bears fine trichomes near the node. Leaf surfaces are dull and rugose with pinnate venation. No stipules, latex, or tendrils are visible. Damage is noted on some leaves, including small holes and margin irregularities, but cause is not inferred. The pink tag is an artificial marker and not a plant feature.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 20883.4616872482
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 20883.4616872482,
+  "benchmark_metadata": {
+    "scientific_name": "Tetracera portobellensis",
+    "family": "Dilleniaceae",
+    "genus": "Tetracera",
+    "species_epithet": "portobellensis",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

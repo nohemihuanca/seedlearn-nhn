@@ -1,0 +1,91 @@
+{
+  "specimen_id": "SHASPICR4",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Apocynaceae/by_genus/Aspidosperma/by_species/desmanthum/SHASPICR4/Apocynaceae_Aspidosperma_desmanthum_SHASPICR4_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Apocynaceae/by_genus/Aspidosperma/by_species/desmanthum/SHASPICR4/Apocynaceae_Aspidosperma_desmanthum_SHASPICR4_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Apocynaceae/by_genus/Aspidosperma/by_species/desmanthum/SHASPICR4/Apocynaceae_Aspidosperma_desmanthum_SHASPICR4_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Apocynaceae/by_genus/Aspidosperma/by_species/desmanthum/SHASPICR4/Apocynaceae_Aspidosperma_desmanthum_SHASPICR4_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Apocynaceae/by_genus/Aspidosperma/by_species/desmanthum/SHASPICR4/Apocynaceae_Aspidosperma_desmanthum_SHASPICR4_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "whorled",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "lanceolate",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "visible, closely spaced, numerous",
+            "surface_features": "shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "absent",
+            "color": "green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "The seedling exhibits a whorled arrangement of five lanceolate leaves at the apex, with a smooth, green, herbaceous stem. Leaf margins are entire and surfaces are shiny and glabrous. Some minor discoloration and small spots are present on the leaf blades, possibly due to environmental factors or minor damage, but no clear holes or margin loss are evident. The plant is growing in leaf litter, with no clear indication of surrounding habitat structure. All images show the same individual from slightly different angles, confirming the whorled leaf arrangement and consistent morphology."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): whorled (five leaves clearly attached at the same node, visible in multiple images)\n    2. Leaf spacing (clustered / distal): clustered (all leaves emerge from a single node, forming a rosette-like cluster at the shoot apex)\n\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): simple (each leaf is a single, undivided blade)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): N/A\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): N/A\n    6. Leaflet arrangement (opposite / alternate / subopposite): N/A\n\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (margins are smooth, no teeth or serrations visible)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): lanceolate (narrow, tapering to a pointed apex, broader at the base)\n    9. Leaf apex (acute, obtuse, acuminate): acute (tapering to a sharp point)\n    10. Leaf base (rounded, cordate, cuneate): cuneate (tapering to the petiole, wedge-shaped)\n    11. Venation type (pinnate / palmate / parallel): pinnate (main vein runs from base to apex, with secondary veins branching off laterally)\n    12. Secondary veins (visibility, spacing, number): visible, closely spaced, numerous (secondary veins are prominent, running parallel to each other and perpendicular to the midrib)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): shiny (surface appears glossy, reflecting light)\n    14. Leaf surface trichomes (present / absent): absent (no visible hairs or fuzz on leaf surface)\n    15. Petiole length (short / long): short (petiole is very short, barely visible, leaves appear sessile or nearly so)\n    16. Petiole features (winged / grooved / terete): terete (petiole is round in cross-section, no wings or grooves)\n\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): herbaceous (stem appears soft and green, not woody)\n    18. Stem trichomes (present / absent): absent (no visible hairs on stem)\n    19. Stem color: green (stem is light green, consistent with young growth)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (surface appears smooth, no ridges or lenticels visible)\n\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules observed at leaf base)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no latex exudate visible)\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no swollen joints at leaf base, not characteristic of Fabaceae)\n    24. Tendrils (present / absent): absent (no tendrils visible)\n\nF. Notes: The seedling exhibits a whorled arrangement of five lanceolate leaves at the apex, with a smooth, green, herbaceous stem. Leaf margins are entire and surfaces are shiny and glabrous. Some minor discoloration and small spots are present on the leaf blades, possibly due to environmental factors or minor damage, but no clear holes or margin loss are evident. The plant is growing in leaf litter, with no clear indication of surrounding habitat structure. All images show the same individual from slightly different angles, confirming the whorled leaf arrangement and consistent morphology.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 21303.73384198174
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 21303.73384198174,
+  "benchmark_metadata": {
+    "scientific_name": "Aspidosperma desmanthum",
+    "family": "Apocynaceae",
+    "genus": "Aspidosperma",
+    "species_epithet": "desmanthum",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

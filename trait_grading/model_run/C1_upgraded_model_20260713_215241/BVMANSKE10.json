@@ -1,0 +1,91 @@
+{
+  "specimen_id": "BVMANSKE10",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Pachyptera/by_species/kerere/BVMANSKE10/Bignoniaceae_Pachyptera_kerere_BVMANSKE10_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Pachyptera/by_species/kerere/BVMANSKE10/Bignoniaceae_Pachyptera_kerere_BVMANSKE10_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Pachyptera/by_species/kerere/BVMANSKE10/Bignoniaceae_Pachyptera_kerere_BVMANSKE10_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Pachyptera/by_species/kerere/BVMANSKE10/Bignoniaceae_Pachyptera_kerere_BVMANSKE10_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Pachyptera/by_species/kerere/BVMANSKE10/Bignoniaceae_Pachyptera_kerere_BVMANSKE10_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "opposite",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "compound",
+            "compound_type": "odd-pinnate",
+            "num_leaflets": "5",
+            "leaflet_arrangement": "opposite"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "lanceolate",
+            "apex": "acuminate",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "visible, pinnate, branching off the midrib at an angle",
+            "surface_features": "glabrous, slightly shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "absent",
+            "color": "green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Some leaflets show minor physical damage, including small holes and margin irregularities. A pink marker or tag is visible near the base of the seedling in several images. The seedling is growing on a forest floor covered in dry leaf litter."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): opposite (leaves are arranged in pairs at each node along the rachis and stem)\n    2. Leaf spacing (clustered / distal): clustered (leaves are arranged closely together at the apex of the seedling)\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): compound (specifically pinnate, as multiple leaflets are attached to a central axis)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): odd-pinnate (the leaflets are paired along the rachis and there is a single terminal leaflet at the tip)\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): 5 (based on visible leaflets in the images, though the exact count may vary slightly due to overlap)\n    6. Leaflet arrangement (opposite / alternate / subopposite): opposite (leaflets are arranged in pairs along the rachis)\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.): entire (the leaf margins appear smooth and continuous, with some minor physical damage like holes)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): lanceolate (leaflets are elongated, widest below the middle, and taper towards the base and apex)\n    9. Leaf apex (acute, obtuse, acuminate): acuminate (leaflets taper to a distinct, elongated tip)\n    10. Leaf base (rounded, cordate, cuneate): cuneate (leaflets appear wedge-shaped at the base where they attach to the rachis)\n    11. Venation type (pinnate / palmate / parallel): pinnate (a main midrib is visible with secondary veins branching from it)\n    12. Secondary veins (visibility, spacing, number): visible, pinnate, branching off the midrib at an angle\n    13. Leaf surface features (glabrous, shiny, dull, rugose): glabrous, slightly shiny (leaf surfaces appear smooth and lack visible hairs or significant roughness)\n    14. Leaf surface trichomes (present / absent): absent (no hairs or trichomes are visible on the leaf surfaces)\n    15. Petiole length (short / long): short (the petiole/rachis segment connecting the leaf to the stem is relatively short)\n    16. Petiole features (winged / grooved / terete): terete (the petiole appears cylindrical and rounded in cross-section)\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): herbaceous (the stem appears green and non-woody, typical for a young seedling)\n    18. Stem trichomes (present / absent): absent (no hairs are visible on the stem)\n    19. Stem color: green (the stem is predominantly green)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (the stem surface appears smooth without obvious ridges or lenticels)\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules are clearly visible at the leaf base)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no pulvinus is visible at the leaf base)\n    24. Tendrils (present / absent): absent (no tendrils are visible)\nF. Notes: Some leaflets show minor physical damage, including small holes and margin irregularities. A pink marker or tag is visible near the base of the seedling in several images. The seedling is growing on a forest floor covered in dry leaf litter.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 5273.286277893931
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 5273.286277893931,
+  "benchmark_metadata": {
+    "scientific_name": "Pachyptera kerere",
+    "family": "Bignoniaceae",
+    "genus": "Pachyptera",
+    "species_epithet": "kerere",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

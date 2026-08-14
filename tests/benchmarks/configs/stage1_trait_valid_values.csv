@@ -1,0 +1,25 @@
+trait,annotation_phase,valid_values
+leaf_arrangement,stri,alternate | opposite | whorled
+leaf_spacing,manual_backfill,clustered | evenly_spaced | distal
+leaf_complexity,stri,simple | compound
+compound_leaf_type,manual_priority,odd-pinnate | even-pinnate | bipinnate | trifoliate | palmate | NA
+num_leaflets,manual_backfill,integer or NA
+leaflet_arrangement,manual_backfill,opposite | alternate | subopposite | NA
+leaf_margin,stri,entire | toothed | serrate | dentate | crenate | lobed
+leaf_shape,manual_priority,elliptic | obovate | ovate | lanceolate | oblanceolate | oblong | orbicular
+leaf_apex,manual_priority,acute | acuminate | obtuse | rounded | emarginate | mucronate
+leaf_base,manual_priority,cuneate | rounded | cordate | attenuate | oblique | truncate
+venation,manual_priority,pinnate | palmate | parallel | arcuate
+secondary_veins,manual_backfill,"free text: count, visibility, spacing"
+leaf_surface,manual_priority,glabrous | pubescent | tomentose | scabrous | shiny | dull | rugose
+leaf_trichomes,manual_priority,present | absent
+petiole_length,manual_backfill,short | medium | long | sessile
+petiole_features,manual_backfill,winged | grooved | terete | pulvinate
+stem_type,manual_backfill,woody | herbaceous
+stem_trichomes,manual_backfill,present | absent
+stem_color,manual_backfill,free text
+stem_texture,manual_backfill,smooth | ridged | lenticellate
+stipules,stri,present | absent
+latex,stri,present | absent | not_observed
+pulvinus,manual_backfill,present | absent | NA
+tendrils,manual_backfill,present | absent

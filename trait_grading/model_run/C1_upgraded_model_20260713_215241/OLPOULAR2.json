@@ -1,0 +1,91 @@
+{
+  "specimen_id": "OLPOULAR2",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Moraceae/by_genus/Poulsenia/by_species/armata/OLPOULAR2/Moraceae_Poulsenia_armata_OLPOULAR2_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Moraceae/by_genus/Poulsenia/by_species/armata/OLPOULAR2/Moraceae_Poulsenia_armata_OLPOULAR2_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Moraceae/by_genus/Poulsenia/by_species/armata/OLPOULAR2/Moraceae_Poulsenia_armata_OLPOULAR2_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Moraceae/by_genus/Poulsenia/by_species/armata/OLPOULAR2/Moraceae_Poulsenia_armata_OLPOULAR2_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Moraceae/by_genus/Poulsenia/by_species/armata/OLPOULAR2/Moraceae_Poulsenia_armata_OLPOULAR2_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "whorled",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "lanceolate",
+            "apex": "acuminate",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "highly visible and prominent",
+            "surface_features": "shiny and rugose",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "dark brown to reddish-brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "The seedling exhibits a distinct whorled leaf arrangement with a glossy, rugose leaf surface. There are visible holes and tears on several leaf margins. A pink and white tag is partially visible near the base of the stem."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): whorled (multiple leaves, approximately 6-7, are clearly seen radiating from a single central node on the stem)\n    2. Leaf spacing (clustered / distal): clustered (leaves are grouped in a rosette-like arrangement at the apex of the seedling)\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): simple (each leaf blade is undivided and attached directly to the petiole)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): N/A\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): N/A\n    6. Leaflet arrangement (opposite / alternate / subopposite): N/A\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.): entire (margins are smooth, though some leaves show irregular holes due to damage)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): lanceolate (leaves are widest near the base and taper gradually to the tip)\n    9. Leaf apex (acute, obtuse, acuminate): acuminate (the tip extends into a long, slender point)\n    10. Leaf base (rounded, cordate, cuneate): cuneate (the base of the leaf tapers down the petiole)\n    11. Venation type (pinnate / palmate / parallel): pinnate (a distinct midrib is visible with lateral veins branching off)\n    12. Secondary veins (visibility, spacing, number): highly visible and prominent (veins are deeply impressed on the upper surface, creating a rugose texture; numerous parallel secondary veins branch from the midrib)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): shiny and rugose (the leaf surface is glossy and has a bumpy texture due to the sunken veins)\n    14. Leaf surface trichomes (present / absent): absent (no hairs are visible on the leaf surface)\n    15. Petiole length (short / long): short (petioles are very brief, making the leaves appear to emerge directly from the stem)\n    16. Petiole features (winged / grooved / terete): terete (petioles appear cylindrical and smooth)\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): woody (the stem appears thick, rigid, and lignified)\n    18. Stem trichomes (present / absent): absent (the stem surface appears smooth and hairless)\n    19. Stem color: dark brown to reddish-brown (visible at the base of the leaves)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (the stem surface appears relatively uniform without obvious ridges or lenticels)\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules are visible at the leaf axils)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no distinct swollen joint is visible at the base of the petiole)\n    24. Tendrils (present / absent): absent\n\nF. Notes: The seedling exhibits a distinct whorled leaf arrangement with a glossy, rugose leaf surface. There are visible holes and tears on several leaf margins. A pink and white tag is partially visible near the base of the stem.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 4825.665995944291
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 4825.665995944291,
+  "benchmark_metadata": {
+    "scientific_name": "Poulsenia armata",
+    "family": "Moraceae",
+    "genus": "Poulsenia",
+    "species_epithet": "armata",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

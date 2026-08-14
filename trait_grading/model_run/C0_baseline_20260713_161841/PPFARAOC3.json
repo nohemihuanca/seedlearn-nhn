@@ -1,0 +1,91 @@
+{
+  "specimen_id": "PPFARAOC3",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rubiaceae/by_genus/Faramea/by_species/occidentalis/PPFARAOC3/Rubiaceae_Faramea_occidentalis_PPFARAOC3_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rubiaceae/by_genus/Faramea/by_species/occidentalis/PPFARAOC3/Rubiaceae_Faramea_occidentalis_PPFARAOC3_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rubiaceae/by_genus/Faramea/by_species/occidentalis/PPFARAOC3/Rubiaceae_Faramea_occidentalis_PPFARAOC3_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rubiaceae/by_genus/Faramea/by_species/occidentalis/PPFARAOC3/Rubiaceae_Faramea_occidentalis_PPFARAOC3_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rubiaceae/by_genus/Faramea/by_species/occidentalis/PPFARAOC3/Rubiaceae_Faramea_occidentalis_PPFARAOC3_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "whorled",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "visible, spaced moderately, 5-7 pairs per leaf",
+            "surface_features": "dull",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "absent",
+            "color": "green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "One leaf shows a longitudinal lesion or damage along the midrib, appearing as a light-colored, desiccated strip. No other damage is evident. The seedling is small and appears to be in a forest floor setting with leaf litter. All images show the same individual from different angles, confirming the whorled leaf arrangement and consistent leaf morphology."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): whorled (multiple leaves clearly attached at the same node, visible in close-up images)\n    2. Leaf spacing (clustered / distal): clustered (leaves appear grouped near the apex of the stem)\n\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): simple (each leaf is a single blade without subdivisions)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): N/A (leaf complexity is simple)\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): N/A (leaf complexity is simple)\n    6. Leaflet arrangement (opposite / alternate / subopposite): N/A (leaf complexity is simple)\n\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (smooth margin with no teeth or lobes visible)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): elliptic (broadest at or near the middle, tapering at both ends)\n    9. Leaf apex (acute, obtuse, acuminate): acute (tapering to a sharp point)\n    10. Leaf base (rounded, cordate, cuneate): cuneate (wedge-shaped, tapering to the petiole)\n    11. Venation type (pinnate / palmate / parallel): pinnate (main vein with secondary veins branching off on each side)\n    12. Secondary veins (visibility, spacing, number): visible, spaced moderately, 5-7 pairs per leaf (clearly visible in close-up images)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): dull (not glossy, with slight texture)\n    14. Leaf surface trichomes (present / absent): absent (no visible hairs or fuzz on surface)\n    15. Petiole length (short / long): short (petiole is short relative to leaf blade)\n    16. Petiole features (winged / grooved / terete): terete (round in cross-section, no wings or grooves)\n\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): herbaceous (stem appears soft and green, not woody)\n    18. Stem trichomes (present / absent): absent (no visible hairs on stem)\n    19. Stem color: green (light to medium green)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (no ridges or lenticels visible)\n\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules observed at leaf base)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no exudate visible)\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no swollen joint at leaf base; not applicable as not in Fabaceae)\n    24. Tendrils (present / absent): absent (no tendrils observed)\n\nF. Notes: One leaf shows a longitudinal lesion or damage along the midrib, appearing as a light-colored, desiccated strip. No other damage is evident. The seedling is small and appears to be in a forest floor setting with leaf litter. All images show the same individual from different angles, confirming the whorled leaf arrangement and consistent leaf morphology. \n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 19229.01685582474
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 19229.01685582474,
+  "benchmark_metadata": {
+    "scientific_name": "Faramea occidentalis",
+    "family": "Rubiaceae",
+    "genus": "Faramea",
+    "species_epithet": "occidentalis",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

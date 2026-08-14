@@ -1,0 +1,47 @@
+{
+  "specimen_id": "SRSYMPGL2",
+  "source_answer_key": "Clusiaceae_Symphonia_globulifera_SRSYMPGL2",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "opposite",
+            "spacing": "distal"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "lanceolate",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "faint, closely spaced, numerous",
+            "surface_features": "glabrous, slightly shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "green to brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "unclear",
+            "tendrils": "absent"
+          },
+          "notes": "Opposite simple leaves are visible on a slender woody seedling shoot; leaves are narrow and glossy. Minor damage is present on at least one leaf, including margin missing and small holes/spots."
+        }
+      }
+    }
+  }
+}

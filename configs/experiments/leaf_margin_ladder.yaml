@@ -1,0 +1,58 @@
+# Leaf-margin experiment ladder — condition manifest.
+#
+# Two kinds of conditions:
+#   local:    run through the vLLM pipeline by scripts/trait_experiment_ladder.sh (U3).
+#   external: pre-computed results ingested from disk by
+#             scripts/ingest_workshop_results.py (U7) — no serving/running.
+#
+# The comparator (scripts/compare_trait_experiments.py, U4) grades every produced
+# model_run dir identically, local or external.
+
+# --- Shared data artifacts (used by the local orchestrator, U3) ---
+data:
+  catalog: data/raw/2026-01-29/sorted_12K/metadata/species_catalog_v2026-01-29_12K_20260129_123334.csv
+  specimen_source: trait_grading/keys/curator_taxonomic_key.csv   # all 114 curator specimens
+  skip_stages: [classification, trait_retrieval, evidence_synthesis, reasoning]  # Stage 1 only
+
+# --- Local conditions (the incremental ladder; run by U3 once GPU + images ready) ---
+# NOTE: C1 needs the upgraded model served (U5); C4 needs the 3 exemplar drawings (U2).
+local_conditions:
+  - label: C0_baseline
+    model: Qwen/Qwen3-VL-32B-Instruct-FP8
+    endpoint: http://localhost:8000/v1
+    prompt_style: sys4
+  - label: C1_upgraded_model
+    model: Qwen/Qwen3.6-35B-A3B          # served via vLLM (U5); per-model flags below
+    endpoint: http://localhost:8000/v1
+    prompt_style: sys4
+    vllm_extra_flags: []                 # fill in during U5 (e.g. --enforce-eager, --max-model-len)
+  - label: C2_single_trait
+    model: Qwen/Qwen3-VL-32B-Instruct-FP8
+    endpoint: http://localhost:8000/v1
+    prompt_style: margin_only
+  - label: C3_enriched_desc
+    model: Qwen/Qwen3-VL-32B-Instruct-FP8
+    endpoint: http://localhost:8000/v1
+    prompt_style: margin_rich
+  - label: C4_image_fewshot
+    model: Qwen/Qwen3-VL-32B-Instruct-FP8
+    endpoint: http://localhost:8000/v1
+    prompt_style: margin_rich
+    examples_file: configs/experiments/leaf_margin_examples.json
+
+# --- External (pre-computed) conditions — collaborator Kaili's cloud runs ---
+# Source lives on origin/main under workshop_pipeline/step_1_cloudbank/results/.
+# `source` is relative to the results root passed to ingest_workshop_results.py.
+external_conditions:
+  - label: K1_gpt-5.4_all-traits
+    model: gpt-5.4
+    granularity: all_traits
+    source: gpt-5.4/sys4_user1_results.json
+  - label: K2_gpt-5.1_per-trait
+    model: gpt-5.1
+    granularity: per_trait
+    source: gpt-5.1/per_trait/sys4_user1_trait7_results.json   # trait 7 = leaf margin
+  - label: K3_gpt-5.1_per-section
+    model: gpt-5.1
+    granularity: per_section
+    source: gpt-5.1/section_C/sys4_user1_results.json          # section C = Leaf Morphology

@@ -1,0 +1,47 @@
+{
+  "specimen_id": "OLANACEX4",
+  "source_answer_key": "Anacardiaceae_Anacardium_excelsum_OLANACEX4",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "whorled",
+            "spacing": "distal"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "lanceolate",
+            "apex": "acuminate",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "prominent and clearly visible, moderately closely spaced, numerous",
+            "surface_features": "glabrous, shiny, slightly rugose",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "absent",
+            "color": "light green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Seedling shows four glossy, simple, entire-margined leaves emerging from the stem apex in an apparent whorl (attachment point visible); midrib strongly raised with parallel-curving secondary veins; small holes present on one leaf; no structures indicative of a climbing habit observed."
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "specimen_id": "SROURASU5",
+  "source_answer_key": "Ochnaceae_Ouratea_sulcatinervia_SROURASU5",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "whorled",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "lanceolate",
+            "apex": "acuminate",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "visible, numerous, closely spaced",
+            "surface_features": "glabrous and shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "unclear"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "absent",
+            "color": "greenish-brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Leaves show multiple holes and missing margin sections on older blades, while newer apical leaves appear intact and bright green. Seedling grows among leaf litter with surrounding grasses and other small plants visible."
+        }
+      }
+    }
+  }
+}

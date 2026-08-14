@@ -1,0 +1,91 @@
+{
+  "specimen_id": "CHANNOHA10",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Annonaceae/by_genus/Annona/by_species/hayesii/CHANNOHA10/Annonaceae_Annona_hayesii_CHANNOHA10_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Annonaceae/by_genus/Annona/by_species/hayesii/CHANNOHA10/Annonaceae_Annona_hayesii_CHANNOHA10_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Annonaceae/by_genus/Annona/by_species/hayesii/CHANNOHA10/Annonaceae_Annona_hayesii_CHANNOHA10_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Annonaceae/by_genus/Annona/by_species/hayesii/CHANNOHA10/Annonaceae_Annona_hayesii_CHANNOHA10_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Annonaceae/by_genus/Annona/by_species/hayesii/CHANNOHA10/Annonaceae_Annona_hayesii_CHANNOHA10_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "alternate",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "acute",
+            "base": "rounded",
+            "venation": "pinnate",
+            "secondary_veins": "visible, closely spaced, numerous",
+            "surface_features": "shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "absent",
+            "color": "green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Multiple images show the same seedling from slightly different angles. Leaves exhibit holes and some brown spots, indicating damage or senescence, but these are not used to infer cause. The pink tag is marked \"AHONNA\" but is not part of the plant and is not considered in morphological assessment. All observations are based on visible features in the images, following conservative annotation rules. No family, genus, or species is identified or implied."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): alternate (leaves are attached at successive nodes along the stem, alternating sides; no paired or whorled arrangement visible)\n    2. Leaf spacing (clustered / distal): clustered (leaves are grouped near the apex of the stem, forming a terminal cluster)\n\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): simple (each leaf has a single blade without subdivisions into leaflets)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): N/A\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): N/A\n    6. Leaflet arrangement (opposite / alternate / subopposite): N/A\n\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (margins are smooth without teeth or serrations, despite some damage)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): elliptic (leaves are broadest near the middle and taper to both ends)\n    9. Leaf apex (acute, obtuse, acuminate): acute (tip is pointed but not drawn out into a long tail)\n    10. Leaf base (rounded, cordate, cuneate): rounded (base is broadly rounded, not tapering or heart-shaped)\n    11. Venation type (pinnate / palmate / parallel): pinnate (main vein runs from base to apex, with secondary veins branching off to sides)\n    12. Secondary veins (visibility, spacing, number): visible, closely spaced, numerous (secondary veins are clearly visible, running from midrib to margin, closely packed)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): shiny (surface appears glossy, reflecting light, likely due to waxy cuticle)\n    14. Leaf surface trichomes (present / absent): absent (no visible hairs on leaf surface)\n    15. Petiole length (short / long): short (petiole is relatively short, less than half the length of the leaf blade)\n    16. Petiole features (winged / grooved / terete): terete (petiole is round in cross-section, not flattened or winged)\n\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): herbaceous (stem appears soft and green, not woody; typical of seedling stage)\n    18. Stem trichomes (present / absent): absent (no visible hairs on stem)\n    19. Stem color: green (stem is light green, consistent with young growth)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (surface appears smooth without ridges or lenticels)\n\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules visible at leaf base)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no exudate or latex visible when stems or leaves are damaged)\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no swollen joint at leaf base; not applicable as leaf complexity is simple)\n    24. Tendrils (present / absent): absent (no tendrils present)\n\nF. Notes: Multiple images show the same seedling from slightly different angles. Leaves exhibit holes and some brown spots, indicating damage or senescence, but these are not used to infer cause. The pink tag is marked \"AHONNA\" but is not part of the plant and is not considered in morphological assessment. All observations are based on visible features in the images, following conservative annotation rules. No family, genus, or species is identified or implied.",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 21245.442651212215
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 21245.442651212215,
+  "benchmark_metadata": {
+    "scientific_name": "Annona hayesii",
+    "family": "Annonaceae",
+    "genus": "Annona",
+    "species_epithet": "hayesii",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

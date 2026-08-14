@@ -1,0 +1,91 @@
+{
+  "specimen_id": "CHGUARGU3",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Meliaceae/by_genus/Guarea/by_species/guidonia/CHGUARGU3/Meliaceae_Guarea_guidonia_CHGUARGU3_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Meliaceae/by_genus/Guarea/by_species/guidonia/CHGUARGU3/Meliaceae_Guarea_guidonia_CHGUARGU3_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Meliaceae/by_genus/Guarea/by_species/guidonia/CHGUARGU3/Meliaceae_Guarea_guidonia_CHGUARGU3_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Meliaceae/by_genus/Guarea/by_species/guidonia/CHGUARGU3/Meliaceae_Guarea_guidonia_CHGUARGU3_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Meliaceae/by_genus/Guarea/by_species/guidonia/CHGUARGU3/Meliaceae_Guarea_guidonia_CHGUARGU3_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "opposite",
+            "spacing": "distal"
+          },
+          "leaf_complexity": {
+            "type": "compound",
+            "compound_type": "odd-pinnate",
+            "num_leaflets": "7",
+            "leaflet_arrangement": "opposite"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "acuminate",
+            "base": "rounded",
+            "venation": "pinnate",
+            "secondary_veins": "clearly visible and spaced, curving towards the margin",
+            "surface_features": "shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "light brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Several leaves show damage in the form of irregular holes and missing tissue on the margins."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): opposite (clearly visible paired leaves attached at the same node along the stem)\n    2. Leaf spacing (clustered / distal): distal (leaves are spaced out along the stem rather than tightly clustered)\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): compound (the structure consists of multiple leaflets attached to a central axis/rachis)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): odd-pinnate (there is a distinct terminal leaflet at the end of the rachis)\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): 7 (visible on the most complete leaf structure)\n    6. Leaflet arrangement (opposite / alternate / subopposite): opposite (leaflets are paired along the rachis)\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.): entire (smooth edges without teeth)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): elliptic (widest in the middle and tapering at both ends)\n    9. Leaf apex (acute, obtuse, acuminate): acuminate (tapering to a distinct point)\n    10. Leaf base (rounded, cordate, cuneate): rounded (base appears smooth and curved)\n    11. Venation type (pinnate / palmate / parallel): pinnate (single midrib with veins branching off)\n    12. Secondary veins (visibility, spacing, number): clearly visible and spaced, curving towards the margin\n    13. Leaf surface features (glabrous, shiny, dull, rugose): shiny (reflects light, indicating a smooth surface)\n    14. Leaf surface trichomes (present / absent): absent (surface appears smooth without visible hairs)\n    15. Petiole length (short / long): short (leaflets are sessile or have very short attachment to the rachis)\n    16. Petiole features (winged / grooved / terete): terete (stem appears round in cross-section)\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): woody (stem appears rigid and lignified)\n    18. Stem trichomes (present / absent): absent (stem appears smooth)\n    19. Stem color: light brown\n    20. Stem texture (smooth / ridged / lenticellate): smooth\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (not visible in the images)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (not visible)\n    24. Tendrils (present / absent): absent\nF. Notes: Several leaves show damage in the form of irregular holes and missing tissue on the margins.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 4292.711460962892
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 4292.711460962892,
+  "benchmark_metadata": {
+    "scientific_name": "Guarea guidonia",
+    "family": "Meliaceae",
+    "genus": "Guarea",
+    "species_epithet": "guidonia",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

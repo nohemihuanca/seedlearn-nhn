@@ -1,0 +1,47 @@
+{
+  "specimen_id": "OLPOURBI4",
+  "source_answer_key": "Urticaceae_Pourouma_bicolor_OLPOURBI4",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "unclear",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "toothed, serrate",
+            "shape": "elliptic",
+            "apex": "acute",
+            "base": "rounded",
+            "venation": "pinnate",
+            "secondary_veins": "clearly visible, closely spaced, approximately 10\u201314 pairs per side",
+            "surface_features": "glabrous, shiny, rugose",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "dark brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "present",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Leaves are simple, elliptic with serrate margins and a glossy surface; several leaves show small holes or missing marginal pieces, and new flush at apex is lighter green (summarizes additional clearly visible morphological traits and condition)"
+        }
+      }
+    }
+  }
+}

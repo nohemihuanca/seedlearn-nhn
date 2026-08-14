@@ -1,0 +1,91 @@
+{
+  "specimen_id": "BAR0401",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Sapotaceae/by_genus/Pouteria/by_species/reticulata/BAR0401/Sapotaceae_Pouteria_reticulata_BAR0401_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Sapotaceae/by_genus/Pouteria/by_species/reticulata/BAR0401/Sapotaceae_Pouteria_reticulata_BAR0401_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Sapotaceae/by_genus/Pouteria/by_species/reticulata/BAR0401/Sapotaceae_Pouteria_reticulata_BAR0401_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Sapotaceae/by_genus/Pouteria/by_species/reticulata/BAR0401/Sapotaceae_Pouteria_reticulata_BAR0401_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Sapotaceae/by_genus/Pouteria/by_species/reticulata/BAR0401/Sapotaceae_Pouteria_reticulata_BAR0401_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "whorled",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "lanceolate",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "visible, closely spaced, numerous",
+            "surface_features": "shiny, glabrous",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "greenish-brown",
+            "texture": "ridged"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Some leaves show minor damage including holes and edge discoloration, but no clear signs of herbivory or disease. The seedling exhibits a rosette-like growth form with whorled leaves, typical of some tropical understory species. Leaf surface appears slightly speckled, possibly due to environmental debris or minor epiphylls, not pathogenic. Multiple images confirm the same individual from different angles, showing consistent morphology. No flowers or fruits visible."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): whorled (multiple leaves clearly attached at the same node in a radial pattern, visible in top-down views)\n    2. Leaf spacing (clustered / distal): clustered (leaves are tightly grouped at the nodes, forming rosette-like whorls)\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): simple (each leaf is a single blade without subdivisions)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): N/A (leaf complexity is simple)\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): N/A (leaf complexity is simple)\n    6. Leaflet arrangement (opposite / alternate / subopposite): N/A (leaf complexity is simple)\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (margins are smooth without teeth or serrations)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): lanceolate (long and narrow, tapering to a pointed tip)\n    9. Leaf apex (acute, obtuse, acuminate): acute (tapering to a sharp point)\n    10. Leaf base (rounded, cordate, cuneate): cuneate (tapering to the petiole, wedge-shaped)\n    11. Venation type (pinnate / palmate / parallel): pinnate (primary veins extend from midrib to margin, with secondary veins branching off midrib)\n    12. Secondary veins (visibility, spacing, number): visible, closely spaced, numerous (clearly visible and running perpendicular to midrib, forming a dense network)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): shiny, glabrous (surface appears smooth and glossy, reflecting light)\n    14. Leaf surface trichomes (present / absent): absent (no visible hairs or fuzz on leaf surface)\n    15. Petiole length (short / long): short (petioles are short, barely visible, leaves appear nearly sessile)\n    16. Petiole features (winged / grooved / terete): terete (petiole is round in cross-section, not flattened or winged)\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): woody (stem appears firm and rigid, with visible bark texture)\n    18. Stem trichomes (present / absent): absent (no visible hairs on stem surface)\n    19. Stem color: greenish-brown (stem has a greenish hue with brownish bark, especially at nodes)\n    20. Stem texture (smooth / ridged / lenticellate): ridged (stem surface shows slight ridges or grooves, especially near nodes)\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no structures visible at leaf base that would indicate stipules)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no exudate or milky sap visible upon damage or breakage)\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no swollen joint at leaf base; pulvinus not present)\n    24. Tendrils (present / absent): absent (no tendrils observed)\nF. Notes: Some leaves show minor damage including holes and edge discoloration, but no clear signs of herbivory or disease. The seedling exhibits a rosette-like growth form with whorled leaves, typical of some tropical understory species. Leaf surface appears slightly speckled, possibly due to environmental debris or minor epiphylls, not pathogenic. Multiple images confirm the same individual from different angles, showing consistent morphology. No flowers or fruits visible.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 21045.042084064335
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 21045.042084064335,
+  "benchmark_metadata": {
+    "scientific_name": "Pouteria reticulata",
+    "family": "Sapotaceae",
+    "genus": "Pouteria",
+    "species_epithet": "reticulata",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

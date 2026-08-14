@@ -1,0 +1,91 @@
+{
+  "specimen_id": "METYNACR4",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Tynanthus/by_species/croatianus/METYNACR4/Bignoniaceae_Tynanthus_croatianus_METYNACR4_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Tynanthus/by_species/croatianus/METYNACR4/Bignoniaceae_Tynanthus_croatianus_METYNACR4_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Tynanthus/by_species/croatianus/METYNACR4/Bignoniaceae_Tynanthus_croatianus_METYNACR4_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Tynanthus/by_species/croatianus/METYNACR4/Bignoniaceae_Tynanthus_croatianus_METYNACR4_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Tynanthus/by_species/croatianus/METYNACR4/Bignoniaceae_Tynanthus_croatianus_METYNACR4_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "alternate",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "compound",
+            "compound_type": "odd-pinnate",
+            "num_leaflets": "7",
+            "leaflet_arrangement": "alternate"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "acute",
+            "base": "rounded",
+            "venation": "pinnate",
+            "secondary_veins": "visible, closely spaced, numerous",
+            "surface_features": "dull",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "absent",
+            "color": "green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "The seedling shows some leaf damage, including holes and marginal irregularities, particularly on lower leaves, but these do not obscure the morphological features. The plant is small and appears to be in early growth stage, with leaves arranged in a terminal cluster. All images show the same individual from slightly different angles, confirming consistent morphology. No flowering or fruiting structures are visible. The surrounding environment is moist forest floor with leaf litter, but habitat is not inferred beyond what is directly visible."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): alternate (leaves are attached at successive nodes along the stem, alternating sides; no paired or whorled arrangement visible)\n    2. Leaf spacing (clustered / distal): clustered (leaves are grouped closely at the apex of the shoot, forming a terminal cluster)\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): compound (each leaf has multiple leaflets attached to a central rachis)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): odd-pinnate (the terminal leaflet is present, and leaflets are arranged along a central axis)\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): 7 (approximately 7 leaflets per leaf, with some variation due to damage or development; visible in multiple images)\n    6. Leaflet arrangement (opposite / alternate / subopposite): alternate (leaflet pairs are arranged alternately along the rachis, not in direct opposition)\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (margins are smooth without teeth or serrations)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): elliptic (leaflets are broadly elliptical with rounded ends)\n    9. Leaf apex (acute, obtuse, acuminate): acute (leaflets taper to a sharp point)\n    10. Leaf base (rounded, cordate, cuneate): rounded (base of leaflets is broadly rounded)\n    11. Venation type (pinnate / palmate / parallel): pinnate (primary veins extend from midrib to margin in a feather-like pattern)\n    12. Secondary veins (visibility, spacing, number): visible, closely spaced, numerous (secondary veins are clearly visible, forming a dense network perpendicular to the midrib)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): dull (surface appears matte, not glossy or shiny)\n    14. Leaf surface trichomes (present / absent): absent (no visible hairs or trichomes on leaf surface)\n    15. Petiole length (short / long): short (petioles are short, connecting leaflets to rachis without elongation)\n    16. Petiole features (winged / grooved / terete): terete (petioles are round in cross-section, without wings or grooves)\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): herbaceous (stem is green, soft, and flexible, typical of young seedlings)\n    18. Stem trichomes (present / absent): absent (no visible hairs on stem surface)\n    19. Stem color: green (stem is light green, consistent with young growth)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (surface is even and without ridges or lenticels)\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules observed at leaf bases)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no latex exudate visible upon inspection)\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no swollen joints at leaflet bases visible)\n    24. Tendrils (present / absent): absent (no tendrils observed)\nF. Notes: The seedling shows some leaf damage, including holes and marginal irregularities, particularly on lower leaves, but these do not obscure the morphological features. The plant is small and appears to be in early growth stage, with leaves arranged in a terminal cluster. All images show the same individual from slightly different angles, confirming consistent morphology. No flowering or fruiting structures are visible. The surrounding environment is moist forest floor with leaf litter, but habitat is not inferred beyond what is directly visible.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 21413.220003712922
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 21413.220003712922,
+  "benchmark_metadata": {
+    "scientific_name": "Tynanthus croatianus",
+    "family": "Bignoniaceae",
+    "genus": "Tynanthus",
+    "species_epithet": "croatianus",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

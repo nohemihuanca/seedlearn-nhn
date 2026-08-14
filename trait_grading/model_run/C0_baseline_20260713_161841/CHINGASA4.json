@@ -1,0 +1,92 @@
+{
+  "specimen_id": "CHINGASA4",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Inga/by_species/sapindoides/CHINGASA4/Fabaceae_Inga_sapindoides_CHINGASA4_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Inga/by_species/sapindoides/CHINGASA4/Fabaceae_Inga_sapindoides_CHINGASA4_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Inga/by_species/sapindoides/CHINGASA4/Fabaceae_Inga_sapindoides_CHINGASA4_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Inga/by_species/sapindoides/CHINGASA4/Fabaceae_Inga_sapindoides_CHINGASA4_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Inga/by_species/sapindoides/CHINGASA4/Fabaceae_Inga_sapindoides_CHINGASA4_005.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Inga/by_species/sapindoides/CHINGASA4/Fabaceae_Inga_sapindoides_CHINGASA4_006.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "alternate",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "compound",
+            "compound_type": "odd-pinnate",
+            "num_leaflets": "5",
+            "leaflet_arrangement": "alternate"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "obtuse",
+            "base": "rounded",
+            "venation": "pinnate",
+            "secondary_veins": "visible, closely spaced, numerous",
+            "surface_features": "dull, rugose",
+            "trichomes": "present",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "present",
+            "color": "green to brownish-green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Multiple images show the same seedling from different angles. Some leaflets have holes and margin damage, likely from physical disturbance or herbivory, but no clear evidence of pathogen or insect activity. The compound leaves are consistently odd-pinnate with five leaflets. The seedling is marked with a blue and pink tag, which may be for research or monitoring purposes. The surrounding forest floor is littered with decomposing leaves, indicating a moist, shaded environment, but habitat conditions are not directly relevant per conservative rules. All observations are based on visible traits without inference."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): alternate (leaves are attached at successive nodes along the stem, alternating sides; multiple nodes visible with single leaves per node)\n    2. Leaf spacing (clustered / distal): clustered (leaves appear grouped near the top of the stem, with no long internodes between leaf nodes)\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): compound (each leaf unit consists of multiple leaflets attached to a common petiole)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): odd-pinnate (the leaflets are arranged along a central axis with one terminal leaflet, visible in all images)\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): 5 (each compound leaf has five leaflets; three images show full leaf with five leaflets clearly)\n    6. Leaflet arrangement (opposite / alternate / subopposite): alternate (leaflets are arranged alternately along the rachis, with no two directly across from each other)\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (margins are smooth without teeth or serrations; some damage present but not due to natural margin)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): elliptic (leaflets are broadly elliptical with rounded ends)\n    9. Leaf apex (acute, obtuse, acuminate): obtuse (leaflet tips are rounded or blunt)\n    10. Leaf base (rounded, cordate, cuneate): rounded (bases of leaflets are rounded)\n    11. Venation type (pinnate / palmate / parallel): pinnate (main vein runs from base to apex, with lateral veins branching off)\n    12. Secondary veins (visibility, spacing, number): visible, closely spaced, numerous (secondary veins are prominent and run parallel to each other, forming a net-like pattern)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): dull, rugose (surface is not shiny, with a slightly wrinkled or textured appearance)\n    14. Leaf surface trichomes (present / absent): present (fine hairs visible along leaf margins and veins in close-up images)\n    15. Petiole length (short / long): short (petiole is short, connecting leaflets to rachis; rachis is relatively short)\n    16. Petiole features (winged / grooved / terete): terete (petiole is round in cross-section, no wings or grooves visible)\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): woody (stem appears firm and slightly woody, not soft or herbaceous)\n    18. Stem trichomes (present / absent): present (fine hairs visible on stem surface in close-up images)\n    19. Stem color: green to brownish-green (stem is greenish with some brownish tones, especially near nodes)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (surface appears smooth without ridges or lenticels; no visible pores or bumps)\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules observed at leaf bases)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no latex exudate visible when stem or leaf is damaged)\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no swollen joint at leaflet base visible; not applicable as not in Fabaceae)\n    24. Tendrils (present / absent): absent (no tendrils observed)\nF. Notes: Multiple images show the same seedling from different angles. Some leaflets have holes and margin damage, likely from physical disturbance or herbivory, but no clear evidence of pathogen or insect activity. The compound leaves are consistently odd-pinnate with five leaflets. The seedling is marked with a blue and pink tag, which may be for research or monitoring purposes. The surrounding forest floor is littered with decomposing leaves, indicating a moist, shaded environment, but habitat conditions are not directly relevant per conservative rules. All observations are based on visible traits without inference.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 23460.368850734085
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 23460.368850734085,
+  "benchmark_metadata": {
+    "scientific_name": "Inga sapindoides",
+    "family": "Fabaceae",
+    "genus": "Inga",
+    "species_epithet": "sapindoides",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

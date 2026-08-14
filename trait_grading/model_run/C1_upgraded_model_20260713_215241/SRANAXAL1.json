@@ -1,0 +1,91 @@
+{
+  "specimen_id": "SRANAXAL1",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Annonaceae/by_genus/Anaxagorea/by_species/allenii/SRANAXAL1/Annonaceae_Anaxagorea_allenii_SRANAXAL1_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Annonaceae/by_genus/Anaxagorea/by_species/allenii/SRANAXAL1/Annonaceae_Anaxagorea_allenii_SRANAXAL1_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Annonaceae/by_genus/Anaxagorea/by_species/allenii/SRANAXAL1/Annonaceae_Anaxagorea_allenii_SRANAXAL1_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Annonaceae/by_genus/Anaxagorea/by_species/allenii/SRANAXAL1/Annonaceae_Anaxagorea_allenii_SRANAXAL1_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Annonaceae/by_genus/Anaxagorea/by_species/allenii/SRANAXAL1/Annonaceae_Anaxagorea_allenii_SRANAXAL1_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "alternate",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "lanceolate",
+            "apex": "acuminate",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "clearly visible, well-spaced, numerous",
+            "surface_features": "shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "greenish-brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Leaves and stems are covered with a significant amount of white, flaky material, which appears to be either a pest infestation (such as mealybugs or whiteflies) or environmental debris (such as sawdust). Some leaf margins show minor damage (holes present). The overall habit suggests a young tree seedling growing on the forest floor among leaf litter."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): alternate (leaves are attached singly at successive nodes along the stem, alternating sides as seen clearly in images 2 and 4)\n    2. Leaf spacing (clustered / distal): clustered (leaves are arranged in a dense rosette-like cluster at the apex of the stem)\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): simple (each leaf unit is a single blade without leaflets)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): N/A\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): N/A\n    6. Leaflet arrangement (opposite / alternate / subopposite): N/A\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (leaf margins appear smooth and continuous throughout the images)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): lanceolate (leaves are longer than wide, with the widest point below the middle and tapering towards both ends)\n    9. Leaf apex (acute, obtuse, acuminate): acuminate (leaf tips taper to a distinct, elongated point)\n    10. Leaf base (rounded, cordate, cuneate): cuneate (leaf bases appear to taper gradually to a narrow point where they attach to the petiole)\n    11. Venation type (pinnate / palmate / parallel): pinnate (a single midrib is visible with secondary veins branching off it)\n    12. Secondary veins (visibility, spacing, number): clearly visible, well-spaced, numerous (secondary veins are distinct and run parallel to each other from the midrib to the margin, visible on the cleaner leaves in images 2 and 3)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): shiny (leaf surfaces reflect light, indicating a glossy texture)\n    14. Leaf surface trichomes (present / absent): absent (no hairs are visible on the leaf surfaces; the white specks are identified as external debris/pests, not plant trichomes)\n    15. Petiole length (short / long): short (petioles are visible but appear relatively short compared to the leaf blade length)\n    16. Petiole features (winged / grooved / terete): terete (petioles appear cylindrical and smooth, without wings or grooves)\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): woody (the stem appears rigid and lignified, typical of a tree seedling)\n    18. Stem trichomes (present / absent): absent (the stem surface appears smooth and hairless)\n    19. Stem color: greenish-brown (stem color varies from green near the apex to a brownish hue lower down)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (stem surface appears even without prominent ridges or lenticels)\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules are visible at the leaf nodes in any of the images)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no latex is visible)\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no pulvinus is visible at the leaf base)\n    24. Tendrils (present / absent): absent (no tendrils are visible)\nF. Notes: Leaves and stems are covered with a significant amount of white, flaky material, which appears to be either a pest infestation (such as mealybugs or whiteflies) or environmental debris (such as sawdust). Some leaf margins show minor damage (holes present). The overall habit suggests a young tree seedling growing on the forest floor among leaf litter.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 5405.318747740239
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 5405.318747740239,
+  "benchmark_metadata": {
+    "scientific_name": "Anaxagorea allenii",
+    "family": "Annonaceae",
+    "genus": "Anaxagorea",
+    "species_epithet": "allenii",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

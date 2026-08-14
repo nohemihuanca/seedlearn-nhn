@@ -1,0 +1,91 @@
+{
+  "specimen_id": "MEPOSOLA5",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rubiaceae/by_genus/Posoqueria/by_species/latifolia/MEPOSOLA5/Rubiaceae_Posoqueria_latifolia_MEPOSOLA5_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rubiaceae/by_genus/Posoqueria/by_species/latifolia/MEPOSOLA5/Rubiaceae_Posoqueria_latifolia_MEPOSOLA5_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rubiaceae/by_genus/Posoqueria/by_species/latifolia/MEPOSOLA5/Rubiaceae_Posoqueria_latifolia_MEPOSOLA5_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rubiaceae/by_genus/Posoqueria/by_species/latifolia/MEPOSOLA5/Rubiaceae_Posoqueria_latifolia_MEPOSOLA5_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rubiaceae/by_genus/Posoqueria/by_species/latifolia/MEPOSOLA5/Rubiaceae_Posoqueria_latifolia_MEPOSOLA5_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "whorled",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic to oblanceolate",
+            "apex": "acuminate",
+            "base": "cuneate to attenuate",
+            "venation": "pinnate",
+            "secondary_veins": "clearly visible",
+            "surface_features": "glabrous and slightly shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "greenish-brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "The most prominent feature is the distinct whorled leaf arrangement. The secondary veins are quite prominent and run relatively parallel to each other. Some leaves show minor physical damage such as small holes. A pink tag is attached to the stem."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): whorled (multiple leaves, approximately 6 to 7, are clearly attached at the same node, forming a distinct whorl at the apex of the stem)\n    2. Leaf spacing (clustered / distal): clustered (leaves are arranged in dense whorls along the stem rather than being spaced out individually)\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): simple (each leaf is a single blade without subdivisions)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): N/A\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): N/A\n    6. Leaflet arrangement (opposite / alternate / subopposite): N/A\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (leaf margins appear smooth and continuous without teeth or serrations)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): elliptic to oblanceolate (leaves are widest near the middle or slightly above, tapering towards the apex and base)\n    9. Leaf apex (acute, obtuse, acuminate): acuminate (leaves taper to a distinct, elongated point at the tip)\n    10. Leaf base (rounded, cordate, cuneate): cuneate to attenuate (tapers gradually towards the petiole attachment)\n    11. Venation type (pinnate / palmate / parallel): pinnate (a central midrib is visible with secondary veins branching off laterally)\n    12. Secondary veins (visibility, spacing, number): clearly visible (secondary veins are distinct, arching towards the leaf margin in a somewhat straight, parallel arrangement)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): glabrous and slightly shiny (leaf surfaces appear smooth, hairless, and have a subtle sheen)\n    14. Leaf surface trichomes (present / absent): absent (no hairs are visible on the leaf surface)\n    15. Petiole length (short / long): short (petioles are relatively short compared to the leaf blade length)\n    16. Petiole features (winged / grooved / terete): terete (petioles appear round in cross-section)\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): woody (the stem appears firm and lignified, characteristic of a seedling tree)\n    18. Stem trichomes (present / absent): absent (the stem surface appears smooth without visible hairs)\n    19. Stem color: greenish-brown (the upper stem is green, transitioning to a brownish color lower down)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (the stem surface appears relatively even without prominent ridges or lenticels)\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): unclear (the nodes are crowded by the whorled leaves, making stipule visibility difficult to confirm)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no swollen joint-like structure is visible at the petiole base)\n    24. Tendrils (present / absent): absent (no tendrils are visible)\nF. Notes: The most prominent feature is the distinct whorled leaf arrangement. The secondary veins are quite prominent and run relatively parallel to each other. Some leaves show minor physical damage such as small holes. A pink tag is attached to the stem.\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 4883.157565258443
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 4883.157565258443,
+  "benchmark_metadata": {
+    "scientific_name": "Posoqueria latifolia",
+    "family": "Rubiaceae",
+    "genus": "Posoqueria",
+    "species_epithet": "latifolia",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

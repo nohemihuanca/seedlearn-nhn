@@ -1,0 +1,91 @@
+{
+  "specimen_id": "ANNECTCU4",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Lauraceae/by_genus/Nectandra/by_species/cuspidata/ANNECTCU4/Lauraceae_Nectandra_cuspidata_ANNECTCU4_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Lauraceae/by_genus/Nectandra/by_species/cuspidata/ANNECTCU4/Lauraceae_Nectandra_cuspidata_ANNECTCU4_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Lauraceae/by_genus/Nectandra/by_species/cuspidata/ANNECTCU4/Lauraceae_Nectandra_cuspidata_ANNECTCU4_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Lauraceae/by_genus/Nectandra/by_species/cuspidata/ANNECTCU4/Lauraceae_Nectandra_cuspidata_ANNECTCU4_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Lauraceae/by_genus/Nectandra/by_species/cuspidata/ANNECTCU4/Lauraceae_Nectandra_cuspidata_ANNECTCU4_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "whorled",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "lanceolate",
+            "apex": "acuminate",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "visible, closely spaced, numerous",
+            "surface_features": "shiny, glabrous",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "dark brown to reddish-brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "[NOTE] The seedling exhibits a whorled leaf arrangement with multiple lanceolate leaves per node, a glossy surface, and a woody stem. Some leaves show minor damage with small holes, but no clear cause is visible. The pink tag is an artificial marker and not a plant feature. All images show the same individual from slightly different angles, confirming consistent morphology. No reproductive structures or flowers are visible."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): whorled (multiple leaves are clearly attached at the same node, forming a whorled arrangement, visible in all images)\n    2. Leaf spacing (clustered / distal): clustered (leaves are grouped closely at each node, with no long internodes between nodes, suggesting a clustered pattern)\n\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): simple (each leaf is a single, undivided blade; no petiole branching into leaflets)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): N/A (leaf complexity is simple)\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): N/A (leaf complexity is simple)\n    6. Leaflet arrangement (opposite / alternate / subopposite): N/A (leaf complexity is simple)\n\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (margins are smooth with no visible teeth or serrations across all leaves)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): lanceolate (narrow, elongated with a broad base tapering to a pointed tip, visible in all images)\n    9. Leaf apex (acute, obtuse, acuminate): acuminate (tapering to a long, narrow point, as seen in the tip of each leaf)\n    10. Leaf base (rounded, cordate, cuneate): cuneate (tapering to the petiole, forming a wedge shape, visible in side views)\n    11. Venation type (pinnate / palmate / parallel): pinnate (single midrib with lateral veins branching off to the margin, visible in close-up views)\n    12. Secondary veins (visibility, spacing, number): visible, closely spaced, numerous (secondary veins are clearly visible, running parallel to each other and close together, especially in the lower half of the leaf)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): shiny, glabrous (surface is smooth and glossy, reflecting light, with no visible hairs)\n    14. Leaf surface trichomes (present / absent): absent (no visible hairs or trichomes on leaf surface)\n    15. Petiole length (short / long): short (petiole is short, barely visible, with leaf blade attached close to the stem)\n    16. Petiole features (winged / grooved / terete): terete (petiole is cylindrical and smooth, without wings or grooves, though not fully visible in all images)\n\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): woody (stem is dark, firm, and appears woody, especially in close-up images)\n    18. Stem trichomes (present / absent): absent (no visible hairs on stem surface)\n    19. Stem color: dark brown to reddish-brown (stem is dark in color, with some reddish tones visible in certain lighting)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (surface appears smooth with no ridges or lenticels visible)\n\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules visible at leaf base in any image)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no latex exudate visible)\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no pulvinus visible; not applicable for Fabaceae, but no pulvinus seen)\n    24. Tendrils (present / absent): absent (no tendrils visible)\n\nF. Notes: [NOTE] The seedling exhibits a whorled leaf arrangement with multiple lanceolate leaves per node, a glossy surface, and a woody stem. Some leaves show minor damage with small holes, but no clear cause is visible. The pink tag is an artificial marker and not a plant feature. All images show the same individual from slightly different angles, confirming consistent morphology. No reproductive structures or flowers are visible.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 22049.393656197935
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 22049.393656197935,
+  "benchmark_metadata": {
+    "scientific_name": "Nectandra cuspidata",
+    "family": "Lauraceae",
+    "genus": "Nectandra",
+    "species_epithet": "cuspidata",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

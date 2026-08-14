@@ -1,0 +1,72 @@
+{
+  "specimen_id": "BAR0538",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Malpighiaceae/by_genus/Hiraea/by_species/reclinata/BAR0538/Malpighiaceae_Hiraea_reclinata_BAR0538_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Malpighiaceae/by_genus/Hiraea/by_species/reclinata/BAR0538/Malpighiaceae_Hiraea_reclinata_BAR0538_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Malpighiaceae/by_genus/Hiraea/by_species/reclinata/BAR0538/Malpighiaceae_Hiraea_reclinata_BAR0538_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Malpighiaceae/by_genus/Hiraea/by_species/reclinata/BAR0538/Malpighiaceae_Hiraea_reclinata_BAR0538_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Malpighiaceae/by_genus/Hiraea/by_species/reclinata/BAR0538/Malpighiaceae_Hiraea_reclinata_BAR0538_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {},
+          "leaf_complexity": {},
+          "leaf_morphology": {
+            "margin": "entire"
+          },
+          "stem_traits": {},
+          "special_features": {},
+          "notes": "The plant exhibits palmately compound leaves. While there are several areas of damage (holes and missing sections along the margins), the intact portions of the leaf blades consistently show a smooth edge."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nC. Leaf Morphology\n    7.\tLeaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (The leaf margins visible in all images are smooth and continuous, lacking any teeth, serrations, or lobes, although there is some insect damage present)\nF. Notes: The plant exhibits palmately compound leaves. While there are several areas of damage (holes and missing sections along the margins), the intact portions of the leaf blades consistently show a smooth edge.\n\n####",
+        "thinking": null,
+        "few_shot_delivery": {
+          "n_examples": 0,
+          "n_exemplar_images": 0,
+          "n_specimen_images": 5,
+          "max_images": 10,
+          "images_over_budget": false,
+          "prompt_chars": 2155
+        }
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 1663.9489689999891
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 1663.9489689999891,
+  "benchmark_metadata": {
+    "scientific_name": "Hiraea reclinata",
+    "family": "Malpighiaceae",
+    "genus": "Hiraea",
+    "species_epithet": "reclinata",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

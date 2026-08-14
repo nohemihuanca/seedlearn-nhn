@@ -1,0 +1,73 @@
+{
+  "specimen_id": "CHINGASA4",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Inga/by_species/sapindoides/CHINGASA4/Fabaceae_Inga_sapindoides_CHINGASA4_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Inga/by_species/sapindoides/CHINGASA4/Fabaceae_Inga_sapindoides_CHINGASA4_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Inga/by_species/sapindoides/CHINGASA4/Fabaceae_Inga_sapindoides_CHINGASA4_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Inga/by_species/sapindoides/CHINGASA4/Fabaceae_Inga_sapindoides_CHINGASA4_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Inga/by_species/sapindoides/CHINGASA4/Fabaceae_Inga_sapindoides_CHINGASA4_005.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Inga/by_species/sapindoides/CHINGASA4/Fabaceae_Inga_sapindoides_CHINGASA4_006.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {},
+          "leaf_complexity": {},
+          "leaf_morphology": {
+            "margin": "entire"
+          },
+          "stem_traits": {},
+          "special_features": {},
+          "notes": "The primary specimen shows insect damage (notches and holes) on several leaflets; however, the margins where intact are smooth. A separate, smaller seedling growing nearby exhibits distinctly serrate margins."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nC. Leaf Morphology\n    7.\tLeaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (The leaflets of the primary seedling specimen exhibit a smooth, continuous edge without any teeth, serrations, or lobes, although some adjacent smaller leaves in the background are toothed)\nF. Notes: The primary specimen shows insect damage (notches and holes) on several leaflets; however, the margins where intact are smooth. A separate, smaller seedling growing nearby exhibits distinctly serrate margins.\n\n####",
+        "thinking": null,
+        "few_shot_delivery": {
+          "n_examples": 1,
+          "n_exemplar_images": 3,
+          "n_specimen_images": 6,
+          "max_images": 10,
+          "images_over_budget": false,
+          "prompt_chars": 2155
+        }
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 1994.8593869999058
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 1994.8593869999058,
+  "benchmark_metadata": {
+    "scientific_name": "Inga sapindoides",
+    "family": "Fabaceae",
+    "genus": "Inga",
+    "species_epithet": "sapindoides",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

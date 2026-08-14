@@ -1,0 +1,290 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" font-family="Segoe UI, Calibri, Arial, sans-serif">
+  <rect width="1200" height="700" fill="white"/>
+
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#888"/>
+    </marker>
+  </defs>
+
+  <!-- Title -->
+  <text x="600" y="30" font-size="24" font-weight="600" fill="#333" text-anchor="middle">Embedding Space Matching</text>
+  <text x="600" y="54" font-size="14" fill="#888" text-anchor="middle">How a query specimen is matched to known taxa via L2 distance to class centroids</text>
+
+  <!-- ════════════════════════════════════════════════════════ -->
+  <!--   LEFT: Input specimen pipeline                          -->
+  <!-- ════════════════════════════════════════════════════════ -->
+
+  <text x="32" y="90" font-size="13" font-weight="700" fill="#999" letter-spacing="2">QUERY SPECIMEN</text>
+  <line x1="32" y1="96" x2="220" y2="96" stroke="#e0e0e0" stroke-width="1"/>
+
+  <!-- 5 specimen images stacked -->
+  <rect x="32" y="110" width="70" height="150" rx="6" fill="#f8f8f8" stroke="#ddd" stroke-width="1"/>
+  <rect x="42" y="120" width="50" height="22" rx="3" fill="#af7aa1" stroke="#8c6181" stroke-width="1"/>
+  <text x="67" y="135" font-size="8" fill="white" text-anchor="middle">img 1</text>
+  <rect x="42" y="146" width="50" height="22" rx="3" fill="#af7aa1" stroke="#8c6181" stroke-width="1"/>
+  <text x="67" y="161" font-size="8" fill="white" text-anchor="middle">img 2</text>
+  <rect x="42" y="172" width="50" height="22" rx="3" fill="#af7aa1" stroke="#8c6181" stroke-width="1"/>
+  <text x="67" y="187" font-size="8" fill="white" text-anchor="middle">img 3</text>
+  <rect x="42" y="198" width="50" height="22" rx="3" fill="#af7aa1" stroke="#8c6181" stroke-width="1"/>
+  <text x="67" y="213" font-size="8" fill="white" text-anchor="middle">img 4</text>
+  <rect x="42" y="224" width="50" height="22" rx="3" fill="#af7aa1" stroke="#8c6181" stroke-width="1"/>
+  <text x="67" y="239" font-size="8" fill="white" text-anchor="middle">img 5</text>
+
+  <!-- Arrow down to encode -->
+  <line x1="67" y1="262" x2="67" y2="280" stroke="#888" stroke-width="1.5" marker-end="url(#arr)"/>
+
+  <!-- BioCLIP 2 encode box -->
+  <rect x="22" y="282" width="90" height="50" rx="6" fill="#6a4c93" stroke="#553d76" stroke-width="1.5"/>
+  <text x="67" y="303" font-size="11" font-weight="600" fill="white" text-anchor="middle">BioCLIP 2</text>
+  <text x="67" y="319" font-size="9" fill="rgba(255,255,255,0.8)" text-anchor="middle">encode each</text>
+
+  <!-- Arrow down to mean pool -->
+  <line x1="67" y1="334" x2="67" y2="352" stroke="#888" stroke-width="1.5" marker-end="url(#arr)"/>
+
+  <!-- Mean pool box -->
+  <rect x="22" y="354" width="90" height="50" rx="6" fill="#f0f0f0" stroke="#ccc" stroke-width="1"/>
+  <text x="67" y="374" font-size="11" fill="#555" text-anchor="middle">Mean Pool</text>
+  <text x="67" y="392" font-size="9" fill="#888" text-anchor="middle">(5,768) → (1,768)</text>
+
+  <!-- Arrow down to normalize -->
+  <line x1="67" y1="406" x2="67" y2="424" stroke="#888" stroke-width="1.5" marker-end="url(#arr)"/>
+
+  <!-- Normalize box -->
+  <rect x="12" y="426" width="110" height="50" rx="6" fill="#f0f0f0" stroke="#ccc" stroke-width="1"/>
+  <text x="67" y="446" font-size="11" fill="#555" text-anchor="middle">Mean-center</text>
+  <text x="67" y="462" font-size="9" fill="#888" text-anchor="middle">+ L2 normalize</text>
+
+  <!-- Arrow right into embedding space -->
+  <line x1="124" y1="451" x2="160" y2="451" stroke="#af7aa1" stroke-width="2" marker-end="url(#arr)"/>
+  <text x="142" y="442" font-size="9" fill="#8c6181" text-anchor="middle">place in</text>
+  <text x="142" y="468" font-size="9" fill="#8c6181" text-anchor="middle">space</text>
+
+  <!-- ════════════════════════════════════════════════════════ -->
+  <!--   CENTER: Embedding Space (the main visualization)       -->
+  <!-- ════════════════════════════════════════════════════════ -->
+
+  <text x="500" y="90" font-size="13" font-weight="700" fill="#999" letter-spacing="2">768-DIM EMBEDDING SPACE (2D PROJECTION)</text>
+  <line x1="164" y1="96" x2="836" y2="96" stroke="#e0e0e0" stroke-width="1"/>
+
+  <rect x="164" y="105" width="672" height="480" rx="10" fill="#fafafa" stroke="#ddd" stroke-width="1.5"/>
+
+  <!-- ── Concentric distance rings from query point ── -->
+  <!-- Query point is at (420, 390) -->
+  <circle cx="420" cy="390" r="60" fill="none" stroke="#e8d8f0" stroke-width="1" stroke-dasharray="4 4"/>
+  <circle cx="420" cy="390" r="130" fill="none" stroke="#ede4f3" stroke-width="1" stroke-dasharray="4 4"/>
+  <circle cx="420" cy="390" r="210" fill="none" stroke="#f2ecf6" stroke-width="1" stroke-dasharray="4 4"/>
+  <circle cx="420" cy="390" r="290" fill="none" stroke="#f7f3fa" stroke-width="1" stroke-dasharray="4 4"/>
+
+  <!-- Distance ring labels (bottom-right quadrant) -->
+  <text x="468" y="348" font-size="8" fill="#c9aad9" transform="rotate(-30 468 348)">d = 0.4</text>
+  <text x="520" y="305" font-size="8" fill="#d4bce2" transform="rotate(-30 520 305)">d = 0.8</text>
+  <text x="580" y="245" font-size="8" fill="#dfd0eb" transform="rotate(-30 580 245)">d = 1.2</text>
+
+  <!-- ── Cluster 1: Fabaceae (orange) — CLOSEST ── -->
+  <!-- Centroid at (380, 310) -->
+  <circle cx="365" cy="300" r="4" fill="#f28e2b" opacity="0.3"/>
+  <circle cx="390" cy="295" r="4" fill="#f28e2b" opacity="0.3"/>
+  <circle cx="375" cy="320" r="4" fill="#f28e2b" opacity="0.3"/>
+  <circle cx="395" cy="310" r="4" fill="#f28e2b" opacity="0.3"/>
+  <circle cx="355" cy="315" r="4" fill="#f28e2b" opacity="0.3"/>
+  <circle cx="380" cy="330" r="4" fill="#f28e2b" opacity="0.3"/>
+  <circle cx="370" cy="290" r="4" fill="#f28e2b" opacity="0.3"/>
+  <circle cx="400" cy="325" r="4" fill="#f28e2b" opacity="0.3"/>
+  <!-- Centroid (bold) -->
+  <circle cx="380" cy="310" r="9" fill="#f28e2b" stroke="#c47220" stroke-width="2"/>
+  <text x="380" y="314" font-size="8" fill="white" text-anchor="middle" font-weight="700">C</text>
+  <text x="345" y="278" font-size="11" fill="#c47220" font-weight="600">Fabaceae</text>
+
+  <!-- Distance line: query → Fabaceae (CLOSEST — bold, solid) -->
+  <line x1="415" y1="385" x2="385" y2="315" stroke="#f28e2b" stroke-width="2.5"/>
+  <!-- Distance label on the line -->
+  <rect x="386" y="342" width="46" height="16" rx="3" fill="white" stroke="#f28e2b" stroke-width="1"/>
+  <text x="409" y="354" font-size="9" fill="#c47220" text-anchor="middle" font-weight="700">d = 0.41</text>
+
+  <!-- ── Cluster 2: Rubiaceae (red) — SECOND CLOSEST ── -->
+  <!-- Centroid at (310, 470) -->
+  <circle cx="295" cy="460" r="4" fill="#e15759" opacity="0.3"/>
+  <circle cx="320" cy="455" r="4" fill="#e15759" opacity="0.3"/>
+  <circle cx="305" cy="480" r="4" fill="#e15759" opacity="0.3"/>
+  <circle cx="325" cy="475" r="4" fill="#e15759" opacity="0.3"/>
+  <circle cx="290" cy="475" r="4" fill="#e15759" opacity="0.3"/>
+  <circle cx="315" cy="490" r="4" fill="#e15759" opacity="0.3"/>
+  <!-- Centroid (bold) -->
+  <circle cx="310" cy="470" r="9" fill="#e15759" stroke="#b84547" stroke-width="2"/>
+  <text x="310" y="474" font-size="8" fill="white" text-anchor="middle" font-weight="700">C</text>
+  <text x="270" y="510" font-size="11" fill="#b84547" font-weight="600">Rubiaceae</text>
+
+  <!-- Distance line: query → Rubiaceae (second — medium, dashed) -->
+  <line x1="415" y1="395" x2="315" y2="472" stroke="#e15759" stroke-width="1.5" stroke-dasharray="6 3"/>
+  <rect x="348" y="426" width="46" height="16" rx="3" fill="white" stroke="#e15759" stroke-width="1"/>
+  <text x="371" y="438" font-size="9" fill="#b84547" text-anchor="middle">d = 0.73</text>
+
+  <!-- ── Cluster 3: Meliaceae (blue) — THIRD ── -->
+  <!-- Centroid at (570, 250) -->
+  <circle cx="555" cy="240" r="4" fill="#4e79a7" opacity="0.3"/>
+  <circle cx="580" cy="235" r="4" fill="#4e79a7" opacity="0.3"/>
+  <circle cx="565" cy="260" r="4" fill="#4e79a7" opacity="0.3"/>
+  <circle cx="585" cy="250" r="4" fill="#4e79a7" opacity="0.3"/>
+  <circle cx="550" cy="255" r="4" fill="#4e79a7" opacity="0.3"/>
+  <circle cx="575" cy="270" r="4" fill="#4e79a7" opacity="0.3"/>
+  <!-- Centroid (bold) -->
+  <circle cx="570" cy="250" r="9" fill="#4e79a7" stroke="#3a5d82" stroke-width="2"/>
+  <text x="570" y="254" font-size="8" fill="white" text-anchor="middle" font-weight="700">C</text>
+  <text x="570" y="222" font-size="11" fill="#3a5d82" font-weight="600">Meliaceae</text>
+
+  <!-- Distance line: query → Meliaceae (third — thin, dashed) -->
+  <line x1="425" y1="385" x2="565" y2="255" stroke="#4e79a7" stroke-width="1" stroke-dasharray="6 3"/>
+  <rect x="486" y="308" width="46" height="16" rx="3" fill="white" stroke="#4e79a7" stroke-width="1"/>
+  <text x="509" y="320" font-size="9" fill="#3a5d82" text-anchor="middle">d = 0.92</text>
+
+  <!-- ── Cluster 4: Moraceae (green) — FOURTH ── -->
+  <!-- Centroid at (680, 400) -->
+  <circle cx="665" cy="390" r="4" fill="#59a14f" opacity="0.3"/>
+  <circle cx="690" cy="385" r="4" fill="#59a14f" opacity="0.3"/>
+  <circle cx="675" cy="410" r="4" fill="#59a14f" opacity="0.3"/>
+  <circle cx="695" cy="400" r="4" fill="#59a14f" opacity="0.3"/>
+  <circle cx="660" cy="405" r="4" fill="#59a14f" opacity="0.3"/>
+  <!-- Centroid (bold) -->
+  <circle cx="680" cy="400" r="9" fill="#59a14f" stroke="#47813f" stroke-width="2"/>
+  <text x="680" y="404" font-size="8" fill="white" text-anchor="middle" font-weight="700">C</text>
+  <text x="680" y="375" font-size="11" fill="#47813f" font-weight="600">Moraceae</text>
+
+  <!-- Distance line: query → Moraceae (fourth — thin, dotted) -->
+  <line x1="425" y1="393" x2="675" y2="398" stroke="#59a14f" stroke-width="1" stroke-dasharray="4 4"/>
+  <rect x="540" y="387" width="46" height="16" rx="3" fill="white" stroke="#59a14f" stroke-width="1"/>
+  <text x="563" y="399" font-size="9" fill="#47813f" text-anchor="middle">d = 1.15</text>
+
+  <!-- ── Cluster 5: Sapindaceae (teal) — FAR ── -->
+  <!-- Centroid at (260, 180) -->
+  <circle cx="245" cy="170" r="4" fill="#76b7b2" opacity="0.3"/>
+  <circle cx="270" cy="165" r="4" fill="#76b7b2" opacity="0.3"/>
+  <circle cx="255" cy="190" r="4" fill="#76b7b2" opacity="0.3"/>
+  <circle cx="275" cy="180" r="4" fill="#76b7b2" opacity="0.3"/>
+  <!-- Centroid (bold) -->
+  <circle cx="260" cy="180" r="9" fill="#76b7b2" stroke="#5a9590" stroke-width="2"/>
+  <text x="260" y="184" font-size="8" fill="white" text-anchor="middle" font-weight="700">C</text>
+  <text x="260" y="155" font-size="11" fill="#5a9590" font-weight="600">Sapindaceae</text>
+
+  <!-- No distance line for far clusters — too cluttered -->
+
+  <!-- ── Cluster 6: Lauraceae (brown) — FAR ── -->
+  <circle cx="720" cy="190" r="4" fill="#b07aa1" opacity="0.3"/>
+  <circle cx="740" cy="180" r="4" fill="#b07aa1" opacity="0.3"/>
+  <circle cx="730" cy="200" r="4" fill="#b07aa1" opacity="0.3"/>
+  <circle cx="730" cy="190" r="9" fill="#b07aa1" stroke="#8c6181" stroke-width="2"/>
+  <text x="730" y="194" font-size="8" fill="white" text-anchor="middle" font-weight="700">C</text>
+  <text x="730" y="170" font-size="11" fill="#8c6181" font-weight="600">Lauraceae</text>
+
+  <!-- ══ QUERY POINT (prominent) ══ -->
+  <circle cx="420" cy="390" r="12" fill="#af7aa1" stroke="#8c6181" stroke-width="2.5"/>
+  <text x="420" y="395" font-size="12" fill="white" text-anchor="middle" font-weight="700">?</text>
+  <text x="420" y="420" font-size="11" fill="#8c6181" text-anchor="middle" font-weight="600">Query</text>
+  <text x="420" y="434" font-size="9" fill="#8c6181" text-anchor="middle">(mean-pooled)</text>
+
+  <!-- Legend -->
+  <rect x="176" y="550" width="280" height="28" rx="4" fill="white" stroke="#ddd" stroke-width="1"/>
+  <circle cx="196" cy="564" r="4" fill="#888" opacity="0.3"/>
+  <text x="206" y="568" font-size="9" fill="#888">training embedding</text>
+  <circle cx="300" cy="564" r="6" fill="#888" stroke="#555" stroke-width="1.5"/>
+  <text x="308" cy="564" font-size="7" fill="white" text-anchor="middle" font-weight="700">C</text>
+  <text x="320" y="568" font-size="9" fill="#888">class centroid</text>
+  <circle cx="400" cy="564" r="5" fill="none" stroke="#d4bce2" stroke-width="1" stroke-dasharray="2 2"/>
+  <text x="412" y="568" font-size="9" fill="#888">distance ring</text>
+
+  <!-- ════════════════════════════════════════════════════════ -->
+  <!--   RIGHT: Distance → Probability conversion               -->
+  <!-- ════════════════════════════════════════════════════════ -->
+
+  <text x="1020" y="90" font-size="13" font-weight="700" fill="#999" letter-spacing="2">RESULT</text>
+  <line x1="850" y1="96" x2="1180" y2="96" stroke="#e0e0e0" stroke-width="1"/>
+
+  <!-- Arrow from embedding space to results -->
+  <line x1="836" y1="390" x2="855" y2="390" stroke="#888" stroke-width="1.5" marker-end="url(#arr)"/>
+
+  <!-- Softmax conversion box -->
+  <rect x="860" y="110" width="320" height="50" rx="8" fill="#59a14f" stroke="#47813f" stroke-width="1.5"/>
+  <text x="1020" y="134" font-size="13" font-weight="700" fill="white" text-anchor="middle">softmax( −distance )</text>
+  <text x="1020" y="150" font-size="10" fill="rgba(255,255,255,0.8)" text-anchor="middle">closer distance → higher probability</text>
+
+  <!-- ── Horizontal bar chart: distance → probability ── -->
+  <rect x="860" y="175" width="320" height="415" rx="8" fill="#f8f8f8" stroke="#ddd" stroke-width="1"/>
+
+  <!-- Header -->
+  <text x="870" y="198" font-size="12" font-weight="600" fill="#555">Family</text>
+  <text x="1010" y="198" font-size="10" fill="#888">L2 dist</text>
+  <text x="1080" y="198" font-size="10" fill="#888">Prob</text>
+  <line x1="870" y1="205" x2="1170" y2="205" stroke="#e0e0e0" stroke-width="1"/>
+
+  <!-- Row 1: Fabaceae (closest, highest prob) -->
+  <circle cx="882" cy="230" r="7" fill="#f28e2b" stroke="#c47220" stroke-width="1"/>
+  <text x="898" y="234" font-size="12" fill="#333" font-weight="600">Fabaceae</text>
+  <text x="1010" y="234" font-size="11" fill="#555">0.41</text>
+  <text x="1080" y="234" font-size="12" fill="#59a14f" font-weight="700">42.1%</text>
+  <!-- Probability bar -->
+  <rect x="870" y="242" width="280" height="12" rx="3" fill="#f0f0f0" stroke="none"/>
+  <rect x="870" y="242" width="236" height="12" rx="3" fill="#f28e2b" opacity="0.7"/>
+
+  <!-- Row 2: Rubiaceae -->
+  <circle cx="882" cy="280" r="7" fill="#e15759" stroke="#b84547" stroke-width="1"/>
+  <text x="898" y="284" font-size="12" fill="#333">Rubiaceae</text>
+  <text x="1010" y="284" font-size="11" fill="#555">0.73</text>
+  <text x="1080" y="284" font-size="12" fill="#555">18.3%</text>
+  <rect x="870" y="292" width="280" height="12" rx="3" fill="#f0f0f0" stroke="none"/>
+  <rect x="870" y="292" width="103" height="12" rx="3" fill="#e15759" opacity="0.7"/>
+
+  <!-- Row 3: Meliaceae -->
+  <circle cx="882" cy="330" r="7" fill="#4e79a7" stroke="#3a5d82" stroke-width="1"/>
+  <text x="898" y="334" font-size="12" fill="#333">Meliaceae</text>
+  <text x="1010" y="334" font-size="11" fill="#555">0.92</text>
+  <text x="1080" y="334" font-size="12" fill="#555">12.7%</text>
+  <rect x="870" y="342" width="280" height="12" rx="3" fill="#f0f0f0" stroke="none"/>
+  <rect x="870" y="342" width="72" height="12" rx="3" fill="#4e79a7" opacity="0.7"/>
+
+  <!-- Row 4: Moraceae -->
+  <circle cx="882" cy="380" r="7" fill="#59a14f" stroke="#47813f" stroke-width="1"/>
+  <text x="898" y="384" font-size="12" fill="#333">Moraceae</text>
+  <text x="1010" y="384" font-size="11" fill="#555">1.15</text>
+  <text x="1080" y="384" font-size="12" fill="#555">8.4%</text>
+  <rect x="870" y="392" width="280" height="12" rx="3" fill="#f0f0f0" stroke="none"/>
+  <rect x="870" y="392" width="48" height="12" rx="3" fill="#59a14f" opacity="0.7"/>
+
+  <!-- Row 5: Sapindaceae -->
+  <circle cx="882" cy="430" r="7" fill="#76b7b2" stroke="#5a9590" stroke-width="1"/>
+  <text x="898" y="434" font-size="12" fill="#333">Sapindaceae</text>
+  <text x="1010" y="434" font-size="11" fill="#555">1.68</text>
+  <text x="1080" y="434" font-size="12" fill="#aaa">3.2%</text>
+  <rect x="870" y="442" width="280" height="12" rx="3" fill="#f0f0f0" stroke="none"/>
+  <rect x="870" y="442" width="18" height="12" rx="3" fill="#76b7b2" opacity="0.5"/>
+
+  <!-- Row 6: Lauraceae -->
+  <circle cx="882" cy="480" r="7" fill="#b07aa1" stroke="#8c6181" stroke-width="1"/>
+  <text x="898" y="484" font-size="12" fill="#333">Lauraceae</text>
+  <text x="1010" y="484" font-size="11" fill="#555">1.94</text>
+  <text x="1080" y="484" font-size="12" fill="#aaa">1.8%</text>
+  <rect x="870" y="492" width="280" height="12" rx="3" fill="#f0f0f0" stroke="none"/>
+  <rect x="870" y="492" width="10" height="12" rx="3" fill="#b07aa1" opacity="0.5"/>
+
+  <!-- Remaining classes -->
+  <text x="1020" y="530" font-size="10" fill="#aaa" text-anchor="middle">... 46 more families ranked</text>
+
+  <!-- Key insight annotation -->
+  <rect x="870" y="545" width="300" height="38" rx="5" fill="#f0f8ee" stroke="#b5d4a8" stroke-width="1"/>
+  <text x="1020" y="562" font-size="10" fill="#59a14f" text-anchor="middle" font-weight="600">Smaller L2 distance → higher softmax probability</text>
+  <text x="1020" y="576" font-size="9" fill="#7ab56e" text-anchor="middle">On unit vectors: L2 ≡ cosine distance</text>
+
+  <!-- ════════════════════════════════════════════════════════ -->
+  <!--   FOOTER: Key facts                                      -->
+  <!-- ════════════════════════════════════════════════════════ -->
+
+  <line x1="32" y1="620" x2="1168" y2="620" stroke="#e0e0e0" stroke-width="1"/>
+
+  <text x="32" y="644" font-size="11" fill="#888" font-weight="600">Distance metric:</text>
+  <text x="140" y="644" font-size="11" fill="#555">L2 distance on L2-normalized, mean-centered vectors (equivalent to cosine distance on the unit hypersphere)</text>
+
+  <text x="32" y="664" font-size="11" fill="#888" font-weight="600">Probability:</text>
+  <text x="112" y="664" font-size="11" fill="#555">softmax(−d) converts distances to probabilities — exponential decay makes nearest centroid dominate</text>
+
+  <text x="32" y="684" font-size="11" fill="#888" font-weight="600">Multi-image:</text>
+  <text x="118" y="684" font-size="11" fill="#555">5 images → 5 independent embeddings → mean-pooled to single query vector → re-normalized before matching</text>
+</svg>

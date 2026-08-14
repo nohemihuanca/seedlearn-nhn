@@ -1,0 +1,72 @@
+{
+  "specimen_id": "PEA0147",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Annonaceae/by_genus/Desmopsis/by_species/panamensis/PEA0147/Annonaceae_Desmopsis_panamensis_PEA0147_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Annonaceae/by_genus/Desmopsis/by_species/panamensis/PEA0147/Annonaceae_Desmopsis_panamensis_PEA0147_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Annonaceae/by_genus/Desmopsis/by_species/panamensis/PEA0147/Annonaceae_Desmopsis_panamensis_PEA0147_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Annonaceae/by_genus/Desmopsis/by_species/panamensis/PEA0147/Annonaceae_Desmopsis_panamensis_PEA0147_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Annonaceae/by_genus/Desmopsis/by_species/panamensis/PEA0147/Annonaceae_Desmopsis_panamensis_PEA0147_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {},
+          "leaf_complexity": {},
+          "leaf_morphology": {
+            "margin": "entire"
+          },
+          "stem_traits": {},
+          "special_features": {},
+          "notes": "Some leaves show minor damage, such as small holes and missing sections of the margin, likely due to insect herbivory or physical abrasion; however, the undamaged portions clearly exhibit a smooth edge."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nC. Leaf Morphology\n    7.\tLeaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (the leaf edges visible in all images are smooth and continuous without any teeth or serrations)\nF. Notes: Some leaves show minor damage, such as small holes and missing sections of the margin, likely due to insect herbivory or physical abrasion; however, the undamaged portions clearly exhibit a smooth edge.\n\n####",
+        "thinking": null,
+        "few_shot_delivery": {
+          "n_examples": 0,
+          "n_exemplar_images": 0,
+          "n_specimen_images": 5,
+          "max_images": 10,
+          "images_over_budget": false,
+          "prompt_chars": 940
+        }
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 1681.874119999975
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 1681.874119999975,
+  "benchmark_metadata": {
+    "scientific_name": "Desmopsis panamensis",
+    "family": "Annonaceae",
+    "genus": "Desmopsis",
+    "species_epithet": "panamensis",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

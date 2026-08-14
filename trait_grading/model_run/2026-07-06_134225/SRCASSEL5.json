@@ -1,0 +1,482 @@
+{
+  "specimen_id": "SRCASSEL5",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rhizophoraceae/by_genus/Cassipourea/by_species/elliptica/SRCASSEL5/Rhizophoraceae_Cassipourea_elliptica_SRCASSEL5_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rhizophoraceae/by_genus/Cassipourea/by_species/elliptica/SRCASSEL5/Rhizophoraceae_Cassipourea_elliptica_SRCASSEL5_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rhizophoraceae/by_genus/Cassipourea/by_species/elliptica/SRCASSEL5/Rhizophoraceae_Cassipourea_elliptica_SRCASSEL5_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rhizophoraceae/by_genus/Cassipourea/by_species/elliptica/SRCASSEL5/Rhizophoraceae_Cassipourea_elliptica_SRCASSEL5_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rhizophoraceae/by_genus/Cassipourea/by_species/elliptica/SRCASSEL5/Rhizophoraceae_Cassipourea_elliptica_SRCASSEL5_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "alternate",
+            "spacing": "distal"
+          },
+          "leaf_complexity": {
+            "type": "compound",
+            "compound_type": "odd-pinnate",
+            "num_leaflets": "7",
+            "leaflet_arrangement": "alternate"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "lanceolate",
+            "apex": "acuminate",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "visible, closely spaced, numerous",
+            "surface_features": "shiny, rugose",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "dark green to brown",
+            "texture": "ridged"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Some leaves show small holes and edge damage, likely from mechanical or environmental factors; no signs of insect activity or pathogens are clearly visible. The pink tag is an artificial marker and not a plant feature. All images show the same seedling individual from multiple angles, confirming consistent morphology."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): alternate (leaves attach at successive nodes along the stem, alternating sides; visible in multiple images)\n    2. Leaf spacing (clustered / distal): distal (leaves are spaced along the stem with clear internodes; not clustered at nodes)\n\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): compound (each leaf has multiple leaflets attached to a central axis; clearly visible in all images)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): odd-pinnate (terminal leaflet present; leaflets arranged along rachis with one at the tip)\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): 7 (each compound leaf has 3\u20135 leaflets per side plus terminal, totaling 7; visible in close-ups)\n    6. Leaflet arrangement (opposite / alternate / subopposite): alternate (leaflets arranged alternately along the rachis; visible in side views)\n\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (margins smooth without teeth; visible in all images)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): lanceolate (narrow, tapering to a point; visible in side and top views)\n    9. Leaf apex (acute, obtuse, acuminate): acuminate (tapering to a long, narrow point; visible in multiple angles)\n    10. Leaf base (rounded, cordate, cuneate): cuneate (tapering to a narrow base; visible in top-down views)\n    11. Venation type (pinnate / palmate / parallel): pinnate (main vein with lateral veins branching from it; clearly visible)\n    12. Secondary veins (visibility, spacing, number): visible, closely spaced, numerous (secondary veins prominent, running parallel to each other; visible in close-ups)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): shiny, rugose (surface glossy with slight wrinkling; visible in all images)\n    14. Leaf surface trichomes (present / absent): absent (no visible hairs on leaf surface; surface smooth)\n    15. Petiole length (short / long): short (petiole relatively short compared to leaflet length; visible in side views)\n    16. Petiole features (winged / grooved / terete): terete (round, cylindrical; no wings or grooves visible)\n\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): woody (stem appears firm and slightly ridged; visible in full plant images)\n    18. Stem trichomes (present / absent): absent (no visible hairs on stem; smooth surface)\n    19. Stem color: dark green to brown (stem dark green near apex, transitioning to brown lower down; visible in images)\n    20. Stem texture (smooth / ridged / lenticellate): ridged (stem shows longitudinal ridges; visible in close-up side views)\n\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules visible at leaf bases; leaf attachment points clear)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no latex exudate visible; no signs of milky sap)\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no swollen leaf base structures visible; not applicable if not Fabaceae, but checked for completeness)\n    24. Tendrils (present / absent): absent (no tendrils observed; plant not climbing)\n\nF. Notes: Some leaves show small holes and edge damage, likely from mechanical or environmental factors; no signs of insect activity or pathogens are clearly visible. The pink tag is an artificial marker and not a plant feature. All images show the same seedling individual from multiple angles, confirming consistent morphology.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 21355.196284130216
+    },
+    "classification": {
+      "data": {
+        "predictions_by_rank": {
+          "family": [
+            {
+              "rank_value": "Rhizophoraceae",
+              "softmax_score": 0.030201826244592667,
+              "rank_position": 1,
+              "l2_distance": 0.6591319441795349,
+              "cosine_similarity": 0.7663798928260803
+            },
+            {
+              "rank_value": "Salicaceae",
+              "softmax_score": 0.024411557242274284,
+              "rank_position": 2,
+              "l2_distance": 0.8719777464866638,
+              "cosine_similarity": 0.5268551707267761
+            },
+            {
+              "rank_value": "Siparunaceae",
+              "softmax_score": 0.023599710315465927,
+              "rank_position": 3,
+              "l2_distance": 0.905799925327301,
+              "cosine_similarity": 0.4687565565109253
+            },
+            {
+              "rank_value": "Violaceae",
+              "softmax_score": 0.023066863417625427,
+              "rank_position": 4,
+              "l2_distance": 0.9286372065544128,
+              "cosine_similarity": 0.3720270097255707
+            },
+            {
+              "rank_value": "Chrysobalanaceae",
+              "softmax_score": 0.022625373676419258,
+              "rank_position": 5,
+              "l2_distance": 0.9479622840881348,
+              "cosine_similarity": 0.35001012682914734
+            }
+          ],
+          "genus": [
+            {
+              "rank_value": "Cassipourea",
+              "softmax_score": 0.014568724669516087,
+              "rank_position": 1,
+              "l2_distance": 0.6591319441795349,
+              "cosine_similarity": 0.7663798928260803
+            },
+            {
+              "rank_value": "Piparea",
+              "softmax_score": 0.01177562028169632,
+              "rank_position": 2,
+              "l2_distance": 0.8719777464866638,
+              "cosine_similarity": 0.5268551707267761
+            },
+            {
+              "rank_value": "Palicourea",
+              "softmax_score": 0.011391429230570793,
+              "rank_position": 3,
+              "l2_distance": 0.9051477313041687,
+              "cosine_similarity": 0.43093419075012207
+            },
+            {
+              "rank_value": "Siparuna",
+              "softmax_score": 0.011384001933038235,
+              "rank_position": 4,
+              "l2_distance": 0.905799925327301,
+              "cosine_similarity": 0.4687565565109253
+            },
+            {
+              "rank_value": "Rinorea",
+              "softmax_score": 0.01117175817489624,
+              "rank_position": 5,
+              "l2_distance": 0.9246199131011963,
+              "cosine_similarity": 0.3812748193740845
+            }
+          ],
+          "species": [
+            {
+              "rank_value": "Cassipourea elliptica",
+              "softmax_score": 0.010225245729088783,
+              "rank_position": 1,
+              "l2_distance": 0.6591319441795349,
+              "cosine_similarity": 0.7663798928260803
+            },
+            {
+              "rank_value": "Piparea dentata",
+              "softmax_score": 0.008264870382845402,
+              "rank_position": 2,
+              "l2_distance": 0.8719777464866638,
+              "cosine_similarity": 0.5268551707267761
+            },
+            {
+              "rank_value": "Rinorea squamata",
+              "softmax_score": 0.008241578936576843,
+              "rank_position": 3,
+              "l2_distance": 0.8747997879981995,
+              "cosine_similarity": 0.48774755001068115
+            },
+            {
+              "rank_value": "Siparuna guianensis",
+              "softmax_score": 0.007990008220076561,
+              "rank_position": 4,
+              "l2_distance": 0.905799925327301,
+              "cosine_similarity": 0.4687565565109253
+            },
+            {
+              "rank_value": "Piper colonense",
+              "softmax_score": 0.007958385162055492,
+              "rank_position": 5,
+              "l2_distance": 0.9097656011581421,
+              "cosine_similarity": 0.5255923867225647
+            }
+          ]
+        },
+        "margin_by_rank": {
+          "family": 0.005790269002318382,
+          "genus": 0.002793104387819767,
+          "species": 0.0019603753462433815
+        },
+        "per_image_predictions": [
+          {
+            "image_path": "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rhizophoraceae/by_genus/Cassipourea/by_species/elliptica/SRCASSEL5/Rhizophoraceae_Cassipourea_elliptica_SRCASSEL5_001.jpg",
+            "top1_label": "Rhizophoraceae",
+            "top1_softmax_score": 0.027109669521450996
+          },
+          {
+            "image_path": "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rhizophoraceae/by_genus/Cassipourea/by_species/elliptica/SRCASSEL5/Rhizophoraceae_Cassipourea_elliptica_SRCASSEL5_002.jpg",
+            "top1_label": "Rhizophoraceae",
+            "top1_softmax_score": 0.027263488620519638
+          },
+          {
+            "image_path": "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rhizophoraceae/by_genus/Cassipourea/by_species/elliptica/SRCASSEL5/Rhizophoraceae_Cassipourea_elliptica_SRCASSEL5_003.jpg",
+            "top1_label": "Rhizophoraceae",
+            "top1_softmax_score": 0.031375568360090256
+          },
+          {
+            "image_path": "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rhizophoraceae/by_genus/Cassipourea/by_species/elliptica/SRCASSEL5/Rhizophoraceae_Cassipourea_elliptica_SRCASSEL5_004.jpg",
+            "top1_label": "Rhizophoraceae",
+            "top1_softmax_score": 0.023704413324594498
+          },
+          {
+            "image_path": "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rhizophoraceae/by_genus/Cassipourea/by_species/elliptica/SRCASSEL5/Rhizophoraceae_Cassipourea_elliptica_SRCASSEL5_005.jpg",
+            "top1_label": "Rhizophoraceae",
+            "top1_softmax_score": 0.025465624406933784
+          }
+        ],
+        "nearest_support": [
+          {
+            "label": "Rhizophoraceae",
+            "l2_distance": 0.5458644032478333,
+            "cosine_similarity": 0.8510158658027649,
+            "image_path": "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rhizophoraceae/by_genus/Cassipourea/by_species/elliptica/SRCASSEL5/Rhizophoraceae_Cassipourea_elliptica_SRCASSEL5_002.jpg"
+          },
+          {
+            "label": "Rhizophoraceae",
+            "l2_distance": 0.5982141494750977,
+            "cosine_similarity": 0.8210697174072266,
+            "image_path": "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rhizophoraceae/by_genus/Cassipourea/by_species/elliptica/SRCASSEL5/Rhizophoraceae_Cassipourea_elliptica_SRCASSEL5_003.jpg"
+          },
+          {
+            "label": "Rhizophoraceae",
+            "l2_distance": 0.6084497570991516,
+            "cosine_similarity": 0.8148943781852722,
+            "image_path": "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rhizophoraceae/by_genus/Cassipourea/by_species/elliptica/SRCASSEL5/Rhizophoraceae_Cassipourea_elliptica_SRCASSEL5_005.jpg"
+          },
+          {
+            "label": "Rhizophoraceae",
+            "l2_distance": 0.7539752125740051,
+            "cosine_similarity": 0.7157607674598694,
+            "image_path": "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rhizophoraceae/by_genus/Cassipourea/by_species/elliptica/SRCASSEL5/Rhizophoraceae_Cassipourea_elliptica_SRCASSEL5_004.jpg"
+          },
+          {
+            "label": "Rhizophoraceae",
+            "l2_distance": 0.7544003129005432,
+            "cosine_similarity": 0.7154401540756226,
+            "image_path": "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rhizophoraceae/by_genus/Cassipourea/by_species/elliptica/SRCASSEL5/Rhizophoraceae_Cassipourea_elliptica_SRCASSEL5_001.jpg"
+          }
+        ],
+        "embedding_dim": 768,
+        "num_images_pooled": 5,
+        "hierarchical_consistency": {
+          "consistent": true,
+          "notes": [],
+          "family_genus_agree": true,
+          "species_genus_agree": true,
+          "species_family_agree": true
+        }
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 191.6635779198259
+    },
+    "trait_retrieval": {
+      "data": {
+        "query": "Tropical tree seedling with relative_position: alternate, spacing: distal, type: compound, compound_type: odd-pinnate, num_leaflets: 7, leaflet_arrangement: alternate, margin: entire, shape: lanceolate, apex: acuminate, base: cuneate, venation: pinnate, secondary_veins: visible, closely spaced, numerous, surface_features: shiny, rugose, trichomes: absent, petiole_length: short, petiole_features: terete, type: woody, trichomes: absent, color: dark green to brown, texture: ridged, stipules: absent, pulvinus: absent, tendrils: absent, notes: some leaves show small holes and edge damage, likely from mechanical or environmental factors; no signs of insect activity or pathogens are clearly visible. the pink tag is an artificial marker and not a plant feature. all images show the same seedling individual from multiple angles, confirming consistent morphology.",
+        "rag_matches": [
+          {
+            "taxon": "Protium stevensonii",
+            "rank": "Species",
+            "description": "Locating an individual\nIt is mainly observed towards the Southern Boundary (LS), Quebrada El Salto, etc., in rolling or broken terrain.\nDistribution\nFrom Belize to Venezuela, the Guianas, Brazil, and Bolivia. In Costa Rica, it is widely distributed in the medium to low elevations of both slopes, in climates ranging from humid to very humid, although it prefers climates with marked seasonality; 0-700-800 m.\nHabit\nTrees, 15-35 m tall.\nTrunk\nTrunk with reddish-brown outer bark.\nBark\nOuter bark reddish-brown, scaly, inner bark reddish with a pleasant mango scent; white or milky resinous sap.\nLeaves\nOdd-pinnate leaves, with 7-9 leaflets, elliptical, oblong, or oblong-lanceolate, 5-21 x 4-7.2 cm, apex acuminate to abruptly acuminate, base obtuse to asymmetric, generally glabrous; petiolules without evident pulvini, margin entire; petioles 4-14 cm long.\nFlowers\nInflorescences are panicles, 3-15 cm long, axillary. Yellowish or greenish-yellow flowers (unisexual); calyx with 5 lobes, 1-1.5 mm long, cuculiform; petals (tubular corolla), with 5 lobes, 5-5.5 mm long; stamens 10, 1 mm long, filaments inserted at the base of the disc; annular disc with 10 lobes; ovary with 5 lobes, ovoid, with 5 locules; style 1, stigma with 5 lobes.\nFruits\nCapsular and drupe-like fruits, 1.5-2.5 x 1.5 x 3 cm, ovoid or more or less turbinate, with 2-5 lobes, dehiscent by 4-5 valves, scarlet red inside, red to black when mature; pyrenes 3-5, 12-13 mm thick, white, the mesocarp (pseudoaril) reddish turning white upon exposure (dehiscence), fleshy, juicy, sweet, and edible.\nDiagnosis\nCharacterized by being a large tree, the bark on mature trees is somewhat scaly, lenticellate, and the inner bark has a very particular and pleasant mango scent. At the vegetative level, it is sometimes confused with the genus Protium, although its leaves lack pulvinated petiolules and the turpentine aroma when crushed. Its fruits are distinctive for their peculiar turbinate shape.\nHabitat\nIn the Forest; it is mainly observed towards the Southern Boundary (LS), Quebrada El Salto, etc., in rolling or broken terrain.\nPhenology\nFlowers observed in June and August; fruits in August and February.",
+            "score": 0.6849604249000549
+          },
+          {
+            "taxon": "Protium stevensonii",
+            "rank": "Species",
+            "description": "Locating an individual\nIt is mainly observed towards the Southern Boundary (LS), Quebrada El Salto, etc., in rolling or broken terrain.\nDistribution\nFrom Belize to Venezuela, the Guianas, Brazil, and Bolivia. In Costa Rica, it is widely distributed in the medium to low elevations of both slopes, in climates ranging from humid to very humid, although it prefers climates with marked seasonality; 0-700-800 m.\nHabit\nTrees, 15-35 m tall.\nTrunk\nTrunk with reddish-brown outer bark.\nBark\nOuter bark reddish-brown, scaly, inner bark reddish with a pleasant mango scent; white or milky resinous sap.\nLeaves\nOdd-pinnate leaves, with 7-9 leaflets, elliptical, oblong, or oblong-lanceolate, 5-21 x 4-7.2 cm, apex acuminate to abruptly acuminate, base obtuse to asymmetric, generally glabrous; petiolules without evident pulvini, margin entire; petioles 4-14 cm long.\nFlowers\nInflorescences are panicles, 3-15 cm long, axillary. Yellowish or greenish-yellow flowers (unisexual); calyx with 5 lobes, 1-1.5 mm long, cuculiform; petals (tubular corolla), with 5 lobes, 5-5.5 mm long; stamens 10, 1 mm long, filaments inserted at the base of the disc; annular disc with 10 lobes; ovary with 5 lobes, ovoid, with 5 locules; style 1, stigma with 5 lobes.\nFruits\nCapsular and drupe-like fruits, 1.5-2.5 x 1.5 x 3 cm, ovoid or more or less turbinate, with 2-5 lobes, dehiscent by 4-5 valves, scarlet red inside, red to black when mature; pyrenes 3-5, 12-13 mm thick, white, the mesocarp (pseudoaril) reddish turning white upon exposure (dehiscence), fleshy, juicy, sweet, and edible.\nDiagnosis\nCharacterized by being a large tree, the bark on mature trees is somewhat scaly, lenticellate, and the inner bark has a very particular and pleasant mango scent. At the vegetative level, it is sometimes confused with the genus Protium, although its leaves lack pulvinated petiolules and the turpentine aroma when crushed. Its fruits are distinctive for their peculiar turbinate shape.\nHabitat\nIn the Forest; it is mainly observed towards the Southern Boundary (LS), Quebrada El Salto, etc., in rolling or broken terrain.\nPhenology\nFlowers observed in June and August; fruits in August and February.",
+            "score": 0.6849604249000549
+          },
+          {
+            "taxon": "Connaraceae",
+            "rank": "Family",
+            "description": "Trees, climbing shrubs, or lianas; stipules absent. Leaves compound, odd-pinnate or trifoliate, indumentum of simple trichomes, the blade sometimes with glandular dots on the underside, margin entire; petiole and petiolules pulvinated. Inflorescences in panicles, racemes, or spike-like, axillary or terminal. Flowers bisexual, white, yellowish, or pale pink; sepals 5, valvate or imbricate; petals 5, free; stamens 10, forming a short tube at the base; ovary superior, carpels 1-5, style one per carpel; ovules 2 per carpel. Fruit in follicles, often red; seeds 1 per fruit, black, the aril bright red, yellow, white, or orange.\nThe family consists of 16 genera and about 300\u2013350 species, pantropical, with a distribution center in western Africa; for tropical America, 5 genera and 108 species are known; 3 genera and 9 species in CR.\nIt is characterized by its compound leaves, mainly trifoliate or odd-pinnate, leaflets alternate on the rachis, sometimes with dendritic trichomes, petioles clearly pulvinated, stipules absent, and the fruit follicles with a black seed with a reddish basal aril. In vegetative form, its general appearance relates it directly to the family Fabaceae, but several of the characteristics mentioned earlier allow it to be separated.\nTraditionally, the family has been placed within the Order Rosales, or in close relation to the Order Sapindales, and some have suggested a link between such Orders. However, recent molecular studies suggest that its placement is in the Order Oxalidales, along with families such as: Oxalidaceae, Cunnoniaceae, Elaeocarpaceae, etc.",
+            "score": 0.6694475412368774
+          },
+          {
+            "taxon": "Connaraceae",
+            "rank": "Family",
+            "description": "Trees, climbing shrubs, or lianas; stipules absent. Leaves compound, odd-pinnate or trifoliate, indumentum of simple trichomes, the blade sometimes with glandular dots on the underside, margin entire; petiole and petiolules pulvinated. Inflorescences in panicles, racemes, or spike-like, axillary or terminal. Flowers bisexual, white, yellowish, or pale pink; sepals 5, valvate or imbricate; petals 5, free; stamens 10, forming a short tube at the base; ovary superior, carpels 1-5, style one per carpel; ovules 2 per carpel. Fruit in follicles, often red; seeds 1 per fruit, black, the aril bright red, yellow, white, or orange.\nThe family consists of 16 genera and about 300\u2013350 species, pantropical, with a distribution center in western Africa; for tropical America, 5 genera and 108 species are known; 3 genera and 9 species in CR.\nIt is characterized by its compound leaves, mainly trifoliate or odd-pinnate, leaflets alternate on the rachis, sometimes with dendritic trichomes, petioles clearly pulvinated, stipules absent, and the fruit follicles with a black seed with a reddish basal aril. In vegetative form, its general appearance relates it directly to the family Fabaceae, but several of the characteristics mentioned earlier allow it to be separated.\nTraditionally, the family has been placed within the Order Rosales, or in close relation to the Order Sapindales, and some have suggested a link between such Orders. However, recent molecular studies suggest that its placement is in the Order Oxalidales, along with families such as: Oxalidaceae, Cunnoniaceae, Elaeocarpaceae, etc.",
+            "score": 0.6694475412368774
+          },
+          {
+            "taxon": "Tapirira guianensis",
+            "rank": "Species",
+            "description": "Locating an individual\nCentral Road (CC) 1300 m, Left.\nDistribution\nFrom Honduras to Bolivia, Paraguay, and southeastern Brazil. In Costa Rica, widespread in mainly very humid climates on both slopes, 10-1,300 m.\nHabit\nTree, 15-35 m tall.\nTrunk\nTrunk with reddish-brown bark, slightly scaly, inner color pink and with slight resinous-milky secretion, short branches; glabrous twigs; stipules absent.\nBark\nReddish-brown bark, slightly scaly, inner color pink and with slight resinous-milky secretion.\nLeaves\nCompound odd-pinnate leaves, alternate, leaflets 5-13, 7.5-23 x 2.5-11.2 cm, elliptical to oblong-elliptical, apex short-acuminate, base asymmetric, opposite, glabrous or slightly pubescent on the underside near the central vein, margin entire; petiole 4-20 cm long.\nFlowers\nFlowers (unisexual) white to yellowish-green and cream; sepals 5, 0.4-0.9 mm long; petals 5, 1.4-2.2 mm long; stamens (8-) 10, unequal, staminodes present in pistillate flowers. The inflorescences have a broad subterminal panicle, with many flowers, 10-35 cm long, rusty-puberulent.\nFruits\nFruit a drupe, 1-1.8 x 0.8-1.3 cm, ovoid, oblong or obovoid, exocarp dark purple to black, endocarp cartilaginous.\nSeeds\nSeed 1.\nDiagnosis\nCharacterized by its compound leaves, leaflets with entire margins, asymmetric at the base and secondary veins weakly forming a submarginal vein (brochidodromous venation), young leaves with silky pubescence on the underside. Its vegetative appearance and trunk color, as well as its inner bark, resemble or may confuse it with a species of Trichilia (Meliaceae), hence its vernacular names. In mature trees, when making a cut on the trunk, it secretes a slight milky sap in the cambium area.\nHabitat\nIn the rainforest, both in primary forest and secondary vegetation.\nPhenology\nFlowers observed in May, fruits in October.",
+            "score": 0.6625319719314575
+          },
+          {
+            "taxon": "Tapirira guianensis",
+            "rank": "Species",
+            "description": "Locating an individual\nCentral Road (CC) 1300 m, Left.\nDistribution\nFrom Honduras to Bolivia, Paraguay, and southeastern Brazil. In Costa Rica, widespread in mainly very humid climates on both slopes, 10-1,300 m.\nHabit\nTree, 15-35 m tall.\nTrunk\nTrunk with reddish-brown bark, slightly scaly, inner color pink and with slight resinous-milky secretion, short branches; glabrous twigs; stipules absent.\nBark\nReddish-brown bark, slightly scaly, inner color pink and with slight resinous-milky secretion.\nLeaves\nCompound odd-pinnate leaves, alternate, leaflets 5-13, 7.5-23 x 2.5-11.2 cm, elliptical to oblong-elliptical, apex short-acuminate, base asymmetric, opposite, glabrous or slightly pubescent on the underside near the central vein, margin entire; petiole 4-20 cm long.\nFlowers\nFlowers (unisexual) white to yellowish-green and cream; sepals 5, 0.4-0.9 mm long; petals 5, 1.4-2.2 mm long; stamens (8-) 10, unequal, staminodes present in pistillate flowers. The inflorescences have a broad subterminal panicle, with many flowers, 10-35 cm long, rusty-puberulent.\nFruits\nFruit a drupe, 1-1.8 x 0.8-1.3 cm, ovoid, oblong or obovoid, exocarp dark purple to black, endocarp cartilaginous.\nSeeds\nSeed 1.\nDiagnosis\nCharacterized by its compound leaves, leaflets with entire margins, asymmetric at the base and secondary veins weakly forming a submarginal vein (brochidodromous venation), young leaves with silky pubescence on the underside. Its vegetative appearance and trunk color, as well as its inner bark, resemble or may confuse it with a species of Trichilia (Meliaceae), hence its vernacular names. In mature trees, when making a cut on the trunk, it secretes a slight milky sap in the cambium area.\nHabitat\nIn the rainforest, both in primary forest and secondary vegetation.\nPhenology\nFlowers observed in May, fruits in October.",
+            "score": 0.6625319719314575
+          },
+          {
+            "taxon": "Maquira",
+            "rank": "Genus",
+            "description": "Life Form: Tree, Shrub 10. Maquira Aubl. By C.C. Berg. Trees or shrubs, dioecious. Leaves alternate, distichous on lateral branches; blade leathery, margins entire, pinnate-veined; stipules not completely amplexicaul, free. Inflorescences on spurs in the axils of the leaves, unisexual, discoid-capitate, involucrate. Staminate inflorescences often several together, pedunculate; flowers not covered by the inner involucral bracts before anthesis, numerous; perianth 4-parted to 4-divided; stamens 4; pistillode absent. Pistillate inflorescences subsessile; flowers numerous; perianth 4-lobed; ovary adnate to the perianth; stigmas 2, tongue-shaped. Fruit-bearing perianth enlarged, fleshy, orange; fruits adnate to the perianth; seed large, without endosperm, cotyledons thick and equal. 4 spp. Tropical America.",
+            "score": 0.6622748374938965
+          },
+          {
+            "taxon": "Maquira",
+            "rank": "Genus",
+            "description": "Life Form: Tree, Shrub 10. Maquira Aubl. By C.C. Berg. Trees or shrubs, dioecious. Leaves alternate, distichous on lateral branches; blade leathery, margins entire, pinnate-veined; stipules not completely amplexicaul, free. Inflorescences on spurs in the axils of the leaves, unisexual, discoid-capitate, involucrate. Staminate inflorescences often several together, pedunculate; flowers not covered by the inner involucral bracts before anthesis, numerous; perianth 4-parted to 4-divided; stamens 4; pistillode absent. Pistillate inflorescences subsessile; flowers numerous; perianth 4-lobed; ovary adnate to the perianth; stigmas 2, tongue-shaped. Fruit-bearing perianth enlarged, fleshy, orange; fruits adnate to the perianth; seed large, without endosperm, cotyledons thick and equal. 4 spp. Tropical America.",
+            "score": 0.6622748374938965
+          },
+          {
+            "taxon": "Symphonia globulifera",
+            "rank": "Species",
+            "description": "Dioecious, hemiepiphytic tree, to 10 m tall; trunk to 15 cm dbh; branches spiraled, stiff and spreading, densely rooting at the nodes, the roots often extending back to the host tree and enveloping the host tree for support; stems glabrous with prominent leaf scars; sap pale yellow to bright orange (in time), not copious. Petioles to 2 cm long; blades obovate, rounded at apex (sometimes acute to acuminate on juvenile leaves), acute to obtuse at base, 5-15 cm long, 3-10 cm wide, very thick, dark green and glossy above, dull below, coriaceous; veins indistinct, drying with many fine veins. Panicles stout, bracteated, divaricately branched, terminal; buds depressed-globose; pedicels stout, to 1 cm long; flowers thick, 5-parted, spreading at anthesis, to 4.5 cm diam, white to pink, the lobes often marked with maroon or magenta at base or apex; sepals 2, concave, unequal, persisting in fruit; petals 4-10, broadly oblong, 2-2.5 cm long; androecium of staminate flowers cushion-shaped, ca 1 cm wide and 5 mm high with numerous anthers; pollen white, granular, compressed in round or oval pouches ca 1 mm diam, embedded just beneath the sticky surface of the disk; pistillate flowers similar to staminate but the gynoecium divided into (4)9(15) segments, the petals falling soon after anthesis, the sepals closing. Capsules subglobose, 2.5-3 cm long, dehiscing into 5-9 parts at maturity; valves thick, \u00b1 spreading to expose the colorful mass of seeds; seeds numerous, reddish, curved-oblong, ca 5 mm long, embedded in a deeply divided, bright-orange aril. Frequent epiphyte in the forest or on exposed shorelines; epiphytic on rocks or on trees near the edge of the water. Plants are usually supported on tree trunks or large branches but the branches may grow into the top of the canopy. Apparently flowers and fruits sporadically throughout the year. Where plants occur along the shore, the branches usually root at the nodes with the roots hanging in the water. The pollen sacs of the staminate flowers burst under the slightest pressure, and abundant pollen oozes out (sometimes explosively). Several species of small bees, including Trigona spp., have been seen visiting the flowers. The geographical range of Symphonia globulifera extends from Nicaragua to Panama, probably to Colombia. In Panama, known from tropical moist forest in the Canal Zone, Colon, San Bias, Veraguas, Herrera, Panama, and Darien, from premontane wet forest in Code (El Valle) and Panama (Cerro Campana), and from tropical wet forest in Code (La Mesa) and Panama.",
+            "score": 0.6554889678955078
+          },
+          {
+            "taxon": "Trichilia tuberculata",
+            "rank": "Species",
+            "description": "Tree, ca. 5-30(-40) m. Leaves imparipinnate, 10-30 cm; petiole and rachis generally canaliculate, glabrous or sparsely puberulent; leaflets 5-9, alternate (rarely subopposite), 10-15(-20) X 2.5-4.5 cm, narrowly elliptical or oblong to oblanceolate, attenuated at the base, acute to acuminate at the apex, subcoriaceous, generally glabrous, with 13-16 secondary veins per side. Inflorescences axillary, thyrsoid, 10-20 cm, glabrous or puberulent. Flowers with petals white to yellowish-green. Fruits yellow to orange, 1.4-2 X 0.8-1.2 cm, oblong to ellipsoid, densely verrucous (with prominent warts often connected by irregular stripes), often sparsely adpressed-pubescent, with 3 or 4 valves; seeds 1 or 2, black, 0.8-2.2 cm, the aril red. Very humid forest, 0-350 m; Pacific slope, [in the Parque Nacional Carara], [in the Puriscal region (in the Parque Nacional La Cangreja)], [in the Parque Nacional Manuel Antonio], [in Uvita], [in the Gulf Dulce region]. Fl. Feb.-Apr., Jun., Dec. [in Costa Rica and Panama], [in Ecuador and Peru], [in Northeast Brazil].",
+            "score": 0.6509038209915161
+          },
+          {
+            "taxon": "Rinorea dasyadena",
+            "rank": "Species",
+            "description": "Shrub or tree, 2-7(-20) m, the twigs grayish brown; stipules 0.2-0.25 cm. Opposite leaves, petiole 0.2-0.9 cm; blade to [unclear reference], scattered-1% [unclear reference]. Inflorescences with peduncle 0.4-8 cm, [unclear reference], [unclear reference]. Flowers with the articulated pedicel 1/7-1/2 of the base; sepals 1/3-1/2 the [unclear reference] coacuminate at the apex, 1-5-nerved; petals [unclear reference], extended laterally and apical-pubescent on the coast (especially distally); stamens [unclear reference], sparsely puberulent [unclear reference] (> the total length of the anther), subentire; style 1.75-2 mm. Fruits [unclear reference]; seeds 6-8 mm, puberulent. Very humid forest, often near water, 0-850 m; [unclear reference] of Agulcahs Pitilla and Talamanca, San Carlos Plains and [unclear reference]. Fl. mar.-may., nov.",
+            "score": 0.6486819982528687
+          },
+          {
+            "taxon": "Protium tenuifolium",
+            "rank": "Species",
+            "description": "Functionally unisexual tree, to 18 m tall, to 27 cm dbh; outer bark thin, flaking in firm sheets, lenticellate; inner bark moderately thick, reddish; sap slowly forming viscid, cloudy droplets after slash, with strong, sweet aroma; stems glabrous, prominently brown-lenticellate. Leaves imparipinnate; petioles flattened above with sharp margins; petiolules thickened at both ends; leaflets 5-9 (13), mostly oblong to oblong-elliptic, acuminate with blunt acumen, acute to rounded at base, often \u00b1 inequilateral, 10-20(27) cm long, 5-9(12) cm wide, glabrous except for minute papillae. Panicles axillary, near stem apex, the branches ferruginous; staminate inflorescences somewhat larger than pistillate inflorescences (to 24 cm long); flowers 5-parted, sessile, 3.5-5 mm long; calyx to 2 mm long, cupulate, 5-lobed, minutely pubescent, the lobes acute; petals lanceolate, yellow-green, thickened medially on outside, ca 3 mm long, erect to somewhat spreading at anthesis; stamens 10, alternately long and short, the longest to 2 mm long, the shortest to 1.3 mm long, scarcely longer than the prominent, pubescent disk; ovary ovoid, densely pubescent; style short, the ovary and style together ca 2.7 mm long; stigma 5-lobed, persisting in fruit. Capsules drupaceous, bearing 1-5 pyrenes, ovoid to depressed-globose, with 4 or 5 lobes (rarely 2- or 3-lobed), mostly 2-3 cm diam, red at maturity, usually rounded at both ends, the carpels 4 or 5, each dehiscing by a single valve, the valve falling free to expose the white mesocarp surrounding the pyrene; pyrenes black, 1 per carpel, 1-seeded, ovoid in face view, irregular in side view. Croat 11109, 14822. Common along the shore; occasional in the forest. Flowers chiefly in April and May. The fruits mature chiefly in the middle of the rainy season (August to October). Small bees, possibly Trigona species, have been seen visiting the flowers. The fruits are edible. Costa Rica and Panama. In Panama, known only from tropical moist forest in the Canal Zone, Chiriqui Province, Panama, and Darien Province. Reported from tropical wet forest in Costa Rica (Holdridge et al, 1971).",
+            "score": 0.6463100910186768
+          },
+          {
+            "taxon": "Trichilia tuberculata",
+            "rank": "Species",
+            "description": "Tree, to 30 m tall and 40 cm dbh (often much shorter along the shore); outer bark hard, closely fissured; inner bark red; younger stems, leaf rachises, and axes of inflorescences densely strigose and puberulent (in Panama) or sparsely strigose, sparsely puberulent, or nearly glabrous (often in South America). Leaves alternate, imparipinnate, mostly 15-30 cm long; petioles flat on upper surface with marginal ribs; leaflets apparently never dimorphic, usually 5-9 (rarely 3 or 10), usually alternate, \u00b1 elliptic, acuminate, obtuse-attenuate at base, 4-21 cm long, 1.5-8 cm wide, usually glabrous or minutely puberulent and/or strigose on midrib on both surfaces, rarely strigose below; midrib sharply raised. Panicles axillary (often appearing terminal), mostly 8-20 cm long; flowers white or greenish-yellow, 4-6-parted, as wide as long, globular in bud, the trichomes (at least on calyx) erect or appressed; calyx saucer-shaped, the lobes acute or blunt; petals valvate, ovate, to ca 2 mm long, glabrous or sparsely appressed-pubescent outside, glabrous inside, the margins papillose-puberulent; staminal tube two-thirds to three-fourths as long as petals, broader than long, glabrous outside and in but sometimes pubescent inside near apex, the lobes narrowly acute; anthers twice as many as petals, very narrowly ovoid, ca 0.5 mm long, alternating with and usually longer than lobes of staminal tube; ovary broadly ovoid, densely appressed-pubescent with white trichomes all over; style usually glabrous. Capsules ellipsoid, 11-18 mm long, orange at maturity, prominently tuberculate, the 3 (4) valves folding back to expose shiny red aril; seeds 1 or 2, smooth, ellipsoid, ca 1 cm long. Abundant as seedlings; common as adults in the forest, especially in the old forest. Flowering is bimodal, but principally from April to June, especially in June; a second but much smaller flowering period may occur from September to November. [unclear reference] The fruits from the first flowering mature mostly during September and October, especially in October; mature fruits from the second flowering have been seen in June.",
+            "score": 0.6408989429473877
+          },
+          {
+            "taxon": "Trichilia tuberculata",
+            "rank": "Species",
+            "description": "Tree, ca. 5-30(-40) m. Leaves imparipinnate, 10-30 cm; petiole and rachis generally canaliculate, glabrous or sparsely puberulent; leaflets 5-9, alternate (rarely subopposite), 10-15(-20) X 2.5-4.5 cm, narrowly elliptical or oblong to oblanceolate, attenuated at the base, acute to acuminate at the apex, subcoriaceous, generally glabrous, with 13-16 secondary veins per side. Inflorescences axillary, thyrsoid, 10-20 cm, glabrous or puberulent. Flowers with petals white to yellowish-green. Fruits yellow to orange, 1.4-2 X 0.8-1.2 cm, oblong to ellipsoid, densely verrucous (with prominent warts often connected by irregular stripes), often sparsely adpressed-pubescent, with 3 or 4 valves; seeds 1 or 2, black, 0.8-2.2 cm, the aril red. Very humid forest, 0-350 m; Pacific slope, [in the National Park Carara], [in the Puriscal region] (P.N. La Cangreja), [in the National Park Manuel Antonio], [in Uvita], [in the Gulf Dulce region]. Fl. Feb.-Apr., Jun., Dec. [in Costa Rica] and [in Panama], [in Ecuador] and [in Peru], [in Northern Brazil]. Trichilia tuberculata is distinguished by its densely verrucous fruits and restricted distribution in [Costa Rica] to very humid forest of the Pacific slope.",
+            "score": 0.639420747756958
+          },
+          {
+            "taxon": "Cnestidium rufescens",
+            "rank": "Species",
+            "description": "Liana, usually slender; younger branches, petioles, rachises, lower midribs, axes of inflorescences, pedicels, and calyces densely ferruginous-pubescent. Leaves imparipinnate, 10-25 cm long; leaf scars prominent; petioles 2-6 cm long; petiolules to 3 mm long; leaflets 7-11, alternate to opposite, obovate-oblong to elliptic, acute to bluntly acuminate, obtuse to rounded at base, persistently ferruginous-pubescent, especially below, the terminal leaflet 3.5-12 cm long, 1.5-6 cm wide, the others somewhat smaller. Flowers 5-6 mm diam, numerous, slightly aromatic, in upper-axillary panicles 6-15 cm long; pedicels very short; sepals 5, oblong-ovate, acute to blunt.",
+            "score": 0.638479471206665
+          },
+          {
+            "taxon": "Psychotria brachybotrya",
+            "rank": "Species",
+            "description": "Shrub, 1-1.8 m tall; stems and leaves glabrate. Stipules persistent, 3-5 mm long, bifid to near base, the lobes distant, acuminate; petioles 1-1.5 cm long; blades \u00b1 elliptic, acute to acuminate, cuneate at base, 10-16 (20) cm long, 4-6 cm wide, drying light green. Racemes short, terminal, usually to 1.5 cm long at anthesis, to 3 cm long in fruit; peduncles lacking or to 1.2 cm long; inflorescence branches, pedicels, and calyces with short, \u00b1 erect, sparse trichomes, the lowermost branches subtended by a distinct, oblong-elliptic bract ca 5 mm long; bracts green, ovate, 2-7 mm long, acute, foliate, persistent, subtending groups of 2-4(7) flowers, exceeding the flowers; flowers white, sessile, ca 3.5 mm long, the tube ca 2 mm long, the lobes oblong, to ca 1.5 mm long; filaments ca 0.5 mm long, affixed above the middle of the tube; anthers ca 1 mm long; style ca 4 mm long; stigmas 0.2 mm long. Berries \u00b1 globose, 3-4 mm diam, flattened laterally and somewhat grooved, glabrous or sparsely puberulent at least when immature; seeds 2, flat, with a deep groove on the inside surface, rounded and 4- or 5-grooved on the outside surface. Croat 11132. Apparently rare; found in the younger forest south of Fairchild Point and in the forest north of Barbour Trail. Flowers mostly from June to September, principally in July, rarely also in the dry season. The fruits mature from July to October, principally in August. In Panama, Psychotria brachybotrya is most easily confused with Psychotria involucrata Sw., a superfluous name for Psychotria officinalis (Aubl.) Sw. (Steyermark, 1972). Psychotria brachybotrya differs from Psychotria officinalis by having distinct bracts beneath the lower inflorescence branches and leaves that usually dry a lighter green. Psychotria brachybotrya usually occurs in drier areas than Psychotria officinalis, which occurs principally in premontane wet forest and tropical wet forest. Psychotria brachybotrya has also been confused with Psychotria furcata DC, but is distinguished from Psychotria furcata by its larger, lighter-colored leaves and green, rather than purple, inflorescence bracts. Psychotria brachybotrya is distributed from Panama to Colombia, Venezuela, the Guianas, Brazil, Peru, and Bolivia; Trinidad. In Panama, Psychotria brachybotrya is ecologically variable; known from tropical moist forest in the Canal Zone, Bocas del Toro, Colon, Herrera, Panama, and Darien, from tropical dry forest in Panama, and from premontane wet forest in Colon, Panama, and Darien.",
+            "score": 0.635753870010376
+          },
+          {
+            "taxon": "Hylenaea praecelsa",
+            "rank": "Species",
+            "description": "Nearly glabrous liana; outer bark gray, thin, becoming fissured and peeling to expose reddish-brown inner bark; sap sometimes red in older wood. Stipules lacking or minute and early deciduous; petioles short, to 8 mm long; blades \u00b1 elliptic, acuminate, rounded or subcordate at base, mostly 6-26(33) cm long, 2-11 cm wide, somewhat coriaceous, the sides \u00b1 upturned, broadly undulate. Inflorescences axillary, to 15 cm long, branched many times, fragile; pedicels ca 1.5 mm long, slender; flowers greenish, to 2 mm diam, 5-parted; sepals minute; petals spreading, ca 1 mm long, papillose-puberulent; stamens 3, minute, included. Mericarps 3, divergent, capsular, longer than broad, rounded or emarginate at apex, 7.5-10 cm long, 5-6 cm wide, 1-2 cm thick; exocarp light brown, \u00b1 roughened; seeds usually 4 per mericarp, 4-7.5 cm long, 1-1.5 cm wide, fleshy, buoyant, irregularly angulate. Croat 7677. Occasional in the canopy [of the rainforest]; more common at the edge of the lake [in the Canal Zone]. Flowers in the dry season, with the fruits maturing 9-12 months later. Flowering inflorescences disappear quickly. The fruits are quite distinctive and are probably principally water dispersed. Known from Panama and Colombia (Choco). In Panama, known from tropical moist forest on the Atlantic slope of the Canal Zone and in San Bias and Panama (San Jose Island).",
+            "score": 0.6332286596298218
+          },
+          {
+            "taxon": "Lindackeria laurina",
+            "rank": "Species",
+            "description": "Tree, 3-8 (15) m tall, 5-35 cm dbh; wood yellow; stems weakly striate, brown or with a thin gray flaky crust, the leaf scars 3-sided, raised. Petioles 5-11 cm long, canaliculate, somewhat swollen at apex; blades \u00b1 oblong-elliptic, long-acuminate, obtuse to rounded at base, 10-30 cm long, 5-11 cm wide, glabrous, the midrib raised above. Panicles axillary and terminal, to ca 20 cm long; pedicels to 1.5 cm long; flowers ca 1.2 cm diam, conspicuous and sweetly scented; sepals 3, reflexed at anthesis, caducous; petals 6-12, white, blunt at apex; stamens numerous, unequal, exserted; anthers slightly bifid at apex; style 4-6 mm long; stigma shortly trilobate. Capsules 1-1.5 cm diam, covered with stiff bristles, dehiscing into 3 or 4 parts to expose seed; seed usually solitary, smooth, broadly ovate, ca 7 mm long, flattened on one side, gray-coated, with a shiny, bright red, lateral aril. [Croat 6097, 7753]. Locally abundant along some areas of the shore, especially on the southern side of the island; frequent in the forest. Flowers principally in the rainy season from May to October, rarely as early as April or as late as December. The fruits mature in the early dry season (January to March). Southern Mexico to northern South America. In Panama, known from tropical moist forest in the Canal Zone, Chiriqui, Panama, and Darien, from premontane wet forest in Chiriqui and Panama, and from tropical wet forest in Colon.",
+            "score": 0.6326767206192017
+          },
+          {
+            "taxon": "Cnestidium rufescens",
+            "rank": "Species",
+            "description": "Liana, usually slender; younger branches, petioles, rachises, lower midribs, axes of inflorescences, pedicels, and calyces densely ferruginous-pubescent. Leaves imparipinnate, 10-25 cm long; leaf scars prominent; petioles 2-6 cm long; petiolules to 3 mm long; leaflets 7-11, alternate to opposite, obovate-oblong to elliptic, acute to bluntly acuminate, obtuse to rounded at base, persistently ferruginous-pubescent, especially below, the terminal leaflet 3.5-12 cm long, 1.5-6 cm wide, the others somewhat smaller. Flowers 5-6 mm diam, numerous, slightly aromatic, in upper-axillary panicles 6-15 cm long; pedicels very short; sepals 5, oblong-ovate, acute to blunt, to 1.5(3) mm long, slightly accrescent in fruit; petals 5, white, oblong, acute to rounded at apex, to 3.5 mm long, spreading to recurved; stamens 10, in alternate cycles of 2 lengths, united briefly at base, the longest to 2.5 mm; ovary and base of styles densely pubescent with stiff white trichomes; ovary of usually 5 free carpels; styles to 2.5 mm long, erect; stigmas simple. Follicles sessile, solitary, densely ferruginous-tomentose, ca 1.5 cm long; seed 1, oblong, black, shiny, ca 1 cm long, the basal aril orange. Infrequent, along the shore and at the margin of the forest in clearings. Flowers from July to September. The fruits mature by the early dry season (December to March).",
+            "score": 0.6326043605804443
+          },
+          {
+            "taxon": "Lozania pittieri",
+            "rank": "Species",
+            "description": "Locating an individual\nForest, Tree with plate # 926.\nDistribution\nFrom Nicaragua to Colombia and Venezuela. In Costa Rica, widespread in very humid climates of the Caribbean slope and the central part to the southwest of the Pacific slope, 0-750 (-1000) m.\nHabit\nTree or shrub, 3-10 m tall.\nLeaves\nSimple leaves, alternate, 3-17 \u00d7 1-6 cm, elliptical, elliptic-oblong or oblanceolate, long acuminate apex, attenuated base, glabrous, margin subentire, crenate or serrate.\nFlowers\nYellowish or white-greenish flowers; sepals 4, very small; petals absent; stamens 1. Inflorescences racemose, solitary or 2-3 per axil, 4-14 cm long.\nFruits\nFruit capsule, 3-4 mm long, globose, orange when ripe.\nSeeds\nSeeds 1 (-3), smooth, with a red to orange aril.\nDiagnosis\nCharacterized by its distichous leaves, with finely serrated margin, relatively thin blade, and fine scalariform tertiary venation. When in bloom, distinguished by its slender and pendulous inflorescence.\nHabitat\nIn the Forest; Central Road (CC).\nPhenology\nFlowers and fruits observed at the end of August.",
+            "score": 0.6312212944030762
+          }
+        ],
+        "convergence": [
+          {
+            "taxon": "Maquira",
+            "signal": "rag_only",
+            "rag_score": 0.6622748374938965,
+            "visual_softmax_score": 0.0,
+            "source": "literature"
+          },
+          {
+            "taxon": "Rinorea dasyadena",
+            "signal": "rag_only",
+            "rag_score": 0.6486819982528687,
+            "visual_softmax_score": 0.0,
+            "source": "literature"
+          },
+          {
+            "taxon": "Hylenaea praecelsa",
+            "signal": "rag_only",
+            "rag_score": 0.6332286596298218,
+            "visual_softmax_score": 0.0,
+            "source": "literature"
+          },
+          {
+            "taxon": "Piparea",
+            "signal": "visual_only",
+            "rag_score": 0.0,
+            "visual_softmax_score": 0.01177562028169632,
+            "source": "visual"
+          },
+          {
+            "taxon": "Cassipourea",
+            "signal": "visual_only",
+            "rag_score": 0.0,
+            "visual_softmax_score": 0.014568724669516087,
+            "source": "visual"
+          },
+          {
+            "taxon": "Cassipourea elliptica",
+            "signal": "visual_only",
+            "rag_score": 0.0,
+            "visual_softmax_score": 0.010225245729088783,
+            "source": "visual"
+          }
+        ]
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 4.614436998963356
+    },
+    "evidence_synthesis": {
+      "data": {
+        "evidence_document": "# Evidence Summary\n\n## Morphological Profile\n\n\n### Leaf Arrangement\n\n- **Relative Position**: alternate\n- **Spacing**: distal\n\n### Leaf Complexity\n\n- **Type**: compound\n- **Compound Type**: odd-pinnate\n- **Num Leaflets**: 7\n- **Leaflet Arrangement**: alternate\n\n### Leaf Morphology\n\n- **Margin**: entire\n- **Shape**: lanceolate\n- **Apex**: acuminate\n- **Base**: cuneate\n- **Venation**: pinnate\n- **Secondary Veins**: visible, closely spaced, numerous\n- **Surface Features**: shiny, rugose\n- **Trichomes**: absent\n- **Petiole Length**: short\n- **Petiole Features**: terete\n\n### Stem Traits\n\n- **Type**: woody\n- **Trichomes**: absent\n- **Color**: dark green to brown\n- **Texture**: ridged\n\n### Special Features\n\n- **Stipules**: absent\n- **Latex**: not observed\n- **Pulvinus**: absent\n- **Tendrils**: absent\n\n### Notes\n\nSome leaves show small holes and edge damage, likely from mechanical or environmental factors; no signs of insect activity or pathogens are clearly visible. The pink tag is an artificial marker and not a plant feature. All images show the same seedling individual from multiple angles, confirming consistent morphology.\n\n## Visual Classification (Multi-Rank)\n\n### Family\n\nDecision margin: 0.006\n\n- #1: **Rhizophoraceae** (similarity share: 3.0%) | L2: 0.659, cosine: 0.766\n- #2: **Salicaceae** (similarity share: 2.4%) | L2: 0.872, cosine: 0.527\n- #3: **Siparunaceae** (similarity share: 2.4%) | L2: 0.906, cosine: 0.469\n- #4: **Violaceae** (similarity share: 2.3%) | L2: 0.929, cosine: 0.372\n- #5: **Chrysobalanaceae** (similarity share: 2.3%) | L2: 0.948, cosine: 0.350\n\n### Genus\n\nDecision margin: 0.003\n\n- #1: **Cassipourea** (similarity share: 1.5%) | L2: 0.659, cosine: 0.766\n- #2: **Piparea** (similarity share: 1.2%) | L2: 0.872, cosine: 0.527\n- #3: **Palicourea** (similarity share: 1.1%) | L2: 0.905, cosine: 0.431\n- #4: **Siparuna** (similarity share: 1.1%) | L2: 0.906, cosine: 0.469\n- #5: **Rinorea** (similarity share: 1.1%) | L2: 0.925, cosine: 0.381\n\n### Species\n\nDecision margin: 0.002\n\n- #1: **Cassipourea elliptica** (similarity share: 1.0%) | L2: 0.659, cosine: 0.766\n- #2: **Piparea dentata** (similarity share: 0.8%) | L2: 0.872, cosine: 0.527\n- #3: **Rinorea squamata** (similarity share: 0.8%) | L2: 0.875, cosine: 0.488\n- #4: **Siparuna guianensis** (similarity share: 0.8%) | L2: 0.906, cosine: 0.469\n- #5: **Piper colonense** (similarity share: 0.8%) | L2: 0.910, cosine: 0.526\n\n### Hierarchical Consistency: Consistent\n\n\n### Per-Image Predictions\n\n- /nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rhizophoraceae/by_genus/Cassipourea/by_species/elliptica/SRCASSEL5/Rhizophoraceae_Cassipourea_elliptica_SRCASSEL5_001.jpg: **Rhizophoraceae** (similarity share: 2.7%)\n- /nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rhizophoraceae/by_genus/Cassipourea/by_species/elliptica/SRCASSEL5/Rhizophoraceae_Cassipourea_elliptica_SRCASSEL5_002.jpg: **Rhizophoraceae** (similarity share: 2.7%)\n- /nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rhizophoraceae/by_genus/Cassipourea/by_species/elliptica/SRCASSEL5/Rhizophoraceae_Cassipourea_elliptica_SRCASSEL5_003.jpg: **Rhizophoraceae** (similarity share: 3.1%)\n- /nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rhizophoraceae/by_genus/Cassipourea/by_species/elliptica/SRCASSEL5/Rhizophoraceae_Cassipourea_elliptica_SRCASSEL5_004.jpg: **Rhizophoraceae** (similarity share: 2.4%)\n- /nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rhizophoraceae/by_genus/Cassipourea/by_species/elliptica/SRCASSEL5/Rhizophoraceae_Cassipourea_elliptica_SRCASSEL5_005.jpg: **Rhizophoraceae** (similarity share: 2.5%)\n\n### Nearest Support Images\n\n- **Rhizophoraceae** (L2: 0.546, cosine: 0.851) [/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rhizophoraceae/by_genus/Cassipourea/by_species/elliptica/SRCASSEL5/Rhizophoraceae_Cassipourea_elliptica_SRCASSEL5_002.jpg]\n- **Rhizophoraceae** (L2: 0.598, cosine: 0.821) [/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rhizophoraceae/by_genus/Cassipourea/by_species/elliptica/SRCASSEL5/Rhizophoraceae_Cassipourea_elliptica_SRCASSEL5_003.jpg]\n- **Rhizophoraceae** (L2: 0.608, cosine: 0.815) [/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rhizophoraceae/by_genus/Cassipourea/by_species/elliptica/SRCASSEL5/Rhizophoraceae_Cassipourea_elliptica_SRCASSEL5_005.jpg]\n- **Rhizophoraceae** (L2: 0.754, cosine: 0.716) [/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rhizophoraceae/by_genus/Cassipourea/by_species/elliptica/SRCASSEL5/Rhizophoraceae_Cassipourea_elliptica_SRCASSEL5_004.jpg]\n- **Rhizophoraceae** (L2: 0.754, cosine: 0.715) [/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rhizophoraceae/by_genus/Cassipourea/by_species/elliptica/SRCASSEL5/Rhizophoraceae_Cassipourea_elliptica_SRCASSEL5_001.jpg]\n\n## Literature Evidence\n\n### Matching Taxa (by trait similarity)\n\n- **Protium stevensonii** (Species, similarity: 0.68)\n  - Locating an individual\nIt is mainly observed towards the Southern Boundary (LS), Quebrada El Salto, etc., in rolling or broken terrain.\nDistribution\nFrom Belize to Venezuela, the Guianas, Brazil, and \n- **Protium stevensonii** (Species, similarity: 0.68)\n  - Locating an individual\nIt is mainly observed towards the Southern Boundary (LS), Quebrada El Salto, etc., in rolling or broken terrain.\nDistribution\nFrom Belize to Venezuela, the Guianas, Brazil, and \n- **Connaraceae** (Family, similarity: 0.67)\n  - Trees, climbing shrubs, or lianas; stipules absent. Leaves compound, odd-pinnate or trifoliate, indumentum of simple trichomes, the blade sometimes with glandular dots on the underside, margin entire;\n- **Connaraceae** (Family, similarity: 0.67)\n  - Trees, climbing shrubs, or lianas; stipules absent. Leaves compound, odd-pinnate or trifoliate, indumentum of simple trichomes, the blade sometimes with glandular dots on the underside, margin entire;\n- **Tapirira guianensis** (Species, similarity: 0.66)\n  - Locating an individual\nCentral Road (CC) 1300 m, Left.\nDistribution\nFrom Honduras to Bolivia, Paraguay, and southeastern Brazil. In Costa Rica, widespread in mainly very humid climates on both slopes,\n- **Tapirira guianensis** (Species, similarity: 0.66)\n  - Locating an individual\nCentral Road (CC) 1300 m, Left.\nDistribution\nFrom Honduras to Bolivia, Paraguay, and southeastern Brazil. In Costa Rica, widespread in mainly very humid climates on both slopes,\n- **Maquira** (Genus, similarity: 0.66)\n  - Life Form: Tree, Shrub 10. Maquira Aubl. By C.C. Berg. Trees or shrubs, dioecious. Leaves alternate, distichous on lateral branches; blade leathery, margins entire, pinnate-veined; stipules not comple\n- **Maquira** (Genus, similarity: 0.66)\n  - Life Form: Tree, Shrub 10. Maquira Aubl. By C.C. Berg. Trees or shrubs, dioecious. Leaves alternate, distichous on lateral branches; blade leathery, margins entire, pinnate-veined; stipules not comple\n- **Symphonia globulifera** (Species, similarity: 0.66)\n  - Dioecious, hemiepiphytic tree, to 10 m tall; trunk to 15 cm dbh; branches spiraled, stiff and spreading, densely rooting at the nodes, the roots often extending back to the host tree and enveloping th\n- **Trichilia tuberculata** (Species, similarity: 0.65)\n  - Tree, ca. 5-30(-40) m. Leaves imparipinnate, 10-30 cm; petiole and rachis generally canaliculate, glabrous or sparsely puberulent; leaflets 5-9, alternate (rarely subopposite), 10-15(-20) X 2.5-4.5 cm\n- **Rinorea dasyadena** (Species, similarity: 0.65)\n  - Shrub or tree, 2-7(-20) m, the twigs grayish brown; stipules 0.2-0.25 cm. Opposite leaves, petiole 0.2-0.9 cm; blade to [unclear reference], scattered-1% [unclear reference]. Inflorescences with pedun\n- **Protium tenuifolium** (Species, similarity: 0.65)\n  - Functionally unisexual tree, to 18 m tall, to 27 cm dbh; outer bark thin, flaking in firm sheets, lenticellate; inner bark moderately thick, reddish; sap slowly forming viscid, cloudy droplets after s\n- **Trichilia tuberculata** (Species, similarity: 0.64)\n  - Tree, to 30 m tall and 40 cm dbh (often much shorter along the shore); outer bark hard, closely fissured; inner bark red; younger stems, leaf rachises, and axes of inflorescences densely strigose and \n- **Trichilia tuberculata** (Species, similarity: 0.64)\n  - Tree, ca. 5-30(-40) m. Leaves imparipinnate, 10-30 cm; petiole and rachis generally canaliculate, glabrous or sparsely puberulent; leaflets 5-9, alternate (rarely subopposite), 10-15(-20) X 2.5-4.5 cm\n- **Cnestidium rufescens** (Species, similarity: 0.64)\n  - Liana, usually slender; younger branches, petioles, rachises, lower midribs, axes of inflorescences, pedicels, and calyces densely ferruginous-pubescent. Leaves imparipinnate, 10-25 cm long; leaf scar\n- **Psychotria brachybotrya** (Species, similarity: 0.64)\n  - Shrub, 1-1.8 m tall; stems and leaves glabrate. Stipules persistent, 3-5 mm long, bifid to near base, the lobes distant, acuminate; petioles 1-1.5 cm long; blades \u00b1 elliptic, acute to acuminate, cunea\n- **Hylenaea praecelsa** (Species, similarity: 0.63)\n  - Nearly glabrous liana; outer bark gray, thin, becoming fissured and peeling to expose reddish-brown inner bark; sap sometimes red in older wood. Stipules lacking or minute and early deciduous; petiole\n- **Lindackeria laurina** (Species, similarity: 0.63)\n  - Tree, 3-8 (15) m tall, 5-35 cm dbh; wood yellow; stems weakly striate, brown or with a thin gray flaky crust, the leaf scars 3-sided, raised. Petioles 5-11 cm long, canaliculate, somewhat swollen at a\n- **Cnestidium rufescens** (Species, similarity: 0.63)\n  - Liana, usually slender; younger branches, petioles, rachises, lower midribs, axes of inflorescences, pedicels, and calyces densely ferruginous-pubescent. Leaves imparipinnate, 10-25 cm long; leaf scar\n- **Lozania pittieri** (Species, similarity: 0.63)\n  - Locating an individual\nForest, Tree with plate # 926.\nDistribution\nFrom Nicaragua to Colombia and Venezuela. In Costa Rica, widespread in very humid climates of the Caribbean slope and the central par\n\n## Convergence Analysis\n\n- **Maquira** [Literature only] (RAG: 0.66, Visual: 0.0%)\n- **Rinorea dasyadena** [Literature only] (RAG: 0.65, Visual: 0.0%)\n- **Hylenaea praecelsa** [Literature only] (RAG: 0.63, Visual: 0.0%)\n- **Piparea** [Visual only] (RAG: 0.00, Visual: 1.2%)\n- **Cassipourea** [Visual only] (RAG: 0.00, Visual: 1.5%)\n- **Cassipourea elliptica** [Visual only] (RAG: 0.00, Visual: 1.0%)\n",
+        "quality_flags": [
+          "Low classification similarity: top prediction captures only 3.0% of total similarity (threshold: 30.0%)"
+        ]
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 0.10059797205030918
+    },
+    "reasoning": {
+      "data": {
+        "classification": {
+          "predicted_family": "Rhizophoraceae",
+          "predicted_genus": "Cassipourea",
+          "predicted_species": "elliptica",
+          "confidence": "high",
+          "reasoning": "The visual classification strongly supports Rhizophoraceae and Cassipourea elliptica, with consistent top predictions across all images and high similarity scores. Morphological traits such as alternate, odd-pinnate leaves with 7 leaflets, entire margins, lanceolate shape, and absence of stipules, latex, and trichomes align well with Cassipourea. Although literature evidence favors Connaraceae and other families, the visual and morphological convergence on Cassipourea elliptica is robust and consistent.",
+          "supporting_features": [
+            "alternate, odd-pinnate leaf arrangement with 7 leaflets",
+            "lanceolate leaf shape with acuminate apex and cuneate base",
+            "entire leaf margin and pinnate venation",
+            "shiny, rugose leaf surface with no trichomes",
+            "absence of stipules and latex"
+          ],
+          "alternatives": [
+            {
+              "taxon": "Trichilia tuberculata",
+              "reason": "Shares odd-pinnate leaflets (5-9) and similar leaf morphology, but typically has puberulent stems and rachises, which are absent here."
+            },
+            {
+              "taxon": "Connaraceae",
+              "reason": "Literature matches due to compound, odd-pinnate leaves and absence of stipules, but Connaraceae often has glandular dots or indumentum, which are not observed."
+            },
+            {
+              "taxon": "Piparea dentata",
+              "reason": "Second-highest visual match, but lacks the specific leaflet count and morphology (e.g., dentate margins) observed in this specimen."
+            }
+          ]
+        },
+        "raw_response": "{\n  \"predicted_family\": \"Rhizophoraceae\",\n  \"predicted_genus\": \"Cassipourea\",\n  \"predicted_species\": \"elliptica\",\n  \"confidence\": \"high\",\n  \"reasoning\": \"The visual classification strongly supports Rhizophoraceae and Cassipourea elliptica, with consistent top predictions across all images and high similarity scores. Morphological traits such as alternate, odd-pinnate leaves with 7 leaflets, entire margins, lanceolate shape, and absence of stipules, latex, and trichomes align well with Cassipourea. Although literature evidence favors Connaraceae and other families, the visual and morphological convergence on Cassipourea elliptica is robust and consistent.\",\n  \"supporting_features\": [\n    \"alternate, odd-pinnate leaf arrangement with 7 leaflets\",\n    \"lanceolate leaf shape with acuminate apex and cuneate base\",\n    \"entire leaf margin and pinnate venation\",\n    \"shiny, rugose leaf surface with no trichomes\",\n    \"absence of stipules and latex\"\n  ],\n  \"alternatives\": [\n    {\n      \"taxon\": \"Trichilia tuberculata\",\n      \"reason\": \"Shares odd-pinnate leaflets (5-9) and similar leaf morphology, but typically has puberulent stems and rachises, which are absent here.\"\n    },\n    {\n      \"taxon\": \"Connaraceae\",\n      \"reason\": \"Literature matches due to compound, odd-pinnate leaves and absence of stipules, but Connaraceae often has glandular dots or indumentum, which are not observed.\"\n    },\n    {\n      \"taxon\": \"Piparea dentata\",\n      \"reason\": \"Second-highest visual match, but lacks the specific leaflet count and morphology (e.g., dentate margins) observed in this specimen.\"\n    }\n  ]\n}",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 7997.832610970363
+    }
+  },
+  "total_elapsed_ms": 29549.40750799142,
+  "benchmark_metadata": {
+    "scientific_name": "Cassipourea elliptica",
+    "family": "Rhizophoraceae",
+    "genus": "Cassipourea",
+    "species_epithet": "elliptica",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

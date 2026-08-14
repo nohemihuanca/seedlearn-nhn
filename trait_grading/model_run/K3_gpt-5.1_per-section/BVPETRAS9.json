@@ -1,0 +1,47 @@
+{
+  "specimen_id": "BVPETRAS9",
+  "source_answer_key": "Verbenaceae_Petrea_volubilis_BVPETRAS9",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "whorled",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "lanceolate",
+            "apex": "acuminate",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "secondary veins clearly visible, numerous",
+            "surface_features": "shiny, glabrous",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "green-brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Seedling shows a rosette-like cluster of elongated simple leaves at the apex; leaves glossy with entire margins and noticeable pale speckling on the upper surface; some leaves have margin missing and small holes present; plant appears self-supporting with no climbing structures observed."
+        }
+      }
+    }
+  }
+}

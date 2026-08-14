@@ -1,0 +1,47 @@
+{
+  "specimen_id": "PPABUTRA10",
+  "source_answer_key": "Menispermaceae_Abuta_racemosa_PPABUTRA10",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "opposite",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "ovate-elliptic",
+            "apex": "acuminate",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "prominent, moderately spaced, about 3\u20135 pairs",
+            "surface_features": "glabrous, shiny, slightly rugose",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "brown to greenish-brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "N/A",
+            "tendrils": "absent"
+          },
+          "notes": "Assessment refers to the central glossy-leaved seedling only; the large pale lobed leaf and several surrounding leaves belong to other plants. Younger leaves appear slightly more wrinkled than the older ones."
+        }
+      }
+    }
+  }
+}

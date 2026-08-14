@@ -1,0 +1,47 @@
+{
+  "specimen_id": "MEMACHM29",
+  "source_answer_key": "Fabaceae_Machaerium_milleflorum_MEMACHM29",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "alternate",
+            "spacing": "distal"
+          },
+          "leaf_complexity": {
+            "type": "compound",
+            "compound_type": "odd-pinnate",
+            "num_leaflets": "24",
+            "leaflet_arrangement": "opposite"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "oblong",
+            "apex": "obtuse",
+            "base": "rounded",
+            "venation": "pinnate",
+            "secondary_veins": "unclear",
+            "surface_features": "glabrous, dull",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "light brown to brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "unclear",
+            "tendrils": "absent"
+          },
+          "notes": "Seedling with pinnate compound leaves bearing many small, elliptic leaflets; leaflet margins appear entire; some holes present in several leaflets; main stem erect without climbing structures."
+        }
+      }
+    }
+  }
+}

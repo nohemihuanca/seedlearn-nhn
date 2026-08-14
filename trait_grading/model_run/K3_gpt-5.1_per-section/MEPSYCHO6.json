@@ -1,0 +1,47 @@
+{
+  "specimen_id": "MEPSYCHO6",
+  "source_answer_key": "Rubiaceae_Psychotria_horizontalis_MEPSYCHO6",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "opposite",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic-lanceolate",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "visible, moderately numerous, regularly spaced",
+            "surface_features": "glabrous and slightly shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "absent",
+            "color": "green to light brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Seedling bears simple, entire, elliptic-lanceolate leaves with opposite or near-whorled arrangement at upper nodes; small developing inflorescences or buds are present at the shoot tips; some leaves show holes and missing margin portions."
+        }
+      }
+    }
+  }
+}

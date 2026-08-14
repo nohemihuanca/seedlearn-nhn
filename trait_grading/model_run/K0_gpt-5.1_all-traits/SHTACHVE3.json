@@ -1,0 +1,47 @@
+{
+  "specimen_id": "SHTACHVE3",
+  "source_answer_key": "Fabaceae_Tachigali_panamensis_SHTACHVE3",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "unclear",
+            "spacing": "distal"
+          },
+          "leaf_complexity": {
+            "type": "compound",
+            "compound_type": "unclear",
+            "num_leaflets": "9",
+            "leaflet_arrangement": "opposite"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "visible, moderately close, numerous",
+            "surface_features": "glabrous, shiny",
+            "trichomes": "absent",
+            "petiole_length": "long",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "unclear",
+            "tendrils": "absent"
+          },
+          "notes": "Some leaflets show missing portions and small holes, but overall leaf morphology remains clear; seedling occurs at base of a larger tree with scattered leaf litter visible on the ground."
+        }
+      }
+    }
+  }
+}

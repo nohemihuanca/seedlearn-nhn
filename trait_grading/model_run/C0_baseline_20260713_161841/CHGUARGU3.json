@@ -1,0 +1,91 @@
+{
+  "specimen_id": "CHGUARGU3",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Meliaceae/by_genus/Guarea/by_species/guidonia/CHGUARGU3/Meliaceae_Guarea_guidonia_CHGUARGU3_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Meliaceae/by_genus/Guarea/by_species/guidonia/CHGUARGU3/Meliaceae_Guarea_guidonia_CHGUARGU3_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Meliaceae/by_genus/Guarea/by_species/guidonia/CHGUARGU3/Meliaceae_Guarea_guidonia_CHGUARGU3_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Meliaceae/by_genus/Guarea/by_species/guidonia/CHGUARGU3/Meliaceae_Guarea_guidonia_CHGUARGU3_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Meliaceae/by_genus/Guarea/by_species/guidonia/CHGUARGU3/Meliaceae_Guarea_guidonia_CHGUARGU3_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "opposite",
+            "spacing": "distal"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "acute",
+            "base": "rounded",
+            "venation": "pinnate",
+            "secondary_veins": "visible, closely spaced, numerous",
+            "surface_features": "shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Some leaves show damage including holes and irregular margins, likely from herbivory or environmental factors, but no clear signs of disease or fungal growth. The seedling is marked with an orange and white tag, possibly for research or monitoring purposes. The surrounding leaf litter suggests a forest floor habitat, but this is not directly relevant to morphological assessment. All images show the same individual seedling from slightly different angles, confirming the consistency of the observed traits."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): opposite (leaves are clearly attached in pairs at each node along the stem, visible in multiple images)\n    2. Leaf spacing (clustered / distal): distal (leaves are spaced along the stem with noticeable internodes, not tightly clustered)\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): simple (each leaf is a single blade attached to the stem, no leaflets)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): N/A\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): N/A\n    6. Leaflet arrangement (opposite / alternate / subopposite): N/A\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (margins are smooth without teeth or serrations, visible in close-up images)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): elliptic (broadest near the middle, tapering to both ends, consistent across leaves)\n    9. Leaf apex (acute, obtuse, acuminate): acute (tip is sharply pointed, visible in multiple views)\n    10. Leaf base (rounded, cordate, cuneate): rounded (base is broadly curved, not tapering or heart-shaped)\n    11. Venation type (pinnate / palmate / parallel): pinnate (main vein runs lengthwise with lateral veins branching off, visible in close-up)\n    12. Secondary veins (visibility, spacing, number): visible, closely spaced, numerous (secondary veins are clearly visible, running parallel to each other and close together)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): shiny (surface has a glossy appearance, reflecting light, especially on upper surface)\n    14. Leaf surface trichomes (present / absent): absent (no visible hairs or fuzz on leaf surface)\n    15. Petiole length (short / long): short (petiole is short, not elongated, attaching leaf directly to stem)\n    16. Petiole features (winged / grooved / terete): terete (petiole is round in cross-section, no wings or grooves visible)\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): woody (stem is firm and brown, consistent with young woody growth)\n    18. Stem trichomes (present / absent): absent (no visible hairs on stem surface)\n    19. Stem color: brown (stem is light to medium brown, consistent across images)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (surface appears smooth without ridges or lenticels)\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules observed at leaf bases)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no latex exudate visible upon stem or leaf damage)\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no swollen joint at leaf base visible)\n    24. Tendrils (present / absent): absent (no tendrils observed)\nF. Notes: Some leaves show damage including holes and irregular margins, likely from herbivory or environmental factors, but no clear signs of disease or fungal growth. The seedling is marked with an orange and white tag, possibly for research or monitoring purposes. The surrounding leaf litter suggests a forest floor habitat, but this is not directly relevant to morphological assessment. All images show the same individual seedling from slightly different angles, confirming the consistency of the observed traits.",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 20149.7765397653
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 20149.7765397653,
+  "benchmark_metadata": {
+    "scientific_name": "Guarea guidonia",
+    "family": "Meliaceae",
+    "genus": "Guarea",
+    "species_epithet": "guidonia",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "specimen_id": "PEA0040",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Violaceae/by_genus/Pombalia/by_species/prunifolia/PEA0040/Violaceae_Pombalia_prunifolia_PEA0040_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Violaceae/by_genus/Pombalia/by_species/prunifolia/PEA0040/Violaceae_Pombalia_prunifolia_PEA0040_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Violaceae/by_genus/Pombalia/by_species/prunifolia/PEA0040/Violaceae_Pombalia_prunifolia_PEA0040_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Violaceae/by_genus/Pombalia/by_species/prunifolia/PEA0040/Violaceae_Pombalia_prunifolia_PEA0040_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Violaceae/by_genus/Pombalia/by_species/prunifolia/PEA0040/Violaceae_Pombalia_prunifolia_PEA0040_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "alternate",
+            "spacing": "distal"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "acute",
+            "base": "rounded",
+            "venation": "pinnate",
+            "secondary_veins": "visible, closely spaced, numerous",
+            "surface_features": "shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "absent",
+            "color": "green",
+            "texture": "ridged"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "The seedling is small, with 3\u20134 leaves visible, growing among leaf litter. One leaf shows small holes, likely damage. The stem has a distinctive ridged texture and is green. No flowers or fruits are visible. The orange tag near the base (with numbers) is an artificial marker, not a plant feature. All images show the same individual from different angles, confirming the above observations. No family, genus, or species is identified per conservative annotation rules."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): alternate (leaves are attached at successive nodes along the stem, alternating sides; no paired leaves visible at same node)\n    2. Leaf spacing (clustered / distal): distal (leaves are spaced apart along the stem with visible internodes)\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): simple (each leaf is a single blade without leaflets)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): N/A\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): N/A\n    6. Leaflet arrangement (opposite / alternate / subopposite): N/A\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (leaf margins are smooth with no visible teeth or serrations)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): elliptic (leaves are broadest near the middle and tapering to both ends)\n    9. Leaf apex (acute, obtuse, acuminate): acute (leaf tip is sharply pointed)\n    10. Leaf base (rounded, cordate, cuneate): rounded (leaf base is gently curved, not tapered or heart-shaped)\n    11. Venation type (pinnate / palmate / parallel): pinnate (main vein runs from base to apex, with secondary veins branching off to sides)\n    12. Secondary veins (visibility, spacing, number): visible, closely spaced, numerous (secondary veins are clearly visible and run parallel to each other, close together)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): shiny (surface has a glossy appearance, reflecting light)\n    14. Leaf surface trichomes (present / absent): absent (no visible hairs or fuzz on leaf surface)\n    15. Petiole length (short / long): short (petiole is short, barely extending from leaf base to stem)\n    16. Petiole features (winged / grooved / terete): terete (petiole is round in cross-section, without wings or grooves)\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): herbaceous (stem is green, flexible, and lacks woody tissue appearance)\n    18. Stem trichomes (present / absent): absent (no visible hairs on stem surface)\n    19. Stem color: green (stem is light green with slight whitish speckling or texture)\n    20. Stem texture (smooth / ridged / lenticellate): ridged (stem surface has longitudinal ridges or grooves, giving it a ribbed appearance)\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no structures visible at leaf base that resemble stipules)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no milky or clear sap exudate visible when stem is broken or damaged)\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no swollen joint visible at leaf base; not applicable to Fabaceae unless indicated, but no pulvinus observed)\n    24. Tendrils (present / absent): absent (no modified stems or leaves forming tendrils)\nF. Notes: The seedling is small, with 3\u20134 leaves visible, growing among leaf litter. One leaf shows small holes, likely damage. The stem has a distinctive ridged texture and is green. No flowers or fruits are visible. The orange tag near the base (with numbers) is an artificial marker, not a plant feature. All images show the same individual from different angles, confirming the above observations. No family, genus, or species is identified per conservative annotation rules.",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 20538.956731092185
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 20538.956731092185,
+  "benchmark_metadata": {
+    "scientific_name": "Pombalia prunifolia",
+    "family": "Violaceae",
+    "genus": "Pombalia",
+    "species_epithet": "prunifolia",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

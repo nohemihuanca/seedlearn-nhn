@@ -1,0 +1,47 @@
+{
+  "specimen_id": "SHPEREXA9",
+  "source_answer_key": "Moraceae_Perebea_xanthochyma_SHPEREXA9",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "whorled",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "toothed, serrate",
+            "shape": "lanceolate",
+            "apex": "acuminate",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "clearly visible, closely spaced, numerous",
+            "surface_features": "glabrous and dull",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "unclear",
+            "tendrils": "absent"
+          },
+          "notes": "Leaf blades at the apex form a single whorl of about 6\u20138 leaves; lower stem nodes are not visible so overall shoot architecture below the whorl cannot be assessed. Leaf margins show some missing segments and small holes, but the remaining tissue displays consistent serration."
+        }
+      }
+    }
+  }
+}

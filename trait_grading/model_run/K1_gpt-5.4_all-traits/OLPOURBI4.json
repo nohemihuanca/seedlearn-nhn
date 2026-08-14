@@ -1,0 +1,47 @@
+{
+  "specimen_id": "OLPOURBI4",
+  "source_answer_key": "Urticaceae_Pourouma_bicolor_OLPOURBI4",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "unclear",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "toothed, serrate",
+            "shape": "elliptic",
+            "apex": "acuminate",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "very visible, closely spaced, numerous, about 8\u201312 pairs",
+            "surface_features": "glabrous, slightly shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "present",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Young expanding leaf at the apex is light green (new flush visible). Some leaves show minor holes present and small areas of margin missing. Leaf attachment is crowded near the shoot tip, which prevents confident scoring of relative position."
+        }
+      }
+    }
+  }
+}

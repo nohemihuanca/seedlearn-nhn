@@ -1,0 +1,91 @@
+{
+  "specimen_id": "BAR0350",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Senegalia/by_species/hayesii/BAR0350/Fabaceae_Senegalia_hayesii_BAR0350_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Senegalia/by_species/hayesii/BAR0350/Fabaceae_Senegalia_hayesii_BAR0350_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Senegalia/by_species/hayesii/BAR0350/Fabaceae_Senegalia_hayesii_BAR0350_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Senegalia/by_species/hayesii/BAR0350/Fabaceae_Senegalia_hayesii_BAR0350_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Senegalia/by_species/hayesii/BAR0350/Fabaceae_Senegalia_hayesii_BAR0350_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "alternate",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "compound",
+            "compound_type": "odd-pinnate",
+            "num_leaflets": "24",
+            "leaflet_arrangement": "subopposite"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "oblong",
+            "apex": "obtuse",
+            "base": "rounded",
+            "venation": "pinnate",
+            "secondary_veins": "visible",
+            "surface_features": "glabrous",
+            "trichomes": "absent",
+            "petiole_length": "long",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "absent",
+            "color": "green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "not observed",
+            "tendrils": "absent"
+          },
+          "notes": "The seedling exhibits bipinnate leaves (leaves with leaflets that are themselves divided into smaller leaflets), which is characteristic of certain tropical tree families. The leaves are clustered at the stem tips. Some leaflets show minor damage (small holes/margins missing)."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): alternate (visible in multiple views where leaves emerge singly at different nodes along the stem)\n    2. Leaf spacing (clustered / distal): clustered (multiple compound leaves appear grouped near the apex of the stems)\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): compound (leaves consist of multiple leaflets arranged along a rachis)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): odd-pinnate (a terminal leaflet is present at the apex of the leaf structure)\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): 24 (estimated count from the most complete leaf visible, showing a high number of leaflets, likely >20)\n    6. Leaflet arrangement (opposite / alternate / subopposite): subopposite (leaflets are arranged in pairs along the rachis, though not perfectly symmetrical)\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.): entire (leaflet margins appear smooth without teeth)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): oblong (leaflets are rectangular with parallel sides and rounded ends)\n    9. Leaf apex (acute, obtuse, acuminate): obtuse (leaflet tips appear rounded rather than pointed)\n    10. Leaf base (rounded, cordate, cuneate): rounded (leaflets have a rounded base)\n    11. Venation type (pinnate / palmate / parallel): pinnate (venation pattern runs from the midrib to the margin)\n    12. Secondary veins (visibility, spacing, number): visible (secondary veins are distinct and run parallel to each other towards the margin)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): glabrous (leaf surfaces appear smooth and hairless)\n    14. Leaf surface trichomes (present / absent): absent (no hairs visible on leaf surfaces)\n    15. Petiole length (short / long): long (petioles are elongated relative to the leaf size)\n    16. Petiole features (winged / grooved / terete): terete (petioles appear cylindrical and round in cross-section)\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): herbaceous (stems appear thin, green, and flexible)\n    18. Stem trichomes (present / absent): absent (stems appear smooth without hairs)\n    19. Stem color: green (stems are green, consistent with herbaceous tissue)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (stems appear smooth without ridges or lenticels)\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): unclear (stipules are not clearly visible in the provided images)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no latex is visible)\n    23. Pulvinus, for Fabaceae family only (present / absent): not observed (pulvinus is not clearly visible at the leaf base)\n    24. Tendrils (present / absent): absent (no tendrils are visible)\nF. Notes: The seedling exhibits bipinnate leaves (leaves with leaflets that are themselves divided into smaller leaflets), which is characteristic of certain tropical tree families. The leaves are clustered at the stem tips. Some leaflets show minor damage (small holes/margins missing).\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 4802.113302052021
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 4802.113302052021,
+  "benchmark_metadata": {
+    "scientific_name": "Senegalia hayesii",
+    "family": "Fabaceae",
+    "genus": "Senegalia",
+    "species_epithet": "hayesii",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

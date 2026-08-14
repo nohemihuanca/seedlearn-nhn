@@ -1,0 +1,72 @@
+{
+  "specimen_id": "ANHIRTRA4",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Chrysobalanaceae/by_genus/Hirtella/by_species/racemosa/ANHIRTRA4/Chrysobalanaceae_Hirtella_racemosa_ANHIRTRA4_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Chrysobalanaceae/by_genus/Hirtella/by_species/racemosa/ANHIRTRA4/Chrysobalanaceae_Hirtella_racemosa_ANHIRTRA4_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Chrysobalanaceae/by_genus/Hirtella/by_species/racemosa/ANHIRTRA4/Chrysobalanaceae_Hirtella_racemosa_ANHIRTRA4_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Chrysobalanaceae/by_genus/Hirtella/by_species/racemosa/ANHIRTRA4/Chrysobalanaceae_Hirtella_racemosa_ANHIRTRA4_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Chrysobalanaceae/by_genus/Hirtella/by_species/racemosa/ANHIRTRA4/Chrysobalanaceae_Hirtella_racemosa_ANHIRTRA4_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {},
+          "leaf_complexity": {},
+          "leaf_morphology": {
+            "margin": "toothed"
+          },
+          "stem_traits": {},
+          "special_features": {},
+          "notes": "The close-up image clearly reveals fine, sharp, forward-pointing teeth (serrations) along the leaf margin, distinguishing it from a smooth (entire) edge. The indentations are shallow and do not extend toward the midrib, ruling out a lobed classification."
+        },
+        "raw_response": "Based on the analysis of the provided images, specifically the close-up view (Image 5) which clearly shows the leaf margins:\n\nThe leaf blade exhibits a distinct margin characterized by small, sharp, forward-pointing projections along the edge. These projections are consistent with a serrate pattern. Since the presence of any teeth or serrations classifies the margin as \"toothed,\" this is the correct classification.\n\n=== Morphological Assessment Form ===\nC. Leaf Morphology\n    7.\tLeaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): toothed (serrate)\nF. Notes: The close-up image clearly reveals fine, sharp, forward-pointing teeth (serrations) along the leaf margin, distinguishing it from a smooth (entire) edge. The indentations are shallow and do not extend toward the midrib, ruling out a lobed classification.\n\n####",
+        "thinking": null,
+        "few_shot_delivery": {
+          "n_examples": 1,
+          "n_exemplar_images": 3,
+          "n_specimen_images": 5,
+          "max_images": 10,
+          "images_over_budget": false,
+          "prompt_chars": 2155
+        }
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 2002.341838999996
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 2002.341838999996,
+  "benchmark_metadata": {
+    "scientific_name": "Hirtella racemosa",
+    "family": "Chrysobalanaceae",
+    "genus": "Hirtella",
+    "species_epithet": "racemosa",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

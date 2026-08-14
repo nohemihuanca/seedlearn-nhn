@@ -1,0 +1,47 @@
+{
+  "specimen_id": "BAR0350",
+  "source_answer_key": "Fabaceae_Senegalia_hayesii_BAR0350",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "alternate",
+            "spacing": "distal"
+          },
+          "leaf_complexity": {
+            "type": "compound",
+            "compound_type": "even-pinnate",
+            "num_leaflets": "24",
+            "leaflet_arrangement": "opposite"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "oblong",
+            "apex": "obtuse",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "unclear",
+            "surface_features": "glabrous, slightly shiny",
+            "trichomes": "unclear",
+            "petiole_length": "long",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "unclear",
+            "tendrils": "absent"
+          },
+          "notes": "Seedling shows pinnate compound leaves with many small leaflets arranged along slender rachises; some leaflets display small holes and slight margin loss (indicates visible leaf morphology and neutral description of damage)"
+        }
+      }
+    }
+  }
+}

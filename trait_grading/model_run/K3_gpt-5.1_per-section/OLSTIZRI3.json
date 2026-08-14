@@ -1,0 +1,47 @@
+{
+  "specimen_id": "OLSTIZRI3",
+  "source_answer_key": "Bignoniaceae_Stizophyllum_riparium_OLSTIZRI3",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "opposite",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "toothed, serrate",
+            "shape": "ovate to elliptic",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "clearly visible, approximately 6\u201310 pairs, moderately and fairly evenly spaced, arching slightly toward the margin",
+            "surface_features": "shiny and slightly rugose",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "absent",
+            "color": "light green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Seedling with simple, serrated, glossy green leaves and prominent impressed secondary veins; leaves appear arranged in opposite to sub-opposite pairs near the stem apex; stem slender and smooth; some leaves show holes and minor margin loss."
+        }
+      }
+    }
+  }
+}

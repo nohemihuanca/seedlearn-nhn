@@ -1,0 +1,91 @@
+{
+  "specimen_id": "SROURASU5",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Ochnaceae/by_genus/Ouratea/by_species/sulcatinervia/SROURASU5/Ochnaceae_Ouratea_sulcatinervia_SROURASU5_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Ochnaceae/by_genus/Ouratea/by_species/sulcatinervia/SROURASU5/Ochnaceae_Ouratea_sulcatinervia_SROURASU5_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Ochnaceae/by_genus/Ouratea/by_species/sulcatinervia/SROURASU5/Ochnaceae_Ouratea_sulcatinervia_SROURASU5_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Ochnaceae/by_genus/Ouratea/by_species/sulcatinervia/SROURASU5/Ochnaceae_Ouratea_sulcatinervia_SROURASU5_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Ochnaceae/by_genus/Ouratea/by_species/sulcatinervia/SROURASU5/Ochnaceae_Ouratea_sulcatinervia_SROURASU5_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "whorled",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "lanceolate",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "visible and prominent, arranged in a pinnate pattern",
+            "surface_features": "shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "absent",
+            "color": "green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Several leaves exhibit significant damage, including irregular holes and missing sections along the margins. A pink identification tag is attached to the stem. The plant is growing among leaf litter and other vegetation."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): whorled (multiple images, particularly the top-down view, show a cluster of approximately 5-7 leaves emerging from the same terminal node)\n    2. Leaf spacing (clustered / distal): clustered (leaves are crowded at the apex of the stem)\nB. Leaf Complexity\n    3.\tLeaf complexity (simple / compound): simple (leaves are undivided blades)\n    4.\tCompound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): N/A\n    5.\tNumber of leaflets (integer estimate 2, 4, 8, \u2026): N/A\n    6.\tLeaflet arrangement (opposite / alternate / subopposite): N/A\nC. Leaf Morphology\n    7.\tLeaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.): entire (margins appear smooth where not damaged)\n    8.\tLeaf shape (elliptic, obovate, lanceolate, etc.): lanceolate (leaves are significantly longer than wide, widest near the middle)\n    9.\tLeaf apex (acute, obtuse, acuminate): acute (tip tapers to a distinct point)\n    10.\tLeaf base (rounded, cordate, cuneate): cuneate (leaf narrows gradually toward the attachment point)\n    11.\tVenation type (pinnate / palmate / parallel): pinnate (distinct central midrib with secondary veins branching off)\n    12.\tSecondary veins (visibility, spacing, number): visible and prominent, arranged in a pinnate pattern\n    13.\tLeaf surface features (glabrous, shiny, dull, rugose): shiny (leaves reflect light, indicating a smooth surface)\n    14.\tLeaf surface trichomes (present / absent): absent (surface appears smooth without visible hairs)\n    15.\tPetiole length (short / long): short (petioles are distinct but do not extend far from the stem)\n    16.\tPetiole features (winged / grooved / terete): terete (petioles appear cylindrical in cross-section)\nD. Stem & Shoot Traits\n    17.\tStem type, may not be visible (woody / herbaceous): herbaceous (stem appears green and soft, not woody)\n    18.\tStem trichomes (present / absent): absent (stem surface appears smooth)\n    19.\tStem color: green (with some reddish/brown tinges at the nodes)\n    20.\tStem texture (smooth / ridged / lenticellate): smooth (stem appears uniform without ridges or lenticels)\nE. Other Visible Seedling Traits\n    21.\tStipules, sometimes visible only in close-up images (present / absent): unclear (close-up images show the node but stipules are not clearly distinguishable)\n    22.\tLatex, rarely visible but extremely diagnostic when present (present / not observed): not observed\n    23.\tPulvinus, for Fabaceae family only (present / absent): absent (no swelling visible at the base of the leaf)\n    24.\tTendrils (present / absent): absent\nF. Notes: Several leaves exhibit significant damage, including irregular holes and missing sections along the margins. A pink identification tag is attached to the stem. The plant is growing among leaf litter and other vegetation.",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 4619.521937333047
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 4619.521937333047,
+  "benchmark_metadata": {
+    "scientific_name": "Ouratea sulcatinervia",
+    "family": "Ochnaceae",
+    "genus": "Ouratea",
+    "species_epithet": "sulcatinervia",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

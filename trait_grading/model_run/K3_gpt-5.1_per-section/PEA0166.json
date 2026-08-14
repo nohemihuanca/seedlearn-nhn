@@ -1,0 +1,47 @@
+{
+  "specimen_id": "PEA0166",
+  "source_answer_key": "Dilleniaceae_Doliocarpus_olivaceus_PEA0166",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "opposite",
+            "spacing": "distal"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "secondary veins visible, moderately spaced, approximately 6\u201310 pairs",
+            "surface_features": "dull",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "unclear",
+            "tendrils": "absent"
+          },
+          "notes": "Seedling has a single slender upright stem with multiple simple, entire, elliptic leaves. Some newer leaves are lighter brownish-green compared to older darker green leaves. A few leaves show small holes, but overall laminae are intact. No compound leaves, spines, or adventitious roots are visible."
+        }
+      }
+    }
+  }
+}

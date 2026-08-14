@@ -1,0 +1,91 @@
+{
+  "specimen_id": "SHMICOSI7",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Melastomataceae/by_genus/Miconia/by_species/simplex/SHMICOSI7/Melastomataceae_Miconia_simplex_SHMICOSI7_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Melastomataceae/by_genus/Miconia/by_species/simplex/SHMICOSI7/Melastomataceae_Miconia_simplex_SHMICOSI7_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Melastomataceae/by_genus/Miconia/by_species/simplex/SHMICOSI7/Melastomataceae_Miconia_simplex_SHMICOSI7_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Melastomataceae/by_genus/Miconia/by_species/simplex/SHMICOSI7/Melastomataceae_Miconia_simplex_SHMICOSI7_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Melastomataceae/by_genus/Miconia/by_species/simplex/SHMICOSI7/Melastomataceae_Miconia_simplex_SHMICOSI7_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "whorled",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "acute",
+            "base": "rounded",
+            "venation": "pinnate",
+            "secondary_veins": "clearly visible, closely spaced, numerous",
+            "surface_features": "shiny, rugose",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "absent",
+            "color": "reddish-brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Some leaves show holes and marginal damage, likely from physical disturbance or decay, but no clear signs of insect herbivory or pathogen infection are evident. The seedling appears to be growing in a moist, shaded forest floor environment with leaf litter surrounding it. The reddish-brown stem and clustered whorled leaves are notable features. The leaf surface is distinctly corrugated with prominent parallel venation, giving it a ribbed appearance."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): whorled (multiple leaves are clearly attached at the same node, visible in close-up images)\n    2. Leaf spacing (clustered / distal): clustered (leaves are arranged closely together at the shoot apex)\n\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): simple (each leaf is a single blade without subdivisions)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): N/A\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): N/A\n    6. Leaflet arrangement (opposite / alternate / subopposite): N/A\n\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (smooth margin with no teeth or serrations)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): elliptic (broadest near the middle, tapering to both ends)\n    9. Leaf apex (acute, obtuse, acuminate): acute (tapering to a sharp point)\n    10. Leaf base (rounded, cordate, cuneate): rounded (blunt and slightly curved at the base)\n    11. Venation type (pinnate / palmate / parallel): pinnate (main vein with lateral veins branching off parallel to each other)\n    12. Secondary veins (visibility, spacing, number): clearly visible, closely spaced, numerous (prominent and running parallel to each other, forming a distinct ribbed pattern)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): shiny, rugose (surface has a glossy appearance and is distinctly wrinkled or corrugated due to prominent veins)\n    14. Leaf surface trichomes (present / absent): absent (no visible hairs on the leaf surface)\n    15. Petiole length (short / long): short (petiole is relatively short, not elongated)\n    16. Petiole features (winged / grooved / terete): terete (circular in cross-section, no wings or grooves visible)\n\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): herbaceous (stem appears soft and green, not woody)\n    18. Stem trichomes (present / absent): absent (no visible hairs on the stem)\n    19. Stem color: reddish-brown (stem shows a distinct reddish-brown hue, especially at the node)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (surface appears smooth without ridges or lenticels)\n\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules visible at the leaf base)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no latex exudate visible)\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no pulvinus visible; not applicable for this morphology)\n    24. Tendrils (present / absent): absent (no tendrils present)\n\nF. Notes: Some leaves show holes and marginal damage, likely from physical disturbance or decay, but no clear signs of insect herbivory or pathogen infection are evident. The seedling appears to be growing in a moist, shaded forest floor environment with leaf litter surrounding it. The reddish-brown stem and clustered whorled leaves are notable features. The leaf surface is distinctly corrugated with prominent parallel venation, giving it a ribbed appearance.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 19631.613147910684
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 19631.613147910684,
+  "benchmark_metadata": {
+    "scientific_name": "Miconia simplex",
+    "family": "Melastomataceae",
+    "genus": "Miconia",
+    "species_epithet": "simplex",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "specimen_id": "SHCALOLO10",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Calophyllaceae/by_genus/Calophyllum/by_species/longifolium/SHCALOLO10/Calophyllaceae_Calophyllum_longifolium_SHCALOLO10_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Calophyllaceae/by_genus/Calophyllum/by_species/longifolium/SHCALOLO10/Calophyllaceae_Calophyllum_longifolium_SHCALOLO10_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Calophyllaceae/by_genus/Calophyllum/by_species/longifolium/SHCALOLO10/Calophyllaceae_Calophyllum_longifolium_SHCALOLO10_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Calophyllaceae/by_genus/Calophyllum/by_species/longifolium/SHCALOLO10/Calophyllaceae_Calophyllum_longifolium_SHCALOLO10_004.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "whorled",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "lanceolate",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "visible, spaced widely, 5\u20137 pairs per leaf",
+            "surface_features": "shiny, glabrous",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "dark brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "The seedling exhibits a whorled leaf arrangement with 6\u20137 lanceolate, entire, shiny, glabrous leaves clustered at the apex. Some leaves show minor damage (small holes or margin missing). The stem is dark brown, woody, and smooth. No latex, stipules, or pulvinus are visible. All observations are consistent across the four images provided. The plant is growing on a forest floor covered with leaf litter, but habitat conditions are not further specified per rules."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): whorled (multiple leaves are clearly attached at the same node, visible in all images)\n    2. Leaf spacing (clustered / distal): clustered (leaves are tightly grouped at the apex of the stem, forming a rosette-like arrangement)\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): simple (each leaf is a single, undivided blade)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): N/A\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): N/A\n    6. Leaflet arrangement (opposite / alternate / subopposite): N/A\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (margins are smooth and uninterrupted across all leaves)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): lanceolate (longer than wide, tapering to a point at the apex)\n    9. Leaf apex (acute, obtuse, acuminate): acute (tapering to a sharp point)\n    10. Leaf base (rounded, cordate, cuneate): cuneate (tapering to a narrow base, wedge-shaped)\n    11. Venation type (pinnate / palmate / parallel): pinnate (primary vein runs centrally with lateral veins branching off, visible in close-up views)\n    12. Secondary veins (visibility, spacing, number): visible, spaced widely, 5\u20137 pairs per leaf (secondary veins are clearly visible and run parallel to the midrib, spaced at regular intervals)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): shiny, glabrous (surface is smooth and glossy, reflecting light)\n    14. Leaf surface trichomes (present / absent): absent (no visible hairs or fuzz on leaf surface)\n    15. Petiole length (short / long): short (petioles are short, barely visible, leaves appear sessile or nearly so)\n    16. Petiole features (winged / grooved / terete): terete (petioles are round in cross-section, as inferred from their appearance)\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): woody (stem is dark, rigid, and appears woody, especially in close-up views)\n    18. Stem trichomes (present / absent): absent (no visible hairs on stem surface)\n    19. Stem color: dark brown (stem is dark brown, consistent across images)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (stem surface appears smooth without visible ridges or lenticels)\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules observed at leaf bases)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no exudate or milky sap visible)\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no swollen bases at leaf petiole-stem junctions)\n    24. Tendrils (present / absent): absent (no tendrils visible)\nF. Notes: The seedling exhibits a whorled leaf arrangement with 6\u20137 lanceolate, entire, shiny, glabrous leaves clustered at the apex. Some leaves show minor damage (small holes or margin missing). The stem is dark brown, woody, and smooth. No latex, stipules, or pulvinus are visible. All observations are consistent across the four images provided. The plant is growing on a forest floor covered with leaf litter, but habitat conditions are not further specified per rules.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 19844.597436022013
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 19844.597436022013,
+  "benchmark_metadata": {
+    "scientific_name": "Calophyllum longifolium",
+    "family": "Calophyllaceae",
+    "genus": "Calophyllum",
+    "species_epithet": "longifolium",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

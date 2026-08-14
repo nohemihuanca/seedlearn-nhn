@@ -1,0 +1,91 @@
+{
+  "specimen_id": "BAR0305",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Celastraceae/by_genus/Prionostemma/by_species/aspera/BAR0305/Celastraceae_Prionostemma_aspera_BAR0305_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Celastraceae/by_genus/Prionostemma/by_species/aspera/BAR0305/Celastraceae_Prionostemma_aspera_BAR0305_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Celastraceae/by_genus/Prionostemma/by_species/aspera/BAR0305/Celastraceae_Prionostemma_aspera_BAR0305_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Celastraceae/by_genus/Prionostemma/by_species/aspera/BAR0305/Celastraceae_Prionostemma_aspera_BAR0305_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Celastraceae/by_genus/Prionostemma/by_species/aspera/BAR0305/Celastraceae_Prionostemma_aspera_BAR0305_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "alternate",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "acute",
+            "base": "rounded",
+            "venation": "pinnate",
+            "secondary_veins": "visible",
+            "surface_features": "glabrous",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "present",
+            "color": "brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Several leaves exhibit white speckling or patches on their surface. Some leaves show minor damage, including small holes and missing sections of the margin. The background consists of dry leaf litter."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): alternate (leaves are clearly attached at successive nodes along the stem, alternating sides)\n    2. Leaf spacing (clustered / distal): clustered (leaves are arranged closely together along the short stem)\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): simple (each leaf is a single blade attached to the stem, not divided into leaflets)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): N/A\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): N/A\n    6. Leaflet arrangement (opposite / alternate / subopposite): N/A\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (leaf edges are smooth without teeth or serrations)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): elliptic (leaves are broadest near the middle and taper towards both ends)\n    9. Leaf apex (acute, obtuse, acuminate): acute (leaf tip comes to a sharp point)\n    10. Leaf base (rounded, cordate, cuneate): rounded (leaf base is rounded or slightly obtuse)\n    11. Venation type (pinnate / palmate / parallel): pinnate (single main vein runs down the center with secondary veins branching off)\n    12. Secondary veins (visibility, spacing, number): visible (secondary veins are distinct, arising from the midrib at an angle and running towards the margin)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): glabrous (leaf surface appears smooth and hairless)\n    14. Leaf surface trichomes (present / absent): absent (no visible hairs on the leaf surface)\n    15. Petiole length (short / long): short (petioles are noticeably shorter than the leaf blade)\n    16. Petiole features (winged / grooved / terete): terete (petioles appear cylindrical and rounded in cross-section)\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): herbaceous (the stem appears thin, flexible, and green, characteristic of a young seedling)\n    18. Stem trichomes (present / absent): present (fine, short hairs are visible on the stem, particularly in close-up images)\n    19. Stem color: brown (the main stem has a brownish color)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (stem surface appears relatively smooth without obvious ridges or lenticels)\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): unclear (not clearly visible in any of the provided images)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no swollen joint-like structures at the base of the petioles are visible)\n    24. Tendrils (present / absent): absent\nF. Notes: Several leaves exhibit white speckling or patches on their surface. Some leaves show minor damage, including small holes and missing sections of the margin. The background consists of dry leaf litter.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 4800.576394889504
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 4800.576394889504,
+  "benchmark_metadata": {
+    "scientific_name": "Prionostemma aspera",
+    "family": "Celastraceae",
+    "genus": "Prionostemma",
+    "species_epithet": "aspera",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

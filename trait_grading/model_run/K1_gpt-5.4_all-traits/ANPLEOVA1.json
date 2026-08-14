@@ -1,0 +1,47 @@
+{
+  "specimen_id": "ANPLEOVA1",
+  "source_answer_key": "Bignoniaceae_Pleonotoma_variabilis_ANPLEOVA1",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "opposite",
+            "spacing": "distal"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic-lanceolate",
+            "apex": "acuminate",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "faint to moderately visible, moderately spaced, about 5\u20138 pairs on larger leaves",
+            "surface_features": "glabrous, slightly shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "unclear",
+            "tendrils": "absent"
+          },
+          "notes": "Several leaves show holes present and margin missing (clearly visible damage). Foliage is wet, which may increase apparent shininess. Lower stem portions are partly obscured by surrounding litter."
+        }
+      }
+    }
+  }
+}

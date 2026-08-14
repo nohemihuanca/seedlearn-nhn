@@ -1,0 +1,91 @@
+{
+  "specimen_id": "SHCREMPA5",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Annonaceae/by_genus/Cremastosperma/by_species/panamense/SHCREMPA5/Annonaceae_Cremastosperma_panamense_SHCREMPA5_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Annonaceae/by_genus/Cremastosperma/by_species/panamense/SHCREMPA5/Annonaceae_Cremastosperma_panamense_SHCREMPA5_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Annonaceae/by_genus/Cremastosperma/by_species/panamense/SHCREMPA5/Annonaceae_Cremastosperma_panamense_SHCREMPA5_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Annonaceae/by_genus/Cremastosperma/by_species/panamense/SHCREMPA5/Annonaceae_Cremastosperma_panamense_SHCREMPA5_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Annonaceae/by_genus/Cremastosperma/by_species/panamense/SHCREMPA5/Annonaceae_Cremastosperma_panamense_SHCREMPA5_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "alternate",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "lanceolate",
+            "apex": "acuminate",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "highly visible, prominent, and regularly spaced",
+            "surface_features": "shiny, rugose",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "absent",
+            "color": "green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "The leaves have a distinctively rugose (quilted) texture due to the prominent, sunken secondary veins. The overall growth habit appears to be a small, clustered seedling."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): alternate (leaves are attached singly at different nodes along the stem, alternating sides, as seen in images 2 and 5)\n    2. Leaf spacing (clustered / distal): clustered (leaves are densely packed at the apex of the stem, forming a rosette-like appearance)\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): simple (each leaf blade is undivided and attached directly to the stem via a petiole)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): N/A\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): N/A\n    6. Leaflet arrangement (opposite / alternate / subopposite): N/A\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.): entire (the leaf edges are smooth and continuous without teeth or serrations)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): lanceolate (leaves are widest below the middle and taper towards the tip)\n    9. Leaf apex (acute, obtuse, acuminate): acuminate (the tip tapers gradually to a slender point)\n    10. Leaf base (rounded, cordate, cuneate): cuneate (the base of the leaf tapers gradually to the petiole)\n    11. Venation type (pinnate / palmate / parallel): pinnate (a central midrib is visible with lateral veins branching off)\n    12. Secondary veins (visibility, spacing, number): highly visible, prominent, and regularly spaced (the lateral veins are distinct and run parallel to each other towards the margin)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): shiny, rugose (the surface is glossy and textured with sunken veins giving a quilted appearance)\n    14. Leaf surface trichomes (present / absent): absent (the surface appears smooth and glabrous under magnification)\n    15. Petiole length (short / long): short (the petioles are clearly visible but relatively short compared to the leaf blade length)\n    16. Petiole features (winged / grooved / terete): terete (the petioles appear cylindrical and round in cross-section)\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): herbaceous (the stem appears green, slender, and non-woody)\n    18. Stem trichomes (present / absent): absent (the stem surface appears smooth)\n    19. Stem color: green (the stem is uniformly green)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (no visible ridges, lenticels, or roughness)\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules are visible at the leaf bases in any image)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no latex is visible)\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no pulvinus is visible at the leaf base)\n    24. Tendrils (present / absent): absent (no tendrils are present)\nF. Notes: The leaves have a distinctively rugose (quilted) texture due to the prominent, sunken secondary veins. The overall growth habit appears to be a small, clustered seedling.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 5029.916740953922
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 5029.916740953922,
+  "benchmark_metadata": {
+    "scientific_name": "Cremastosperma panamense",
+    "family": "Annonaceae",
+    "genus": "Cremastosperma",
+    "species_epithet": "panamense",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

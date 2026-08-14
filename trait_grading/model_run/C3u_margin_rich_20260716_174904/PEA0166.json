@@ -1,0 +1,71 @@
+{
+  "specimen_id": "PEA0166",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Dilleniaceae/by_genus/Doliocarpus/by_species/olivaceus/PEA0166/Dilleniaceae_Doliocarpus_olivaceus_PEA0166_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Dilleniaceae/by_genus/Doliocarpus/by_species/olivaceus/PEA0166/Dilleniaceae_Doliocarpus_olivaceus_PEA0166_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Dilleniaceae/by_genus/Doliocarpus/by_species/olivaceus/PEA0166/Dilleniaceae_Doliocarpus_olivaceus_PEA0166_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Dilleniaceae/by_genus/Doliocarpus/by_species/olivaceus/PEA0166/Dilleniaceae_Doliocarpus_olivaceus_PEA0166_004.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {},
+          "leaf_complexity": {},
+          "leaf_morphology": {
+            "margin": "entire"
+          },
+          "stem_traits": {},
+          "special_features": {},
+          "notes": "The leaves of the central seedling exhibit a smooth margin."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nC. Leaf Morphology\n    7.\tLeaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (the leaf edges appear as a smooth, continuous line without any visible teeth, serrations, or lobes across all provided views)\nF. Notes: The leaves of the central seedling exhibit a smooth margin.",
+        "thinking": null,
+        "few_shot_delivery": {
+          "n_examples": 0,
+          "n_exemplar_images": 0,
+          "n_specimen_images": 4,
+          "max_images": 10,
+          "images_over_budget": false,
+          "prompt_chars": 2155
+        }
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 1348.815404999982
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 1348.815404999982,
+  "benchmark_metadata": {
+    "scientific_name": "Doliocarpus olivaceus",
+    "family": "Dilleniaceae",
+    "genus": "Doliocarpus",
+    "species_epithet": "olivaceus",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

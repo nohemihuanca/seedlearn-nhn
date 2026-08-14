@@ -1,0 +1,91 @@
+{
+  "specimen_id": "OLLACIAG2",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Lacistemataceae/by_genus/Lacistema/by_species/aggregatum/OLLACIAG2/Lacistemataceae_Lacistema_aggregatum_OLLACIAG2_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Lacistemataceae/by_genus/Lacistema/by_species/aggregatum/OLLACIAG2/Lacistemataceae_Lacistema_aggregatum_OLLACIAG2_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Lacistemataceae/by_genus/Lacistema/by_species/aggregatum/OLLACIAG2/Lacistemataceae_Lacistema_aggregatum_OLLACIAG2_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Lacistemataceae/by_genus/Lacistema/by_species/aggregatum/OLLACIAG2/Lacistemataceae_Lacistema_aggregatum_OLLACIAG2_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Lacistemataceae/by_genus/Lacistema/by_species/aggregatum/OLLACIAG2/Lacistemataceae_Lacistema_aggregatum_OLLACIAG2_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "whorled",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "acute",
+            "base": "rounded",
+            "venation": "pinnate",
+            "secondary_veins": "visible, closely spaced, numerous",
+            "surface_features": "shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "absent",
+            "color": "green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Some leaves exhibit light-colored, winding patterns on the surface, likely due to leaf miner activity, and one leaf is partially curled and discolored. These are surface damage features, not morphological traits. The seedling is growing in leaf litter, with multiple stems emerging from the base. The pink tag attached to the stem is not a plant feature and should be disregarded. The overall plant appears young and healthy aside from the minor damage. ####"
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): whorled (multiple leaves are clearly attached at the same node, visible in close-up images)\n    2. Leaf spacing (clustered / distal): clustered (leaves are grouped closely at nodes along the stem)\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): simple (each leaf is a single blade without subdivisions)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): N/A\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): N/A\n    6. Leaflet arrangement (opposite / alternate / subopposite): N/A\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (margins are smooth without teeth or serrations)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): elliptic (broad in the middle, tapering to both ends)\n    9. Leaf apex (acute, obtuse, acuminate): acute (tapers to a sharp point)\n    10. Leaf base (rounded, cordate, cuneate): rounded (base is gently curved, not tapered or heart-shaped)\n    11. Venation type (pinnate / palmate / parallel): pinnate (main vein runs from base to apex with lateral veins branching off)\n    12. Secondary veins (visibility, spacing, number): visible, closely spaced, numerous (secondary veins are clear and run parallel to each other)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): shiny (surface reflects light, appears glossy)\n    14. Leaf surface trichomes (present / absent): absent (no visible hairs or fuzz on leaf surface)\n    15. Petiole length (short / long): short (petiole is short, leaf blade appears nearly sessile)\n    16. Petiole features (winged / grooved / terete): terete (round in cross-section, no wings or grooves)\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): herbaceous (stem appears soft and green, not woody)\n    18. Stem trichomes (present / absent): absent (no visible hairs on stem)\n    19. Stem color: green (stem is light green, consistent with young growth)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (surface is even, without ridges or lenticels)\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules observed at leaf bases)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no exudate seen when stem is broken or damaged)\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no swollen joint at leaf base observed)\n    24. Tendrils (present / absent): absent (no tendrils observed)\nF. Notes: Some leaves exhibit light-colored, winding patterns on the surface, likely due to leaf miner activity, and one leaf is partially curled and discolored. These are surface damage features, not morphological traits. The seedling is growing in leaf litter, with multiple stems emerging from the base. The pink tag attached to the stem is not a plant feature and should be disregarded. The overall plant appears young and healthy aside from the minor damage. ####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 19282.27009717375
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 19282.27009717375,
+  "benchmark_metadata": {
+    "scientific_name": "Lacistema aggregatum",
+    "family": "Lacistemataceae",
+    "genus": "Lacistema",
+    "species_epithet": "aggregatum",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

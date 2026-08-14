@@ -1,0 +1,72 @@
+{
+  "specimen_id": "OLPAULBR1",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Sapindaceae/by_genus/Paullinia/by_species/bracteosa/OLPAULBR1/Sapindaceae_Paullinia_bracteosa_OLPAULBR1_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Sapindaceae/by_genus/Paullinia/by_species/bracteosa/OLPAULBR1/Sapindaceae_Paullinia_bracteosa_OLPAULBR1_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Sapindaceae/by_genus/Paullinia/by_species/bracteosa/OLPAULBR1/Sapindaceae_Paullinia_bracteosa_OLPAULBR1_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Sapindaceae/by_genus/Paullinia/by_species/bracteosa/OLPAULBR1/Sapindaceae_Paullinia_bracteosa_OLPAULBR1_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Sapindaceae/by_genus/Paullinia/by_species/bracteosa/OLPAULBR1/Sapindaceae_Paullinia_bracteosa_OLPAULBR1_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {},
+          "leaf_complexity": {},
+          "leaf_morphology": {
+            "margin": "[toothed"
+          },
+          "stem_traits": {},
+          "special_features": {},
+          "notes": "The leaf margins exhibit distinct, forward-pointing serrations (serrate margin), clearly visible in the close-up images. Some margins also show minor insect damage, but the serrations are present along the intact sections."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nC. Leaf Morphology\n    7.\tLeaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): [toothed (serrate)]\nF. Notes: The leaf margins exhibit distinct, forward-pointing serrations (serrate margin), clearly visible in the close-up images. Some margins also show minor insect damage, but the serrations are present along the intact sections.\n\n####",
+        "thinking": null,
+        "few_shot_delivery": {
+          "n_examples": 0,
+          "n_exemplar_images": 0,
+          "n_specimen_images": 5,
+          "max_images": 10,
+          "images_over_budget": false,
+          "prompt_chars": 2155
+        }
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 1588.960390000011
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 1588.960390000011,
+  "benchmark_metadata": {
+    "scientific_name": "Paullinia bracteosa",
+    "family": "Sapindaceae",
+    "genus": "Paullinia",
+    "species_epithet": "bracteosa",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

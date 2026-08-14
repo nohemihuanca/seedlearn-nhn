@@ -1,0 +1,11 @@
+[
+  {
+    "text": "Below are REFERENCE ILLUSTRATIONS of leaf-margin types (these are labeled diagrams for calibration, NOT the specimen you will assess). They show the range of margins: entire (a smooth, unbroken edge); toothed margins of several kinds — serrate, dentate, denticulate, crenate, sinuate/undulate, and their doubly-toothed forms (all of these count as TOOTHED for this study); and lobed (deep indentations cutting well toward the midrib). Study them so you can tell a smooth edge from one bearing teeth or scalloping, and teeth from true lobes.",
+    "images": [
+      "trait_grading/exemplars/leaf_margin/margin_types_illustrated.png",
+      "trait_grading/exemplars/leaf_margin/margin_types_linedrawing.png",
+      "trait_grading/exemplars/leaf_margin/margin_types_vector.png"
+    ],
+    "answer": "Understood. Using these reference types, I will classify each seedling's leaf margin as exactly one of three classes: entire (smooth edge, no teeth), toothed (any teeth, serrations, or scalloping — serrate, dentate, denticulate, crenate, sinuate/undulate, and doubly-toothed forms all count as toothed), or lobed (deep indentations toward the midrib). I will judge the margin only where the leaf edge is intact and complete the Morphological Assessment Form exactly as specified."
+  }
+]

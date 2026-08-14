@@ -1,0 +1,91 @@
+{
+  "specimen_id": "BAR0450",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Violaceae/by_genus/Rinorea/by_species/silvatica/BAR0450/Violaceae_Rinorea_silvatica_BAR0450_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Violaceae/by_genus/Rinorea/by_species/silvatica/BAR0450/Violaceae_Rinorea_silvatica_BAR0450_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Violaceae/by_genus/Rinorea/by_species/silvatica/BAR0450/Violaceae_Rinorea_silvatica_BAR0450_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Violaceae/by_genus/Rinorea/by_species/silvatica/BAR0450/Violaceae_Rinorea_silvatica_BAR0450_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Violaceae/by_genus/Rinorea/by_species/silvatica/BAR0450/Violaceae_Rinorea_silvatica_BAR0450_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "alternate",
+            "spacing": "distal"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "acute",
+            "base": "rounded",
+            "venation": "pinnate",
+            "secondary_veins": "visible, spaced moderately, several pairs",
+            "surface_features": "dull, glabrous",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "brownish-green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Several leaves show damage including holes and light discoloration, likely from herbivory or fungal activity, but cause is not specified per conservative rules. Yellow flower petals are scattered on the ground around the seedling, but not attached to the plant. The seedling appears to be young, with multiple nodes visible along the stem. Images are consistent across views, showing the same individual from different angles. No signs of disease or necrosis are evident beyond the noted damage."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): alternate (leaves are attached at successive nodes along the stem, alternating sides; no paired leaves visible at same node)\n    2. Leaf spacing (clustered / distal): distal (leaves are spaced out along the stem, not clustered at the apex or base)\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): simple (each leaf has a single blade without subdivisions into leaflets)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): N/A\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): N/A\n    6. Leaflet arrangement (opposite / alternate / subopposite): N/A\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (margins are smooth without teeth or lobes)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): elliptic (broadest near the middle, tapering toward both ends)\n    9. Leaf apex (acute, obtuse, acuminate): acute (tapering to a sharp point)\n    10. Leaf base (rounded, cordate, cuneate): rounded (base is gently curved, not tapering or heart-shaped)\n    11. Venation type (pinnate / palmate / parallel): pinnate (main vein runs from base to apex with lateral veins branching off and curving toward margin)\n    12. Secondary veins (visibility, spacing, number): visible, spaced moderately, several pairs (secondary veins are clearly visible, running from midrib to margin, spaced a few millimeters apart, with about 5\u20137 pairs per leaf)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): dull, glabrous (surface is not shiny, appears matte, and lacks hairs or rough texture)\n    14. Leaf surface trichomes (present / absent): absent (no visible hairs on leaf surface)\n    15. Petiole length (short / long): short (petiole is relatively short compared to leaf blade, not exceeding 1/4 the length of the blade)\n    16. Petiole features (winged / grooved / terete): terete (petiole is round in cross-section, not flattened or winged)\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): woody (stem appears firm and slightly lignified, typical of young tree seedlings)\n    18. Stem trichomes (present / absent): absent (no visible hairs on stem)\n    19. Stem color: brownish-green (stem is green with brownish tints, especially near nodes)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (surface is smooth without ridges or lenticels visible)\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules observed at leaf bases)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no exudate visible when stem or leaf is damaged)\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no swollen joint at leaf base or petiole; not applicable for Fabaceae, but absent anyway)\n    24. Tendrils (present / absent): absent (no tendrils observed)\nF. Notes: Several leaves show damage including holes and light discoloration, likely from herbivory or fungal activity, but cause is not specified per conservative rules. Yellow flower petals are scattered on the ground around the seedling, but not attached to the plant. The seedling appears to be young, with multiple nodes visible along the stem. Images are consistent across views, showing the same individual from different angles. No signs of disease or necrosis are evident beyond the noted damage.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 20935.864737723023
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 20935.864737723023,
+  "benchmark_metadata": {
+    "scientific_name": "Rinorea silvatica",
+    "family": "Violaceae",
+    "genus": "Rinorea",
+    "species_epithet": "silvatica",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

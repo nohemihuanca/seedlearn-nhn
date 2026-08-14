@@ -1,0 +1,71 @@
+{
+  "specimen_id": "PEA0168",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rubiaceae/by_genus/Randia/by_species/armata/PEA0168/Rubiaceae_Randia_armata_PEA0168_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rubiaceae/by_genus/Randia/by_species/armata/PEA0168/Rubiaceae_Randia_armata_PEA0168_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rubiaceae/by_genus/Randia/by_species/armata/PEA0168/Rubiaceae_Randia_armata_PEA0168_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rubiaceae/by_genus/Randia/by_species/armata/PEA0168/Rubiaceae_Randia_armata_PEA0168_004.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {},
+          "leaf_complexity": {},
+          "leaf_morphology": {
+            "margin": "[entire"
+          },
+          "stem_traits": {},
+          "special_features": {},
+          "notes": "[The leaf margin is clearly visible in the provided images and is consistently smooth along the entire length of the blade.]"
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nC. Leaf Morphology\n    7.\tLeaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): [entire (the leaf margins appear as continuous, smooth lines without any visible teeth, serrations, or lobes)]\nF. Notes: [The leaf margin is clearly visible in the provided images and is consistently smooth along the entire length of the blade.]\n####",
+        "thinking": null,
+        "few_shot_delivery": {
+          "n_examples": 0,
+          "n_exemplar_images": 0,
+          "n_specimen_images": 4,
+          "max_images": 10,
+          "images_over_budget": false,
+          "prompt_chars": 2155
+        }
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 1372.7860029999874
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 1372.7860029999874,
+  "benchmark_metadata": {
+    "scientific_name": "Randia armata",
+    "family": "Rubiaceae",
+    "genus": "Randia",
+    "species_epithet": "armata",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

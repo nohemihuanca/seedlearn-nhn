@@ -1,0 +1,490 @@
+{
+  "specimen_id": "PPABUTRA10",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Menispermaceae/by_genus/Abuta/by_species/racemosa/PPABUTRA10/Menispermaceae_Abuta_racemosa_PPABUTRA10_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Menispermaceae/by_genus/Abuta/by_species/racemosa/PPABUTRA10/Menispermaceae_Abuta_racemosa_PPABUTRA10_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Menispermaceae/by_genus/Abuta/by_species/racemosa/PPABUTRA10/Menispermaceae_Abuta_racemosa_PPABUTRA10_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Menispermaceae/by_genus/Abuta/by_species/racemosa/PPABUTRA10/Menispermaceae_Abuta_racemosa_PPABUTRA10_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Menispermaceae/by_genus/Abuta/by_species/racemosa/PPABUTRA10/Menispermaceae_Abuta_racemosa_PPABUTRA10_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "alternate",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "ovate",
+            "apex": "acute",
+            "base": "rounded",
+            "venation": "pinnate",
+            "secondary_veins": "clearly visible, closely spaced, numerous",
+            "surface_features": "shiny, rugose",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "absent",
+            "color": "green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "The seedling exhibits a cluster of simple, ovate leaves with entire margins, arranged alternately along a herbaceous stem. The leaf surface is shiny and rugose with prominent pinnate venation. No damage, stipules, latex, or tendrils are visible. The images collectively show the same individual from multiple angles, confirming the above traits. The presence of a large, lobed leaf in the background (possibly from a different plant) is not part of this seedling. The pink object in the soil is likely litter or debris, not biological."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): alternate (leaves are attached at successive nodes along the stem, alternating sides, as seen in multiple views)\n    2. Leaf spacing (clustered / distal): clustered (multiple leaves are closely grouped along a short stem segment, particularly in the upper portion of the shoot)\n\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): simple (each leaf is a single, undivided blade; no leaflets are present)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): N/A\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): N/A\n    6. Leaflet arrangement (opposite / alternate / subopposite): N/A\n\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (margins are smooth without teeth or lobes, visible in close-up views)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): ovate (broad at the base and tapering to a point, with a rounded base and pointed apex)\n    9. Leaf apex (acute, obtuse, acuminate): acute (tapering to a sharp point, visible in multiple images)\n    10. Leaf base (rounded, cordate, cuneate): rounded (base is broadly rounded, not tapered or heart-shaped)\n    11. Venation type (pinnate / palmate / parallel): pinnate (primary vein runs from base to apex, with secondary veins branching off laterally)\n    12. Secondary veins (visibility, spacing, number): clearly visible, closely spaced, numerous (secondary veins form a dense, reticulate pattern, visible in all images)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): shiny, rugose (surface appears glossy and slightly wrinkled or puckered, especially under light reflection)\n    14. Leaf surface trichomes (present / absent): absent (no visible hairs or fuzz on the leaf surface; surface appears smooth)\n    15. Petiole length (short / long): short (petioles are short, connecting the leaf blade to the stem, as seen in close-up images)\n    16. Petiole features (winged / grooved / terete): terete (petioles are round in cross-section, no wings or grooves visible)\n\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): herbaceous (stem appears soft and green, not woody, based on visible portions)\n    18. Stem trichomes (present / absent): absent (no visible hairs on the stem surface)\n    19. Stem color: green (stem is light green, consistent with herbaceous growth)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (stem surface appears smooth without ridges or lenticels)\n\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules are visible at the leaf base)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no exudate or milky sap is visible)\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no swollen joint at the leaf base or petiole is visible)\n    24. Tendrils (present / absent): absent (no modified stems or leaves functioning as tendrils are present)\n\nF. Notes: The seedling exhibits a cluster of simple, ovate leaves with entire margins, arranged alternately along a herbaceous stem. The leaf surface is shiny and rugose with prominent pinnate venation. No damage, stipules, latex, or tendrils are visible. The images collectively show the same individual from multiple angles, confirming the above traits. The presence of a large, lobed leaf in the background (possibly from a different plant) is not part of this seedling. The pink object in the soil is likely litter or debris, not biological.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 21456.896343966946
+    },
+    "classification": {
+      "data": {
+        "predictions_by_rank": {
+          "family": [
+            {
+              "rank_value": "Menispermaceae",
+              "softmax_score": 0.03657786548137665,
+              "rank_position": 1,
+              "l2_distance": 0.4844459295272827,
+              "cosine_similarity": 0.8760375380516052
+            },
+            {
+              "rank_value": "Smilacaceae",
+              "softmax_score": 0.026304451748728752,
+              "rank_position": 2,
+              "l2_distance": 0.8141510486602783,
+              "cosine_similarity": 0.6192741394042969
+            },
+            {
+              "rank_value": "Loganiaceae",
+              "softmax_score": 0.025748388841748238,
+              "rank_position": 3,
+              "l2_distance": 0.8355172276496887,
+              "cosine_similarity": 0.5845996141433716
+            },
+            {
+              "rank_value": "Bignoniaceae",
+              "softmax_score": 0.02432382106781006,
+              "rank_position": 4,
+              "l2_distance": 0.8924330472946167,
+              "cosine_similarity": 0.46018868684768677
+            },
+            {
+              "rank_value": "Connaraceae",
+              "softmax_score": 0.0231633223593235,
+              "rank_position": 5,
+              "l2_distance": 0.9413192272186279,
+              "cosine_similarity": 0.361585795879364
+            }
+          ],
+          "genus": [
+            {
+              "rank_value": "Abuta",
+              "softmax_score": 0.017639974132180214,
+              "rank_position": 1,
+              "l2_distance": 0.4844459295272827,
+              "cosine_similarity": 0.8760375380516052
+            },
+            {
+              "rank_value": "Smilax",
+              "softmax_score": 0.012685537338256836,
+              "rank_position": 2,
+              "l2_distance": 0.8141510486602783,
+              "cosine_similarity": 0.6192741394042969
+            },
+            {
+              "rank_value": "Strychnos",
+              "softmax_score": 0.01241737138479948,
+              "rank_position": 3,
+              "l2_distance": 0.8355172276496887,
+              "cosine_similarity": 0.5845996141433716
+            },
+            {
+              "rank_value": "Eugenia",
+              "softmax_score": 0.011246317997574806,
+              "rank_position": 4,
+              "l2_distance": 0.9345728754997253,
+              "cosine_similarity": 0.3814432919025421
+            },
+            {
+              "rank_value": "Connarus",
+              "softmax_score": 0.010884900577366352,
+              "rank_position": 5,
+              "l2_distance": 0.9672369956970215,
+              "cosine_similarity": 0.33425894379615784
+            }
+          ],
+          "species": [
+            {
+              "rank_value": "Abuta racemosa",
+              "softmax_score": 0.012587642297148705,
+              "rank_position": 1,
+              "l2_distance": 0.4844459295272827,
+              "cosine_similarity": 0.8760375380516052
+            },
+            {
+              "rank_value": "Smilax spinosa",
+              "softmax_score": 0.009052223525941372,
+              "rank_position": 2,
+              "l2_distance": 0.8141510486602783,
+              "cosine_similarity": 0.6192741394042969
+            },
+            {
+              "rank_value": "Strychnos panamensis",
+              "softmax_score": 0.00886086467653513,
+              "rank_position": 3,
+              "l2_distance": 0.8355172276496887,
+              "cosine_similarity": 0.5845996141433716
+            },
+            {
+              "rank_value": "Eugenia oerstediana",
+              "softmax_score": 0.008325200527906418,
+              "rank_position": 4,
+              "l2_distance": 0.8978744149208069,
+              "cosine_similarity": 0.452481746673584
+            },
+            {
+              "rank_value": "Piper aequale",
+              "softmax_score": 0.00797277968376875,
+              "rank_position": 5,
+              "l2_distance": 0.9411282539367676,
+              "cosine_similarity": 0.43510904908180237
+            }
+          ]
+        },
+        "margin_by_rank": {
+          "family": 0.010273413732647896,
+          "genus": 0.004954436793923378,
+          "species": 0.0035354187712073326
+        },
+        "per_image_predictions": [
+          {
+            "image_path": "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Menispermaceae/by_genus/Abuta/by_species/racemosa/PPABUTRA10/Menispermaceae_Abuta_racemosa_PPABUTRA10_001.jpg",
+            "top1_label": "Menispermaceae",
+            "top1_softmax_score": 0.03186144307255745
+          },
+          {
+            "image_path": "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Menispermaceae/by_genus/Abuta/by_species/racemosa/PPABUTRA10/Menispermaceae_Abuta_racemosa_PPABUTRA10_002.jpg",
+            "top1_label": "Menispermaceae",
+            "top1_softmax_score": 0.03366022929549217
+          },
+          {
+            "image_path": "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Menispermaceae/by_genus/Abuta/by_species/racemosa/PPABUTRA10/Menispermaceae_Abuta_racemosa_PPABUTRA10_003.jpg",
+            "top1_label": "Menispermaceae",
+            "top1_softmax_score": 0.0348394475877285
+          },
+          {
+            "image_path": "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Menispermaceae/by_genus/Abuta/by_species/racemosa/PPABUTRA10/Menispermaceae_Abuta_racemosa_PPABUTRA10_004.jpg",
+            "top1_label": "Menispermaceae",
+            "top1_softmax_score": 0.034118711948394775
+          },
+          {
+            "image_path": "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Menispermaceae/by_genus/Abuta/by_species/racemosa/PPABUTRA10/Menispermaceae_Abuta_racemosa_PPABUTRA10_005.jpg",
+            "top1_label": "Menispermaceae",
+            "top1_softmax_score": 0.03546249866485596
+          }
+        ],
+        "nearest_support": [
+          {
+            "label": "Menispermaceae",
+            "l2_distance": 0.264487624168396,
+            "cosine_similarity": 0.9650231599807739,
+            "image_path": "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Menispermaceae/by_genus/Abuta/by_species/racemosa/PPABUTRA10/Menispermaceae_Abuta_racemosa_PPABUTRA10_002.jpg"
+          },
+          {
+            "label": "Menispermaceae",
+            "l2_distance": 0.32090458273887634,
+            "cosine_similarity": 0.9485101103782654,
+            "image_path": "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Menispermaceae/by_genus/Abuta/by_species/racemosa/PPABUTRA10/Menispermaceae_Abuta_racemosa_PPABUTRA10_001.jpg"
+          },
+          {
+            "label": "Menispermaceae",
+            "l2_distance": 0.3287215828895569,
+            "cosine_similarity": 0.9459710121154785,
+            "image_path": "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Menispermaceae/by_genus/Abuta/by_species/racemosa/PPABUTRA10/Menispermaceae_Abuta_racemosa_PPABUTRA10_003.jpg"
+          },
+          {
+            "label": "Menispermaceae",
+            "l2_distance": 0.333920419216156,
+            "cosine_similarity": 0.9442484974861145,
+            "image_path": "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Menispermaceae/by_genus/Abuta/by_species/racemosa/PPABUTRA10/Menispermaceae_Abuta_racemosa_PPABUTRA10_004.jpg"
+          },
+          {
+            "label": "Menispermaceae",
+            "l2_distance": 0.4287436306476593,
+            "cosine_similarity": 0.9080895185470581,
+            "image_path": "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Menispermaceae/by_genus/Abuta/by_species/racemosa/PPABUTRA10/Menispermaceae_Abuta_racemosa_PPABUTRA10_005.jpg"
+          }
+        ],
+        "embedding_dim": 768,
+        "num_images_pooled": 5,
+        "hierarchical_consistency": {
+          "consistent": true,
+          "notes": [],
+          "family_genus_agree": true,
+          "species_genus_agree": true,
+          "species_family_agree": true
+        }
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 179.9081030767411
+    },
+    "trait_retrieval": {
+      "data": {
+        "query": "Tropical tree seedling with relative_position: alternate, spacing: clustered, type: simple, margin: entire, shape: ovate, apex: acute, base: rounded, venation: pinnate, secondary_veins: clearly visible, closely spaced, numerous, surface_features: shiny, rugose, trichomes: absent, petiole_length: short, petiole_features: terete, type: herbaceous, trichomes: absent, color: green, texture: smooth, stipules: absent, pulvinus: absent, tendrils: absent, notes: the seedling exhibits a cluster of simple, ovate leaves with entire margins, arranged alternately along a herbaceous stem. the leaf surface is shiny and rugose with prominent pinnate venation. no damage, stipules, latex, or tendrils are visible. the images collectively show the same individual from multiple angles, confirming the above traits. the presence of a large, lobed leaf in the background (possibly from a different plant) is not part of this seedling. the pink object in the soil is likely litter or debris, not biological.",
+        "rag_matches": [
+          {
+            "taxon": "Maquira",
+            "rank": "Genus",
+            "description": "Life Form: Tree, Shrub 10. Maquira Aubl. By C.C. Berg. Trees or shrubs, dioecious. Leaves alternate, distichous on lateral branches; blade leathery, margins entire, pinnate-veined; stipules not completely amplexicaul, free. Inflorescences on spurs in the axils of the leaves, unisexual, discoid-capitate, involucrate. Staminate inflorescences often several together, pedunculate; flowers not covered by the inner involucral bracts before anthesis, numerous; perianth 4-parted to 4-divided; stamens 4; pistillode absent. Pistillate inflorescences subsessile; flowers numerous; perianth 4-lobed; ovary adnate to the perianth; stigmas 2, tongue-shaped. Fruit-bearing perianth enlarged, fleshy, orange; fruits adnate to the perianth; seed large, without endosperm, cotyledons thick and equal. 4 spp. Tropical America.",
+            "score": 0.6929998993873596
+          },
+          {
+            "taxon": "Maquira",
+            "rank": "Genus",
+            "description": "Life Form: Tree, Shrub 10. Maquira Aubl. By C.C. Berg. Trees or shrubs, dioecious. Leaves alternate, distichous on lateral branches; blade leathery, margins entire, pinnate-veined; stipules not completely amplexicaul, free. Inflorescences on spurs in the axils of the leaves, unisexual, discoid-capitate, involucrate. Staminate inflorescences often several together, pedunculate; flowers not covered by the inner involucral bracts before anthesis, numerous; perianth 4-parted to 4-divided; stamens 4; pistillode absent. Pistillate inflorescences subsessile; flowers numerous; perianth 4-lobed; ovary adnate to the perianth; stigmas 2, tongue-shaped. Fruit-bearing perianth enlarged, fleshy, orange; fruits adnate to the perianth; seed large, without endosperm, cotyledons thick and equal. 4 spp. Tropical America.",
+            "score": 0.6929998993873596
+          },
+          {
+            "taxon": "Piperaceae",
+            "rank": "Family",
+            "description": "Shrubs, small trees, herbs, or rarely lianas, terrestrial or epiphytic; stems with evident and swollen internodes at the nodes, a few species with stilt roots at the base; indumentum of simple trichomes; prophylls resembling stipules and fused with the petioles, forming a sheathing base. Simple leaves, alternate or occasionally opposite or whorled, the blade often asymmetric, cordate or peltate, the venation palmate or pinnate with the nerves ascending or dark or not visible (Peperomia), margin entire; petioles generally channelled towards the base. Inflorescences are spikes or rarely racemose, axillary or opposite to the leaves (Piper), bracts present. Flowers bisexual; sepals absent; petals absent; stamens (1) 2-6 (10); gynoecium syncarpous, carpels 1 (Peperomia) or 3-4 (Piper), superior ovary, locules 1 (Piper); style almost absent, stigmas 3-4; ovules 1. Fruits are drupe-like or drupes, small; seeds 1. \nThe family consists of 10 genera and around 2000 species, pantropical, but better represented in the humid areas of the neotropics, with around 1000 species; the family is almost absent outside the tropics; 3 genera and around 230 species in Costa Rica; 3 genera and around 60 species in La Selva. \nIt is easily recognized by its habit mainly of shrubs or herbs, the stems in woody or sub-woody species with swollen nodes and conspicuous internodes, the leaves often with asymmetric bases and a palmate or dark venation or absent in those epiphytic plants (Peperomia). The distinctive inflorescences are elongated spikes in the shape of a \"cord\" (hence its vernacular name cordoncillo), with tiny, numerous, and compact flowers. Additionally, the foliage, in Piper, is generally aromatic. \nThis family is located in the Order Piperales, morphological and molecular data suggest a close relationship with families such as Aristolochiaceae and Hydnoraceae. They also indicate that this Order and others (Nymphaeales, Aristolochiales, etc.) form a group called paleoherbs, which share several characters with the monocot group, representing a link between them and the dicotyledons. \nPerhaps best known for the wide and commercial use of black pepper (Piper nigrum) which is cultivated in various parts of the world. Other species of Piper are attributed with anesthetic and tranquilizing properties, some contain rotenones and are biocidal. It is common to see species of Peperomia as ornamental plants indoors.",
+            "score": 0.6901218891143799
+          },
+          {
+            "taxon": "Piperaceae",
+            "rank": "Family",
+            "description": "Shrubs, small trees, herbs, or rarely lianas, terrestrial or epiphytic; stems with evident and swollen internodes at the nodes, a few species with stilt roots at the base; indumentum of simple trichomes; prophylls resembling stipules and fused with the petioles, forming a sheathing base. Simple leaves, alternate or occasionally opposite or whorled, the blade often asymmetric, cordate or peltate, the venation palmate or pinnate with the nerves ascending or dark or not visible (Peperomia), margin entire; petioles generally channelled towards the base. Inflorescences are spikes or rarely racemose, axillary or opposite to the leaves (Piper), bracts present. Flowers bisexual; sepals absent; petals absent; stamens (1) 2-6 (10); gynoecium syncarpous, carpels 1 (Peperomia) or 3-4 (Piper), superior ovary, locules 1 (Piper); style almost absent, stigmas 3-4; ovules 1. Fruits are drupe-like or drupes, small; seeds 1. \nThe family consists of 10 genera and around 2000 species, pantropical, but better represented in the humid areas of the neotropics, with around 1000 species; the family is almost absent outside the tropics; 3 genera and around 230 species in Costa Rica; 3 genera and around 60 species in La Selva. \nIt is easily recognized by its habit mainly of shrubs or herbs, the stems in woody or sub-woody species with swollen nodes and conspicuous internodes, the leaves often with asymmetric bases and a palmate or dark venation or absent in those epiphytic plants (Peperomia). The distinctive inflorescences are elongated spikes in the shape of a \"cord\" (hence its vernacular name cordoncillo), with tiny, numerous, and compact flowers. Additionally, the foliage, in Piper, is generally aromatic. \nThis family is located in the Order Piperales, morphological and molecular data suggest a close relationship with families such as Aristolochiaceae and Hydnoraceae. They also indicate that this Order and others (Nymphaeales, Aristolochiales, etc.) form a group called paleoherbs, which share several characters with the monocot group, representing a link between them and the dicotyledons. \nPerhaps best known for the wide and commercial use of black pepper (Piper nigrum) which is cultivated in various parts of the world. Other species of Piper are attributed with anesthetic and tranquilizing properties, some contain rotenones and are biocidal. It is common to see species of Peperomia as ornamental plants indoors.",
+            "score": 0.6901218891143799
+          },
+          {
+            "taxon": "Sorocea",
+            "rank": "Genus",
+            "description": "Life Form: Tree, Shrub 16. Sorocea A.\nSt.-Hil. By C.C. Berg. Shrubs or trees, dioecious. Leaves alternate and distichous; blade subcoriaceous to coriaceous, margins entire to serrated, pinnate-veined; lateral stipules, free. Inflorescences in the axils of the leaves or just below the leaves, racemose to spike-like, pedunculate, bracted. Staminate flowers: tepals 4, basally connate; stamens 4, straight or slightly bent at the tip; pistillode absent. Pistillate flowers: tubular perianth, entire or 4-lobed, the upper and lower parts more or less of different diameters, surface and indumentum; ovary adnate to the perianth; stigmas 2, tongue-shaped. Fruit-bearing perianth enlarged, fleshy, red but eventually blackish, the pedicel and rachis frequently red or orange; large seed, without endosperm, the cotyledons very unequal. 14 spp. Mesoamerica and South America.",
+            "score": 0.6899862289428711
+          },
+          {
+            "taxon": "Sorocea",
+            "rank": "Genus",
+            "description": "Life Form: Tree, Shrub 16. Sorocea A.\nSt.-Hil. By C.C. Berg. Shrubs or trees, dioecious. Leaves alternate and distichous; blade subcoriaceous to coriaceous, margins entire to serrated, pinnate-veined; lateral stipules, free. Inflorescences in the axils of the leaves or just below the leaves, racemose to spike-like, pedunculate, bracted. Staminate flowers: tepals 4, basally connate; stamens 4, straight or slightly bent at the tip; pistillode absent. Pistillate flowers: tubular perianth, entire or 4-lobed, the upper and lower parts more or less of different diameters, surface and indumentum; ovary adnate to the perianth; stigmas 2, tongue-shaped. Fruit-bearing perianth enlarged, fleshy, red but eventually blackish, the pedicel and rachis frequently red or orange; large seed, without endosperm, the cotyledons very unequal. 14 spp. Mesoamerica and South America.",
+            "score": 0.6899862289428711
+          },
+          {
+            "taxon": "Symphonia globulifera",
+            "rank": "Species",
+            "description": "Dioecious, hemiepiphytic tree, to 10 m tall; trunk to 15 cm dbh; branches spiraled, stiff and spreading, densely rooting at the nodes, the roots often extending back to the host tree and enveloping the host tree for support; stems glabrous with prominent leaf scars; sap pale yellow to bright orange (in time), not copious. Petioles to 2 cm long; blades obovate, rounded at apex (sometimes acute to acuminate on juvenile leaves), acute to obtuse at base, 5-15 cm long, 3-10 cm wide, very thick, dark green and glossy above, dull below, coriaceous; veins indistinct, drying with many fine veins. Panicles stout, bracteated, divaricately branched, terminal; buds depressed-globose; pedicels stout, to 1 cm long; flowers thick, 5-parted, spreading at anthesis, to 4.5 cm diam, white to pink, the lobes often marked with maroon or magenta at base or apex; sepals 2, concave, unequal, persisting in fruit; petals 4-10, broadly oblong, 2-2.5 cm long; androecium of staminate flowers cushion-shaped, ca 1 cm wide and 5 mm high with numerous anthers; pollen white, granular, compressed in round or oval pouches ca 1 mm diam, embedded just beneath the sticky surface of the disk; pistillate flowers similar to staminate but the gynoecium divided into (4)9(15) segments, the petals falling soon after anthesis, the sepals closing. Capsules subglobose, 2.5-3 cm long, dehiscing into 5-9 parts at maturity; valves thick, \u00b1 spreading to expose the colorful mass of seeds; seeds numerous, reddish, curved-oblong, ca 5 mm long, embedded in a deeply divided, bright-orange aril. Frequent epiphyte in the forest or on exposed shorelines; epiphytic on rocks or on trees near the edge of the water. Plants are usually supported on tree trunks or large branches but the branches may grow into the top of the canopy. Apparently flowers and fruits sporadically throughout the year. Where plants occur along the shore, the branches usually root at the nodes with the roots hanging in the water. The pollen sacs of the staminate flowers burst under the slightest pressure, and abundant pollen oozes out (sometimes explosively). Several species of small bees, including Trigona spp., have been seen visiting the flowers. The geographical range of Symphonia globulifera extends from Nicaragua to Panama, probably to Colombia. In Panama, known from tropical moist forest in the Canal Zone, Colon, San Bias, Veraguas, Herrera, Panama, and Darien, from premontane wet forest in Code (El Valle) and Panama (Cerro Campana), and from tropical wet forest in Code (La Mesa) and Panama.",
+            "score": 0.6857110261917114
+          },
+          {
+            "taxon": "Perebea",
+            "rank": "Genus",
+            "description": "Life Form: Tree, Shrub 13. Perebea Aubl. By C.C. Berg. Trees or shrubs, dioecious or monoecious. Leaves alternate, distichous on lateral branches; blade leathery to papery, margins entire to serrated, pinnate-veined; stipules completely amplexicaul, free. Inflorescences on short shoots in the axils of the leaves, unisexual, discoid-capitate, involucrate. Staminate inflorescences, several together, pedunculate; flowers not covered by the internal involucral bracts before anthesis; tepals 2-4, free or basally connate; stamens 2-4; pistillode absent. Pistillate inflorescences solitary or occasionally accompanied by staminate ones, subsessile or pedunculate; flowers few to numerous; perianth 2-4-lobed to 2-4-parted; ovaries free or partially adnate to the perianth; stigmas 2, tongue-shaped. Fruit-bearing perianth enlarged, fleshy, red to reddish; fruits free or partially adnate to the perianth; seed large, without endosperm, cotyledons thick and equal. Approx. 9 spp. Tropical America.",
+            "score": 0.6807174682617188
+          },
+          {
+            "taxon": "Perebea",
+            "rank": "Genus",
+            "description": "Life Form: Tree, Shrub 13. Perebea Aubl. By C.C. Berg. Trees or shrubs, dioecious or monoecious. Leaves alternate, distichous on lateral branches; blade leathery to papery, margins entire to serrated, pinnate-veined; stipules completely amplexicaul, free. Inflorescences on short shoots in the axils of the leaves, unisexual, discoid-capitate, involucrate. Staminate inflorescences, several together, pedunculate; flowers not covered by the internal involucral bracts before anthesis; tepals 2-4, free or basally connate; stamens 2-4; pistillode absent. Pistillate inflorescences solitary or occasionally accompanied by staminate ones, subsessile or pedunculate; flowers few to numerous; perianth 2-4-lobed to 2-4-parted; ovaries free or partially adnate to the perianth; stigmas 2, tongue-shaped. Fruit-bearing perianth enlarged, fleshy, red to reddish; fruits free or partially adnate to the perianth; seed large, without endosperm, cotyledons thick and equal. Approx. 9 spp. Tropical America.",
+            "score": 0.6807174682617188
+          },
+          {
+            "taxon": "Connaraceae",
+            "rank": "Family",
+            "description": "Trees, climbing shrubs, or lianas; stipules absent. Leaves compound, odd-pinnate or trifoliate, indumentum of simple trichomes, the blade sometimes with glandular dots on the underside, margin entire; petiole and petiolules pulvinated. Inflorescences in panicles, racemes, or spike-like, axillary or terminal. Flowers bisexual, white, yellowish, or pale pink; sepals 5, valvate or imbricate; petals 5, free; stamens 10, forming a short tube at the base; ovary superior, carpels 1-5, style one per carpel; ovules 2 per carpel. Fruit in follicles, often red; seeds 1 per fruit, black, the aril bright red, yellow, white, or orange.\nThe family consists of 16 genera and about 300\u2013350 species, pantropical, with a distribution center in western Africa; for tropical America, 5 genera and 108 species are known; 3 genera and 9 species in CR.\nIt is characterized by its compound leaves, mainly trifoliate or odd-pinnate, leaflets alternate on the rachis, sometimes with dendritic trichomes, petioles clearly pulvinated, stipules absent, and the fruit follicles with a black seed with a reddish basal aril. In vegetative form, its general appearance relates it directly to the family Fabaceae, but several of the characteristics mentioned earlier allow it to be separated.\nTraditionally, the family has been placed within the Order Rosales, or in close relation to the Order Sapindales, and some have suggested a link between such Orders. However, recent molecular studies suggest that its placement is in the Order Oxalidales, along with families such as: Oxalidaceae, Cunnoniaceae, Elaeocarpaceae, etc.",
+            "score": 0.6804718971252441
+          },
+          {
+            "taxon": "Connaraceae",
+            "rank": "Family",
+            "description": "Trees, climbing shrubs, or lianas; stipules absent. Leaves compound, odd-pinnate or trifoliate, indumentum of simple trichomes, the blade sometimes with glandular dots on the underside, margin entire; petiole and petiolules pulvinated. Inflorescences in panicles, racemes, or spike-like, axillary or terminal. Flowers bisexual, white, yellowish, or pale pink; sepals 5, valvate or imbricate; petals 5, free; stamens 10, forming a short tube at the base; ovary superior, carpels 1-5, style one per carpel; ovules 2 per carpel. Fruit in follicles, often red; seeds 1 per fruit, black, the aril bright red, yellow, white, or orange.\nThe family consists of 16 genera and about 300\u2013350 species, pantropical, with a distribution center in western Africa; for tropical America, 5 genera and 108 species are known; 3 genera and 9 species in CR.\nIt is characterized by its compound leaves, mainly trifoliate or odd-pinnate, leaflets alternate on the rachis, sometimes with dendritic trichomes, petioles clearly pulvinated, stipules absent, and the fruit follicles with a black seed with a reddish basal aril. In vegetative form, its general appearance relates it directly to the family Fabaceae, but several of the characteristics mentioned earlier allow it to be separated.\nTraditionally, the family has been placed within the Order Rosales, or in close relation to the Order Sapindales, and some have suggested a link between such Orders. However, recent molecular studies suggest that its placement is in the Order Oxalidales, along with families such as: Oxalidaceae, Cunnoniaceae, Elaeocarpaceae, etc.",
+            "score": 0.6804718971252441
+          },
+          {
+            "taxon": "Connarus panamensis",
+            "rank": "Species",
+            "description": "Liana or climbing shrub, erect when juvenile, growing into lower part of canopy; trunk less than 2 cm dbh, with soft, thin, flaking bark; sap red with faint sweet aroma. Leaves weakly pubescent to glabrate; petioles 5-14 cm long, swollen and wrinkled at base; petiolules enlarged, wrinkled; leaflets 3 (5), elliptic, acuminate at apex, rounded at base with petiolule often attached slightly above base, 10-25 cm long, 3-10 cm wide (juveniles to 35 cm long and 18 cm wide). Inflorescences spicatepaniculate, terminal, densely ferruginous-tomentulose, the pubescence eventually deciduous, the axis simple or branched; flowers sessile or subsessile, sweetly aromatic; sepals 5, ovate, 1.5-2.3 mm long, often about as broad as long; petals 5, white, to 3 mm long, often with red glandular dots; stamens 10, in 2 whorls, the inner whorl much shorter, the longer filaments to 2.3 mm long, often with stipitate glands near apex; carpel 1; ovary erectpubescent; style 1, short, conic, off-center in fruit. Follicles compressed-obovoid, 1.5-2.5 cm long, red-orange, the stalk off-center, ca 5 mm long, the valves nearly glabrous at maturity (any remaining pubescence, usually on stipe, dense and erect), dehiscing along one side to expose a single seed; seed shiny, black, arillate, ca 1.5 cm long, the aril thin, yellow, to about midway on seed, its margins \u00b1 fimbriate. Abundant along the shore; less common in the canopy of the forest. Seasonal behavior uncertain.",
+            "score": 0.6780350208282471
+          },
+          {
+            "taxon": "Trophis",
+            "rank": "Genus",
+            "description": "Life Form: Tree, Shrub, Small tree 17. Trophis P. Browne, nom. cons. Olmedia Ruiz et Pav., Skutchia Pax et K. Hoffm. By C.C. Berg. Trees or shrubs, dioecious. Leaves alternate and distichous; stipules semi-amplexicaul, free; leaf blade chartaceous to sub-coriaceous, margins dentate or entire, pinnatinervate. Inflorescences racemose to spike-like or capitulum-involucrate, pedunculate, bracteate; tepals in staminate flowers valvate, basally connate, in pistillate flowers connate; stamens 4, inflexed in the bud and soon elastically bent outward; pistillode present; ovary partly adnate to the perianth or free; stigmas 2, of the same length. Fruit-bearing perianth enlarged, fleshy and red to orange, or not enlarged, not fleshy and greenish underlying a blackish drupe; fruits adnate to the perianth or free; seed relatively large, without endosperm, cotyledons thick and equal, the radicle short. Approx. 9 spp. Tropics; 5 spp. in tropical America.",
+            "score": 0.6734473705291748
+          },
+          {
+            "taxon": "Trophis",
+            "rank": "Genus",
+            "description": "Life Form: Tree, Shrub, Small tree 17. Trophis P. Browne, nom. cons. Olmedia Ruiz et Pav., Skutchia Pax et K. Hoffm. By C.C. Berg. Trees or shrubs, dioecious. Leaves alternate and distichous; stipules semi-amplexicaul, free; leaf blade chartaceous to sub-coriaceous, margins dentate or entire, pinnatinervate. Inflorescences racemose to spike-like or capitulum-involucrate, pedunculate, bracteate; tepals in staminate flowers valvate, basally connate, in pistillate flowers connate; stamens 4, inflexed in the bud and soon elastically bent outward; pistillode present; ovary partly adnate to the perianth or free; stigmas 2, of the same length. Fruit-bearing perianth enlarged, fleshy and red to orange, or not enlarged, not fleshy and greenish underlying a blackish drupe; fruits adnate to the perianth or free; seed relatively large, without endosperm, cotyledons thick and equal, the radicle short. Approx. 9 spp. Tropics; 5 spp. in tropical America.",
+            "score": 0.6734473705291748
+          },
+          {
+            "taxon": "Brosimum",
+            "rank": "Genus",
+            "description": "Life Form: Tree 3. Brosimum Sw., nom. cons. By C.C. Berg. Trees, monoecious or dioecious. Leaves alternate and distichous; blade leathery to chartaceous, entire, pinnate-veined; stipules completely amplexicaul and connate or semi-amplexicaul and free. Inflorescences in the axils of the leaves, bisexual or unisexual, pedunculate; receptacle globose, hemispherical, turbinate or convexly discoid, initially completely covered by peltate bracts. Staminate flowers several to numerous; perianth well developed, vestigial or absent; stamens 1-4; pistillode absent. Pistillate flowers 1-several, embedded in the receptacle; ovary adnate to the perianth; stigmas 2, filiform to vine-like. Fruits forming a drupe along with the enlarged, fleshy, and often colored receptacle. Seed large, without endosperm; cotyledons thick, equal or unequal. Approx. 15 spp. Tropical America.",
+            "score": 0.671441912651062
+          },
+          {
+            "taxon": "Brosimum",
+            "rank": "Genus",
+            "description": "Life Form: Tree 3. Brosimum Sw., nom. cons. By C.C. Berg. Trees, monoecious or dioecious. Leaves alternate and distichous; blade leathery to chartaceous, entire, pinnate-veined; stipules completely amplexicaul and connate or semi-amplexicaul and free. Inflorescences in the axils of the leaves, bisexual or unisexual, pedunculate; receptacle globose, hemispherical, turbinate or convexly discoid, initially completely covered by peltate bracts. Staminate flowers several to numerous; perianth well developed, vestigial or absent; stamens 1-4; pistillode absent. Pistillate flowers 1-several, embedded in the receptacle; ovary adnate to the perianth; stigmas 2, filiform to vine-like. Fruits forming a drupe along with the enlarged, fleshy, and often colored receptacle. Seed large, without endosperm; cotyledons thick, equal or unequal. Approx. 15 spp. Tropical America.",
+            "score": 0.671441912651062
+          },
+          {
+            "taxon": "Sapotaceae",
+            "rank": "Family",
+            "description": "Trees, rarely shrubs; cylindrical trunks, sometimes ribbed or ribbed-interlaced, often with gum, with bark normally scaly and rarely smooth; milky sap, sometimes almost absent in the trunk, rarely yellowish; branching sometimes sympodial (Pouteria); twigs with indumentum of mostly simple trichomes, but sometimes there are Malpighiaceous or dendritic trichomes; stipules normally absent, present in Pouteria (rarely), Ecclinusa, Chromolucuma. Simple leaves, alternate, generally spiral or distichous (Chrysophyllum, Micropholis), secondary venation pinnate or penninerved (Diploon, Micropholis) and tertiary sometimes scalariform (Pradosia, Ecclinusa, Chromolucuma), margin entire; petioles cylindrical thickened towards the base or bottle-shaped, rarely ribbed. Inflorescences are axillary, ramiflorous or cauliflorous, fasciculate, sometimes solitary flowers. Flowers actinomorphic, bisexual or unisexual; sepals in 3 types: 5 unequal, imbricate; 5-12 imbricate; or, 6 in 2 series of 3, valvate; corolla gamopetalous, rotate or tubular, 4-6 (9) lobes; stamens epipetalous 4-6 (12), staminodes sometimes present; gynoecium syncarpous, superior ovary, the locules 1-6 (15); axile placentation, ovules 1 (rarely 2) per locule, simple style. Fruits are berries, rarely drupaceous (Pradosia); seeds 1 to several, the testa hard, smooth, shiny and brown.\nThe family consists of 53 genera and 1100 species, pantropical; 11 genera and around 408 species in the Neotropics; 10 genera and around 62 species in CR; 3 genera and 12 species in LS. The family is most diverse in lowlands with very humid climates, mainly below 1000 m.\nIt is recognized by its tree habit, with simple, alternate leaves, without stipules (very rarely present in CR), leaves clustered towards the apex of the twigs, cylindrical petioles thickened towards the base and the presence of milky sap. Venation patterns are of great taxonomic importance, so a careful analysis of them provides much utility in identification, especially the tertiary venation often reticulate at various levels or scalariform. The small flowers show a very homogeneous appearance and are always axillary, generally in fascicles. The seeds are very distinctive for their shape, hardness, luster, and annular scar, the latter variable in shape among genera. The vegetative characteristics mentioned earlier could confuse this family, especially with those that have milky sap, with families such as Olacaceae, Apocynaceae (with alternate leaves), etc.; the inner bark and sap with an almond scent also help to recognize Sapotaceae.\nSeveral species produce edible fruits of economic importance, such as sapote (Pouteria zapota), medlar or sapodilla (Manilkara chicle, M. sapota), caimito (Chrysophyllum cainito), etc. The latex of Manilkara zapota was the primary resource for chewing gum. It is well known that the wood of several species is preferred for its hardness and durability.",
+            "score": 0.6703646779060364
+          },
+          {
+            "taxon": "Sapotaceae",
+            "rank": "Family",
+            "description": "Trees, rarely shrubs; cylindrical trunks, sometimes ribbed or ribbed-interlaced, often with gum, with bark normally scaly and rarely smooth; milky sap, sometimes almost absent in the trunk, rarely yellowish; branching sometimes sympodial (Pouteria); twigs with indumentum of mostly simple trichomes, but sometimes there are Malpighiaceous or dendritic trichomes; stipules normally absent, present in Pouteria (rarely), Ecclinusa, Chromolucuma. Simple leaves, alternate, generally spiral or distichous (Chrysophyllum, Micropholis), secondary venation pinnate or penninerved (Diploon, Micropholis) and tertiary sometimes scalariform (Pradosia, Ecclinusa, Chromolucuma), margin entire; petioles cylindrical thickened towards the base or bottle-shaped, rarely ribbed. Inflorescences are axillary, ramiflorous or cauliflorous, fasciculate, sometimes solitary flowers. Flowers actinomorphic, bisexual or unisexual; sepals in 3 types: 5 unequal, imbricate; 5-12 imbricate; or, 6 in 2 series of 3, valvate; corolla gamopetalous, rotate or tubular, 4-6 (9) lobes; stamens epipetalous 4-6 (12), staminodes sometimes present; gynoecium syncarpous, superior ovary, the locules 1-6 (15); axile placentation, ovules 1 (rarely 2) per locule, simple style. Fruits are berries, rarely drupaceous (Pradosia); seeds 1 to several, the testa hard, smooth, shiny and brown.\nThe family consists of 53 genera and 1100 species, pantropical; 11 genera and around 408 species in the Neotropics; 10 genera and around 62 species in CR; 3 genera and 12 species in LS. The family is most diverse in lowlands with very humid climates, mainly below 1000 m.\nIt is recognized by its tree habit, with simple, alternate leaves, without stipules (very rarely present in CR), leaves clustered towards the apex of the twigs, cylindrical petioles thickened towards the base and the presence of milky sap. Venation patterns are of great taxonomic importance, so a careful analysis of them provides much utility in identification, especially the tertiary venation often reticulate at various levels or scalariform. The small flowers show a very homogeneous appearance and are always axillary, generally in fascicles. The seeds are very distinctive for their shape, hardness, luster, and annular scar, the latter variable in shape among genera. The vegetative characteristics mentioned earlier could confuse this family, especially with those that have milky sap, with families such as Olacaceae, Apocynaceae (with alternate leaves), etc.; the inner bark and sap with an almond scent also help to recognize Sapotaceae.\nSeveral species produce edible fruits of economic importance, such as sapote (Pouteria zapota), medlar or sapodilla (Manilkara chicle, M. sapota), caimito (Chrysophyllum cainito), etc. The latex of Manilkara zapota was the primary resource for chewing gum. It is well known that the wood of several species is preferred for its hardness and durability.",
+            "score": 0.6703646779060364
+          },
+          {
+            "taxon": "Lauraceae",
+            "rank": "Family",
+            "description": "Trees or shrubs, rarely parasitic herbs (Cassytha), generally monoecious, rarely dioecious; sap watery or not evident, whitish very rarely; bark and foliage with the aroma of essential oils, which can be sweet or foul; stipules absent. Leaves simple, alternate, less commonly opposite or subopposite (Caryodaphnopsis, Beilschmiedia), the margin entire, sometimes wavy. Inflorescences axillary, paniculate, racemose (Aniba), umbellate or spicate, solitary or grouped. Flowers bisexual, less frequently unisexual, actinomorphic; perianth of 6 parts in 2 whorls of 3 tepals, these white, yellow or green, rarely pink or red; functional stamens (3-)6 to 9(-12), sessile or filaments, generally arranged in 3(-4) whorls, the 2 outer (series I and II) composed of 6 separate stamens, very similar to each other, dehiscent by (1-)2 to 4 valves that open from the base to the apex, regularly introrse; the inner whorl (series III) consists of 3 separate stamens (sometimes connate in Licaria), usually dextrorse, with 2 glands on each side; staminodes (series IV) 3 or absent; pistil simple and solitary; ovary 1-locular, style simple, stigma simple, discoid or capitate. Fruits berries, with the receptacle forming a fleshy or woody cup, sometimes colored red, or devoid of it; seed 1, without endosperm.\nThe family is distributed in the tropical zones of the world, the northern part of South America, Southeast Asia, and Madagascar are the main centers of distribution. Some species reach subtropical regions of America, Asia, and Europe. It is composed of about 52 genera and 2750 species, 18 genera and about 133 species in Costa Rica. 7 genera and about 32 species in LS.\nLauraceae is recognized for its tree or shrub habit (except Cassytha), simple leaves, alternate (opposite in Caryodaphnopsis, subopposite sometimes in Beilschmiedia), arranged in a spiral, aromatic and with the edge always entire, bisexual or functionally unisexual flowers (less usual), actinomorphic, separate stamens (connate in Licaria spp.), dehiscent by (1-)2 to 4 valves and for its berry-like fruits with or without cups.\nThe flowers of some species of Lauraceae have sweet and pleasant aromas (Nectandra umbrosa, Ocotea veraguensis), in others the smell can be somewhat milky and repugnant (Ocotea tenera), bees, flies, and moths have been observed visiting them. The fruits are rich in lipids and nitrogen and are dispersed by birds and mammals; the fruits of Persea americana are edible and different parts of the plant have been used medicinally in cases of headaches, colds, bruises, dandruff, diarrhea, rashes, fevers, bruises, hypertension, liver diseases, malaria, neuralgias, rheumatism, scabies, sprains, toothaches, tumors, diabetes, dysentery, sores, as an antibiotic, aphrodisiac, astringent, emmenagogue, cosmetic, chest tonic, rodenticide, rubefacient, suppurative, vermifuge, diuretic, carminative, piscicide, and poison; the fruits of P. schiedeana (\"yas\") are consumed in highlands and are said to be very tasty.\nThe wood of some native trees is highly valued for its strength and durability, and they are indiscriminately called \"aguacatillos, iras or quizarr\u00e1s,\" others are appreciated for their edible fruits (Persea americana, P. schiedeana, Povedadaphne quadriporata) and most species with relatively small fruits are of great ecological importance as they are the sustenance for various birds and mammals, especially in high forests.",
+            "score": 0.670304000377655
+          },
+          {
+            "taxon": "Lauraceae",
+            "rank": "Family",
+            "description": "Trees or shrubs, rarely parasitic herbs (Cassytha), generally monoecious, rarely dioecious; sap watery or not evident, whitish very rarely; bark and foliage with the aroma of essential oils, which can be sweet or foul; stipules absent. Leaves simple, alternate, less commonly opposite or subopposite (Caryodaphnopsis, Beilschmiedia), the margin entire, sometimes wavy. Inflorescences axillary, paniculate, racemose (Aniba), umbellate or spicate, solitary or grouped. Flowers bisexual, less frequently unisexual, actinomorphic; perianth of 6 parts in 2 whorls of 3 tepals, these white, yellow or green, rarely pink or red; functional stamens (3-)6 to 9(-12), sessile or filaments, generally arranged in 3(-4) whorls, the 2 outer (series I and II) composed of 6 separate stamens, very similar to each other, dehiscent by (1-)2 to 4 valves that open from the base to the apex, regularly introrse; the inner whorl (series III) consists of 3 separate stamens (sometimes connate in Licaria), usually dextrorse, with 2 glands on each side; staminodes (series IV) 3 or absent; pistil simple and solitary; ovary 1-locular, style simple, stigma simple, discoid or capitate. Fruits berries, with the receptacle forming a fleshy or woody cup, sometimes colored red, or devoid of it; seed 1, without endosperm.\nThe family is distributed in the tropical zones of the world, the northern part of South America, Southeast Asia, and Madagascar are the main centers of distribution. Some species reach subtropical regions of America, Asia, and Europe. It is composed of about 52 genera and 2750 species, 18 genera and about 133 species in Costa Rica. 7 genera and about 32 species in LS.\nLauraceae is recognized for its tree or shrub habit (except Cassytha), simple leaves, alternate (opposite in Caryodaphnopsis, subopposite sometimes in Beilschmiedia), arranged in a spiral, aromatic and with the edge always entire, bisexual or functionally unisexual flowers (less usual), actinomorphic, separate stamens (connate in Licaria spp.), dehiscent by (1-)2 to 4 valves and for its berry-like fruits with or without cups.\nThe flowers of some species of Lauraceae have sweet and pleasant aromas (Nectandra umbrosa, Ocotea veraguensis), in others the smell can be somewhat milky and repugnant (Ocotea tenera), bees, flies, and moths have been observed visiting them. The fruits are rich in lipids and nitrogen and are dispersed by birds and mammals; the fruits of Persea americana are edible and different parts of the plant have been used medicinally in cases of headaches, colds, bruises, dandruff, diarrhea, rashes, fevers, bruises, hypertension, liver diseases, malaria, neuralgias, rheumatism, scabies, sprains, toothaches, tumors, diabetes, dysentery, sores, as an antibiotic, aphrodisiac, astringent, emmenagogue, cosmetic, chest tonic, rodenticide, rubefacient, suppurative, vermifuge, diuretic, carminative, piscicide, and poison; the fruits of P. schiedeana (\"yas\") are consumed in highlands and are said to be very tasty.\nThe wood of some native trees is highly valued for its strength and durability, and they are indiscriminately called \"aguacatillos, iras or quizarr\u00e1s,\" others are appreciated for their edible fruits (Persea americana, P. schiedeana, Povedadaphne quadriporata) and most species with relatively small fruits are of great ecological importance as they are the sustenance for various birds and mammals, especially in high forests.",
+            "score": 0.670304000377655
+          }
+        ],
+        "convergence": [
+          {
+            "taxon": "Connaraceae",
+            "signal": "moderate",
+            "rag_score": 0.6804718971252441,
+            "visual_softmax_score": 0.0231633223593235,
+            "source": "both"
+          },
+          {
+            "taxon": "Maquira",
+            "signal": "rag_only",
+            "rag_score": 0.6929998993873596,
+            "visual_softmax_score": 0.0,
+            "source": "literature"
+          },
+          {
+            "taxon": "Perebea",
+            "signal": "rag_only",
+            "rag_score": 0.6807174682617188,
+            "visual_softmax_score": 0.0,
+            "source": "literature"
+          },
+          {
+            "taxon": "Piperaceae",
+            "signal": "rag_only",
+            "rag_score": 0.6901218891143799,
+            "visual_softmax_score": 0.0,
+            "source": "literature"
+          },
+          {
+            "taxon": "Abuta racemosa",
+            "signal": "visual_only",
+            "rag_score": 0.0,
+            "visual_softmax_score": 0.012587642297148705,
+            "source": "visual"
+          },
+          {
+            "taxon": "Strychnos panamensis",
+            "signal": "visual_only",
+            "rag_score": 0.0,
+            "visual_softmax_score": 0.00886086467653513,
+            "source": "visual"
+          },
+          {
+            "taxon": "Smilax spinosa",
+            "signal": "visual_only",
+            "rag_score": 0.0,
+            "visual_softmax_score": 0.009052223525941372,
+            "source": "visual"
+          }
+        ]
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 4.647930851206183
+    },
+    "evidence_synthesis": {
+      "data": {
+        "evidence_document": "# Evidence Summary\n\n## Morphological Profile\n\n\n### Leaf Arrangement\n\n- **Relative Position**: alternate\n- **Spacing**: clustered\n\n### Leaf Complexity\n\n- **Type**: simple\n- **Compound Type**: N/A\n- **Num Leaflets**: N/A\n- **Leaflet Arrangement**: N/A\n\n### Leaf Morphology\n\n- **Margin**: entire\n- **Shape**: ovate\n- **Apex**: acute\n- **Base**: rounded\n- **Venation**: pinnate\n- **Secondary Veins**: clearly visible, closely spaced, numerous\n- **Surface Features**: shiny, rugose\n- **Trichomes**: absent\n- **Petiole Length**: short\n- **Petiole Features**: terete\n\n### Stem Traits\n\n- **Type**: herbaceous\n- **Trichomes**: absent\n- **Color**: green\n- **Texture**: smooth\n\n### Special Features\n\n- **Stipules**: absent\n- **Latex**: not observed\n- **Pulvinus**: absent\n- **Tendrils**: absent\n\n### Notes\n\nThe seedling exhibits a cluster of simple, ovate leaves with entire margins, arranged alternately along a herbaceous stem. The leaf surface is shiny and rugose with prominent pinnate venation. No damage, stipules, latex, or tendrils are visible. The images collectively show the same individual from multiple angles, confirming the above traits. The presence of a large, lobed leaf in the background (possibly from a different plant) is not part of this seedling. The pink object in the soil is likely litter or debris, not biological.\n\n## Visual Classification (Multi-Rank)\n\n### Family\n\nDecision margin: 0.010\n\n- #1: **Menispermaceae** (similarity share: 3.7%) | L2: 0.484, cosine: 0.876\n- #2: **Smilacaceae** (similarity share: 2.6%) | L2: 0.814, cosine: 0.619\n- #3: **Loganiaceae** (similarity share: 2.6%) | L2: 0.836, cosine: 0.585\n- #4: **Bignoniaceae** (similarity share: 2.4%) | L2: 0.892, cosine: 0.460\n- #5: **Connaraceae** (similarity share: 2.3%) | L2: 0.941, cosine: 0.362\n\n### Genus\n\nDecision margin: 0.005\n\n- #1: **Abuta** (similarity share: 1.8%) | L2: 0.484, cosine: 0.876\n- #2: **Smilax** (similarity share: 1.3%) | L2: 0.814, cosine: 0.619\n- #3: **Strychnos** (similarity share: 1.2%) | L2: 0.836, cosine: 0.585\n- #4: **Eugenia** (similarity share: 1.1%) | L2: 0.935, cosine: 0.381\n- #5: **Connarus** (similarity share: 1.1%) | L2: 0.967, cosine: 0.334\n\n### Species\n\nDecision margin: 0.004\n\n- #1: **Abuta racemosa** (similarity share: 1.3%) | L2: 0.484, cosine: 0.876\n- #2: **Smilax spinosa** (similarity share: 0.9%) | L2: 0.814, cosine: 0.619\n- #3: **Strychnos panamensis** (similarity share: 0.9%) | L2: 0.836, cosine: 0.585\n- #4: **Eugenia oerstediana** (similarity share: 0.8%) | L2: 0.898, cosine: 0.452\n- #5: **Piper aequale** (similarity share: 0.8%) | L2: 0.941, cosine: 0.435\n\n### Hierarchical Consistency: Consistent\n\n\n### Per-Image Predictions\n\n- /nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Menispermaceae/by_genus/Abuta/by_species/racemosa/PPABUTRA10/Menispermaceae_Abuta_racemosa_PPABUTRA10_001.jpg: **Menispermaceae** (similarity share: 3.2%)\n- /nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Menispermaceae/by_genus/Abuta/by_species/racemosa/PPABUTRA10/Menispermaceae_Abuta_racemosa_PPABUTRA10_002.jpg: **Menispermaceae** (similarity share: 3.4%)\n- /nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Menispermaceae/by_genus/Abuta/by_species/racemosa/PPABUTRA10/Menispermaceae_Abuta_racemosa_PPABUTRA10_003.jpg: **Menispermaceae** (similarity share: 3.5%)\n- /nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Menispermaceae/by_genus/Abuta/by_species/racemosa/PPABUTRA10/Menispermaceae_Abuta_racemosa_PPABUTRA10_004.jpg: **Menispermaceae** (similarity share: 3.4%)\n- /nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Menispermaceae/by_genus/Abuta/by_species/racemosa/PPABUTRA10/Menispermaceae_Abuta_racemosa_PPABUTRA10_005.jpg: **Menispermaceae** (similarity share: 3.5%)\n\n### Nearest Support Images\n\n- **Menispermaceae** (L2: 0.264, cosine: 0.965) [/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Menispermaceae/by_genus/Abuta/by_species/racemosa/PPABUTRA10/Menispermaceae_Abuta_racemosa_PPABUTRA10_002.jpg]\n- **Menispermaceae** (L2: 0.321, cosine: 0.949) [/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Menispermaceae/by_genus/Abuta/by_species/racemosa/PPABUTRA10/Menispermaceae_Abuta_racemosa_PPABUTRA10_001.jpg]\n- **Menispermaceae** (L2: 0.329, cosine: 0.946) [/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Menispermaceae/by_genus/Abuta/by_species/racemosa/PPABUTRA10/Menispermaceae_Abuta_racemosa_PPABUTRA10_003.jpg]\n- **Menispermaceae** (L2: 0.334, cosine: 0.944) [/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Menispermaceae/by_genus/Abuta/by_species/racemosa/PPABUTRA10/Menispermaceae_Abuta_racemosa_PPABUTRA10_004.jpg]\n- **Menispermaceae** (L2: 0.429, cosine: 0.908) [/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Menispermaceae/by_genus/Abuta/by_species/racemosa/PPABUTRA10/Menispermaceae_Abuta_racemosa_PPABUTRA10_005.jpg]\n\n## Literature Evidence\n\n### Matching Taxa (by trait similarity)\n\n- **Maquira** (Genus, similarity: 0.69)\n  - Life Form: Tree, Shrub 10. Maquira Aubl. By C.C. Berg. Trees or shrubs, dioecious. Leaves alternate, distichous on lateral branches; blade leathery, margins entire, pinnate-veined; stipules not comple\n- **Maquira** (Genus, similarity: 0.69)\n  - Life Form: Tree, Shrub 10. Maquira Aubl. By C.C. Berg. Trees or shrubs, dioecious. Leaves alternate, distichous on lateral branches; blade leathery, margins entire, pinnate-veined; stipules not comple\n- **Piperaceae** (Family, similarity: 0.69)\n  - Shrubs, small trees, herbs, or rarely lianas, terrestrial or epiphytic; stems with evident and swollen internodes at the nodes, a few species with stilt roots at the base; indumentum of simple trichom\n- **Piperaceae** (Family, similarity: 0.69)\n  - Shrubs, small trees, herbs, or rarely lianas, terrestrial or epiphytic; stems with evident and swollen internodes at the nodes, a few species with stilt roots at the base; indumentum of simple trichom\n- **Sorocea** (Genus, similarity: 0.69)\n  - Life Form: Tree, Shrub 16. Sorocea A.\nSt.-Hil. By C.C. Berg. Shrubs or trees, dioecious. Leaves alternate and distichous; blade subcoriaceous to coriaceous, margins entire to serrated, pinnate-veined;\n- **Sorocea** (Genus, similarity: 0.69)\n  - Life Form: Tree, Shrub 16. Sorocea A.\nSt.-Hil. By C.C. Berg. Shrubs or trees, dioecious. Leaves alternate and distichous; blade subcoriaceous to coriaceous, margins entire to serrated, pinnate-veined;\n- **Symphonia globulifera** (Species, similarity: 0.69)\n  - Dioecious, hemiepiphytic tree, to 10 m tall; trunk to 15 cm dbh; branches spiraled, stiff and spreading, densely rooting at the nodes, the roots often extending back to the host tree and enveloping th\n- **Perebea** (Genus, similarity: 0.68)\n  - Life Form: Tree, Shrub 13. Perebea Aubl. By C.C. Berg. Trees or shrubs, dioecious or monoecious. Leaves alternate, distichous on lateral branches; blade leathery to papery, margins entire to serrated,\n- **Perebea** (Genus, similarity: 0.68)\n  - Life Form: Tree, Shrub 13. Perebea Aubl. By C.C. Berg. Trees or shrubs, dioecious or monoecious. Leaves alternate, distichous on lateral branches; blade leathery to papery, margins entire to serrated,\n- **Connaraceae** (Family, similarity: 0.68)\n  - Trees, climbing shrubs, or lianas; stipules absent. Leaves compound, odd-pinnate or trifoliate, indumentum of simple trichomes, the blade sometimes with glandular dots on the underside, margin entire;\n- **Connaraceae** (Family, similarity: 0.68)\n  - Trees, climbing shrubs, or lianas; stipules absent. Leaves compound, odd-pinnate or trifoliate, indumentum of simple trichomes, the blade sometimes with glandular dots on the underside, margin entire;\n- **Connarus panamensis** (Species, similarity: 0.68)\n  - Liana or climbing shrub, erect when juvenile, growing into lower part of canopy; trunk less than 2 cm dbh, with soft, thin, flaking bark; sap red with faint sweet aroma. Leaves weakly pubescent to gla\n- **Trophis** (Genus, similarity: 0.67)\n  - Life Form: Tree, Shrub, Small tree 17. Trophis P. Browne, nom. cons. Olmedia Ruiz et Pav., Skutchia Pax et K. Hoffm. By C.C. Berg. Trees or shrubs, dioecious. Leaves alternate and distichous; stipules\n- **Trophis** (Genus, similarity: 0.67)\n  - Life Form: Tree, Shrub, Small tree 17. Trophis P. Browne, nom. cons. Olmedia Ruiz et Pav., Skutchia Pax et K. Hoffm. By C.C. Berg. Trees or shrubs, dioecious. Leaves alternate and distichous; stipules\n- **Brosimum** (Genus, similarity: 0.67)\n  - Life Form: Tree 3. Brosimum Sw., nom. cons. By C.C. Berg. Trees, monoecious or dioecious. Leaves alternate and distichous; blade leathery to chartaceous, entire, pinnate-veined; stipules completely am\n- **Brosimum** (Genus, similarity: 0.67)\n  - Life Form: Tree 3. Brosimum Sw., nom. cons. By C.C. Berg. Trees, monoecious or dioecious. Leaves alternate and distichous; blade leathery to chartaceous, entire, pinnate-veined; stipules completely am\n- **Sapotaceae** (Family, similarity: 0.67)\n  - Trees, rarely shrubs; cylindrical trunks, sometimes ribbed or ribbed-interlaced, often with gum, with bark normally scaly and rarely smooth; milky sap, sometimes almost absent in the trunk, rarely yel\n- **Sapotaceae** (Family, similarity: 0.67)\n  - Trees, rarely shrubs; cylindrical trunks, sometimes ribbed or ribbed-interlaced, often with gum, with bark normally scaly and rarely smooth; milky sap, sometimes almost absent in the trunk, rarely yel\n- **Lauraceae** (Family, similarity: 0.67)\n  - Trees or shrubs, rarely parasitic herbs (Cassytha), generally monoecious, rarely dioecious; sap watery or not evident, whitish very rarely; bark and foliage with the aroma of essential oils, which can\n- **Lauraceae** (Family, similarity: 0.67)\n  - Trees or shrubs, rarely parasitic herbs (Cassytha), generally monoecious, rarely dioecious; sap watery or not evident, whitish very rarely; bark and foliage with the aroma of essential oils, which can\n\n## Convergence Analysis\n\n- **Connaraceae** [MODERATE CONVERGENCE] (RAG: 0.68, Visual: 2.3%)\n- **Maquira** [Literature only] (RAG: 0.69, Visual: 0.0%)\n- **Perebea** [Literature only] (RAG: 0.68, Visual: 0.0%)\n- **Piperaceae** [Literature only] (RAG: 0.69, Visual: 0.0%)\n- **Abuta racemosa** [Visual only] (RAG: 0.00, Visual: 1.3%)\n- **Strychnos panamensis** [Visual only] (RAG: 0.00, Visual: 0.9%)\n- **Smilax spinosa** [Visual only] (RAG: 0.00, Visual: 0.9%)\n",
+        "quality_flags": [
+          "Low classification similarity: top prediction captures only 3.7% of total similarity (threshold: 30.0%)"
+        ]
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 0.1009900588542223
+    },
+    "reasoning": {
+      "data": {
+        "classification": {
+          "predicted_family": "Menispermaceae",
+          "predicted_genus": "Abuta",
+          "predicted_species": "Abuta racemosa",
+          "confidence": "high",
+          "reasoning": "The visual classification consistently identifies the specimen as Menispermaceae with high similarity scores and cosine distances, and specifically as Abuta racemosa at the species level. Morphological traits such as alternate, simple, ovate leaves with entire margins, pinnate venation, shiny rugose surface, and absence of stipules, latex, and trichomes align well with Menispermaceae and Abuta. The nearest support images are from Abuta racemosa, and there is no conflicting literature evidence for this combination.",
+          "supporting_features": [
+            "alternate leaf arrangement",
+            "simple ovate leaves with entire margins",
+            "pinnate venation with closely spaced secondary veins",
+            "shiny rugose leaf surface",
+            "absence of stipules and trichomes",
+            "herbaceous green stem with smooth texture"
+          ],
+          "alternatives": [
+            {
+              "taxon": "Smilacaceae",
+              "reason": "Second highest visual similarity, but typically has tendrils and different leaf texture; not observed here."
+            },
+            {
+              "taxon": "Loganiaceae",
+              "reason": "Third highest visual similarity, but often has different venation and may have stipules or trichomes; not matching morphological profile."
+            },
+            {
+              "taxon": "Connaraceae",
+              "reason": "High literature similarity, but typically has compound leaves and red sap; this specimen has simple leaves and no latex."
+            }
+          ]
+        },
+        "raw_response": "{\n  \"predicted_family\": \"Menispermaceae\",\n  \"predicted_genus\": \"Abuta\",\n  \"predicted_species\": \"Abuta racemosa\",\n  \"confidence\": \"high\",\n  \"reasoning\": \"The visual classification consistently identifies the specimen as Menispermaceae with high similarity scores and cosine distances, and specifically as Abuta racemosa at the species level. Morphological traits such as alternate, simple, ovate leaves with entire margins, pinnate venation, shiny rugose surface, and absence of stipules, latex, and trichomes align well with Menispermaceae and Abuta. The nearest support images are from Abuta racemosa, and there is no conflicting literature evidence for this combination.\",\n  \"supporting_features\": [\n    \"alternate leaf arrangement\",\n    \"simple ovate leaves with entire margins\",\n    \"pinnate venation with closely spaced secondary veins\",\n    \"shiny rugose leaf surface\",\n    \"absence of stipules and trichomes\",\n    \"herbaceous green stem with smooth texture\"\n  ],\n  \"alternatives\": [\n    {\n      \"taxon\": \"Smilacaceae\",\n      \"reason\": \"Second highest visual similarity, but typically has tendrils and different leaf texture; not observed here.\"\n    },\n    {\n      \"taxon\": \"Loganiaceae\",\n      \"reason\": \"Third highest visual similarity, but often has different venation and may have stipules or trichomes; not matching morphological profile.\"\n    },\n    {\n      \"taxon\": \"Connaraceae\",\n      \"reason\": \"High literature similarity, but typically has compound leaves and red sap; this specimen has simple leaves and no latex.\"\n    }\n  ]\n}",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 7204.767254879698
+    }
+  },
+  "total_elapsed_ms": 28846.320622833446,
+  "benchmark_metadata": {
+    "scientific_name": "Abuta racemosa",
+    "family": "Menispermaceae",
+    "genus": "Abuta",
+    "species_epithet": "racemosa",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

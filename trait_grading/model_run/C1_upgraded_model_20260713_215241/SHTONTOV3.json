@@ -1,0 +1,91 @@
+{
+  "specimen_id": "SHTONTOV3",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Celastraceae/by_genus/Tontelea/by_species/passiflora/SHTONTOV3/Celastraceae_Tontelea_passiflora_SHTONTOV3_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Celastraceae/by_genus/Tontelea/by_species/passiflora/SHTONTOV3/Celastraceae_Tontelea_passiflora_SHTONTOV3_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Celastraceae/by_genus/Tontelea/by_species/passiflora/SHTONTOV3/Celastraceae_Tontelea_passiflora_SHTONTOV3_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Celastraceae/by_genus/Tontelea/by_species/passiflora/SHTONTOV3/Celastraceae_Tontelea_passiflora_SHTONTOV3_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Celastraceae/by_genus/Tontelea/by_species/passiflora/SHTONTOV3/Celastraceae_Tontelea_passiflora_SHTONTOV3_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "alternate",
+            "spacing": "distal"
+          },
+          "leaf_complexity": {
+            "type": "compound",
+            "compound_type": "odd-pinnate",
+            "num_leaflets": "7",
+            "leaflet_arrangement": "alternate"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "lanceolate",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "clearly visible and well-spaced",
+            "surface_features": "shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "absent",
+            "color": "green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "The seedling is lying on the forest floor among leaf litter. Several leaflets show minor physical damage in the form of small holes and missing margin sections. The overall structure suggests a pinnately compound leaf."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): alternate (leaves are clearly attached at successive nodes along the stem, alternating sides, visible in all images)\n    2. Leaf spacing (clustered / distal): distal (leaves are spaced apart along the stem rather than clustered at the tip)\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): compound (the leaves are composed of multiple distinct leaflets attached to a central axis/rachis)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): odd-pinnate (the leaflets are arranged along a central rachis and there is a single terminal leaflet at the apex of the leaf structure)\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): 7 (the most complete leaves visible in the images display a count of 7 leaflets)\n    6. Leaflet arrangement (opposite / alternate / subopposite): alternate (the leaflets are attached to the rachis at alternating positions)\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.): entire (the leaf margins are smooth and continuous without teeth or serrations)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): lanceolate (the leaflets are elongated with the widest point below the middle and tapering to a point)\n    9. Leaf apex (acute, obtuse, acuminate): acute (the leaflet tips come to a sharp, distinct point)\n    10. Leaf base (rounded, cordate, cuneate): cuneate (the leaflets taper gradually towards the petiolule attachment)\n    11. Venation type (pinnate / palmate / parallel): pinnate (a central midrib is visible with veins branching off to the sides)\n    12. Secondary veins (visibility, spacing, number): clearly visible and well-spaced (the secondary veins form a distinct pattern arching from the midrib to the margin)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): shiny (the leaf surfaces reflect light, indicating a glossy texture)\n    14. Leaf surface trichomes (present / absent): absent (no hairs are visible on the leaf surfaces)\n    15. Petiole length (short / long): short (the individual leaflets have very short attachment points, appearing sessile or nearly so)\n    16. Petiole features (winged / grooved / terete): terete (the rachis appears cylindrical and round in cross-section)\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): herbaceous (the stem appears green, slender, and lacks the thick, corky texture of mature wood)\n    18. Stem trichomes (present / absent): absent (the stem surface appears smooth)\n    19. Stem color: green (the stem is a vibrant green color)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (the stem surface appears uniform without ridges or lenticels)\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules are visible at the leaf nodes)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed\n    23. Pulvinus, for Fabaceae family only (present / absent): absent\n    24. Tendrils (present / absent): absent\nF. Notes: The seedling is lying on the forest floor among leaf litter. Several leaflets show minor physical damage in the form of small holes and missing margin sections. The overall structure suggests a pinnately compound leaf.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 5071.40633976087
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 5071.40633976087,
+  "benchmark_metadata": {
+    "scientific_name": "Tontelea passiflora",
+    "family": "Celastraceae",
+    "genus": "Tontelea",
+    "species_epithet": "passiflora",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

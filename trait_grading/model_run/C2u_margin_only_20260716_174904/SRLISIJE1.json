@@ -1,0 +1,72 @@
+{
+  "specimen_id": "SRLISIJE1",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Gentianaceae/by_genus/Lisianthius/by_species/jefensis/SRLISIJE1/Gentianaceae_Lisianthius_jefensis_SRLISIJE1_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Gentianaceae/by_genus/Lisianthius/by_species/jefensis/SRLISIJE1/Gentianaceae_Lisianthius_jefensis_SRLISIJE1_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Gentianaceae/by_genus/Lisianthius/by_species/jefensis/SRLISIJE1/Gentianaceae_Lisianthius_jefensis_SRLISIJE1_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Gentianaceae/by_genus/Lisianthius/by_species/jefensis/SRLISIJE1/Gentianaceae_Lisianthius_jefensis_SRLISIJE1_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Gentianaceae/by_genus/Lisianthius/by_species/jefensis/SRLISIJE1/Gentianaceae_Lisianthius_jefensis_SRLISIJE1_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {},
+          "leaf_complexity": {},
+          "leaf_morphology": {
+            "margin": "toothed"
+          },
+          "stem_traits": {},
+          "special_features": {},
+          "notes": "Some leaves exhibit minor physical damage (small holes and missing tissue), but the underlying margin structure is intact and clearly serrate."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nC. Leaf Morphology\n    7.\tLeaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): toothed (serrate); small, forward-pointing teeth are clearly visible along the leaf edges in multiple views, particularly in the close-ups.\nF. Notes: Some leaves exhibit minor physical damage (small holes and missing tissue), but the underlying margin structure is intact and clearly serrate.\n####",
+        "thinking": null,
+        "few_shot_delivery": {
+          "n_examples": 0,
+          "n_exemplar_images": 0,
+          "n_specimen_images": 5,
+          "max_images": 10,
+          "images_over_budget": false,
+          "prompt_chars": 940
+        }
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 1659.651280999924
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 1659.651280999924,
+  "benchmark_metadata": {
+    "scientific_name": "Lisianthius jefensis",
+    "family": "Gentianaceae",
+    "genus": "Lisianthius",
+    "species_epithet": "jefensis",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

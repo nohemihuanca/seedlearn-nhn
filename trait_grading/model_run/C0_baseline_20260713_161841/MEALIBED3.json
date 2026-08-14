@@ -1,0 +1,91 @@
+{
+  "specimen_id": "MEALIBED3",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rubiaceae/by_genus/Alibertia/by_species/edulis/MEALIBED3/Rubiaceae_Alibertia_edulis_MEALIBED3_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rubiaceae/by_genus/Alibertia/by_species/edulis/MEALIBED3/Rubiaceae_Alibertia_edulis_MEALIBED3_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rubiaceae/by_genus/Alibertia/by_species/edulis/MEALIBED3/Rubiaceae_Alibertia_edulis_MEALIBED3_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rubiaceae/by_genus/Alibertia/by_species/edulis/MEALIBED3/Rubiaceae_Alibertia_edulis_MEALIBED3_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rubiaceae/by_genus/Alibertia/by_species/edulis/MEALIBED3/Rubiaceae_Alibertia_edulis_MEALIBED3_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "whorled",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "lanceolate",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "visible, closely spaced, numerous",
+            "surface_features": "shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "absent",
+            "color": "green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Multiple images show the same seedling from different angles. Leaves exhibit minor damage (holes present) on some blades, likely from mechanical or environmental causes. The seedling is growing in leaf litter with surrounding debris. The whorled leaf arrangement is consistent across all images, with 4-5 leaves per node. No flowers, fruits, or reproductive structures are visible."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): whorled (multiple leaves clearly attached at a single node, visible in close-up images)\n    2. Leaf spacing (clustered / distal): clustered (leaves appear grouped at the top of the stem, with no clear elongated internodes visible)\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): simple (each leaf is a single blade without subdivisions)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): N/A\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): N/A\n    6. Leaflet arrangement (opposite / alternate / subopposite): N/A\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (smooth margin with no visible teeth or serrations)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): lanceolate (long, narrow leaves tapering to a point)\n    9. Leaf apex (acute, obtuse, acuminate): acute (tapering to a sharp point)\n    10. Leaf base (rounded, cordate, cuneate): cuneate (tapering to a narrow base)\n    11. Venation type (pinnate / palmate / parallel): pinnate (single midrib with lateral veins branching off)\n    12. Secondary veins (visibility, spacing, number): visible, closely spaced, numerous (secondary veins clearly visible and running parallel to each other, close together)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): shiny (surface appears glossy and reflective)\n    14. Leaf surface trichomes (present / absent): absent (no visible hairs or fuzz on leaf surface)\n    15. Petiole length (short / long): short (petioles are very short, leaves appear nearly sessile)\n    16. Petiole features (winged / grooved / terete): terete (petioles are round in cross-section, no wings or grooves)\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): herbaceous (stem appears soft and green, not woody)\n    18. Stem trichomes (present / absent): absent (no visible hairs on stem)\n    19. Stem color: green (stem is light to medium green)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (stem surface appears smooth, no visible ridges or lenticels)\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules visible at leaf bases)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no latex exudate visible)\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no swollen joint at leaf base visible)\n    24. Tendrils (present / absent): absent (no tendrils visible)\nF. Notes: Multiple images show the same seedling from different angles. Leaves exhibit minor damage (holes present) on some blades, likely from mechanical or environmental causes. The seedling is growing in leaf litter with surrounding debris. The whorled leaf arrangement is consistent across all images, with 4-5 leaves per node. No flowers, fruits, or reproductive structures are visible.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 18816.82570790872
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 18816.82570790872,
+  "benchmark_metadata": {
+    "scientific_name": "Alibertia edulis",
+    "family": "Rubiaceae",
+    "genus": "Alibertia",
+    "species_epithet": "edulis",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

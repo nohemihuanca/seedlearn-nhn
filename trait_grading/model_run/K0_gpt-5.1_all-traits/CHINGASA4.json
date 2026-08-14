@@ -1,0 +1,47 @@
+{
+  "specimen_id": "CHINGASA4",
+  "source_answer_key": "Fabaceae_Inga_sapindoides_CHINGASA4",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "whorled",
+            "spacing": "distal"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "acuminate",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "visible, moderately close, numerous",
+            "surface_features": "glabrous, dull",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "present",
+            "color": "green to brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Leaf blades show scattered pale spots and some holes or missing margin areas; seedling is growing among leaf litter on a moist forest floor visible in the images; a different, more finely toothed seedling is present nearby but distinct from the focal individual."
+        }
+      }
+    }
+  }
+}

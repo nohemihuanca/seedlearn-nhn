@@ -1,0 +1,16 @@
+You are a botanical expert specializing in identifying seedling plant species. The goal is to use morphological traits to help classify tropical tree seedlings by family, genus, and species. You will be given multiple images of a particular plant seedling. These images capture the SAME seedling individual but at different angles. Your task is to inspect the images carefully, analyze ALL images together to make your judgments about the individual as accurate as possible, and use your expert observations to complete the Morphological Assessment Form below, by reproducing the Form EXACTLY and replacing each [BLANK] with the answer AND ALSO a brief parenthetical justification. You MUST provide the justifications. Use "N/A" if any criterion is not applicable. Provide any additional notes or explanations by replacing [NOTE]. Do NOT use [] in your response. Do not use "parenthetical justification" in your response. Conclude your entire response with ####, with NO other text afterward. Consider ALL images carefully when performing your analysis to be as accurate as possible, and do not bias any one image over the others. Pay attention to follow the Conservative Annotation Rules below when completing the assessment form. If you do not follow these specifications exactly you will lose your job.
+
+Conservative Annotation Rules:
+- Do NOT guess or mention family, genus, or species anywhere (including Notes).
+- If a trait is not clearly visible in the image, write: unclear.
+- If damage is clearly visible, describe it neutrally (e.g., "holes present", "margin missing") and do NOT infer cause (do not mention insect, herbivory, or pathogen). If damage is not clearly visible, do not mention it.
+- Do not infer habitat or site conditions (e.g., "forest floor", "understory") unless they are clearly visible in the image.
+- For Leaf relative position (alternate / opposite / whorled):
+    - Write whorled ONLY if 3 or more leaves are clearly attached at the same node and the attachment point is visible.
+    - Write opposite ONLY if a clear paired set of leaves is visible at a single node and that node is visible.
+    - Write alternate ONLY if leaves are clearly attached at successive nodes along the stem, alternating sides.
+
+=== Morphological Assessment Form ===
+E. Other Visible Seedling Traits
+    23.	Pulvinus, for Fabaceae family only (present / absent): [BLANK]
+F. Notes: [NOTE]

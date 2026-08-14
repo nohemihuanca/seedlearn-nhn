@@ -1,0 +1,47 @@
+{
+  "specimen_id": "CHARDIPE7",
+  "source_answer_key": "Primulaceae_Ardisia_pellucida_CHARDIPE7",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "whorled",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "1",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "toothed, serrate",
+            "shape": "elliptic-lanceolate",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "very prominent and strongly raised, closely spaced, numerous pairs",
+            "surface_features": "shiny and rugose",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "unclear",
+            "trichomes": "unclear",
+            "color": "pink to reddish",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Leaves arranged in a tight crown at the shoot tip with a rosette-like appearance (multiple leaves emerging from a short, central stem segment). Leaf blades are oblong to elliptic with acute tips, glossy surface, and clearly serrated margins; numerous holes present on several blades. Midrib thick and raised, with impressed lateral veins giving a quilted texture. A prominent terminal cluster of small, round structures is visible at the center, likely representing developing flowers or fruits on a short inflorescence axis."
+        }
+      }
+    }
+  }
+}

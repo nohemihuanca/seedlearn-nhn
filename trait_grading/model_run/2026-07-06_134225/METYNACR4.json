@@ -1,0 +1,481 @@
+{
+  "specimen_id": "METYNACR4",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Tynanthus/by_species/croatianus/METYNACR4/Bignoniaceae_Tynanthus_croatianus_METYNACR4_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Tynanthus/by_species/croatianus/METYNACR4/Bignoniaceae_Tynanthus_croatianus_METYNACR4_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Tynanthus/by_species/croatianus/METYNACR4/Bignoniaceae_Tynanthus_croatianus_METYNACR4_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Tynanthus/by_species/croatianus/METYNACR4/Bignoniaceae_Tynanthus_croatianus_METYNACR4_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Tynanthus/by_species/croatianus/METYNACR4/Bignoniaceae_Tynanthus_croatianus_METYNACR4_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "alternate",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "compound",
+            "compound_type": "odd-pinnate",
+            "num_leaflets": "8",
+            "leaflet_arrangement": "alternate"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "acute",
+            "base": "rounded",
+            "venation": "pinnate",
+            "secondary_veins": "visible, moderately spaced, 3\u20135 pairs per leaflet",
+            "surface_features": "glabrous, dull",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "absent",
+            "color": "green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Some leaf damage is visible, including holes and margin irregularities on lower leaves, likely due to mechanical or environmental factors. The seedling is marked with a plastic tag and pink flag, indicating it is part of a monitoring or research plot. Images show the same individual from multiple angles; the compound leaf structure with 3\u20134 leaflets per side and a terminal leaflet is consistent across views. The overall growth form is upright with clustered leaves at the apex."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): alternate (leaves are attached at successive nodes along the stem, alternating sides; no paired or whorled arrangement visible)\n    2. Leaf spacing (clustered / distal): clustered (leaves appear grouped near the apex of the stem, with no long internodes between leaf nodes)\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): compound (each leaf is composed of multiple leaflets attached to a central rachis)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): odd-pinnate (the terminal leaflet is present, with leaflets arranged in pairs along the rachis)\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): 8 (each compound leaf has 4 leaflets on each side of the rachis plus a terminal leaflet, totaling 9; however, some leaves appear to have 3\u20134 leaflets per side, so 8 is the most consistent estimate across visible leaves)\n    6. Leaflet arrangement (opposite / alternate / subopposite): alternate (leaflets are arranged alternately along the rachis, not in direct pairs)\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (margins are smooth with no visible teeth or serrations)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): elliptic (leaflets are broadly oval with rounded base and tapering apex)\n    9. Leaf apex (acute, obtuse, acuminate): acute (leaflets taper to a sharp point at the tip)\n    10. Leaf base (rounded, cordate, cuneate): rounded (base of leaflets is broadly rounded, not tapered or heart-shaped)\n    11. Venation type (pinnate / palmate / parallel): pinnate (main vein runs from base to apex, with secondary veins branching off laterally)\n    12. Secondary veins (visibility, spacing, number): visible, moderately spaced, 3\u20135 pairs per leaflet (secondary veins are clearly visible and run from midrib to margin, with moderate spacing)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): glabrous, dull (surface appears smooth without hairs, with a matte finish; not glossy)\n    14. Leaf surface trichomes (present / absent): absent (no visible hairs or trichomes on leaf surface)\n    15. Petiole length (short / long): short (petioles are relatively short, supporting the compound leaf structure without elongation)\n    16. Petiole features (winged / grooved / terete): terete (petioles are round in cross-section, without wings or grooves)\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): herbaceous (stem appears green, soft, and flexible, typical of young seedlings; no visible bark or woody texture)\n    18. Stem trichomes (present / absent): absent (no visible hairs on stem surface)\n    19. Stem color: green (stem is uniformly green, with slight reddish tinge at base in some images)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (surface is even and unbroken, without ridges or lenticels)\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules observed at leaf bases)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no exudate visible when stem or leaf is broken; no latex seen)\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no swollen joints at leaflet bases visible; pulvinus not observed)\n    24. Tendrils (present / absent): absent (no tendrils observed on stem or leaf structures)\nF. Notes: Some leaf damage is visible, including holes and margin irregularities on lower leaves, likely due to mechanical or environmental factors. The seedling is marked with a plastic tag and pink flag, indicating it is part of a monitoring or research plot. Images show the same individual from multiple angles; the compound leaf structure with 3\u20134 leaflets per side and a terminal leaflet is consistent across views. The overall growth form is upright with clustered leaves at the apex.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 23000.10503595695
+    },
+    "classification": {
+      "data": {
+        "predictions_by_rank": {
+          "family": [
+            {
+              "rank_value": "Bignoniaceae",
+              "softmax_score": 0.02729000896215439,
+              "rank_position": 1,
+              "l2_distance": 0.802918553352356,
+              "cosine_similarity": 0.6655020713806152
+            },
+            {
+              "rank_value": "Picramniaceae",
+              "softmax_score": 0.027156049385666847,
+              "rank_position": 2,
+              "l2_distance": 0.8078393936157227,
+              "cosine_similarity": 0.6010507345199585
+            },
+            {
+              "rank_value": "Connaraceae",
+              "softmax_score": 0.026696909219026566,
+              "rank_position": 3,
+              "l2_distance": 0.8248913884162903,
+              "cosine_similarity": 0.5708626508712769
+            },
+            {
+              "rank_value": "Sapindaceae",
+              "softmax_score": 0.02444116584956646,
+              "rank_position": 4,
+              "l2_distance": 0.9131703972816467,
+              "cosine_similarity": 0.4115535616874695
+            },
+            {
+              "rank_value": "Euphorbiaceae",
+              "softmax_score": 0.023967906832695007,
+              "rank_position": 5,
+              "l2_distance": 0.9327234625816345,
+              "cosine_similarity": 0.416572242975235
+            }
+          ],
+          "genus": [
+            {
+              "rank_value": "Tynanthus",
+              "softmax_score": 0.016512896865606308,
+              "rank_position": 1,
+              "l2_distance": 0.5487086772918701,
+              "cosine_similarity": 0.8426735401153564
+            },
+            {
+              "rank_value": "Pleonotoma",
+              "softmax_score": 0.014595522545278072,
+              "rank_position": 2,
+              "l2_distance": 0.6721355319023132,
+              "cosine_similarity": 0.7443482875823975
+            },
+            {
+              "rank_value": "Picramnia",
+              "softmax_score": 0.012743367813527584,
+              "rank_position": 3,
+              "l2_distance": 0.8078393936157227,
+              "cosine_similarity": 0.6010507345199585
+            },
+            {
+              "rank_value": "Stizophyllum",
+              "softmax_score": 0.012543917633593082,
+              "rank_position": 4,
+              "l2_distance": 0.8236144781112671,
+              "cosine_similarity": 0.5861369371414185
+            },
+            {
+              "rank_value": "Cnestidium",
+              "softmax_score": 0.01247058343142271,
+              "rank_position": 5,
+              "l2_distance": 0.829477846622467,
+              "cosine_similarity": 0.561037540435791
+            }
+          ],
+          "species": [
+            {
+              "rank_value": "Tynanthus croatianus",
+              "softmax_score": 0.011773267760872841,
+              "rank_position": 1,
+              "l2_distance": 0.5487086772918701,
+              "cosine_similarity": 0.8426735401153564
+            },
+            {
+              "rank_value": "Pleonotoma variabilis",
+              "softmax_score": 0.01040622964501381,
+              "rank_position": 2,
+              "l2_distance": 0.6721355319023132,
+              "cosine_similarity": 0.7443482875823975
+            },
+            {
+              "rank_value": "Picramnia latifolia",
+              "softmax_score": 0.009085691533982754,
+              "rank_position": 3,
+              "l2_distance": 0.8078393936157227,
+              "cosine_similarity": 0.6010507345199585
+            },
+            {
+              "rank_value": "Stizophyllum riparium",
+              "softmax_score": 0.008943487890064716,
+              "rank_position": 4,
+              "l2_distance": 0.8236144781112671,
+              "cosine_similarity": 0.5861369371414185
+            },
+            {
+              "rank_value": "Cnestidium rufescens",
+              "softmax_score": 0.008891202509403229,
+              "rank_position": 5,
+              "l2_distance": 0.829477846622467,
+              "cosine_similarity": 0.561037540435791
+            }
+          ]
+        },
+        "margin_by_rank": {
+          "family": 0.0001339595764875412,
+          "genus": 0.0019173743203282356,
+          "species": 0.0013670381158590317
+        },
+        "per_image_predictions": [
+          {
+            "image_path": "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Tynanthus/by_species/croatianus/METYNACR4/Bignoniaceae_Tynanthus_croatianus_METYNACR4_001.jpg",
+            "top1_label": "Bignoniaceae",
+            "top1_softmax_score": 0.026750272139906883
+          },
+          {
+            "image_path": "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Tynanthus/by_species/croatianus/METYNACR4/Bignoniaceae_Tynanthus_croatianus_METYNACR4_002.jpg",
+            "top1_label": "Bignoniaceae",
+            "top1_softmax_score": 0.02626373991370201
+          },
+          {
+            "image_path": "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Tynanthus/by_species/croatianus/METYNACR4/Bignoniaceae_Tynanthus_croatianus_METYNACR4_003.jpg",
+            "top1_label": "Bignoniaceae",
+            "top1_softmax_score": 0.027653750032186508
+          },
+          {
+            "image_path": "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Tynanthus/by_species/croatianus/METYNACR4/Bignoniaceae_Tynanthus_croatianus_METYNACR4_004.jpg",
+            "top1_label": "Bignoniaceae",
+            "top1_softmax_score": 0.026587078347802162
+          },
+          {
+            "image_path": "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Tynanthus/by_species/croatianus/METYNACR4/Bignoniaceae_Tynanthus_croatianus_METYNACR4_005.jpg",
+            "top1_label": "Bignoniaceae",
+            "top1_softmax_score": 0.025141650810837746
+          }
+        ],
+        "nearest_support": [
+          {
+            "label": "Bignoniaceae",
+            "l2_distance": 0.678159773349762,
+            "cosine_similarity": 0.7700495719909668,
+            "image_path": "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Tynanthus/by_species/croatianus/METYNNCR2/Bignoniaceae_Tynanthus_croatianus_METYNNCR2_004.jpg"
+          },
+          {
+            "label": "Bignoniaceae",
+            "l2_distance": 0.701066792011261,
+            "cosine_similarity": 0.7542527318000793,
+            "image_path": "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Tynanthus/by_species/croatianus/METYNNCR4/Bignoniaceae_Tynanthus_croatianus_METYNNCR4_004.jpg"
+          },
+          {
+            "label": "Bignoniaceae",
+            "l2_distance": 0.7097490429878235,
+            "cosine_similarity": 0.7481281161308289,
+            "image_path": "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Tynanthus/by_species/croatianus/METYNNCR2/Bignoniaceae_Tynanthus_croatianus_METYNNCR2_005.jpg"
+          },
+          {
+            "label": "Bignoniaceae",
+            "l2_distance": 0.7162266969680786,
+            "cosine_similarity": 0.7435095310211182,
+            "image_path": "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Tynanthus/by_species/croatianus/METYNNCR6/Bignoniaceae_Tynanthus_croatianus_METYNNCR6_002.jpg"
+          },
+          {
+            "label": "Bignoniaceae",
+            "l2_distance": 0.717444658279419,
+            "cosine_similarity": 0.7426365613937378,
+            "image_path": "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Tynanthus/by_species/croatianus/METYNNCR6/Bignoniaceae_Tynanthus_croatianus_METYNNCR6_001.jpg"
+          }
+        ],
+        "embedding_dim": 768,
+        "num_images_pooled": 5,
+        "hierarchical_consistency": {
+          "consistent": true,
+          "notes": [],
+          "family_genus_agree": true,
+          "species_genus_agree": true,
+          "species_family_agree": true
+        }
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 180.00460998155177
+    },
+    "trait_retrieval": {
+      "data": {
+        "query": "Tropical tree seedling with relative_position: alternate, spacing: clustered, type: compound, compound_type: odd-pinnate, num_leaflets: 8, leaflet_arrangement: alternate, margin: entire, shape: elliptic, apex: acute, base: rounded, venation: pinnate, secondary_veins: visible, moderately spaced, 3\u20135 pairs per leaflet, surface_features: glabrous, dull, trichomes: absent, petiole_length: short, petiole_features: terete, type: herbaceous, trichomes: absent, color: green, texture: smooth, stipules: absent, pulvinus: absent, tendrils: absent, notes: some leaf damage is visible, including holes and margin irregularities on lower leaves, likely due to mechanical or environmental factors. the seedling is marked with a plastic tag and pink flag, indicating it is part of a monitoring or research plot. images show the same individual from multiple angles; the compound leaf structure with 3\u20134 leaflets per side and a terminal leaflet is consistent across views. the overall growth form is upright with clustered leaves at the apex.",
+        "rag_matches": [
+          {
+            "taxon": "Protium stevensonii",
+            "rank": "Species",
+            "description": "Locating an individual\nIt is mainly observed towards the Southern Boundary (LS), Quebrada El Salto, etc., in rolling or broken terrain.\nDistribution\nFrom Belize to Venezuela, the Guianas, Brazil, and Bolivia. In Costa Rica, it is widely distributed in the medium to low elevations of both slopes, in climates ranging from humid to very humid, although it prefers climates with marked seasonality; 0-700-800 m.\nHabit\nTrees, 15-35 m tall.\nTrunk\nTrunk with reddish-brown outer bark.\nBark\nOuter bark reddish-brown, scaly, inner bark reddish with a pleasant mango scent; white or milky resinous sap.\nLeaves\nOdd-pinnate leaves, with 7-9 leaflets, elliptical, oblong, or oblong-lanceolate, 5-21 x 4-7.2 cm, apex acuminate to abruptly acuminate, base obtuse to asymmetric, generally glabrous; petiolules without evident pulvini, margin entire; petioles 4-14 cm long.\nFlowers\nInflorescences are panicles, 3-15 cm long, axillary. Yellowish or greenish-yellow flowers (unisexual); calyx with 5 lobes, 1-1.5 mm long, cuculiform; petals (tubular corolla), with 5 lobes, 5-5.5 mm long; stamens 10, 1 mm long, filaments inserted at the base of the disc; annular disc with 10 lobes; ovary with 5 lobes, ovoid, with 5 locules; style 1, stigma with 5 lobes.\nFruits\nCapsular and drupe-like fruits, 1.5-2.5 x 1.5 x 3 cm, ovoid or more or less turbinate, with 2-5 lobes, dehiscent by 4-5 valves, scarlet red inside, red to black when mature; pyrenes 3-5, 12-13 mm thick, white, the mesocarp (pseudoaril) reddish turning white upon exposure (dehiscence), fleshy, juicy, sweet, and edible.\nDiagnosis\nCharacterized by being a large tree, the bark on mature trees is somewhat scaly, lenticellate, and the inner bark has a very particular and pleasant mango scent. At the vegetative level, it is sometimes confused with the genus Protium, although its leaves lack pulvinated petiolules and the turpentine aroma when crushed. Its fruits are distinctive for their peculiar turbinate shape.\nHabitat\nIn the Forest; it is mainly observed towards the Southern Boundary (LS), Quebrada El Salto, etc., in rolling or broken terrain.\nPhenology\nFlowers observed in June and August; fruits in August and February.",
+            "score": 0.679004430770874
+          },
+          {
+            "taxon": "Protium stevensonii",
+            "rank": "Species",
+            "description": "Locating an individual\nIt is mainly observed towards the Southern Boundary (LS), Quebrada El Salto, etc., in rolling or broken terrain.\nDistribution\nFrom Belize to Venezuela, the Guianas, Brazil, and Bolivia. In Costa Rica, it is widely distributed in the medium to low elevations of both slopes, in climates ranging from humid to very humid, although it prefers climates with marked seasonality; 0-700-800 m.\nHabit\nTrees, 15-35 m tall.\nTrunk\nTrunk with reddish-brown outer bark.\nBark\nOuter bark reddish-brown, scaly, inner bark reddish with a pleasant mango scent; white or milky resinous sap.\nLeaves\nOdd-pinnate leaves, with 7-9 leaflets, elliptical, oblong, or oblong-lanceolate, 5-21 x 4-7.2 cm, apex acuminate to abruptly acuminate, base obtuse to asymmetric, generally glabrous; petiolules without evident pulvini, margin entire; petioles 4-14 cm long.\nFlowers\nInflorescences are panicles, 3-15 cm long, axillary. Yellowish or greenish-yellow flowers (unisexual); calyx with 5 lobes, 1-1.5 mm long, cuculiform; petals (tubular corolla), with 5 lobes, 5-5.5 mm long; stamens 10, 1 mm long, filaments inserted at the base of the disc; annular disc with 10 lobes; ovary with 5 lobes, ovoid, with 5 locules; style 1, stigma with 5 lobes.\nFruits\nCapsular and drupe-like fruits, 1.5-2.5 x 1.5 x 3 cm, ovoid or more or less turbinate, with 2-5 lobes, dehiscent by 4-5 valves, scarlet red inside, red to black when mature; pyrenes 3-5, 12-13 mm thick, white, the mesocarp (pseudoaril) reddish turning white upon exposure (dehiscence), fleshy, juicy, sweet, and edible.\nDiagnosis\nCharacterized by being a large tree, the bark on mature trees is somewhat scaly, lenticellate, and the inner bark has a very particular and pleasant mango scent. At the vegetative level, it is sometimes confused with the genus Protium, although its leaves lack pulvinated petiolules and the turpentine aroma when crushed. Its fruits are distinctive for their peculiar turbinate shape.\nHabitat\nIn the Forest; it is mainly observed towards the Southern Boundary (LS), Quebrada El Salto, etc., in rolling or broken terrain.\nPhenology\nFlowers observed in June and August; fruits in August and February.",
+            "score": 0.679004430770874
+          },
+          {
+            "taxon": "Inga punctata",
+            "rank": "Species",
+            "description": "Guavita cansa-boca, Bribri, Guava, Guava del mono Tree, to 15 m tall; branchlets sparsely strigose when young, glabrate in age, minutely lenticellate, minutely ribbed below petioles (at least when dried). Leaves strigose throughout, especially on axis and midrib of leaflets; petiole and rachis terete to narrowly margined; leaflets in 2 or 3 pairs, lanceolate to elliptic, long-acuminate, acute to rounded at base, the terminal pair 9-18 cm long, 3.5-7.5 cm wide. Spikes axillary, in groups of 1-7; peduncle and rachis strigose; peduncles 2-4 cm long; rachis much shorter, 1-2.5 cm long; bracts subulate, to \u00b1 2 mm long; calyx puberulent, 3-5 mm long, the lobes \u00b1 1 mm long; corolla moderately sericeous, 5-9 mm long, the lobes to 2 mm long; stamens and style to ca 2 cm long. Legumes flat, to 16 cm long and 2 cm wide, minutely puberulent, the margins raised.",
+            "score": 0.6690794229507446
+          },
+          {
+            "taxon": "Trichilia",
+            "rank": "Genus",
+            "description": "Tree, 5-20 m tall; outer bark minutely fissured, thin (bearing short, raised, horizontal lines on inner surface); inner bark reddish-brown on the outer edge, bearing impressed short horizontal lines, the sap with sweet, distinctive aroma; young twigs, rachises, axes of inflorescences and of leaves moderately short-appressed pubescent, glabrous in age. Leaves alternate, pinnate, mostly 8-25 cm long, essentially glabrous; petioles flat on upper surface with marginal ribs; leaflets usually alternate, often dimorphic, those of full size usually 3-5, often with 1 or 2 pairs of minute, aborted leaflets at base, rarely with 7 full-sized leaflets, the blades \u00b1 elliptic, acuminate, acute to obtuse at base, 6-16 cm long, 2.5-6(7) cm wide; major lateral veins mostly 8-12, scarcely raised below, joining before the margin, the midrib usually flat above. Panicles solitary in upper axils, 5-17 cm long; flowers greenish, mostly 5-parted; calyx bowl-shaped, shallowly lobed, 1-2 mm long, glabrate; petals ovate, 2-3 mm long, usually glabrous but with minute papillae on margin; staminal tube one-half to two-thirds as long as petals, much broader than long, moderately to sparsely pubescent outside at least toward base (often glabrous outside in South America), sparsely to densely pubescent inside; anthers twice the number of petals, slender, slightly tapered toward apex, ca 1 mm long, dehiscing along lateral margins, alternating with and \u00b1 equaling acicular lobes of staminal tube; ovary broadly ovoid, 1-2 mm wide, with 2 or 3 (4) locules, the trichomes dense, appressed, white on basal half; style \u00b1 equaling ovary at anthesis; stigma capitate, inconspicuously lobed, held about at height of anthers. Fruits \u00b1 globose, green at maturity, weakly verrucose, 2-3 cm diam, \u00b1 glabrous, dehiscing by 3 valves; seeds 1 or 2, covered with a shiny red aril. Rare; collected only along the shore between Bat Cove and the dock. Flowers from March to May. The fruits mature from August to September.",
+            "score": 0.6660094261169434
+          },
+          {
+            "taxon": "Trichilia tuberculata",
+            "rank": "Species",
+            "description": "Tree, to 30 m tall and 40 cm dbh (often much shorter along the shore); outer bark hard, closely fissured; inner bark red; younger stems, leaf rachises, and axes of inflorescences densely strigose and puberulent (in Panama) or sparsely strigose, sparsely puberulent, or nearly glabrous (often in South America). Leaves alternate, imparipinnate, mostly 15-30 cm long; petioles flat on upper surface with marginal ribs; leaflets apparently never dimorphic, usually 5-9 (rarely 3 or 10), usually alternate, \u00b1 elliptic, acuminate, obtuse-attenuate at base, 4-21 cm long, 1.5-8 cm wide, usually glabrous or minutely puberulent and/or strigose on midrib on both surfaces, rarely strigose below; midrib sharply raised. Panicles axillary (often appearing terminal), mostly 8-20 cm long; flowers white or greenish-yellow, 4-6-parted, as wide as long, globular in bud, the trichomes (at least on calyx) erect or appressed; calyx saucer-shaped, the lobes acute or blunt; petals valvate, ovate, to ca 2 mm long, glabrous or sparsely appressed-pubescent outside, glabrous inside, the margins papillose-puberulent; staminal tube two-thirds to three-fourths as long as petals, broader than long, glabrous outside and in but sometimes pubescent inside near apex, the lobes narrowly acute; anthers twice as many as petals, very narrowly ovoid, ca 0.5 mm long, alternating with and usually longer than lobes of staminal tube; ovary broadly ovoid, densely appressed-pubescent with white trichomes all over; style usually glabrous. Capsules ellipsoid, 11-18 mm long, orange at maturity, prominently tuberculate, the 3 (4) valves folding back to expose shiny red aril; seeds 1 or 2, smooth, ellipsoid, ca 1 cm long. Abundant as seedlings; common as adults in the forest, especially in the old forest. Flowering is bimodal, but principally from April to June, especially in June; a second but much smaller flowering period may occur from September to November. [unclear reference] The fruits from the first flowering mature mostly during September and October, especially in October; mature fruits from the second flowering have been seen in June.",
+            "score": 0.6616702079772949
+          },
+          {
+            "taxon": "Protium tenuifolium",
+            "rank": "Species",
+            "description": "Functionally unisexual tree, to 18 m tall, to 27 cm dbh; outer bark thin, flaking in firm sheets, lenticellate; inner bark moderately thick, reddish; sap slowly forming viscid, cloudy droplets after slash, with strong, sweet aroma; stems glabrous, prominently brown-lenticellate. Leaves imparipinnate; petioles flattened above with sharp margins; petiolules thickened at both ends; leaflets 5-9 (13), mostly oblong to oblong-elliptic, acuminate with blunt acumen, acute to rounded at base, often \u00b1 inequilateral, 10-20(27) cm long, 5-9(12) cm wide, glabrous except for minute papillae. Panicles axillary, near stem apex, the branches ferruginous; staminate inflorescences somewhat larger than pistillate inflorescences (to 24 cm long); flowers 5-parted, sessile, 3.5-5 mm long; calyx to 2 mm long, cupulate, 5-lobed, minutely pubescent, the lobes acute; petals lanceolate, yellow-green, thickened medially on outside, ca 3 mm long, erect to somewhat spreading at anthesis; stamens 10, alternately long and short, the longest to 2 mm long, the shortest to 1.3 mm long, scarcely longer than the prominent, pubescent disk; ovary ovoid, densely pubescent; style short, the ovary and style together ca 2.7 mm long; stigma 5-lobed, persisting in fruit. Capsules drupaceous, bearing 1-5 pyrenes, ovoid to depressed-globose, with 4 or 5 lobes (rarely 2- or 3-lobed), mostly 2-3 cm diam, red at maturity, usually rounded at both ends, the carpels 4 or 5, each dehiscing by a single valve, the valve falling free to expose the white mesocarp surrounding the pyrene; pyrenes black, 1 per carpel, 1-seeded, ovoid in face view, irregular in side view. Croat 11109, 14822. Common along the shore; occasional in the forest. Flowers chiefly in April and May. The fruits mature chiefly in the middle of the rainy season (August to October). Small bees, possibly Trigona species, have been seen visiting the flowers. The fruits are edible. Costa Rica and Panama. In Panama, known only from tropical moist forest in the Canal Zone, Chiriqui Province, Panama, and Darien Province. Reported from tropical wet forest in Costa Rica (Holdridge et al, 1971).",
+            "score": 0.6616495847702026
+          },
+          {
+            "taxon": "Amaioua glomerulata",
+            "rank": "Species",
+            "description": "Dioecious shrub or tree, to 15 m tall; trunk slender or to 20 cm dbh and deeply invaginated; stems sericeous when very young, glabrate in age, with conspicuous leaf scars. Leaves somewhat clustered at apex of branchlets; stipules caducous, to 1 cm long, sericeous, leaving a conspicuous interpetiolar line of trichomes; petioles 6-14 mm long, sericeous to glabrate; blades ovate-elliptic to obovate-elliptic, abruptly short-acuminate, usually obtuse and \u00b1 decurrent onto petiole at base, 7-13(21) cm long, 3.5-8 (12) cm wide, glabrous or with sparse long trichomes on major veins below and tufts of trichomes in axils, the margins ciliate and \u00b1 revolute.",
+            "score": 0.66024249792099
+          },
+          {
+            "taxon": "Tapirira guianensis",
+            "rank": "Species",
+            "description": "Locating an individual\nCentral Road (CC) 1300 m, Left.\nDistribution\nFrom Honduras to Bolivia, Paraguay, and southeastern Brazil. In Costa Rica, widespread in mainly very humid climates on both slopes, 10-1,300 m.\nHabit\nTree, 15-35 m tall.\nTrunk\nTrunk with reddish-brown bark, slightly scaly, inner color pink and with slight resinous-milky secretion, short branches; glabrous twigs; stipules absent.\nBark\nReddish-brown bark, slightly scaly, inner color pink and with slight resinous-milky secretion.\nLeaves\nCompound odd-pinnate leaves, alternate, leaflets 5-13, 7.5-23 x 2.5-11.2 cm, elliptical to oblong-elliptical, apex short-acuminate, base asymmetric, opposite, glabrous or slightly pubescent on the underside near the central vein, margin entire; petiole 4-20 cm long.\nFlowers\nFlowers (unisexual) white to yellowish-green and cream; sepals 5, 0.4-0.9 mm long; petals 5, 1.4-2.2 mm long; stamens (8-) 10, unequal, staminodes present in pistillate flowers. The inflorescences have a broad subterminal panicle, with many flowers, 10-35 cm long, rusty-puberulent.\nFruits\nFruit a drupe, 1-1.8 x 0.8-1.3 cm, ovoid, oblong or obovoid, exocarp dark purple to black, endocarp cartilaginous.\nSeeds\nSeed 1.\nDiagnosis\nCharacterized by its compound leaves, leaflets with entire margins, asymmetric at the base and secondary veins weakly forming a submarginal vein (brochidodromous venation), young leaves with silky pubescence on the underside. Its vegetative appearance and trunk color, as well as its inner bark, resemble or may confuse it with a species of Trichilia (Meliaceae), hence its vernacular names. In mature trees, when making a cut on the trunk, it secretes a slight milky sap in the cambium area.\nHabitat\nIn the rainforest, both in primary forest and secondary vegetation.\nPhenology\nFlowers observed in May, fruits in October.",
+            "score": 0.6589450836181641
+          },
+          {
+            "taxon": "Tapirira guianensis",
+            "rank": "Species",
+            "description": "Locating an individual\nCentral Road (CC) 1300 m, Left.\nDistribution\nFrom Honduras to Bolivia, Paraguay, and southeastern Brazil. In Costa Rica, widespread in mainly very humid climates on both slopes, 10-1,300 m.\nHabit\nTree, 15-35 m tall.\nTrunk\nTrunk with reddish-brown bark, slightly scaly, inner color pink and with slight resinous-milky secretion, short branches; glabrous twigs; stipules absent.\nBark\nReddish-brown bark, slightly scaly, inner color pink and with slight resinous-milky secretion.\nLeaves\nCompound odd-pinnate leaves, alternate, leaflets 5-13, 7.5-23 x 2.5-11.2 cm, elliptical to oblong-elliptical, apex short-acuminate, base asymmetric, opposite, glabrous or slightly pubescent on the underside near the central vein, margin entire; petiole 4-20 cm long.\nFlowers\nFlowers (unisexual) white to yellowish-green and cream; sepals 5, 0.4-0.9 mm long; petals 5, 1.4-2.2 mm long; stamens (8-) 10, unequal, staminodes present in pistillate flowers. The inflorescences have a broad subterminal panicle, with many flowers, 10-35 cm long, rusty-puberulent.\nFruits\nFruit a drupe, 1-1.8 x 0.8-1.3 cm, ovoid, oblong or obovoid, exocarp dark purple to black, endocarp cartilaginous.\nSeeds\nSeed 1.\nDiagnosis\nCharacterized by its compound leaves, leaflets with entire margins, asymmetric at the base and secondary veins weakly forming a submarginal vein (brochidodromous venation), young leaves with silky pubescence on the underside. Its vegetative appearance and trunk color, as well as its inner bark, resemble or may confuse it with a species of Trichilia (Meliaceae), hence its vernacular names. In mature trees, when making a cut on the trunk, it secretes a slight milky sap in the cambium area.\nHabitat\nIn the rainforest, both in primary forest and secondary vegetation.\nPhenology\nFlowers observed in May, fruits in October.",
+            "score": 0.6589450836181641
+          },
+          {
+            "taxon": "Paullinia turbacensis",
+            "rank": "Species",
+            "description": "Adult plants frequent in the forest; seedlings common and recognizable by the large orbicular fimbriate stipules. Flowers in the late rainy season (August to November). The fruits mature within 1 month. Costa Rica to Peru and Brazil. In Panama, known from tropical moist forest in the Canal Zone and Colon and from premontane wet forest in the Canal Zone (Pipeline Road), Veraguas, and Panama (Cerro Jefe). [Paullinia turbacensis] is a tendriled liana; stems terete, \u00b1 glabrous, bearing conspicuous brown lenticels; sap at periphery milky, not copious. Leaves trifoliolate; petioles to 14 cm long, with marginal ribs above, glabrate; leaflets broadly elliptic, acuminate or acute at apex, attenuate to rounded at base, 5-15 cm long, 3-12 cm wide (to 23 cm long and 11 cm wide as juveniles), glabrate but with axillary tufts below, subentire to remotely crenate-dentate. Thyrses small, helicoid, to 7 cm long, solitary or clustered at nodes, often on leafless stems near the ground but occurring to 5 m high; flowers white, ca 5 mm long; petals with the scales ca two-thirds as long as petals, yellow-crested, the anterior scales bilobed, their appendages pubescent, the glands white, acute, densely pubescent; staminal cluster equaling petals; filaments densely pubescent; nectar abundant, stored near the large glands; ovary glabrous; styles pubescent. Capsules elliptic to obovate, 2 cm long, red, short-pubescent, the 3 boat-shaped valves broadly spreading to expose seeds; seeds 1-3, black, shiny, less than 1 cm long, covered on the lower half by a fleshy white aril, dangling on a thin funiculus when fully displayed.",
+            "score": 0.6585862636566162
+          },
+          {
+            "taxon": "Inga pezizifera",
+            "rank": "Species",
+            "description": "Tree, to 27 m tall and 40 cm dbh, glabrous to puberulent throughout; trunk \u00b1 involuted with many prominent horizontal wrinkles; outer bark thin; inner bark reddish; young stems very prominently lenticellate. Petioles margined; rachis margined to narrowly winged; leaflets in 2-5 (usually 4) pairs, narrowly ovate to lanceolate-elliptic or oblanceolate, acuminate, rounded to acute at base, slightly asymmetrical, the terminal pair 8-22 cm long, 2.5-8 cm wide. Spikes axillary in groups of 1-6; peduncles 1.5-3.5 cm long; rachis shorter than peduncle, very densely flowered, 0.5-3 cm long; bracts ca 5 mm long; flowers sessile; calyx 1-2(3) mm long, the lobes ca 0.5 mm long, blunt; corolla 4-8 mm long, the lobes blunt to acute, ca 1 mm long; stamens and style ca 1 cm long. Legumes flat, 10-22 cm long, (2)2.5-3 cm wide, \u00b1 glabrous, \u00b1 straight, the marginal ribs prominent, the fruits probably mature from July to October. Known only from Panama, from tropical moist forest in the Canal Zone, Bocas del Toro, San Bias, Veraguas, Panama, and Darien, from premontane wet forest in Colon, Chiriqui, Code, and Panama.",
+            "score": 0.6565532684326172
+          },
+          {
+            "taxon": "Inga pezizifera",
+            "rank": "Species",
+            "description": "Tree, to 27 m tall and 40 cm dbh, glabrous to puberulent throughout; trunk \u00b1 involuted with many prominent horizontal wrinkles; outer bark thin; inner bark reddish; young stems very prominently lenticellate. Petioles margined; rachis margined to narrowly winged; leaflets in 2-5 (usually 4) pairs, narrowly ovate to lanceolate-elliptic or oblanceolate, acuminate, rounded to acute at base, slightly asymmetrical, the terminal pair 8-22 cm long, 2.5-8 cm wide. Spikes axillary in groups of 1-6; peduncles 1.5-3.5 cm long; rachis shorter than peduncle, very densely flowered, 0.5-3 cm long; bracts ca 5 mm long; flowers sessile; calyx 1-2(3) mm long, the lobes ca 0.5 mm long, blunt; corolla 4-8 mm long, the lobes blunt to acute, ca 1 mm long; stamens and style ca 1 cm long. Legumes flat, 10-22 cm long, (2)2.5-3 cm wide, \u00b1 glabrous, \u00b1 straight, the marginal ribs prominent.",
+            "score": 0.6565532684326172
+          },
+          {
+            "taxon": "Inga punctata",
+            "rank": "Species",
+            "description": "Tree, to 15 m tall; branchlets sparsely strigose when young, glabrate in age, minutely lenticellate, minutely ribbed below petioles (at least when dried). Leaves strigose throughout, especially on axis and midrib of leaflets; petiole and rachis terete to narrowly margined; leaflets in 2 or 3 pairs, lanceolate to elliptic, long-acuminate, acute to rounded at base, the terminal pair 9-18 cm long, 3.5-7.5 cm wide. Spikes axillary, in groups of 1-7; peduncle and rachis strigose; peduncles 2-4 cm long; rachis much shorter, 1-2.5 cm long; bracts subulate, to \u00b1 2 mm long; calyx puberulent, 3-5 mm long, the lobes \u00b1 1 mm long; corolla moderately sericeous, 5-9 mm long, the lobes to 2 mm long; stamens and style to ca 2 cm long. Legumes flat, to 16 cm long and 2 cm wide, minutely puberulent, the margins raised. Common in the forest. Flowers throughout the rainy season (May to December, rarely to January). One individual Inga punctata on Barro Colorado Island flowered for a week in early June in two consecutive years. Mature fruits seen in late dry season. Fruits are similar to those of Inga pezizifera, but that species lacks persistent warty fruit bases. Mexico to Peru; West Indies. In Panama, known from tropical moist forest in the Canal Zone, Bocas del Toro, San Bias, Veraguas, Panama, and Darien, from premontane wet forest in Colon, Chiriqui, Code, and Panama, from tropical wet forest in Panama and Darien and from lower montane wet forest in Chiriqui.",
+            "score": 0.6555219292640686
+          },
+          {
+            "taxon": "Inga sapindoides",
+            "rank": "Species",
+            "description": "Tree, to 15 m tall; branchlets ferruginous-puberulent when young, glabrous and prominently lenticellate in age. Petioles ribbed, 2-7 cm long; rachis winged; petiole and rachis sparsely ferruginous-pubescent; leaflets in 2-5 pairs, obovate to elliptic, acute to acuminate, obtuse to rounded at base, densely tomentose to puberulent especially on midrib and veins below, the terminal pair 11-26 cm long, 4.5-12 cm wide. Spikes usually axillary in groups of 1-3; peduncles usually sparsely tomentose, 1-5(6) cm long; floral rachis much shorter, 0.5-2(3) cm long; bracts to 12 mm long; calyx and corolla sparsely sericeous; calyx 6-13 (17) mm long, the lobes to 2 mm long; corolla 18-30 mm long, the lobes to 3 mm long; stamens and styles 4-5.5 cm long. Legumes tetragonal with prominently ribbed corners, 11-30 cm long, 1.5-3.5 cm wide, ca 1.5 cm thick, glabrate to densely pubescent. Common, at least along the shore. Seasonal behavior uncertain. Flowers from August to May, especially from November to February. Most fruits mature in the rainy season. An extremely variable species. Often planted for shade in coffee plantations. Mexico to Panama; West Indies. In Panama, known from tropical moist forest in the Canal Zone, Bocas del Toro, San Bias, Code, Panama, and Darien and from premontane wet forest in Chiriqui (San Felix).",
+            "score": 0.651664137840271
+          },
+          {
+            "taxon": "Damburneya purpurea",
+            "rank": "Species",
+            "description": "Tree, 4.5-35 m, the young twigs minutely adpressed-pubescent to glabrescent. Leaves with the petiole 0.5-1.2 cm; blade 10-30 X 3.5-12 cm, elliptical to oblong-elliptical, acute to obtuse or (rarely) subtruncate at the base, glabrous on the underside, without domatia or (rarely) with countable trichomes in the axils of the main veins, with (4)5-8 secondary veins on each side. Inflorescences [of Nectandra purpurea] 10-17 cm. Flowers with the tepals (1\u2014)1.2\u20142(\u20142.4) mm. Fruits 1-1.5 cm, ellipsoidal; cup ca. 0.3 cm. Very wet and pluvial forest, 0-1550 m; Caribbean [vertical] Cords. of Guanacaste, Triar\u00e1n and Central (E.B. La Selva), San Carlos and Tortuguero Plains, Low Talamanca, both [vertical] Cord. de Talamanca, [Pacific] vertical, S Coastal Range (Fila Cruces). Flowers [of Nectandra purpurea] May-Sept. [in Nicaragua, Bolivia] and [Venezuela], [in the] Guiana [region], [in] Brazil. (Grayum et al. 8898, MO) Nectandra purpurea is recognized by its leaf blades that dry relatively opaque on the adaxial side, with the secondary veins slightly elevated and interconnected, forming a submarginal vein and by its flowers with the tepals densely covered by brown or yellowish trichomes and (usually) with the staminodes conspicuously elevated. The cupules that dry light brown, \u00b1 puberulent, are also distinctive.",
+            "score": 0.6512932181358337
+          },
+          {
+            "taxon": "Vochysia ferruginea",
+            "rank": "Species",
+            "description": "Tree, 6-25 m tall (taller elsewhere); trunk usually to 30 cm dbh; bark smooth; branches widely spreading, the crown somewhat flattened; branchlets, rachises, and lower leaf surfaces softly ferruginous-tomentulose. Leaves short-petiolate; stipules minute; blades elliptic-oblong, long-acuminate, acute to obtuse at base, glabrous and shiny above except on midrib, 6-13 cm long, 2-4.5 cm wide, the margin revolute. Cincinni terminal and axillary, cylindrical, ca 15 cm long; flowers 1-5, zygomorphic, yellow-orange; calyx lobes 5, unequal, 1 equaling petals and spurred at base, the spur recurved; petals 3, oblong-spatulate, to 1 cm long; stamen 1, opposite the anterior petal, slightly shorter than petals; anther boat-shaped; staminodia 2; style equaling anther, sunken in face of anther in bud; stigma lateral. Capsules 3-angular, \u00b1 oblong-obovoid, 3-celled, obtuse to subretuse at apex, 1.7-2.5 cm long, 5-8 mm wide, slightly verrucose, gray-green; seeds to 2.3 cm long, with a unilateral wing, the limb tomentose. Croat 5428, Foster 1112. Occasional; locally abundant in young areas of the forest, especially north of Barbour Trail, on Gross Peninsula, and on Orchid Island. Flowers from late March to early July, mostly from April to June, with individual trees flowering for as long as 2 months. A second, much smaller flowering may occur in September and October. The fruits mature from August to October. [Nicaragua to Peru and Brazil]. In Panama, known from tropical moist forest in the Canal Zone and Panama and from premontane wet forest in Colon and Panama. Reported from tropical wet and premontane rain forests in Costa Rica (Holdridge et al., 1971).",
+            "score": 0.6487565040588379
+          },
+          {
+            "taxon": "Brosimum",
+            "rank": "Genus",
+            "description": "Life Form: Tree 3. Brosimum Sw., nom. cons. By C.C. Berg. Trees, monoecious or dioecious. Leaves alternate and distichous; blade leathery to chartaceous, entire, pinnate-veined; stipules completely amplexicaul and connate or semi-amplexicaul and free. Inflorescences in the axils of the leaves, bisexual or unisexual, pedunculate; receptacle globose, hemispherical, turbinate or convexly discoid, initially completely covered by peltate bracts. Staminate flowers several to numerous; perianth well developed, vestigial or absent; stamens 1-4; pistillode absent. Pistillate flowers 1-several, embedded in the receptacle; ovary adnate to the perianth; stigmas 2, filiform to vine-like. Fruits forming a drupe along with the enlarged, fleshy, and often colored receptacle. Seed large, without endosperm; cotyledons thick, equal or unequal. Approx. 15 spp. Tropical America.",
+            "score": 0.6475872993469238
+          },
+          {
+            "taxon": "Brosimum",
+            "rank": "Genus",
+            "description": "Life Form: Tree 3. Brosimum Sw., nom. cons. By C.C. Berg. Trees, monoecious or dioecious. Leaves alternate and distichous; blade leathery to chartaceous, entire, pinnate-veined; stipules completely amplexicaul and connate or semi-amplexicaul and free. Inflorescences in the axils of the leaves, bisexual or unisexual, pedunculate; receptacle globose, hemispherical, turbinate or convexly discoid, initially completely covered by peltate bracts. Staminate flowers several to numerous; perianth well developed, vestigial or absent; stamens 1-4; pistillode absent. Pistillate flowers 1-several, embedded in the receptacle; ovary adnate to the perianth; stigmas 2, filiform to vine-like. Fruits forming a drupe along with the enlarged, fleshy, and often colored receptacle. Seed large, without endosperm; cotyledons thick, equal or unequal. Approx. 15 spp. Tropical America.",
+            "score": 0.6475872993469238
+          },
+          {
+            "taxon": "Trichilia tuberculata",
+            "rank": "Species",
+            "description": "Tree, ca. 5-30(-40) m. Leaves imparipinnate, 10-30 cm; petiole and rachis generally canaliculate, glabrous or sparsely puberulent; leaflets 5-9, alternate (rarely subopposite), 10-15(-20) X 2.5-4.5 cm, narrowly elliptical or oblong to oblanceolate, attenuated at the base, acute to acuminate at the apex, subcoriaceous, generally glabrous, with 13-16 secondary veins per side. Inflorescences axillary, thyrsoid, 10-20 cm, glabrous or puberulent. Flowers with petals white to yellowish-green. Fruits yellow to orange, 1.4-2 X 0.8-1.2 cm, oblong to ellipsoid, densely verrucous (with prominent warts often connected by irregular stripes), often sparsely adpressed-pubescent, with 3 or 4 valves; seeds 1 or 2, black, 0.8-2.2 cm, the aril red. Very humid forest, 0-350 m; Pacific slope, [in the Parque Nacional Carara], [in the Puriscal region (in the Parque Nacional La Cangreja)], [in the Parque Nacional Manuel Antonio], [in Uvita], [in the Gulf Dulce region]. Fl. Feb.-Apr., Jun., Dec. [in Costa Rica and Panama], [in Ecuador and Peru], [in Northeast Brazil].",
+            "score": 0.6453492641448975
+          },
+          {
+            "taxon": "Protium stevensonii",
+            "rank": "Species",
+            "description": "Dioecious tree, to 35 m tall and 60 cm dbh, scarcely buttressed; outer bark rough, unfissured, flaky. Leaves imparipinnate; petioles flattened on upper surface, nearly glabrous; leaflets 7-9 (11), \u00b1 oblong-elliptic, acuminate, acute to nearly rounded at base (lateral leaflets often inequilateral), 5-20 cm long, 2-7 cm wide, nearly glabrous, stiff, the midrib arched. Panicles axillary (or terminal by abortion of stem apex), loosely branched, 2-15 cm long, with most exposed parts \u00b1 appressedpuberulent; flowers (4) 5-parted; pedicels ca 1 mm long; calyx cup-shaped, shallowly lobed, to 1.5 mm long; corolla yellowish-green, 3-5 mm long, lobed ca one-third its length, the lobes acute, thick, erect; stamens (8)10, included, abortive in pistillate flowers; disk annular, (8)10-lobed; ovary ovoid, (4) 5-lobed and (4)5-locular, sparsely pubescent; style short, pyramidal; stigma 5-lobed. Capsules drupaceous, purplish or reddish to brown, broadly turbinate to depressed-globose, round in cross section, to 2.5 cm long and 3.5 cm wide, usually with all 5 carpels developing, rarely 3 or 4, the thick wedge-shaped valves red within, falling free at maturity; mesocarp spongy, sweet; pyrenes 1 per carpel, 1-seeded, ca 1.5 cm long (including aril), attached subapically and situated between slender, red, platelike partitions of the main body, covered with a fleshy, sweet, white aril ca 2 mm thick. Common in the forest. Flowers chiefly in June and July (rarely as late as August and September); individuals of the species may flower every two years. The fruits mature mainly from March to the middle of May (rarely to July). On Barro Colorado Island, fruits are generally found on the ground, though usually only the star-shaped main axis and loose valves remain. The seeds are quickly taken by large birds and mammals. Belize to Peru and Brazil. In Panama, ecologically variable; characteristic of tropical moist forest, known in the Canal Zone, San Bias, Veraguas, Panama, and Darien; known also from tropical dry forest in Code, from premontane moist forest in the Canal Zone and Panama, from premontane wet forest in Panama and Darien, and from tropical wet forest in Colon.",
+            "score": 0.6442602872848511
+          }
+        ],
+        "convergence": [
+          {
+            "taxon": "Vochysia ferruginea",
+            "signal": "rag_only",
+            "rag_score": 0.6487565040588379,
+            "visual_softmax_score": 0.0,
+            "source": "literature"
+          },
+          {
+            "taxon": "Inga sapindoides",
+            "signal": "rag_only",
+            "rag_score": 0.651664137840271,
+            "visual_softmax_score": 0.0,
+            "source": "literature"
+          },
+          {
+            "taxon": "Tapirira guianensis",
+            "signal": "rag_only",
+            "rag_score": 0.6589450836181641,
+            "visual_softmax_score": 0.0,
+            "source": "literature"
+          },
+          {
+            "taxon": "Pleonotoma",
+            "signal": "visual_only",
+            "rag_score": 0.0,
+            "visual_softmax_score": 0.014595522545278072,
+            "source": "visual"
+          },
+          {
+            "taxon": "Tynanthus croatianus",
+            "signal": "visual_only",
+            "rag_score": 0.0,
+            "visual_softmax_score": 0.011773267760872841,
+            "source": "visual"
+          },
+          {
+            "taxon": "Picramniaceae",
+            "signal": "visual_only",
+            "rag_score": 0.0,
+            "visual_softmax_score": 0.027156049385666847,
+            "source": "visual"
+          }
+        ]
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 4.58366796374321
+    },
+    "evidence_synthesis": {
+      "data": {
+        "evidence_document": "# Evidence Summary\n\n## Morphological Profile\n\n\n### Leaf Arrangement\n\n- **Relative Position**: alternate\n- **Spacing**: clustered\n\n### Leaf Complexity\n\n- **Type**: compound\n- **Compound Type**: odd-pinnate\n- **Num Leaflets**: 8\n- **Leaflet Arrangement**: alternate\n\n### Leaf Morphology\n\n- **Margin**: entire\n- **Shape**: elliptic\n- **Apex**: acute\n- **Base**: rounded\n- **Venation**: pinnate\n- **Secondary Veins**: visible, moderately spaced, 3\u20135 pairs per leaflet\n- **Surface Features**: glabrous, dull\n- **Trichomes**: absent\n- **Petiole Length**: short\n- **Petiole Features**: terete\n\n### Stem Traits\n\n- **Type**: herbaceous\n- **Trichomes**: absent\n- **Color**: green\n- **Texture**: smooth\n\n### Special Features\n\n- **Stipules**: absent\n- **Latex**: not observed\n- **Pulvinus**: absent\n- **Tendrils**: absent\n\n### Notes\n\nSome leaf damage is visible, including holes and margin irregularities on lower leaves, likely due to mechanical or environmental factors. The seedling is marked with a plastic tag and pink flag, indicating it is part of a monitoring or research plot. Images show the same individual from multiple angles; the compound leaf structure with 3\u20134 leaflets per side and a terminal leaflet is consistent across views. The overall growth form is upright with clustered leaves at the apex.\n\n## Visual Classification (Multi-Rank)\n\n### Family\n\nDecision margin: 0.000\n\n- #1: **Bignoniaceae** (similarity share: 2.7%) | L2: 0.803, cosine: 0.666\n- #2: **Picramniaceae** (similarity share: 2.7%) | L2: 0.808, cosine: 0.601\n- #3: **Connaraceae** (similarity share: 2.7%) | L2: 0.825, cosine: 0.571\n- #4: **Sapindaceae** (similarity share: 2.4%) | L2: 0.913, cosine: 0.412\n- #5: **Euphorbiaceae** (similarity share: 2.4%) | L2: 0.933, cosine: 0.417\n\n### Genus\n\nDecision margin: 0.002\n\n- #1: **Tynanthus** (similarity share: 1.7%) | L2: 0.549, cosine: 0.843\n- #2: **Pleonotoma** (similarity share: 1.5%) | L2: 0.672, cosine: 0.744\n- #3: **Picramnia** (similarity share: 1.3%) | L2: 0.808, cosine: 0.601\n- #4: **Stizophyllum** (similarity share: 1.3%) | L2: 0.824, cosine: 0.586\n- #5: **Cnestidium** (similarity share: 1.2%) | L2: 0.829, cosine: 0.561\n\n### Species\n\nDecision margin: 0.001\n\n- #1: **Tynanthus croatianus** (similarity share: 1.2%) | L2: 0.549, cosine: 0.843\n- #2: **Pleonotoma variabilis** (similarity share: 1.0%) | L2: 0.672, cosine: 0.744\n- #3: **Picramnia latifolia** (similarity share: 0.9%) | L2: 0.808, cosine: 0.601\n- #4: **Stizophyllum riparium** (similarity share: 0.9%) | L2: 0.824, cosine: 0.586\n- #5: **Cnestidium rufescens** (similarity share: 0.9%) | L2: 0.829, cosine: 0.561\n\n### Hierarchical Consistency: Consistent\n\n\n### Per-Image Predictions\n\n- /nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Tynanthus/by_species/croatianus/METYNACR4/Bignoniaceae_Tynanthus_croatianus_METYNACR4_001.jpg: **Bignoniaceae** (similarity share: 2.7%)\n- /nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Tynanthus/by_species/croatianus/METYNACR4/Bignoniaceae_Tynanthus_croatianus_METYNACR4_002.jpg: **Bignoniaceae** (similarity share: 2.6%)\n- /nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Tynanthus/by_species/croatianus/METYNACR4/Bignoniaceae_Tynanthus_croatianus_METYNACR4_003.jpg: **Bignoniaceae** (similarity share: 2.8%)\n- /nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Tynanthus/by_species/croatianus/METYNACR4/Bignoniaceae_Tynanthus_croatianus_METYNACR4_004.jpg: **Bignoniaceae** (similarity share: 2.7%)\n- /nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Tynanthus/by_species/croatianus/METYNACR4/Bignoniaceae_Tynanthus_croatianus_METYNACR4_005.jpg: **Bignoniaceae** (similarity share: 2.5%)\n\n### Nearest Support Images\n\n- **Bignoniaceae** (L2: 0.678, cosine: 0.770) [/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Tynanthus/by_species/croatianus/METYNNCR2/Bignoniaceae_Tynanthus_croatianus_METYNNCR2_004.jpg]\n- **Bignoniaceae** (L2: 0.701, cosine: 0.754) [/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Tynanthus/by_species/croatianus/METYNNCR4/Bignoniaceae_Tynanthus_croatianus_METYNNCR4_004.jpg]\n- **Bignoniaceae** (L2: 0.710, cosine: 0.748) [/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Tynanthus/by_species/croatianus/METYNNCR2/Bignoniaceae_Tynanthus_croatianus_METYNNCR2_005.jpg]\n- **Bignoniaceae** (L2: 0.716, cosine: 0.744) [/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Tynanthus/by_species/croatianus/METYNNCR6/Bignoniaceae_Tynanthus_croatianus_METYNNCR6_002.jpg]\n- **Bignoniaceae** (L2: 0.717, cosine: 0.743) [/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Tynanthus/by_species/croatianus/METYNNCR6/Bignoniaceae_Tynanthus_croatianus_METYNNCR6_001.jpg]\n\n## Literature Evidence\n\n### Matching Taxa (by trait similarity)\n\n- **Protium stevensonii** (Species, similarity: 0.68)\n  - Locating an individual\nIt is mainly observed towards the Southern Boundary (LS), Quebrada El Salto, etc., in rolling or broken terrain.\nDistribution\nFrom Belize to Venezuela, the Guianas, Brazil, and \n- **Protium stevensonii** (Species, similarity: 0.68)\n  - Locating an individual\nIt is mainly observed towards the Southern Boundary (LS), Quebrada El Salto, etc., in rolling or broken terrain.\nDistribution\nFrom Belize to Venezuela, the Guianas, Brazil, and \n- **Inga punctata** (Species, similarity: 0.67)\n  - Guavita cansa-boca, Bribri, Guava, Guava del mono Tree, to 15 m tall; branchlets sparsely strigose when young, glabrate in age, minutely lenticellate, minutely ribbed below petioles (at least when dri\n- **Trichilia** (Genus, similarity: 0.67)\n  - Tree, 5-20 m tall; outer bark minutely fissured, thin (bearing short, raised, horizontal lines on inner surface); inner bark reddish-brown on the outer edge, bearing impressed short horizontal lines, \n- **Trichilia tuberculata** (Species, similarity: 0.66)\n  - Tree, to 30 m tall and 40 cm dbh (often much shorter along the shore); outer bark hard, closely fissured; inner bark red; younger stems, leaf rachises, and axes of inflorescences densely strigose and \n- **Protium tenuifolium** (Species, similarity: 0.66)\n  - Functionally unisexual tree, to 18 m tall, to 27 cm dbh; outer bark thin, flaking in firm sheets, lenticellate; inner bark moderately thick, reddish; sap slowly forming viscid, cloudy droplets after s\n- **Amaioua glomerulata** (Species, similarity: 0.66)\n  - Dioecious shrub or tree, to 15 m tall; trunk slender or to 20 cm dbh and deeply invaginated; stems sericeous when very young, glabrate in age, with conspicuous leaf scars. Leaves somewhat clustered at\n- **Tapirira guianensis** (Species, similarity: 0.66)\n  - Locating an individual\nCentral Road (CC) 1300 m, Left.\nDistribution\nFrom Honduras to Bolivia, Paraguay, and southeastern Brazil. In Costa Rica, widespread in mainly very humid climates on both slopes,\n- **Tapirira guianensis** (Species, similarity: 0.66)\n  - Locating an individual\nCentral Road (CC) 1300 m, Left.\nDistribution\nFrom Honduras to Bolivia, Paraguay, and southeastern Brazil. In Costa Rica, widespread in mainly very humid climates on both slopes,\n- **Paullinia turbacensis** (Species, similarity: 0.66)\n  - Adult plants frequent in the forest; seedlings common and recognizable by the large orbicular fimbriate stipules. Flowers in the late rainy season (August to November). The fruits mature within 1 mont\n- **Inga pezizifera** (Species, similarity: 0.66)\n  - Tree, to 27 m tall and 40 cm dbh, glabrous to puberulent throughout; trunk \u00b1 involuted with many prominent horizontal wrinkles; outer bark thin; inner bark reddish; young stems very prominently lentic\n- **Inga pezizifera** (Species, similarity: 0.66)\n  - Tree, to 27 m tall and 40 cm dbh, glabrous to puberulent throughout; trunk \u00b1 involuted with many prominent horizontal wrinkles; outer bark thin; inner bark reddish; young stems very prominently lentic\n- **Inga punctata** (Species, similarity: 0.66)\n  - Tree, to 15 m tall; branchlets sparsely strigose when young, glabrate in age, minutely lenticellate, minutely ribbed below petioles (at least when dried). Leaves strigose throughout, especially on axi\n- **Inga sapindoides** (Species, similarity: 0.65)\n  - Tree, to 15 m tall; branchlets ferruginous-puberulent when young, glabrous and prominently lenticellate in age. Petioles ribbed, 2-7 cm long; rachis winged; petiole and rachis sparsely ferruginous-pub\n- **Damburneya purpurea** (Species, similarity: 0.65)\n  - Tree, 4.5-35 m, the young twigs minutely adpressed-pubescent to glabrescent. Leaves with the petiole 0.5-1.2 cm; blade 10-30 X 3.5-12 cm, elliptical to oblong-elliptical, acute to obtuse or (rarely) s\n- **Vochysia ferruginea** (Species, similarity: 0.65)\n  - Tree, 6-25 m tall (taller elsewhere); trunk usually to 30 cm dbh; bark smooth; branches widely spreading, the crown somewhat flattened; branchlets, rachises, and lower leaf surfaces softly ferruginous\n- **Brosimum** (Genus, similarity: 0.65)\n  - Life Form: Tree 3. Brosimum Sw., nom. cons. By C.C. Berg. Trees, monoecious or dioecious. Leaves alternate and distichous; blade leathery to chartaceous, entire, pinnate-veined; stipules completely am\n- **Brosimum** (Genus, similarity: 0.65)\n  - Life Form: Tree 3. Brosimum Sw., nom. cons. By C.C. Berg. Trees, monoecious or dioecious. Leaves alternate and distichous; blade leathery to chartaceous, entire, pinnate-veined; stipules completely am\n- **Trichilia tuberculata** (Species, similarity: 0.65)\n  - Tree, ca. 5-30(-40) m. Leaves imparipinnate, 10-30 cm; petiole and rachis generally canaliculate, glabrous or sparsely puberulent; leaflets 5-9, alternate (rarely subopposite), 10-15(-20) X 2.5-4.5 cm\n- **Protium stevensonii** (Species, similarity: 0.64)\n  - Dioecious tree, to 35 m tall and 60 cm dbh, scarcely buttressed; outer bark rough, unfissured, flaky. Leaves imparipinnate; petioles flattened on upper surface, nearly glabrous; leaflets 7-9 (11), \u00b1 o\n\n## Convergence Analysis\n\n- **Vochysia ferruginea** [Literature only] (RAG: 0.65, Visual: 0.0%)\n- **Inga sapindoides** [Literature only] (RAG: 0.65, Visual: 0.0%)\n- **Tapirira guianensis** [Literature only] (RAG: 0.66, Visual: 0.0%)\n- **Pleonotoma** [Visual only] (RAG: 0.00, Visual: 1.5%)\n- **Tynanthus croatianus** [Visual only] (RAG: 0.00, Visual: 1.2%)\n- **Picramniaceae** [Visual only] (RAG: 0.00, Visual: 2.7%)\n",
+        "quality_flags": [
+          "Low classification similarity: top prediction captures only 2.7% of total similarity (threshold: 30.0%)"
+        ]
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 0.10139402002096176
+    },
+    "reasoning": {
+      "data": {
+        "classification": {
+          "predicted_family": "Bignoniaceae",
+          "predicted_genus": "Tynanthus",
+          "predicted_species": "Tynanthus croatianus",
+          "confidence": "medium",
+          "reasoning": "The visual classification consistently identifies the specimen as Bignoniaceae with high similarity scores, and Tynanthus croatianus is the top species prediction with the highest cosine similarity. Morphological traits such as alternate, odd-pinnate compound leaves with 8 leaflets, entire margins, and glabrous surfaces are consistent with Bignoniaceae. However, literature evidence does not strongly support this identification, with no matching taxa in the literature showing the same trait profile, indicating potential misclassification or limited literature coverage.",
+          "supporting_features": [
+            "alternate, odd-pinnate compound leaves with 8 leaflets",
+            "entire leaf margins, elliptic shape, acute apex, rounded base",
+            "glabrous, dull leaf surfaces with pinnate venation",
+            "herbaceous green stem with no trichomes or stipules"
+          ],
+          "alternatives": [
+            {
+              "taxon": "Pleonotoma variabilis",
+              "reason": "Second highest visual similarity score at genus and species level, and belongs to the same family (Bignoniaceae), making it a plausible alternative."
+            },
+            {
+              "taxon": "Picramnia latifolia",
+              "reason": "Third highest visual similarity at species level and belongs to Picramniaceae, which is closely ranked in visual classification, though morphological traits differ slightly (e.g., Picramniaceae often have stipules)."
+            },
+            {
+              "taxon": "Inga punctata",
+              "reason": "High similarity in literature evidence (0.67) and shares pinnate leaf structure and glabrous surfaces, though literature mentions strigose young branchlets, which are absent in this specimen."
+            }
+          ]
+        },
+        "raw_response": "{\n  \"predicted_family\": \"Bignoniaceae\",\n  \"predicted_genus\": \"Tynanthus\",\n  \"predicted_species\": \"Tynanthus croatianus\",\n  \"confidence\": \"medium\",\n  \"reasoning\": \"The visual classification consistently identifies the specimen as Bignoniaceae with high similarity scores, and Tynanthus croatianus is the top species prediction with the highest cosine similarity. Morphological traits such as alternate, odd-pinnate compound leaves with 8 leaflets, entire margins, and glabrous surfaces are consistent with Bignoniaceae. However, literature evidence does not strongly support this identification, with no matching taxa in the literature showing the same trait profile, indicating potential misclassification or limited literature coverage.\",\n  \"supporting_features\": [\n    \"alternate, odd-pinnate compound leaves with 8 leaflets\",\n    \"entire leaf margins, elliptic shape, acute apex, rounded base\",\n    \"glabrous, dull leaf surfaces with pinnate venation\",\n    \"herbaceous green stem with no trichomes or stipules\"\n  ],\n  \"alternatives\": [\n    {\n      \"taxon\": \"Pleonotoma variabilis\",\n      \"reason\": \"Second highest visual similarity score at genus and species level, and belongs to the same family (Bignoniaceae), making it a plausible alternative.\"\n    },\n    {\n      \"taxon\": \"Picramnia latifolia\",\n      \"reason\": \"Third highest visual similarity at species level and belongs to Picramniaceae, which is closely ranked in visual classification, though morphological traits differ slightly (e.g., Picramniaceae often have stipules).\"\n    },\n    {\n      \"taxon\": \"Inga punctata\",\n      \"reason\": \"High similarity in literature evidence (0.67) and shares pinnate leaf structure and glabrous surfaces, though literature mentions strigose young branchlets, which are absent in this specimen.\"\n    }\n  ]\n}",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 8336.05797495693
+    }
+  },
+  "total_elapsed_ms": 31520.852682879195,
+  "benchmark_metadata": {
+    "scientific_name": "Tynanthus croatianus",
+    "family": "Bignoniaceae",
+    "genus": "Tynanthus",
+    "species_epithet": "croatianus",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

@@ -1,0 +1,27 @@
+specimen_id,rank,roni_original,canonical,category,note
+CHANNOHA10,species,hayessi,hayesii,typo,letter swap
+PEA0147,species,panamenis,panamensis,typo,dropped s
+SHASPICR4,species,desmantum,desmanthum,typo,dropped h
+CHFORSVI6,genus,Fosteronia,Forsteronia,typo,dropped r
+BAR0010,family,Burceraceae,Burseraceae,typo,c for s
+OLHIPPVO7,family,Celastracea,Celastraceae,typo,dropped final e
+BAR0482,family,Celastracea,Celastraceae,typo,dropped final e
+BVMAYTSC9,family,Celastracea,Celastraceae,typo,dropped final e
+MEPERIPR9,family,Celastracea,Celastraceae,typo,dropped final e
+BAR0305,family,Celastracea,Celastraceae,typo,dropped final e
+SHTONTOV3,family,Celastracea,Celastraceae,typo,dropped final e
+SRLISIJE1,genus,Lisianthus,Lisianthius,typo,dropped i
+SRBANICO6,species,corniflora,cornifolia,typo,letter transpose
+SRCOCCP16,genus,Coccloba,Coccoloba,typo,dropped o
+BAR0305,species,asperum,aspera,variant,masculine/feminine ending
+BAR0450,species,sylvatica,silvatica,variant,i/y spelling variant
+BVMANSKE10,genus,Mansoa,Pachyptera,synonym,accepted synonym
+BVMAYTSC9,genus,Monteverdia,Maytenus,synonym,accepted synonym
+SRBANICO6,genus,Banisteriopsis,Bronwenia,synonym,segregate genus / accepted synonym
+SRPSYCC12,genus,Psychotria,Palicourea,synonym,accepted synonym
+ANPSYCER1,genus,Psychotria,Ronabea,synonym,accepted synonym
+ANCASECO2,genus,Casearia,Piparea,synonym,accepted synonym
+SHTONTOV3,species,ovalifolia,passiflora,synonym,Tontelea ovalifolia = accepted synonym of T. passiflora (POWO)
+BVCOU2CU2,species,curvigemmia,suaveolens,synonym,Coussarea curvigemma (Roni sp. curvigemmia) = synonym of C. suaveolens (POWO)
+SRPSYCC12,species,capitata,violacea,synonym,Palicourea/Psychotria capitata = synonym of Palicourea violacea (POWO)
+ANCASECO2,species,commersoniana,dentata,synonym,Casearia commersoniana = synonym of Piparea dentata (POWO)

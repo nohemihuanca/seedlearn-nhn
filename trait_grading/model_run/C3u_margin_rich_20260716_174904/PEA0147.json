@@ -1,0 +1,72 @@
+{
+  "specimen_id": "PEA0147",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Annonaceae/by_genus/Desmopsis/by_species/panamensis/PEA0147/Annonaceae_Desmopsis_panamensis_PEA0147_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Annonaceae/by_genus/Desmopsis/by_species/panamensis/PEA0147/Annonaceae_Desmopsis_panamensis_PEA0147_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Annonaceae/by_genus/Desmopsis/by_species/panamensis/PEA0147/Annonaceae_Desmopsis_panamensis_PEA0147_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Annonaceae/by_genus/Desmopsis/by_species/panamensis/PEA0147/Annonaceae_Desmopsis_panamensis_PEA0147_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Annonaceae/by_genus/Desmopsis/by_species/panamensis/PEA0147/Annonaceae_Desmopsis_panamensis_PEA0147_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {},
+          "leaf_complexity": {},
+          "leaf_morphology": {
+            "margin": "[entire"
+          },
+          "stem_traits": {},
+          "special_features": {},
+          "notes": "[Several leaves on the seedling exhibit marginal damage, including irregular holes and missing sections, likely due to insect herbivory. The margin classification is based on the intact portions of the leaves.]"
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nC. Leaf Morphology\n    7.\tLeaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): [entire (the leaf edges appear as smooth, continuous lines without any visible teeth, serrations, or deep indentations)]\nF. Notes: [Several leaves on the seedling exhibit marginal damage, including irregular holes and missing sections, likely due to insect herbivory. The margin classification is based on the intact portions of the leaves.]\n####",
+        "thinking": null,
+        "few_shot_delivery": {
+          "n_examples": 0,
+          "n_exemplar_images": 0,
+          "n_specimen_images": 5,
+          "max_images": 10,
+          "images_over_budget": false,
+          "prompt_chars": 2155
+        }
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 1633.1039149999924
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 1633.1039149999924,
+  "benchmark_metadata": {
+    "scientific_name": "Desmopsis panamensis",
+    "family": "Annonaceae",
+    "genus": "Desmopsis",
+    "species_epithet": "panamensis",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

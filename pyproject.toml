@@ -1,0 +1,47 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "seedlearn"
+version = "0.1.0"
+description = "Few-shot learning pipeline for seedling image classification"
+requires-python = ">=3.10"
+dependencies = [
+    "numpy",
+    "openpyxl",
+    "pandas",
+    "pillow",
+    "plotly",
+    "pyyaml",
+    "scikit-learn",
+    "scipy",
+    "torch",
+    "tqdm",
+]
+
+[project.optional-dependencies]
+clip = [
+    "open-clip-torch",
+    "pybioclip",
+    "timm",
+]
+dev = [
+    "pytest",
+    "pytest-cov",
+]
+pipeline = [
+    "faiss-cpu",
+    "openai",
+    "sentence-transformers",
+]
+scraper = [
+    "beautifulsoup4>=4.12",
+    "requests>=2.31",
+]
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/seedlearn"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

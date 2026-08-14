@@ -1,0 +1,47 @@
+{
+  "specimen_id": "SHSMILS14",
+  "source_answer_key": "Smilacaceae_Smilax_spinosa_SHSMILS14",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "unclear",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "lanceolate",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "very visible, closely spaced, c. 6\u201310 pairs",
+            "surface_features": "glabrous, shiny, rugose",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "absent",
+            "color": "greenish-brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Leaves form a basal cluster with simple, entire, lanceolate blades and very prominent impressed pinnate venation; some minor holes are present on one younger leaf but overall foliage appears healthy."
+        }
+      }
+    }
+  }
+}

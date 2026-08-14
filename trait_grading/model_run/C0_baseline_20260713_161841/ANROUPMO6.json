@@ -1,0 +1,91 @@
+{
+  "specimen_id": "ANROUPMO6",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Proteaceae/by_genus/Roupala/by_species/montana/ANROUPMO6/Proteaceae_Roupala_montana_ANROUPMO6_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Proteaceae/by_genus/Roupala/by_species/montana/ANROUPMO6/Proteaceae_Roupala_montana_ANROUPMO6_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Proteaceae/by_genus/Roupala/by_species/montana/ANROUPMO6/Proteaceae_Roupala_montana_ANROUPMO6_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Proteaceae/by_genus/Roupala/by_species/montana/ANROUPMO6/Proteaceae_Roupala_montana_ANROUPMO6_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Proteaceae/by_genus/Roupala/by_species/montana/ANROUPMO6/Proteaceae_Roupala_montana_ANROUPMO6_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "alternate",
+            "spacing": "distal"
+          },
+          "leaf_complexity": {
+            "type": "compound",
+            "compound_type": "odd-pinnate",
+            "num_leaflets": "8",
+            "leaflet_arrangement": "alternate"
+          },
+          "leaf_morphology": {
+            "margin": "toothed, serrate",
+            "shape": "lanceolate",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "visible, closely spaced, numerous",
+            "surface_features": "glabrous, shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "absent",
+            "color": "green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "The seedling exhibits compound, odd-pinnate leaves with serrate margins and lanceolate leaflets. The leaves are arranged alternately along the stem, which is herbaceous and green. Some leaflets show small holes, possibly due to physical damage or herbivory, but cause is not determinable. The plant is growing on forest floor with leaf litter and surrounded by other understory vegetation, including broad-leaved plants resembling palms. The images are from the same individual viewed from multiple angles, confirming consistent morphology. No flowers, fruits, or bark are visible."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): alternate (leaves are attached at successive nodes along the stem, alternating sides; no paired or whorled arrangement visible)\n    2. Leaf spacing (clustered / distal): distal (leaves are spaced out along the stem, not clustered at nodes)\n\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): compound (each leaf consists of multiple leaflets attached to a central rachis)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): odd-pinnate (leaflets arranged in pairs along the rachis with a single terminal leaflet at the apex)\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): 8 (approximately 8 leaflets per leaf; based on visible pairs and terminal leaflet, estimating 4 pairs + 1 terminal = 9, but rounding to nearest provided option as 8)\n    6. Leaflet arrangement (opposite / alternate / subopposite): alternate (leaflets are arranged alternately along the rachis, not in direct pairs)\n\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): toothed, serrate (margins have fine, sharp, forward-pointing teeth; consistent with serrate morphology)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): lanceolate (leaflets are elongated with a broad base tapering to a pointed apex)\n    9. Leaf apex (acute, obtuse, acuminate): acute (leaflet tips are sharply pointed but not elongated into a tail)\n    10. Leaf base (rounded, cordate, cuneate): cuneate (leaflets taper to a narrow base, wedge-shaped)\n    11. Venation type (pinnate / palmate / parallel): pinnate (primary vein runs lengthwise with secondary veins branching off at angles)\n    12. Secondary veins (visibility, spacing, number): visible, closely spaced, numerous (secondary veins are clearly visible, running parallel to each other and close together)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): glabrous, shiny (surface smooth and glossy; no visible hairs)\n    14. Leaf surface trichomes (present / absent): absent (no visible hairs or trichomes on leaf surface)\n    15. Petiole length (short / long): short (petiole is short, not elongated; leaflets attach close to rachis)\n    16. Petiole features (winged / grooved / terete): terete (petiole appears round in cross-section; no wings or grooves observed)\n\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): herbaceous (stem appears soft and green, not woody; typical of seedling stage)\n    18. Stem trichomes (present / absent): absent (no visible hairs on stem surface)\n    19. Stem color: green (stem is light green, consistent with young growth)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (surface appears smooth without ridges or lenticels)\n\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules observed at leaf bases)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no exudate visible when stems are broken or damaged)\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no swollen joint at leaflet or leaf base; not applicable if not Fabaceae, but observed as absent)\n    24. Tendrils (present / absent): absent (no tendrils observed; seedling does not show climbing structures)\n\nF. Notes: The seedling exhibits compound, odd-pinnate leaves with serrate margins and lanceolate leaflets. The leaves are arranged alternately along the stem, which is herbaceous and green. Some leaflets show small holes, possibly due to physical damage or herbivory, but cause is not determinable. The plant is growing on forest floor with leaf litter and surrounded by other understory vegetation, including broad-leaved plants resembling palms. The images are from the same individual viewed from multiple angles, confirming consistent morphology. No flowers, fruits, or bark are visible.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 22969.126894138753
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 22969.126894138753,
+  "benchmark_metadata": {
+    "scientific_name": "Roupala montana",
+    "family": "Proteaceae",
+    "genus": "Roupala",
+    "species_epithet": "montana",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

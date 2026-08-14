@@ -1,0 +1,47 @@
+{
+  "specimen_id": "MEMASCNE4",
+  "source_answer_key": "Malpighiaceae_Mascagnia_ovatifolia_MEMASCNE4",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "opposite",
+            "spacing": "distal"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "narrowly elliptic",
+            "apex": "acuminate",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "clearly visible pinnate secondary veins, moderately spaced along the midrib",
+            "surface_features": "glabrous, shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "absent",
+            "color": "greenish-brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "unclear",
+            "tendrils": "absent"
+          },
+          "notes": "Seedling displays simple, entire, glossy green leaves that are elliptic to narrowly elliptic; a few leaves show small holes and slight margin missing; a labeled tag is visible near the base, confirming focal individual location (summarizes observed leaf morphology and condition)"
+        }
+      }
+    }
+  }
+}

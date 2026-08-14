@@ -1,0 +1,47 @@
+{
+  "specimen_id": "SRLISIJE1",
+  "source_answer_key": "Gentianaceae_Lisianthius_jefensis_SRLISIJE1",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "whorled",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "toothed",
+            "shape": "lanceolate",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "prominent, moderately spaced, about 5\u20137 pairs",
+            "surface_features": "shiny, slightly rugose",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "unclear",
+            "trichomes": "absent",
+            "color": "green to dark green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Repeated leaf whorls are visible along a single upright stem; minor holes and small missing areas are present on a few leaves."
+        }
+      }
+    }
+  }
+}

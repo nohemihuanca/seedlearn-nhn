@@ -1,0 +1,47 @@
+{
+  "specimen_id": "SRMYRCAGA3",
+  "source_answer_key": "Myrtaceae_Myrcia_splendens_SRMYRCAGA3",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "opposite",
+            "spacing": "distal"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "lanceolate",
+            "apex": "acuminate",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "secondary veins faint but visible, moderately closely spaced, about 8\u201310 pairs per side where seen",
+            "surface_features": "glabrous, shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "unclear",
+            "tendrils": "absent"
+          },
+          "notes": "Leaves appear simple, entire, and narrowly elliptic with pointed tips; some leaves show holes and missing margin portions; seedling is growing among abundant leaf litter with a visible pink tag attached to the stem."
+        }
+      }
+    }
+  }
+}

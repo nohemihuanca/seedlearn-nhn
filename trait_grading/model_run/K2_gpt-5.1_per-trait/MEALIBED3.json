@@ -1,0 +1,47 @@
+{
+  "specimen_id": "MEALIBED3",
+  "source_answer_key": "Rubiaceae_Alibertia_edulis_MEALIBED3",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "whorled",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "lanceolate",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "faint but clearly visible; evenly to moderately spaced; approximately 6\u20139 pairs per leaf",
+            "surface_features": "glabrous, slightly shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "unclear",
+            "tendrils": "absent"
+          },
+          "notes": "Seedling with simple, entire, narrow lanceolate leaves arranged in a cluster near the stem apex; some leaves show holes and small missing sections along the margins (describes overall leaf form and visible damage)"
+        }
+      }
+    }
+  }
+}

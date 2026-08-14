@@ -1,0 +1,47 @@
+{
+  "specimen_id": "ANENTESC3",
+  "source_answer_key": "Fabaceae_Robrichia_schomburgkii_ANENTESC3",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "unclear",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "compound",
+            "compound_type": "N/A",
+            "num_leaflets": "16",
+            "leaflet_arrangement": "subopposite"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "deltoid",
+            "apex": "acuminate",
+            "base": "unclear",
+            "venation": "unclear",
+            "secondary_veins": "unclear",
+            "surface_features": "glabrous, dull",
+            "trichomes": "absent",
+            "petiole_length": "long",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "absent",
+            "color": "green to light brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "N/A",
+            "tendrils": "absent"
+          },
+          "notes": "Plant is fern-like with a highly divided frond, so some standard seedling leaf characters are difficult to apply directly; ambiguous items were marked unclear or N/A."
+        }
+      }
+    }
+  }
+}

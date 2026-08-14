@@ -1,0 +1,30 @@
+{
+  "A_vs_B": {
+    "chi2": 5.785714285714286,
+    "p_value": 0.01615693126118134,
+    "n_discordant": 14,
+    "A_right_B_wrong": 2,
+    "B_right_A_wrong": 12
+  },
+  "A_vs_C": {
+    "chi2": 11.529411764705882,
+    "p_value": 0.0006850368653792405,
+    "n_discordant": 17,
+    "A_right_C_wrong": 1,
+    "C_right_A_wrong": 16
+  },
+  "A_vs_D": {
+    "chi2": 12.5,
+    "p_value": 0.00040695201744500586,
+    "n_discordant": 18,
+    "A_right_D_wrong": 17,
+    "D_right_A_wrong": 1
+  },
+  "A_vs_B_species": {
+    "chi2": 1.7297297297297298,
+    "p_value": 0.18844541724270603,
+    "n_discordant": 37,
+    "A_right_B_wrong": 23,
+    "B_right_A_wrong": 14
+  }
+}

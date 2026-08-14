@@ -1,0 +1,47 @@
+{
+  "specimen_id": "OLSTIZRI3",
+  "source_answer_key": "Bignoniaceae_Stizophyllum_riparium_OLSTIZRI3",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "opposite",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "odd-pinnate",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "opposite"
+          },
+          "leaf_morphology": {
+            "margin": "toothed \u2013 serrate",
+            "shape": "ovate",
+            "apex": "acute",
+            "base": "rounded",
+            "venation": "pinnate",
+            "secondary_veins": "clearly visible, moderately closely spaced, approximately 7\u201310 pairs per side",
+            "surface_features": "shiny, rugose, glabrous",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "unclear",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Seedling shows glossy simple leaves with serrated margins on an upright, self-supporting stem; no structures indicative of a climbing habit observed (all visible axes appear rigid and free of tendril-like extensions)"
+        }
+      }
+    }
+  }
+}

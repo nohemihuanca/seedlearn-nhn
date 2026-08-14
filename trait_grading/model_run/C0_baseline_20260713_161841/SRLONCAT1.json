@@ -1,0 +1,91 @@
+{
+  "specimen_id": "SRLONCAT1",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Lonchocarpus/by_species/atropurpureus/SRLONCAT1/Fabaceae_Lonchocarpus_atropurpureus_SRLONCAT1_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Lonchocarpus/by_species/atropurpureus/SRLONCAT1/Fabaceae_Lonchocarpus_atropurpureus_SRLONCAT1_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Lonchocarpus/by_species/atropurpureus/SRLONCAT1/Fabaceae_Lonchocarpus_atropurpureus_SRLONCAT1_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Lonchocarpus/by_species/atropurpureus/SRLONCAT1/Fabaceae_Lonchocarpus_atropurpureus_SRLONCAT1_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Lonchocarpus/by_species/atropurpureus/SRLONCAT1/Fabaceae_Lonchocarpus_atropurpureus_SRLONCAT1_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "alternate",
+            "spacing": "distal"
+          },
+          "leaf_complexity": {
+            "type": "compound",
+            "compound_type": "odd-pinnate",
+            "num_leaflets": "3",
+            "leaflet_arrangement": "opposite"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "acute",
+            "base": "rounded",
+            "venation": "pinnate",
+            "secondary_veins": "visible, closely spaced, numerous",
+            "surface_features": "shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "greenish-brown",
+            "texture": "ridged"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "The seedling exhibits compound, odd-pinnate leaves with three leaflets each, arranged alternately on a woody stem. Leaves are elliptic, entire, and shiny with pinnate venation. Some leaflets show minor damage (small holes or missing margin portions), but no clear signs of herbivory or pathogen are inferred. A pink tag is attached to the stem, likely for identification purposes. The surrounding environment includes leaf litter and other understory vegetation, but habitat conditions are not directly assessed. All images confirm consistent morphology across angles."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): alternate (leaves attach at successive nodes along the stem, alternating sides; visible in multiple images)\n    2. Leaf spacing (clustered / distal): distal (leaves are spaced apart along the stem, not clustered at the apex)\n\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): compound (each leaf has multiple leaflets attached to a central rachis, visible in images 2, 3, and 5)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): odd-pinnate (terminal leaflet present, with pairs of leaflets on either side of the rachis; seen in images 2 and 3)\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): 3 (each compound leaf has three leaflets: two lateral and one terminal; visible in all images)\n    6. Leaflet arrangement (opposite / alternate / subopposite): opposite (lateral leaflets appear opposite each other on the rachis; visible in images 2, 3, and 5)\n\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (margins are smooth with no teeth or lobes; visible in all images)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): elliptic (leaflets are broadest near the middle and taper to both ends; visible in images 2, 3, and 5)\n    9. Leaf apex (acute, obtuse, acuminate): acute (leaflets end in a sharp point; visible in all images)\n    10. Leaf base (rounded, cordate, cuneate): rounded (base of leaflets is smoothly curved; visible in images 2 and 3)\n    11. Venation type (pinnate / palmate / parallel): pinnate (main vein runs from base to apex with secondary veins branching off; visible in images 2 and 3)\n    12. Secondary veins (visibility, spacing, number): visible, closely spaced, numerous (secondary veins are clearly visible and run parallel to each other, close together; seen in images 2 and 3)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): shiny (leaf surface has a glossy appearance; visible in all images)\n    14. Leaf surface trichomes (present / absent): absent (no visible hairs on leaf surface; all images show smooth surface)\n    15. Petiole length (short / long): short (petiole is short, connecting leaflets to rachis; visible in images 2 and 3)\n    16. Petiole features (winged / grooved / terete): terete (petiole is round in cross-section; inferred from appearance in images)\n\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): woody (stem is firm and brownish-green with slight ridging; visible in all images)\n    18. Stem trichomes (present / absent): absent (no visible hairs on stem; surface appears smooth; visible in all images)\n    19. Stem color: greenish-brown (stem has a greenish hue with brownish tones; visible in all images)\n    20. Stem texture (smooth / ridged / lenticellate): ridged (stem surface has slight ridges and nodes; visible in all images)\n\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules observed at leaf bases; all images checked)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no exudate visible when stem or leaf is damaged; no signs of latex)\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no swollen joint at leaflet base; not visible in any image)\n    24. Tendrils (present / absent): absent (no modified stems or leaves forming tendrils; all images show typical leaf structure)\n\nF. Notes: The seedling exhibits compound, odd-pinnate leaves with three leaflets each, arranged alternately on a woody stem. Leaves are elliptic, entire, and shiny with pinnate venation. Some leaflets show minor damage (small holes or missing margin portions), but no clear signs of herbivory or pathogen are inferred. A pink tag is attached to the stem, likely for identification purposes. The surrounding environment includes leaf litter and other understory vegetation, but habitat conditions are not directly assessed. All images confirm consistent morphology across angles.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 24079.560104291886
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 24079.560104291886,
+  "benchmark_metadata": {
+    "scientific_name": "Lonchocarpus atropurpureus",
+    "family": "Fabaceae",
+    "genus": "Lonchocarpus",
+    "species_epithet": "atropurpureus",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

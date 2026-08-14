@@ -1,0 +1,47 @@
+{
+  "specimen_id": "BVGUATAM5",
+  "source_answer_key": "Annonaceae_Guatteria_amplifolia_BVGUATAM5",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "unclear",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "conspicuous, evenly spaced, numerous",
+            "surface_features": "glabrous, shiny, slightly rugose",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "unclear"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "green to brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Leaves form a tight apical cluster; newer leaves are lighter green and glossier than older leaves; small holes are present on one leaf blade; an orange tag is tied around the stem."
+        }
+      }
+    }
+  }
+}

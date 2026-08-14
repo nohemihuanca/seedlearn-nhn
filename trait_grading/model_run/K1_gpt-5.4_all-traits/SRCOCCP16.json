@@ -1,0 +1,47 @@
+{
+  "specimen_id": "SRCOCCP16",
+  "source_answer_key": "Polygonaceae_Coccoloba_excelsa_SRCOCCP16",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "opposite",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic to ovate",
+            "apex": "acuminate",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "very visible, closely and fairly evenly spaced, numerous, about 12\u201316 pairs",
+            "surface_features": "glabrous, shiny, rugose",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "dark brown to greenish-brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Opposite leaves are most clearly seen at the upper node, with a small emerging apical leaf/shoot above. Leaves show strong impressed venation and a glossy appearance. Minor damage is visible on some leaves, including holes present and margin missing. A pink ribbon/tag is attached to the stem."
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "specimen_id": "PEA0147",
+  "source_answer_key": "Annonaceae_Desmopsis_panamensis_PEA0147",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "opposite",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "visible, moderately spaced, c. 6\u201310 pairs per leaf side",
+            "surface_features": "dull",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "unclear",
+            "tendrils": "absent"
+          },
+          "notes": "Leaves are simple, entire, elliptic to narrowly elliptic, with a clear midrib and subtle secondary venation; arrangement along the stem appears alternate; some leaves show holes and portions of the margin missing; seedling emerges from leaf litter with a slender brownish stem and no additional climbing or support structures visible."
+        }
+      }
+    }
+  }
+}

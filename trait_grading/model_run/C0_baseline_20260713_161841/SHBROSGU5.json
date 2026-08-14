@@ -1,0 +1,91 @@
+{
+  "specimen_id": "SHBROSGU5",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Moraceae/by_genus/Brosimum/by_species/guianense/SHBROSGU5/Moraceae_Brosimum_guianense_SHBROSGU5_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Moraceae/by_genus/Brosimum/by_species/guianense/SHBROSGU5/Moraceae_Brosimum_guianense_SHBROSGU5_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Moraceae/by_genus/Brosimum/by_species/guianense/SHBROSGU5/Moraceae_Brosimum_guianense_SHBROSGU5_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Moraceae/by_genus/Brosimum/by_species/guianense/SHBROSGU5/Moraceae_Brosimum_guianense_SHBROSGU5_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Moraceae/by_genus/Brosimum/by_species/guianense/SHBROSGU5/Moraceae_Brosimum_guianense_SHBROSGU5_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "alternate",
+            "spacing": "distal"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "acute",
+            "base": "rounded",
+            "venation": "pinnate",
+            "secondary_veins": "clearly visible, closely spaced, numerous",
+            "surface_features": "shiny, rugose",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "absent",
+            "color": "green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "The seedling appears to be a young, herbaceous plant with simple, elliptic, entire leaves arranged alternately on a green stem. Some minor damage is visible on a few leaves, including small holes and margin irregularities, but this does not affect the overall morphological assessment. The leaf surface is shiny and rugose, with pinnate venation and short, terete petioles. No diagnostic features such as latex or pulvinus are observed. The images are consistent across all views, confirming the traits described."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): alternate (leaves are attached at successive nodes along the stem, alternating sides, as seen in multiple images)\n    2. Leaf spacing (clustered / distal): distal (leaves are spaced along the stem with visible internodes, not clustered at the tip)\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): simple (each leaf is a single blade without subdivisions into leaflets)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): N/A (leaf complexity is simple)\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): N/A (leaf complexity is simple)\n    6. Leaflet arrangement (opposite / alternate / subopposite): N/A (leaf complexity is simple)\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (margins are smooth with no visible teeth or serrations across all images)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): elliptic (leaves are broadest near the middle and taper to both ends, with a rounded apex and base)\n    9. Leaf apex (acute, obtuse, acuminate): acute (tip is pointed but not long-tapered, forming a sharp angle)\n    10. Leaf base (rounded, cordate, cuneate): rounded (base is gently curved, not tapered or heart-shaped)\n    11. Venation type (pinnate / palmate / parallel): pinnate (main vein runs from base to apex, with secondary veins branching off to sides)\n    12. Secondary veins (visibility, spacing, number): clearly visible, closely spaced, numerous (secondary veins are prominent, running perpendicular to midrib, forming a reticulate pattern)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): shiny, rugose (surface is glossy with a slightly wrinkled or textured appearance, especially when viewed closely)\n    14. Leaf surface trichomes (present / absent): absent (no visible hairs or pubescence on leaf surface)\n    15. Petiole length (short / long): short (petiole is relatively short, less than half the leaf blade length)\n    16. Petiole features (winged / grooved / terete): terete (petiole is round in cross-section, not flattened or winged)\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): herbaceous (stem appears green and flexible, not woody or lignified)\n    18. Stem trichomes (present / absent): absent (no visible hairs on stem surface)\n    19. Stem color: green (stem is green with slight reddish-brown tinge near nodes)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (surface is even without ridges or lenticels)\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules visible at leaf bases in any image)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no exudate or milky sap visible when stem is broken or damaged)\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no swollen joint at leaf base visible; not applicable as leaf arrangement is not typical of Fabaceae)\n    24. Tendrils (present / absent): absent (no tendrils observed)\nF. Notes: The seedling appears to be a young, herbaceous plant with simple, elliptic, entire leaves arranged alternately on a green stem. Some minor damage is visible on a few leaves, including small holes and margin irregularities, but this does not affect the overall morphological assessment. The leaf surface is shiny and rugose, with pinnate venation and short, terete petioles. No diagnostic features such as latex or pulvinus are observed. The images are consistent across all views, confirming the traits described.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 21680.585748981684
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 21680.585748981684,
+  "benchmark_metadata": {
+    "scientific_name": "Brosimum guianense",
+    "family": "Moraceae",
+    "genus": "Brosimum",
+    "species_epithet": "guianense",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

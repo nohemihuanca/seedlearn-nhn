@@ -1,0 +1,47 @@
+{
+  "specimen_id": "OLLACIAG2",
+  "source_answer_key": "Lacistemataceae_Lacistema_aggregatum_OLLACIAG2",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "alternate",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "moderately visible, pinnate, with approximately 6\u20138 pairs per leaf, fairly evenly spaced from base to apex",
+            "surface_features": "glabrous, shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "green to light brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Leaves are simple, glossy, and elliptic with entire to slightly undulate margins; several leaves display narrow pale winding lines on the lamina and one leaf has a notably wrinkled surface; the seedling appears upright and self-supporting with no climbing structures (all traits observed consistently across the multiple images of the tagged individual)."
+        }
+      }
+    }
+  }
+}

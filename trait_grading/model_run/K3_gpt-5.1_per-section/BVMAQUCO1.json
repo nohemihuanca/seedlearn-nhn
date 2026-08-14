@@ -1,0 +1,47 @@
+{
+  "specimen_id": "BVMAQUCO1",
+  "source_answer_key": "Moraceae_Maquira_guianensis_BVMAQUCO1",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "whorled",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "narrowly elliptic to lanceolate",
+            "apex": "acuminate",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "clearly visible, evenly spaced, moderately dense",
+            "surface_features": "glabrous and shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Leaves are simple, entire-margined, and arranged in a tight terminal cluster that gives a whorled appearance at the shoot tip; blades are glossy with visible secondary venation and a few small holes present; stems appear slender and brownish with no obvious nodal specializations."
+        }
+      }
+    }
+  }
+}

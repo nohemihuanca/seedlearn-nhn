@@ -1,0 +1,72 @@
+{
+  "specimen_id": "OLPAULBR1",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Sapindaceae/by_genus/Paullinia/by_species/bracteosa/OLPAULBR1/Sapindaceae_Paullinia_bracteosa_OLPAULBR1_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Sapindaceae/by_genus/Paullinia/by_species/bracteosa/OLPAULBR1/Sapindaceae_Paullinia_bracteosa_OLPAULBR1_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Sapindaceae/by_genus/Paullinia/by_species/bracteosa/OLPAULBR1/Sapindaceae_Paullinia_bracteosa_OLPAULBR1_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Sapindaceae/by_genus/Paullinia/by_species/bracteosa/OLPAULBR1/Sapindaceae_Paullinia_bracteosa_OLPAULBR1_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Sapindaceae/by_genus/Paullinia/by_species/bracteosa/OLPAULBR1/Sapindaceae_Paullinia_bracteosa_OLPAULBR1_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {},
+          "leaf_complexity": {},
+          "leaf_morphology": {
+            "margin": "toothed"
+          },
+          "stem_traits": {},
+          "special_features": {},
+          "notes": "Several leaves exhibit physical damage, including missing tissue and holes along the margins. The margin type is judged only on the intact sections of the leaves."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nC. Leaf Morphology\n    7.\tLeaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): toothed (dentate) (The leaf margins clearly display a series of small, forward-pointing teeth along the edge, which is characteristic of a dentate margin, as seen in images 1, 3, and 5).\nF. Notes: Several leaves exhibit physical damage, including missing tissue and holes along the margins. The margin type is judged only on the intact sections of the leaves.\n\n####",
+        "thinking": null,
+        "few_shot_delivery": {
+          "n_examples": 0,
+          "n_exemplar_images": 0,
+          "n_specimen_images": 5,
+          "max_images": 10,
+          "images_over_budget": false,
+          "prompt_chars": 940
+        }
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 1767.1121650000714
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 1767.1121650000714,
+  "benchmark_metadata": {
+    "scientific_name": "Paullinia bracteosa",
+    "family": "Sapindaceae",
+    "genus": "Paullinia",
+    "species_epithet": "bracteosa",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

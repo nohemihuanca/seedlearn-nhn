@@ -1,0 +1,47 @@
+{
+  "specimen_id": "CHTROPRA2",
+  "source_answer_key": "Moraceae_Trophis_racemosa_CHTROPRA2",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "alternate",
+            "spacing": "distal"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "toothed",
+            "shape": "elliptic-lanceolate",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "visible, moderately spaced, about 6\u20139 pairs",
+            "surface_features": "dull",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "green to brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Assessment is based on the tagged slender stem with serrate simple leaves; some overlapping nearby foliage is also present in the frame. Several leaves show pale mottling, and a small hole/slit is visible on one leaf."
+        }
+      }
+    }
+  }
+}

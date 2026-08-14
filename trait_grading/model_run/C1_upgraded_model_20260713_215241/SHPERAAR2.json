@@ -1,0 +1,91 @@
+{
+  "specimen_id": "SHPERAAR2",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Peraceae/by_genus/Pera/by_species/arborea/SHPERAAR2/Peraceae_Pera_arborea_SHPERAAR2_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Peraceae/by_genus/Pera/by_species/arborea/SHPERAAR2/Peraceae_Pera_arborea_SHPERAAR2_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Peraceae/by_genus/Pera/by_species/arborea/SHPERAAR2/Peraceae_Pera_arborea_SHPERAAR2_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Peraceae/by_genus/Pera/by_species/arborea/SHPERAAR2/Peraceae_Pera_arborea_SHPERAAR2_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Peraceae/by_genus/Pera/by_species/arborea/SHPERAAR2/Peraceae_Pera_arborea_SHPERAAR2_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "whorled",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic to obovate",
+            "apex": "acute to acuminate",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "clearly visible, parallel to each other, curving towards the apex",
+            "surface_features": "shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "absent",
+            "color": "green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "The seedling is situated on a forest floor covered with leaf litter. A pink tag is attached to the stem, likely for identification purposes. The leaves appear to be emerging from a single whorl at the top of the young stem."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): whorled (multiple leaves clearly attached at the same node in a cluster)\n    2. Leaf spacing (clustered / distal): clustered (leaves are grouped closely together at the apex of the stem)\nB. Leaf Complexity\n    3.\tLeaf complexity (simple / compound): simple (each leaf is a single blade without leaflets)\n    4.\tCompound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): N/A\n    5.\tNumber of leaflets (integer estimate 2, 4, 8, \u2026): N/A\n    6.\tLeaflet arrangement (opposite / alternate / subopposite): N/A\nC. Leaf Morphology\n    7.\tLeaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (margins appear smooth without teeth)\n    8.\tLeaf shape (elliptic, obovate, lanceolate, etc.): elliptic to obovate (leaf is widest near the tip and tapers towards the base)\n    9.\tLeaf apex (acute, obtuse, acuminate): acute to acuminate (tip tapers to a distinct point)\n    10.\tLeaf base (rounded, cordate, cuneate): cuneate (tapers gradually to the petiole)\n    11.\tVenation type (pinnate / palmate / parallel): pinnate (single midrib with lateral veins branching off)\n    12.\tSecondary veins (visibility, spacing, number): clearly visible, parallel to each other, curving towards the apex\n    13.\tLeaf surface features (glabrous, shiny, dull, rugose): shiny (surface reflects light)\n    14.\tLeaf surface trichomes (present / absent): absent (surface appears smooth)\n    15.\tPetiole length (short / long): short (petioles are clearly visible but relatively short compared to leaf blade length)\n    16.\tPetiole features (winged / grooved / terete): terete (petioles appear round in cross-section)\nD. Stem & Shoot Traits\n    17.\tStem type, may not be visible (woody / herbaceous): herbaceous (stem appears thin, green, and soft)\n    18.\tStem trichomes (present / absent): absent (stem appears smooth)\n    19.\tStem color: green\n    20.\tStem texture (smooth / ridged / lenticellate): smooth\nE. Other Visible Seedling Traits\n    21.\tStipules, sometimes visible only in close-up images (present / absent): absent (no stipules are clearly visible)\n    22.\tLatex, rarely visible but extremely diagnostic when present (present / not observed): not observed\n    23.\tPulvinus, for Fabaceae family only (present / absent): absent (no swollen joint visible at the leaf base)\n    24.\tTendrils (present / absent): absent\nF. Notes: The seedling is situated on a forest floor covered with leaf litter. A pink tag is attached to the stem, likely for identification purposes. The leaves appear to be emerging from a single whorl at the top of the young stem.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 4397.463628090918
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 4397.463628090918,
+  "benchmark_metadata": {
+    "scientific_name": "Pera arborea",
+    "family": "Peraceae",
+    "genus": "Pera",
+    "species_epithet": "arborea",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

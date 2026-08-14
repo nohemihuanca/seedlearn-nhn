@@ -1,0 +1,91 @@
+{
+  "specimen_id": "PPPIT1RU4",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Cojoba/by_species/rufescens/PPPIT1RU4/Fabaceae_Cojoba_rufescens_PPPIT1RU4_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Cojoba/by_species/rufescens/PPPIT1RU4/Fabaceae_Cojoba_rufescens_PPPIT1RU4_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Cojoba/by_species/rufescens/PPPIT1RU4/Fabaceae_Cojoba_rufescens_PPPIT1RU4_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Cojoba/by_species/rufescens/PPPIT1RU4/Fabaceae_Cojoba_rufescens_PPPIT1RU4_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Cojoba/by_species/rufescens/PPPIT1RU4/Fabaceae_Cojoba_rufescens_PPPIT1RU4_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "alternate",
+            "spacing": "distal"
+          },
+          "leaf_complexity": {
+            "type": "compound",
+            "compound_type": "odd-pinnate",
+            "num_leaflets": "8",
+            "leaflet_arrangement": "alternate"
+          },
+          "leaf_morphology": {
+            "margin": "toothed, dentate",
+            "shape": "lanceolate",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "visible, closely spaced, numerous",
+            "surface_features": "glabrous, dull",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "green to reddish-brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Several leaflets show minor damage including holes and margin irregularities, likely due to mechanical or environmental factors. The seedling is low-growing, with multiple compound leaves emerging from the same stem. Images show consistent morphology across angles, confirming alternate leaf arrangement and odd-pinnate compound leaves with dentate margins. No reproductive structures visible."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): alternate (leaves are attached at successive nodes along the stem, alternating sides; no paired or whorled arrangement visible)\n    2. Leaf spacing (clustered / distal): distal (leaves are spaced along the stem with visible internodes, not clustered at the apex)\n\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): compound (each leaf consists of multiple leaflets attached to a central rachis)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): odd-pinnate (leaflets are arranged along a central axis with a terminal leaflet present)\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): 8 (each compound leaf has approximately 7\u20139 leaflets; estimate of 8 based on most visible leaf)\n    6. Leaflet arrangement (opposite / alternate / subopposite): alternate (leaflets are arranged alternately along the rachis, not in pairs)\n\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): toothed, dentate (margins have small, regular teeth pointing outward, consistent with dentate morphology)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): lanceolate (leaflets are elongated with a narrow base and wider at the middle, tapering to an acute apex)\n    9. Leaf apex (acute, obtuse, acuminate): acute (apex is sharply pointed but not drawn out into a long tip)\n    10. Leaf base (rounded, cordate, cuneate): cuneate (base is wedge-shaped, tapering to the petiolule)\n    11. Venation type (pinnate / palmate / parallel): pinnate (primary veins extend from midrib to margin, with secondary veins branching off the midrib)\n    12. Secondary veins (visibility, spacing, number): visible, closely spaced, numerous (secondary veins are clearly visible, running perpendicular to midrib, closely spaced)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): glabrous, dull (surface appears smooth without hairs; not shiny, with a matte finish)\n    14. Leaf surface trichomes (present / absent): absent (no visible hairs on leaf surface)\n    15. Petiole length (short / long): short (petiole is short, supporting the compound leaf; rachis is longer)\n    16. Petiole features (winged / grooved / terete): terete (petiole is round in cross-section, no wings or grooves visible)\n\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): woody (stem appears firm and slightly lignified, typical of young woody seedlings)\n    18. Stem trichomes (present / absent): absent (no visible hairs on stem surface)\n    19. Stem color: green to reddish-brown (stem is primarily green with some reddish-brown tinge, especially near nodes)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (surface appears smooth without ridges or lenticels)\n\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules observed at leaf bases)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no exudate visible when stems or leaves are broken)\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no swollen joint at leaflet base visible; not characteristic of Fabaceae)\n    24. Tendrils (present / absent): absent (no tendrils observed)\n\nF. Notes: Several leaflets show minor damage including holes and margin irregularities, likely due to mechanical or environmental factors. The seedling is low-growing, with multiple compound leaves emerging from the same stem. Images show consistent morphology across angles, confirming alternate leaf arrangement and odd-pinnate compound leaves with dentate margins. No reproductive structures visible.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 22023.435526061803
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 22023.435526061803,
+  "benchmark_metadata": {
+    "scientific_name": "Cojoba rufescens",
+    "family": "Fabaceae",
+    "genus": "Cojoba",
+    "species_epithet": "rufescens",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

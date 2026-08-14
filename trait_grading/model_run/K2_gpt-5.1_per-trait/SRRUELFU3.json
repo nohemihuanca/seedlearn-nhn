@@ -1,0 +1,47 @@
+{
+  "specimen_id": "SRRUELFU3",
+  "source_answer_key": "Acanthaceae_Ruellia_fulgida_SRRUELFU3",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "opposite",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "1",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "acuminate",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "clearly visible and raised, c. 7\u201310 pairs per leaf, fairly evenly spaced along midrib, arching toward margin",
+            "surface_features": "dull",
+            "trichomes": "present",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "unclear",
+            "trichomes": "present",
+            "color": "dark greenish-brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Seedling shows softly hairy stems and leaf surfaces, with several mature leaves displaying ovate shape and entire margins; some leaf blades have small holes present; upper leaves appear paired at a node but exact attachment is unclear."
+        }
+      }
+    }
+  }
+}

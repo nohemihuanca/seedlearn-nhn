@@ -1,0 +1,91 @@
+{
+  "specimen_id": "CHPAR1PY2",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Tanaecium/by_species/pyramidatum/CHPAR1PY2/Bignoniaceae_Tanaecium_pyramidatum_CHPAR1PY2_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Tanaecium/by_species/pyramidatum/CHPAR1PY2/Bignoniaceae_Tanaecium_pyramidatum_CHPAR1PY2_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Tanaecium/by_species/pyramidatum/CHPAR1PY2/Bignoniaceae_Tanaecium_pyramidatum_CHPAR1PY2_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Tanaecium/by_species/pyramidatum/CHPAR1PY2/Bignoniaceae_Tanaecium_pyramidatum_CHPAR1PY2_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Tanaecium/by_species/pyramidatum/CHPAR1PY2/Bignoniaceae_Tanaecium_pyramidatum_CHPAR1PY2_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "opposite",
+            "spacing": "distal"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic to ovate",
+            "apex": "acute",
+            "base": "rounded to obtuse",
+            "venation": "pinnate",
+            "secondary_veins": "visible",
+            "surface_features": "shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "absent",
+            "color": "light brown to green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "The seedling has some minor damage on the leaf margins (holes present), likely due to physical damage or small herbivores, but this does not obscure the primary morphological traits. The plant is situated on dark, moist-looking soil with leaf litter. A blue and pink tag is attached to the stem."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): opposite (multiple images clearly show pairs of leaves emerging from the same node, such as the top pair in image 4 and the pair below the tag in image 2)\n    2. Leaf spacing (clustered / distal): distal (leaves are spaced out along the stem rather than clustered at the apex)\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): simple (leaves are undivided blades)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): N/A\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): N/A\n    6. Leaflet arrangement (opposite / alternate / subopposite): N/A\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.): entire (margins appear smooth with no teeth, although some edges have irregular holes)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): elliptic to ovate (broadest point is near the middle or slightly below, tapering to the base and apex)\n    9. Leaf apex (acute, obtuse, acuminate): acute (tapers to a distinct, relatively sharp point)\n    10. Leaf base (rounded, cordate, cuneate): rounded to obtuse (the base of the leaf blade is generally rounded or blunt, not deeply cordate or wedge-shaped)\n    11. Venation type (pinnate / palmate / parallel): pinnate (single midrib with veins branching off laterally)\n    12. Secondary veins (visibility, spacing, number): visible (secondary veins are clearly visible curving towards the margin, appearing somewhat parallel to each other)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): shiny (leaf surface reflects light, particularly visible in images 1 and 3)\n    14. Leaf surface trichomes (present / absent): absent (no visible hairs on the leaf surface)\n    15. Petiole length (short / long): short (petioles are present but relatively short compared to the leaf blade)\n    16. Petiole features (winged / grooved / terete): terete (petioles appear cylindrical and smooth)\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): herbaceous (stem appears green, thin, and flexible, characteristic of a young seedling)\n    18. Stem trichomes (present / absent): absent (stem appears smooth)\n    19. Stem color: light brown to green (lower stem near soil is light brown/tan, upper stem is green)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (no obvious ridges or lenticels visible)\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules clearly visible at the base of the petioles)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no swollen joint-like structure visible at the leaf base)\n    24. Tendrils (present / absent): absent\nF. Notes: The seedling has some minor damage on the leaf margins (holes present), likely due to physical damage or small herbivores, but this does not obscure the primary morphological traits. The plant is situated on dark, moist-looking soil with leaf litter. A blue and pink tag is attached to the stem.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 5083.597172051668
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 5083.597172051668,
+  "benchmark_metadata": {
+    "scientific_name": "Tanaecium pyramidatum",
+    "family": "Bignoniaceae",
+    "genus": "Tanaecium",
+    "species_epithet": "pyramidatum",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

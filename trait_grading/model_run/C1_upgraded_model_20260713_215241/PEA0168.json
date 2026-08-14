@@ -1,0 +1,90 @@
+{
+  "specimen_id": "PEA0168",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rubiaceae/by_genus/Randia/by_species/armata/PEA0168/Rubiaceae_Randia_armata_PEA0168_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rubiaceae/by_genus/Randia/by_species/armata/PEA0168/Rubiaceae_Randia_armata_PEA0168_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rubiaceae/by_genus/Randia/by_species/armata/PEA0168/Rubiaceae_Randia_armata_PEA0168_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rubiaceae/by_genus/Randia/by_species/armata/PEA0168/Rubiaceae_Randia_armata_PEA0168_004.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "alternate",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "visible and distinct",
+            "surface_features": "shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "The seedling is surrounded by fern-like plants and leaf litter. A yellow tag labeled \"163\" is present at the base of the stem."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): alternate (leaves are attached singly at different nodes along the stem, as seen in images 1, 2, and 3)\n    2. Leaf spacing (clustered / distal): clustered (leaves are concentrated at the terminal end of the stem)\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): simple (leaves consist of a single blade without leaflets)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): N/A\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): N/A\n    6. Leaflet arrangement (opposite / alternate / subopposite): N/A\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.): entire (leaf margins appear smooth and continuous)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): elliptic (leaf is broadest in the middle and tapers toward both ends)\n    9. Leaf apex (acute, obtuse, acuminate): acute (leaf tip comes to a distinct point)\n    10. Leaf base (rounded, cordate, cuneate): cuneate (leaf base tapers to a wedge shape where it meets the petiole)\n    11. Venation type (pinnate / palmate / parallel): pinnate (single midrib with secondary veins branching off)\n    12. Secondary veins (visibility, spacing, number): visible and distinct (veins are clearly visible as depressed lines on the leaf surface)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): shiny (leaf surface reflects light, indicating a smooth texture)\n    14. Leaf surface trichomes (present / absent): absent (no hairs are visible on the leaf surface)\n    15. Petiole length (short / long): short (petioles are relatively short compared to the leaf blade length)\n    16. Petiole features (winged / grooved / terete): terete (petioles appear cylindrical)\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): woody (stem appears rigid and lignified, consistent with a tree seedling)\n    18. Stem trichomes (present / absent): absent (no hairs are visible on the stem)\n    19. Stem color: green (stem is green with some brownish discoloration near the base)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (stem appears relatively smooth without prominent ridges or lenticels)\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules are visible at the leaf bases)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no pulvinus is visible at the leaf base)\n    24. Tendrils (present / absent): absent\nF. Notes: The seedling is surrounded by fern-like plants and leaf litter. A yellow tag labeled \"163\" is present at the base of the stem.",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 4285.082417074591
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 4285.082417074591,
+  "benchmark_metadata": {
+    "scientific_name": "Randia armata",
+    "family": "Rubiaceae",
+    "genus": "Randia",
+    "species_epithet": "armata",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

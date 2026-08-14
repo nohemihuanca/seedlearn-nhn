@@ -1,0 +1,72 @@
+{
+  "specimen_id": "OLTRI2TU6",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Meliaceae/by_genus/Trichilia/by_species/tuberculata/OLTRI2TU6/Meliaceae_Trichilia_tuberculata_OLTRI2TU6_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Meliaceae/by_genus/Trichilia/by_species/tuberculata/OLTRI2TU6/Meliaceae_Trichilia_tuberculata_OLTRI2TU6_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Meliaceae/by_genus/Trichilia/by_species/tuberculata/OLTRI2TU6/Meliaceae_Trichilia_tuberculata_OLTRI2TU6_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Meliaceae/by_genus/Trichilia/by_species/tuberculata/OLTRI2TU6/Meliaceae_Trichilia_tuberculata_OLTRI2TU6_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Meliaceae/by_genus/Trichilia/by_species/tuberculata/OLTRI2TU6/Meliaceae_Trichilia_tuberculata_OLTRI2TU6_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {},
+          "leaf_complexity": {},
+          "leaf_morphology": {
+            "margin": "[entire"
+          },
+          "stem_traits": {},
+          "special_features": {},
+          "notes": "[The leaves of the seedling exhibit a completely smooth margin along their entire length. No teeth, scalloping, or deep indentations are present.]"
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nC. Leaf Morphology\n    7.\tLeaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): [entire (the leaf edges are smooth and continuous without any teeth, serrations, or lobes)]\nF. Notes: [The leaves of the seedling exhibit a completely smooth margin along their entire length. No teeth, scalloping, or deep indentations are present.]\n####",
+        "thinking": null,
+        "few_shot_delivery": {
+          "n_examples": 1,
+          "n_exemplar_images": 3,
+          "n_specimen_images": 5,
+          "max_images": 10,
+          "images_over_budget": false,
+          "prompt_chars": 2155
+        }
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 1602.435296000067
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 1602.435296000067,
+  "benchmark_metadata": {
+    "scientific_name": "Trichilia tuberculata",
+    "family": "Meliaceae",
+    "genus": "Trichilia",
+    "species_epithet": "tuberculata",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

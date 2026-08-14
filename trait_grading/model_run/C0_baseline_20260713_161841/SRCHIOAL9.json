@@ -1,0 +1,91 @@
+{
+  "specimen_id": "SRCHIOAL9",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rubiaceae/by_genus/Chiococca/by_species/alba/SRCHIOAL9/Rubiaceae_Chiococca_alba_SRCHIOAL9_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rubiaceae/by_genus/Chiococca/by_species/alba/SRCHIOAL9/Rubiaceae_Chiococca_alba_SRCHIOAL9_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rubiaceae/by_genus/Chiococca/by_species/alba/SRCHIOAL9/Rubiaceae_Chiococca_alba_SRCHIOAL9_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rubiaceae/by_genus/Chiococca/by_species/alba/SRCHIOAL9/Rubiaceae_Chiococca_alba_SRCHIOAL9_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rubiaceae/by_genus/Chiococca/by_species/alba/SRCHIOAL9/Rubiaceae_Chiococca_alba_SRCHIOAL9_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "opposite",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "acute",
+            "base": "rounded",
+            "venation": "pinnate",
+            "secondary_veins": "visible, spaced widely, 3\u20135 pairs per leaf",
+            "surface_features": "shiny, glabrous",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Some leaves show minor damage, including holes and slight margin irregularities, but no clear signs of insect activity or disease. The seedling is marked with a pink tag and a white band, likely for research or monitoring purposes. The surrounding forest floor is covered in leaf litter, but habitat conditions are not clearly inferable from the images. All observations are based on visible traits in the provided images, following conservative annotation rules. No family, genus, or species is identified or inferred."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): opposite (clearly paired leaves at each node along the stem, visible in multiple images)\n    2. Leaf spacing (clustered / distal): clustered (leaves are grouped closely at the top of the stem, forming a terminal cluster)\n\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): simple (each leaf is a single, undivided blade)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): N/A\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): N/A\n    6. Leaflet arrangement (opposite / alternate / subopposite): N/A\n\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (smooth margin without teeth, visible in all images)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): elliptic (broad in the middle, tapering to both ends, consistent across leaves)\n    9. Leaf apex (acute, obtuse, acuminate): acute (tapers to a sharp point, visible in top-down and side views)\n    10. Leaf base (rounded, cordate, cuneate): rounded (base is broadly curved, not tapered or heart-shaped)\n    11. Venation type (pinnate / palmate / parallel): pinnate (one central midvein with lateral veins branching off, clearly visible)\n    12. Secondary veins (visibility, spacing, number): visible, spaced widely, 3\u20135 pairs per leaf (secondary veins are prominent and extend to margin, clearly seen in close-ups)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): shiny, glabrous (surface is smooth and glossy, reflecting light in multiple images)\n    14. Leaf surface trichomes (present / absent): absent (no visible hairs on leaf surface, surface appears smooth)\n    15. Petiole length (short / long): short (petioles are short, leaves appear nearly sessile or with very short stalks)\n    16. Petiole features (winged / grooved / terete): terete (petioles are round in cross-section, not flattened or winged)\n\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): woody (stem is firm, green, and appears woody with slight bark texture, especially in upper portion)\n    18. Stem trichomes (present / absent): absent (no visible hairs on stem surface, smooth texture)\n    19. Stem color: green (stem is uniformly green, with some moss coverage, but underlying color is green)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (surface is smooth, no ridges or lenticels visible)\n\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipule structures visible at leaf bases)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no exudate or latex visible when stem is not cut)\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no swollen joint at leaf base visible)\n    24. Tendrils (present / absent): absent (no tendrils present)\n\nF. Notes: Some leaves show minor damage, including holes and slight margin irregularities, but no clear signs of insect activity or disease. The seedling is marked with a pink tag and a white band, likely for research or monitoring purposes. The surrounding forest floor is covered in leaf litter, but habitat conditions are not clearly inferable from the images. All observations are based on visible traits in the provided images, following conservative annotation rules. No family, genus, or species is identified or inferred.",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 20940.72796497494
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 20940.72796497494,
+  "benchmark_metadata": {
+    "scientific_name": "Chiococca alba",
+    "family": "Rubiaceae",
+    "genus": "Chiococca",
+    "species_epithet": "alba",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

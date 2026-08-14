@@ -1,0 +1,47 @@
+{
+  "specimen_id": "SHMICOSI7",
+  "source_answer_key": "Melastomataceae_Miconia_simplex_SHMICOSI7",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "whorled",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "lanceolate",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "clearly visible, very closely spaced, numerous",
+            "surface_features": "glabrous and shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "unclear"
+          },
+          "stem_traits": {
+            "type": "unclear",
+            "trichomes": "unclear",
+            "color": "reddish-green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "unclear",
+            "tendrils": "absent"
+          },
+          "notes": "Leaves form an apical rosette on what appears to be a single upright stem, with a distinctive three-strong-vein pattern and many transverse veins giving a strongly pleated look. Several leaves show holes and missing margin sections, but overall architecture remains clear. Seedling is growing among leaf litter and soil on the forest floor."
+        }
+      }
+    }
+  }
+}

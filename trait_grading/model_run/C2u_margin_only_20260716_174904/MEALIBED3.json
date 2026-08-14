@@ -1,0 +1,72 @@
+{
+  "specimen_id": "MEALIBED3",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rubiaceae/by_genus/Alibertia/by_species/edulis/MEALIBED3/Rubiaceae_Alibertia_edulis_MEALIBED3_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rubiaceae/by_genus/Alibertia/by_species/edulis/MEALIBED3/Rubiaceae_Alibertia_edulis_MEALIBED3_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rubiaceae/by_genus/Alibertia/by_species/edulis/MEALIBED3/Rubiaceae_Alibertia_edulis_MEALIBED3_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rubiaceae/by_genus/Alibertia/by_species/edulis/MEALIBED3/Rubiaceae_Alibertia_edulis_MEALIBED3_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rubiaceae/by_genus/Alibertia/by_species/edulis/MEALIBED3/Rubiaceae_Alibertia_edulis_MEALIBED3_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {},
+          "leaf_complexity": {},
+          "leaf_morphology": {
+            "margin": "[entire"
+          },
+          "stem_traits": {},
+          "special_features": {},
+          "notes": "[Several leaves show physical damage, including small holes and irregular missing sections along the margins, likely from herbivory. The assessment is based on the intact portions of the leaf edges.]"
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nC. Leaf Morphology\n    7.\tLeaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): [entire (the leaf edges appear smooth and continuous without any teeth, serrations, or lobes, as seen clearly in images 1, 2, 4, and 5)]\nF. Notes: [Several leaves show physical damage, including small holes and irregular missing sections along the margins, likely from herbivory. The assessment is based on the intact portions of the leaf edges.]\n####",
+        "thinking": null,
+        "few_shot_delivery": {
+          "n_examples": 0,
+          "n_exemplar_images": 0,
+          "n_specimen_images": 5,
+          "max_images": 10,
+          "images_over_budget": false,
+          "prompt_chars": 940
+        }
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 1784.843799999976
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 1784.843799999976,
+  "benchmark_metadata": {
+    "scientific_name": "Alibertia edulis",
+    "family": "Rubiaceae",
+    "genus": "Alibertia",
+    "species_epithet": "edulis",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

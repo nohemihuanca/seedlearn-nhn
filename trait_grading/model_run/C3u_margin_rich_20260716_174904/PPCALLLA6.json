@@ -1,0 +1,72 @@
+{
+  "specimen_id": "PPCALLLA6",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Callichlamys/by_species/latifolia/PPCALLLA6/Bignoniaceae_Callichlamys_latifolia_PPCALLLA6_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Callichlamys/by_species/latifolia/PPCALLLA6/Bignoniaceae_Callichlamys_latifolia_PPCALLLA6_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Callichlamys/by_species/latifolia/PPCALLLA6/Bignoniaceae_Callichlamys_latifolia_PPCALLLA6_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Callichlamys/by_species/latifolia/PPCALLLA6/Bignoniaceae_Callichlamys_latifolia_PPCALLLA6_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Callichlamys/by_species/latifolia/PPCALLLA6/Bignoniaceae_Callichlamys_latifolia_PPCALLLA6_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {},
+          "leaf_complexity": {},
+          "leaf_morphology": {
+            "margin": "[entire"
+          },
+          "stem_traits": {},
+          "special_features": {},
+          "notes": "[The leaf blade margins appear completely smooth and unbroken in all views. Minor irregularities on a few leaves appear to be mechanical damage rather than natural margin structure.]"
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nC. Leaf Morphology\n    7.\tLeaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): [entire (the leaf margins are smooth and continuous, lacking any teeth, serrations, or lobes)]\nF. Notes: [The leaf blade margins appear completely smooth and unbroken in all views. Minor irregularities on a few leaves appear to be mechanical damage rather than natural margin structure.]\n####",
+        "thinking": null,
+        "few_shot_delivery": {
+          "n_examples": 0,
+          "n_exemplar_images": 0,
+          "n_specimen_images": 5,
+          "max_images": 10,
+          "images_over_budget": false,
+          "prompt_chars": 2155
+        }
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 1597.7275190000455
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 1597.7275190000455,
+  "benchmark_metadata": {
+    "scientific_name": "Callichlamys latifolia",
+    "family": "Bignoniaceae",
+    "genus": "Callichlamys",
+    "species_epithet": "latifolia",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

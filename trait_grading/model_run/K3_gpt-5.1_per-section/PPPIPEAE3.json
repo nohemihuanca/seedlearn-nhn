@@ -1,0 +1,47 @@
+{
+  "specimen_id": "PPPIPEAE3",
+  "source_answer_key": "Piperaceae_Piper_aequale_PPPIPEAE3",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "opposite",
+            "spacing": "distal"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic-lanceolate",
+            "apex": "acuminate",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "visible, 6\u20139 pairs, evenly spaced",
+            "surface_features": "glabrous and slightly shiny",
+            "trichomes": "absent",
+            "petiole_length": "long",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "absent",
+            "color": "green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Leaves are simple, entire, and elliptic to narrowly ovate with prominent curved secondary veins; leaf arrangement appears mainly opposite at the upper nodes; some leaf blades show holes and missing margin sections."
+        }
+      }
+    }
+  }
+}

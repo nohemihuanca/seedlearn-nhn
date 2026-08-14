@@ -1,0 +1,47 @@
+{
+  "specimen_id": "CHPAR1PY2",
+  "source_answer_key": "Bignoniaceae_Tanaecium_pyramidatum_CHPAR1PY2",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "opposite",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "visible, moderately close, approximately 6\u201310 pairs",
+            "surface_features": "glabrous and slightly shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "green to light brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Leaves appear opposite at the upper nodes, simple, entire, and elliptic-lanceolate; several leaves show holes present; stem is slender with short internodes and no visible stipular structures."
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "specimen_id": "SHCORDBI3",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Boraginaceae/by_genus/Cordia/by_species/bicolor/SHCORDBI3/Boraginaceae_Cordia_bicolor_SHCORDBI3_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Boraginaceae/by_genus/Cordia/by_species/bicolor/SHCORDBI3/Boraginaceae_Cordia_bicolor_SHCORDBI3_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Boraginaceae/by_genus/Cordia/by_species/bicolor/SHCORDBI3/Boraginaceae_Cordia_bicolor_SHCORDBI3_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Boraginaceae/by_genus/Cordia/by_species/bicolor/SHCORDBI3/Boraginaceae_Cordia_bicolor_SHCORDBI3_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Boraginaceae/by_genus/Cordia/by_species/bicolor/SHCORDBI3/Boraginaceae_Cordia_bicolor_SHCORDBI3_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "whorled",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "toothed, dentate",
+            "shape": "lanceolate",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "visible, closely spaced, numerous",
+            "surface_features": "dull, rugose",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "absent",
+            "color": "green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Multiple images show the same seedling with 7\u20138 leaves arranged in a whorled pattern at the apex. Some leaves exhibit holes and minor damage, likely from environmental factors or small organisms. A spider web is visible on one leaf in one image. The seedling is growing on a forest floor covered with leaf litter. No flowering or fruiting structures are visible."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): whorled (multiple leaves clearly attached at the same node, radiating outward)\n    2. Leaf spacing (clustered / distal): clustered (leaves are grouped tightly at the apex of the stem)\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): simple (each leaf is a single blade without subdivisions)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): N/A (leaf complexity is simple)\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): N/A (leaf complexity is simple)\n    6. Leaflet arrangement (opposite / alternate / subopposite): N/A (leaf complexity is simple)\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): toothed, dentate (margins have sharp, triangular teeth pointing forward)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): lanceolate (longer than wide, tapering to a point)\n    9. Leaf apex (acute, obtuse, acuminate): acute (tapering to a sharp point)\n    10. Leaf base (rounded, cordate, cuneate): cuneate (tapering to a narrow base)\n    11. Venation type (pinnate / palmate / parallel): pinnate (main vein runs from base to apex, with secondary veins branching off)\n    12. Secondary veins (visibility, spacing, number): visible, closely spaced, numerous (secondary veins clearly visible, running parallel to each other and perpendicular to midrib)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): dull, rugose (surface not shiny, with slight wrinkling or texture)\n    14. Leaf surface trichomes (present / absent): absent (no visible hairs or fuzz on leaf surface)\n    15. Petiole length (short / long): short (petioles are short, connecting leaves to central stem)\n    16. Petiole features (winged / grooved / terete): terete (petioles are round in cross-section, not flattened or winged)\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): herbaceous (stem appears soft and green, not woody)\n    18. Stem trichomes (present / absent): absent (no visible hairs on stem)\n    19. Stem color: green (stem is green, matching leaf color)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (surface appears smooth without ridges or lenticels)\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules observed at leaf bases)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no latex exudate visible)\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no pulvinus visible at leaf petiole base)\n    24. Tendrils (present / absent): absent (no tendrils observed)\nF. Notes: Multiple images show the same seedling with 7\u20138 leaves arranged in a whorled pattern at the apex. Some leaves exhibit holes and minor damage, likely from environmental factors or small organisms. A spider web is visible on one leaf in one image. The seedling is growing on a forest floor covered with leaf litter. No flowering or fruiting structures are visible. \n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 19817.01432587579
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 19817.01432587579,
+  "benchmark_metadata": {
+    "scientific_name": "Cordia bicolor",
+    "family": "Boraginaceae",
+    "genus": "Cordia",
+    "species_epithet": "bicolor",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

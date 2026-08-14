@@ -1,0 +1,47 @@
+{
+  "specimen_id": "SRCHIOAL9",
+  "source_answer_key": "Rubiaceae_Chiococca_alba_SRCHIOAL9",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "opposite",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "clearly visible, regularly spaced, approximately 7\u201310 pairs per leaf, arching toward the margin",
+            "surface_features": "glabrous, shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "absent",
+            "color": "green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Seedling with simple, entire, elliptic leaves showing prominent, evenly spaced secondary veins; leaves appear arranged in opposite pairs; some leaves show holes and small missing portions along the margin; plant occurs on leaf-litter-covered ground with mixed surrounding vegetation and a nearby mossy stem."
+        }
+      }
+    }
+  }
+}

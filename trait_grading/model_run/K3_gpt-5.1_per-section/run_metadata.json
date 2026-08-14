@@ -1,0 +1,18 @@
+{
+  "external": true,
+  "label": "K3_gpt-5.1_per-section",
+  "model": "gpt-5.1",
+  "granularity": "per_section",
+  "prompt_style": "sys4_excerpt_per_section",
+  "source_json": [
+    "/tmp/claude-16293/-nfs-roberts-project-pi-lsc4-lmb242-seedlearn/a08a416a-2acf-4f7e-bc2f-a2adcfc9eeb8/scratchpad/cb/workshop_pipeline/step_1_cloudbank/results/gpt-5.1/section_A/sys4_user1_results.json",
+    "/tmp/claude-16293/-nfs-roberts-project-pi-lsc4-lmb242-seedlearn/a08a416a-2acf-4f7e-bc2f-a2adcfc9eeb8/scratchpad/cb/workshop_pipeline/step_1_cloudbank/results/gpt-5.1/section_B/sys4_user1_results.json",
+    "/tmp/claude-16293/-nfs-roberts-project-pi-lsc4-lmb242-seedlearn/a08a416a-2acf-4f7e-bc2f-a2adcfc9eeb8/scratchpad/cb/workshop_pipeline/step_1_cloudbank/results/gpt-5.1/section_C/sys4_user1_results.json",
+    "/tmp/claude-16293/-nfs-roberts-project-pi-lsc4-lmb242-seedlearn/a08a416a-2acf-4f7e-bc2f-a2adcfc9eeb8/scratchpad/cb/workshop_pipeline/step_1_cloudbank/results/gpt-5.1/section_D/sys4_user1_results.json",
+    "/tmp/claude-16293/-nfs-roberts-project-pi-lsc4-lmb242-seedlearn/a08a416a-2acf-4f7e-bc2f-a2adcfc9eeb8/scratchpad/cb/workshop_pipeline/step_1_cloudbank/results/gpt-5.1/section_E/sys4_user1_results.json"
+  ],
+  "n_specimens": 114,
+  "prompt_file": "configs/experiments/gpt_workshop_prompts/per_section_C.txt",
+  "prompt_dir": "configs/experiments/gpt_workshop_prompts",
+  "prompt_note": "Confirmed by the collaborator who ran it (2026-07-17): sys4 prose with the assessment form excerpted. One call PER SECTION: each call's form carries only that section's traits and F. Notes. 5 distinct prompts (per_section_A..E.txt); prompt_file points at section C (leaf morphology) as a representative. Mechanically --sys_prompt_id=4.5 with the form rebuilt per call from --keys_to_use. The upstream 'sys4_' filename is a stale --save_file_name label, not the prompt id."
+}

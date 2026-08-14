@@ -1,0 +1,91 @@
+{
+  "specimen_id": "PPTERMOB5",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Combretaceae/by_genus/Terminalia/by_species/oblonga/PPTERMOB5/Combretaceae_Terminalia_oblonga_PPTERMOB5_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Combretaceae/by_genus/Terminalia/by_species/oblonga/PPTERMOB5/Combretaceae_Terminalia_oblonga_PPTERMOB5_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Combretaceae/by_genus/Terminalia/by_species/oblonga/PPTERMOB5/Combretaceae_Terminalia_oblonga_PPTERMOB5_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Combretaceae/by_genus/Terminalia/by_species/oblonga/PPTERMOB5/Combretaceae_Terminalia_oblonga_PPTERMOB5_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Combretaceae/by_genus/Terminalia/by_species/oblonga/PPTERMOB5/Combretaceae_Terminalia_oblonga_PPTERMOB5_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "whorled",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "obovate to elliptic",
+            "apex": "acute",
+            "base": "cuneate to attenuate",
+            "venation": "pinnate",
+            "secondary_veins": "visible and prominent, appearing to curve towards the leaf margin",
+            "surface_features": "shiny and glabrous",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "dark brown to blackish",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "The leaves show some minor damage in the form of small holes. The overall appearance is of a healthy, young woody seedling with distinct whorled phyllotaxy."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): whorled (multiple leaves clearly attached at the same node in a circular arrangement, typically 5-7 leaves per whorl)\n    2. Leaf spacing (clustered / distal): clustered (whorls of leaves are closely spaced along the stem)\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): simple (each leaf unit is a single blade without leaflet division)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): N/A\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): N/A\n    6. Leaflet arrangement (opposite / alternate / subopposite): N/A\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (margins are smooth without teeth)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): obovate to elliptic (leaf is broader towards the apex and tapers towards the base)\n    9. Leaf apex (acute, obtuse, acuminate): acute (tapering to a distinct point)\n    10. Leaf base (rounded, cordate, cuneate): cuneate to attenuate (tapering gradually towards the petiole attachment)\n    11. Venation type (pinnate / palmate / parallel): pinnate (single midrib with secondary veins branching from it)\n    12. Secondary veins (visibility, spacing, number): visible and prominent, appearing to curve towards the leaf margin (intramarginal)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): shiny and glabrous (smooth and reflecting light, indicating a glossy surface)\n    14. Leaf surface trichomes (present / absent): absent (no visible hairs on the leaf surface)\n    15. Petiole length (short / long): short (petioles are relatively short compared to the leaf blade)\n    16. Petiole features (winged / grooved / terete): terete (cylindrical in cross-section)\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): woody (the main stem appears rigid and dark, characteristic of a woody seedling)\n    18. Stem trichomes (present / absent): absent (stem appears smooth without visible hairs)\n    19. Stem color: dark brown to blackish (visible in the lower stem and petioles)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (no obvious ridges or lenticels visible)\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): unclear (stipules are not clearly visible at the nodes)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no latex exudate visible)\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no pulvinus joint visible at the base of the leaf)\n    24. Tendrils (present / absent): absent (no tendrils visible)\nF. Notes: The leaves show some minor damage in the form of small holes. The overall appearance is of a healthy, young woody seedling with distinct whorled phyllotaxy.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 4598.940826952457
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 4598.940826952457,
+  "benchmark_metadata": {
+    "scientific_name": "Terminalia oblonga",
+    "family": "Combretaceae",
+    "genus": "Terminalia",
+    "species_epithet": "oblonga",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

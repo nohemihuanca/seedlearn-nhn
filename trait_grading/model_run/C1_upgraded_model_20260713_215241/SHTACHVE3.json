@@ -1,0 +1,91 @@
+{
+  "specimen_id": "SHTACHVE3",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Tachigali/by_species/panamensis/SHTACHVE3/Fabaceae_Tachigali_panamensis_SHTACHVE3_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Tachigali/by_species/panamensis/SHTACHVE3/Fabaceae_Tachigali_panamensis_SHTACHVE3_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Tachigali/by_species/panamensis/SHTACHVE3/Fabaceae_Tachigali_panamensis_SHTACHVE3_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Tachigali/by_species/panamensis/SHTACHVE3/Fabaceae_Tachigali_panamensis_SHTACHVE3_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Tachigali/by_species/panamensis/SHTACHVE3/Fabaceae_Tachigali_panamensis_SHTACHVE3_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "alternate",
+            "spacing": "distal"
+          },
+          "leaf_complexity": {
+            "type": "compound",
+            "compound_type": "odd-pinnate",
+            "num_leaflets": "8",
+            "leaflet_arrangement": "opposite"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "acute",
+            "base": "rounded",
+            "venation": "pinnate",
+            "secondary_veins": "visible, pinnate",
+            "surface_features": "shiny",
+            "trichomes": "absent",
+            "petiole_length": "long",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "absent",
+            "color": "green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Several leaflets show small holes and brown spots, indicating minor damage."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): alternate (successive compound leaves are attached at different nodes along the stem, alternating sides as seen in images 1, 2, and 4)\n    2. Leaf spacing (clustered / distal): distal (leaves are spaced out along the length of the stem rather than clustered at the tips)\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): compound (the leaf structure consists of a rachis bearing multiple leaflets)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): odd-pinnate (the leaflets are arranged along a central rachis and terminate in a single terminal leaflet, as seen in images 2, 3, and 4)\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): 8 (one fully visible leaf in image 3 shows 4 pairs of leaflets, totaling 8 leaflets)\n    6. Leaflet arrangement (opposite / alternate / subopposite): opposite (leaflets are arranged in pairs along the rachis, as seen in images 2 and 3)\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.): entire (the leaflet margins appear smooth without teeth)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): elliptic (leaflets are oval-shaped, widest in the middle and tapering towards both ends, as seen in images 2 and 3)\n    9. Leaf apex (acute, obtuse, acuminate): acute (the leaflet tips come to a distinct, relatively sharp point)\n    10. Leaf base (rounded, cordate, cuneate): rounded (the base of the leaflets appears rounded or slightly obtuse)\n    11. Venation type (pinnate / palmate / parallel): pinnate (a central midrib is visible with secondary veins branching off from it, as seen in image 3)\n    12. Secondary veins (visibility, spacing, number): visible, pinnate (secondary veins are clearly visible and branch off the midrib in a feather-like pattern)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): shiny (the leaflets reflect light, indicating a glossy surface)\n    14. Leaf surface trichomes (present / absent): absent (no hairs are visible on the leaf surface)\n    15. Petiole length (short / long): long (the rachis and petiole structures are relatively long, extending the leaflets away from the stem)\n    16. Petiole features (winged / grooved / terete): terete (the rachis appears cylindrical and rounded in cross-section)\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): herbaceous (the stems appear green, smooth, and flexible, typical of young seedlings)\n    18. Stem trichomes (present / absent): absent (no hairs are visible on the stems)\n    19. Stem color: green (the stems are predominantly green)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (the stems appear smooth without ridges or lenticels)\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules are clearly visible at the leaf bases)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no latex is visible)\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no pulvinus is visible at the leaf base)\n    24. Tendrils (present / absent): absent (no tendrils are visible)\nF. Notes: Several leaflets show small holes and brown spots, indicating minor damage.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 5021.3890029117465
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 5021.3890029117465,
+  "benchmark_metadata": {
+    "scientific_name": "Tachigali panamensis",
+    "family": "Fabaceae",
+    "genus": "Tachigali",
+    "species_epithet": "panamensis",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

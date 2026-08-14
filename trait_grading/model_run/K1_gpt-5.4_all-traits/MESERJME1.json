@@ -1,0 +1,47 @@
+{
+  "specimen_id": "MESERJME1",
+  "source_answer_key": "Sapindaceae_Serjania_mexicana_MESERJME1",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "alternate",
+            "spacing": "distal"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "palmately lobed",
+            "apex": "acuminate",
+            "base": "cordate",
+            "venation": "palmate",
+            "secondary_veins": "unclear",
+            "surface_features": "glabrous, dull",
+            "trichomes": "absent",
+            "petiole_length": "long",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "absent",
+            "color": "green to purplish-brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "unclear",
+            "tendrils": "absent"
+          },
+          "notes": "Seedling has simple palmately lobed leaves, with the larger visible blades mostly 5-lobed. Small holes, dark spots, and minor margin loss are present on some leaves. Lower stem and basal attachments are partly obscured by surrounding vegetation and litter."
+        }
+      }
+    }
+  }
+}

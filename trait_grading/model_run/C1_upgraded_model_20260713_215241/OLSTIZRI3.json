@@ -1,0 +1,91 @@
+{
+  "specimen_id": "OLSTIZRI3",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Stizophyllum/by_species/riparium/OLSTIZRI3/Bignoniaceae_Stizophyllum_riparium_OLSTIZRI3_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Stizophyllum/by_species/riparium/OLSTIZRI3/Bignoniaceae_Stizophyllum_riparium_OLSTIZRI3_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Stizophyllum/by_species/riparium/OLSTIZRI3/Bignoniaceae_Stizophyllum_riparium_OLSTIZRI3_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Stizophyllum/by_species/riparium/OLSTIZRI3/Bignoniaceae_Stizophyllum_riparium_OLSTIZRI3_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Stizophyllum/by_species/riparium/OLSTIZRI3/Bignoniaceae_Stizophyllum_riparium_OLSTIZRI3_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "opposite",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "compound",
+            "compound_type": "odd-pinnate",
+            "num_leaflets": "9",
+            "leaflet_arrangement": "opposite"
+          },
+          "leaf_morphology": {
+            "margin": "toothed, serrate",
+            "shape": "ovate to elliptic",
+            "apex": "acuminate",
+            "base": "rounded",
+            "venation": "pinnate",
+            "secondary_veins": "prominent, well-spaced",
+            "surface_features": "shiny, rugose",
+            "trichomes": "present",
+            "petiole_length": "long",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "present",
+            "color": "green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "The seedling exhibits pinnately compound leaves with serrate margins and a rugose surface texture. Fine trichomes are present on the leaflets and stems."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): opposite (clearly visible as paired leaflets emerging from the same node along the rachis in all images)\n    2. Leaf spacing (clustered / distal): clustered (leaflets are densely arranged along the rachis)\nB. Leaf Complexity\n    3.\tLeaf complexity (simple / compound): compound (the structure is clearly a leaf composed of multiple leaflets attached to a central axis)\n    4.\tCompound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): odd-pinnate (a terminal leaflet is clearly visible at the apex of the leaf structure)\n    5.\tNumber of leaflets (integer estimate 2, 4, 8, \u2026): 9 (counting the leaflets on the central leaf structure in the first image: four pairs plus one terminal leaflet)\n    6.\tLeaflet arrangement (opposite / alternate / subopposite): opposite (leaflets are arranged in pairs at each node along the rachis)\nC. Leaf Morphology\n    7.\tLeaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.): toothed, serrate (distinct fine teeth are visible along the leaflet margins, especially in images 1 and 4)\n    8.\tLeaf shape (elliptic, obovate, lanceolate, etc.): ovate to elliptic (leaflets are broadly oval-shaped, widest below the middle)\n    9.\tLeaf apex (acute, obtuse, acuminate): acuminate (the leaflets taper to a distinct, elongated point)\n    10.\tLeaf base (rounded, cordate, cuneate): rounded (the base of the leaflets appears generally rounded)\n    11.\tVenation type (pinnate / palmate / parallel): pinnate (a central midrib is visible with secondary veins branching off it)\n    12.\tSecondary veins (visibility, spacing, number): prominent, well-spaced (the secondary veins are clearly visible, arching towards the margin)\n    13.\tLeaf surface features (glabrous, shiny, dull, rugose): shiny, rugose (the leaf surface is glossy and has a textured, wrinkled appearance due to the sunken veins)\n    14.\tLeaf surface trichomes (present / absent): present (fine, short hairs are visible on the leaflets and petioles, particularly in image 5)\n    15.\tPetiole length (short / long): long (the petiole and rachis are significantly longer than the individual leaflets)\n    16.\tPetiole features (winged / grooved / terete): terete (the petiole and rachis appear cylindrical and rounded in cross-section)\nD. Stem & Shoot Traits\n    17.\tStem type, may not be visible (woody / herbaceous): herbaceous (the stem appears soft, green, and non-woody)\n    18.\tStem trichomes (present / absent): present (fine hairs are visible on the stem, especially in image 5)\n    19.\tStem color: green (the stem is uniformly green)\n    20.\tStem texture (smooth / ridged / lenticellate): smooth (the stem surface appears relatively smooth, though with fine hairs)\nE. Other Visible Seedling Traits\n    21.\tStipules, sometimes visible only in close-up images (present / absent): absent (no clear stipules are visible at the leaf base in any image)\n    22.\tLatex, rarely visible but extremely diagnostic when present (present / not observed): not observed\n    23.\tPulvinus, for Fabaceae family only (present / absent): absent (no distinct swollen joint is visible at the base of the petiole)\n    24.\tTendrils (present / absent): absent\nF. Notes: The seedling exhibits pinnately compound leaves with serrate margins and a rugose surface texture. Fine trichomes are present on the leaflets and stems.",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 5358.955300878733
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 5358.955300878733,
+  "benchmark_metadata": {
+    "scientific_name": "Stizophyllum riparium",
+    "family": "Bignoniaceae",
+    "genus": "Stizophyllum",
+    "species_epithet": "riparium",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

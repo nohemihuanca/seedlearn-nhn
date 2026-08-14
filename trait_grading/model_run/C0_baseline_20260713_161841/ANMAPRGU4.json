@@ -1,0 +1,91 @@
+{
+  "specimen_id": "ANMAPRGU4",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Euphorbiaceae/by_genus/Maprounea/by_species/guianensis/ANMAPRGU4/Euphorbiaceae_Maprounea_guianensis_ANMAPRGU4_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Euphorbiaceae/by_genus/Maprounea/by_species/guianensis/ANMAPRGU4/Euphorbiaceae_Maprounea_guianensis_ANMAPRGU4_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Euphorbiaceae/by_genus/Maprounea/by_species/guianensis/ANMAPRGU4/Euphorbiaceae_Maprounea_guianensis_ANMAPRGU4_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Euphorbiaceae/by_genus/Maprounea/by_species/guianensis/ANMAPRGU4/Euphorbiaceae_Maprounea_guianensis_ANMAPRGU4_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Euphorbiaceae/by_genus/Maprounea/by_species/guianensis/ANMAPRGU4/Euphorbiaceae_Maprounea_guianensis_ANMAPRGU4_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "alternate",
+            "spacing": "distal"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "obovate",
+            "apex": "acute",
+            "base": "rounded",
+            "venation": "pinnate",
+            "secondary_veins": "visible, moderately spaced, numerous",
+            "surface_features": "glabrous and shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "absent",
+            "color": "green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "The seedling is growing among leaf litter on the forest floor. The leaves are arranged alternately along a thin, green stem. Some leaves show minor yellow spots, possibly due to environmental factors or early senescence, but no clear damage such as holes or margin loss is evident. The pink object near the base is likely a fallen flower or debris, not part of the seedling. The overall growth form suggests a young, climbing or trailing herbaceous plant. No reproductive structures are visible on the seedling itself."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): alternate (leaves are attached at successive nodes along the stem, alternating sides; no paired or clustered arrangement is visible)\n    2. Leaf spacing (clustered / distal): distal (leaves are spaced along the stem with visible internodes, not clustered at nodes)\n\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): simple (each leaf is a single blade without subdivisions into leaflets)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): N/A (leaf complexity is simple)\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): N/A (leaf complexity is simple)\n    6. Leaflet arrangement (opposite / alternate / subopposite): N/A (leaf complexity is simple)\n\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (leaf margins are smooth without teeth or serrations)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): obovate (wider toward the apex and tapering toward the base, with a rounded or slightly pointed tip)\n    9. Leaf apex (acute, obtuse, acuminate): acute (tip is sharply pointed)\n    10. Leaf base (rounded, cordate, cuneate): rounded (base is broadly rounded, not tapered or heart-shaped)\n    11. Venation type (pinnate / palmate / parallel): pinnate (main vein runs from base to apex with secondary veins branching off to the sides)\n    12. Secondary veins (visibility, spacing, number): visible, moderately spaced, numerous (secondary veins are clearly visible, running parallel to each other from midrib to margin, with multiple pairs)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): glabrous and shiny (surface is smooth without hairs and has a glossy appearance)\n    14. Leaf surface trichomes (present / absent): absent (no visible hairs or trichomes on leaf surface)\n    15. Petiole length (short / long): short (petiole is relatively short, not elongated, attaching leaf blade to stem)\n    16. Petiole features (winged / grooved / terete): terete (petiole is round in cross-section, not flattened or winged)\n\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): herbaceous (stem appears green and flexible, typical of herbaceous growth, not woody)\n    18. Stem trichomes (present / absent): absent (no visible hairs on stem surface)\n    19. Stem color: green (stem is uniformly green, with slight reddish-brown tint in some areas)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (surface is smooth without ridges or visible lenticels)\n\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules are visible at leaf bases)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no latex exudate visible)\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no swollen base at leaf petiole attachment, which would indicate pulvinus; not applicable for this leaf morphology)\n    24. Tendrils (present / absent): absent (no tendrils observed; some stems appear to twist, but no distinct tendril structures)\n\nF. Notes: The seedling is growing among leaf litter on the forest floor. The leaves are arranged alternately along a thin, green stem. Some leaves show minor yellow spots, possibly due to environmental factors or early senescence, but no clear damage such as holes or margin loss is evident. The pink object near the base is likely a fallen flower or debris, not part of the seedling. The overall growth form suggests a young, climbing or trailing herbaceous plant. No reproductive structures are visible on the seedling itself.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 21837.299610022455
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 21837.299610022455,
+  "benchmark_metadata": {
+    "scientific_name": "Maprounea guianensis",
+    "family": "Euphorbiaceae",
+    "genus": "Maprounea",
+    "species_epithet": "guianensis",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

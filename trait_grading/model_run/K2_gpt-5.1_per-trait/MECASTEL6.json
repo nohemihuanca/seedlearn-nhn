@@ -1,0 +1,47 @@
+{
+  "specimen_id": "MECASTEL6",
+  "source_answer_key": "Moraceae_Castilla_elastica_MECASTEL6",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "whorled",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "1",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic to narrowly elliptic",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "clearly visible on upper surface; numerous",
+            "surface_features": "glabrous, dull",
+            "trichomes": "unclear",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "unclear",
+            "color": "light green",
+            "texture": "unclear"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "unclear",
+            "tendrils": "absent"
+          },
+          "notes": "Seedling displays a cluster of large simple elliptic leaves at the shoot apex with entire margins and pinnate venation (overall morphology clearly visible in multiple images); leaf surfaces show fine speckling and small areas of margin missing (surface texture and minor damage evident on several leaves)"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "specimen_id": "SHPEREXA9",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Moraceae/by_genus/Perebea/by_species/xanthochyma/SHPEREXA9/Moraceae_Perebea_xanthochyma_SHPEREXA9_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Moraceae/by_genus/Perebea/by_species/xanthochyma/SHPEREXA9/Moraceae_Perebea_xanthochyma_SHPEREXA9_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Moraceae/by_genus/Perebea/by_species/xanthochyma/SHPEREXA9/Moraceae_Perebea_xanthochyma_SHPEREXA9_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Moraceae/by_genus/Perebea/by_species/xanthochyma/SHPEREXA9/Moraceae_Perebea_xanthochyma_SHPEREXA9_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Moraceae/by_genus/Perebea/by_species/xanthochyma/SHPEREXA9/Moraceae_Perebea_xanthochyma_SHPEREXA9_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {},
+          "leaf_complexity": {},
+          "leaf_morphology": {
+            "margin": "toothed, serrate"
+          },
+          "stem_traits": {},
+          "special_features": {},
+          "notes": "The leaves are compound (palmately arranged). While the overall margin type is consistent, several leaves show minor physical damage (e.g., notches or missing tissue) which should be disregarded when assessing the margin type."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nC. Leaf Morphology\n    7.\tLeaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): toothed, serrate (the leaf edges feature regular, forward-pointing saw-like teeth along the entire margin, clearly visible in all provided images)\nF. Notes: The leaves are compound (palmately arranged). While the overall margin type is consistent, several leaves show minor physical damage (e.g., notches or missing tissue) which should be disregarded when assessing the margin type.\n\n####",
+        "thinking": null,
+        "few_shot_delivery": {
+          "n_examples": 0,
+          "n_exemplar_images": 0,
+          "n_specimen_images": 5,
+          "max_images": 10,
+          "images_over_budget": false,
+          "prompt_chars": 940
+        }
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 1786.0637429999997
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 1786.0637429999997,
+  "benchmark_metadata": {
+    "scientific_name": "Perebea xanthochyma",
+    "family": "Moraceae",
+    "genus": "Perebea",
+    "species_epithet": "xanthochyma",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "specimen_id": "SHMICOSI7",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Melastomataceae/by_genus/Miconia/by_species/simplex/SHMICOSI7/Melastomataceae_Miconia_simplex_SHMICOSI7_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Melastomataceae/by_genus/Miconia/by_species/simplex/SHMICOSI7/Melastomataceae_Miconia_simplex_SHMICOSI7_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Melastomataceae/by_genus/Miconia/by_species/simplex/SHMICOSI7/Melastomataceae_Miconia_simplex_SHMICOSI7_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Melastomataceae/by_genus/Miconia/by_species/simplex/SHMICOSI7/Melastomataceae_Miconia_simplex_SHMICOSI7_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Melastomataceae/by_genus/Miconia/by_species/simplex/SHMICOSI7/Melastomataceae_Miconia_simplex_SHMICOSI7_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "whorled",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic to obovate",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "highly visible, prominent, and regularly spaced",
+            "surface_features": "shiny and rugose",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "reddish-brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "The seedling exhibits a distinctive rosette-like growth habit with leaves whorled at the apex. The venation is strongly impressed, giving the leaf surface a corrugated appearance. Several leaves show signs of damage in the form of holes and missing tissue."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): whorled (multiple leaves clearly radiating from a single node)\n    2. Leaf spacing (clustered / distal): clustered (leaves are densely arranged at the apex of the stem)\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): simple (leaves are undivided)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): N/A\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): N/A\n    6. Leaflet arrangement (opposite / alternate / subopposite): N/A\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.): entire (margins appear smooth, though some leaves have irregular holes/damage)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): elliptic to obovate (broadest point is distal to the middle)\n    9. Leaf apex (acute, obtuse, acuminate): acute (tapering to a distinct point)\n    10. Leaf base (rounded, cordate, cuneate): cuneate (wedge-shaped, tapering gradually to the petiole)\n    11. Venation type (pinnate / palmate / parallel): pinnate (one main midrib with lateral veins branching off)\n    12. Secondary veins (visibility, spacing, number): highly visible, prominent, and regularly spaced\n    13. Leaf surface features (glabrous, shiny, dull, rugose): shiny and rugose (appears glossy and has a textured surface due to prominent veins)\n    14. Leaf surface trichomes (present / absent): absent (surface appears smooth and glabrous)\n    15. Petiole length (short / long): short (petioles are very brief, appearing almost sessile)\n    16. Petiole features (winged / grooved / terete): terete (cylindrical, not winged or grooved)\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): woody (stem appears rigid and lignified)\n    18. Stem trichomes (present / absent): absent (stem surface appears smooth)\n    19. Stem color: reddish-brown (visible at the central node and petiole bases)\n    20. Stem texture (smooth / ridged / lenticellate): smooth\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): unclear (cannot definitively confirm presence or absence due to the clustered arrangement and angle)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed\n    23. Pulvinus, for Fabaceae family only (present / absent): absent\n    24. Tendrils (present / absent): absent\nF. Notes: The seedling exhibits a distinctive rosette-like growth habit with leaves whorled at the apex. The venation is strongly impressed, giving the leaf surface a corrugated appearance. Several leaves show signs of damage in the form of holes and missing tissue.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 4490.399594884366
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 4490.399594884366,
+  "benchmark_metadata": {
+    "scientific_name": "Miconia simplex",
+    "family": "Melastomataceae",
+    "genus": "Miconia",
+    "species_epithet": "simplex",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

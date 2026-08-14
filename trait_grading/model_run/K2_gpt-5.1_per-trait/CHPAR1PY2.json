@@ -1,0 +1,47 @@
+{
+  "specimen_id": "CHPAR1PY2",
+  "source_answer_key": "Bignoniaceae_Tanaecium_pyramidatum_CHPAR1PY2",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "opposite",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "lanceolate",
+            "apex": "acuminate",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "clearly visible, pinnate, moderately spaced, approximately 7\u201310 pairs per leaf",
+            "surface_features": "glabrous, shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "unclear",
+            "trichomes": "unclear",
+            "color": "light green to light brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "unclear",
+            "tendrils": "absent"
+          },
+          "notes": "Seedling stem is staked or marked with colored tape and tag; several leaves show holes present in the blades (indicating physical damage pattern without inferred cause)"
+        }
+      }
+    }
+  }
+}

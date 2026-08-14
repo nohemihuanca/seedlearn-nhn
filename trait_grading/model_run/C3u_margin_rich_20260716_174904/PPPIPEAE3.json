@@ -1,0 +1,72 @@
+{
+  "specimen_id": "PPPIPEAE3",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Piperaceae/by_genus/Piper/by_species/aequale/PPPIPEAE3/Piperaceae_Piper_aequale_PPPIPEAE3_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Piperaceae/by_genus/Piper/by_species/aequale/PPPIPEAE3/Piperaceae_Piper_aequale_PPPIPEAE3_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Piperaceae/by_genus/Piper/by_species/aequale/PPPIPEAE3/Piperaceae_Piper_aequale_PPPIPEAE3_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Piperaceae/by_genus/Piper/by_species/aequale/PPPIPEAE3/Piperaceae_Piper_aequale_PPPIPEAE3_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Piperaceae/by_genus/Piper/by_species/aequale/PPPIPEAE3/Piperaceae_Piper_aequale_PPPIPEAE3_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {},
+          "leaf_complexity": {},
+          "leaf_morphology": {
+            "margin": "[entire"
+          },
+          "stem_traits": {},
+          "special_features": {},
+          "notes": "[Multiple leaves on the stem exhibit irregular holes and missing sections along the margins due to insect herbivory; however, the intact portions of the leaf edges confirm a smooth, unbroken margin.]"
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nC. Leaf Morphology\n    7.\tLeaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): [entire (the leaf edges are smooth and continuous along the entire perimeter, lacking any teeth, serrations, or lobes)]\nF. Notes: [Multiple leaves on the stem exhibit irregular holes and missing sections along the margins due to insect herbivory; however, the intact portions of the leaf edges confirm a smooth, unbroken margin.]\n####",
+        "thinking": null,
+        "few_shot_delivery": {
+          "n_examples": 0,
+          "n_exemplar_images": 0,
+          "n_specimen_images": 5,
+          "max_images": 10,
+          "images_over_budget": false,
+          "prompt_chars": 2155
+        }
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 1629.2361490000076
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 1629.2361490000076,
+  "benchmark_metadata": {
+    "scientific_name": "Piper aequale",
+    "family": "Piperaceae",
+    "genus": "Piper",
+    "species_epithet": "aequale",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

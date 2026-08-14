@@ -1,0 +1,91 @@
+{
+  "specimen_id": "ANENTESC3",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Robrichia/by_species/schomburgkii/ANENTESC3/Fabaceae_Robrichia_schomburgkii_ANENTESC3_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Robrichia/by_species/schomburgkii/ANENTESC3/Fabaceae_Robrichia_schomburgkii_ANENTESC3_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Robrichia/by_species/schomburgkii/ANENTESC3/Fabaceae_Robrichia_schomburgkii_ANENTESC3_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Robrichia/by_species/schomburgkii/ANENTESC3/Fabaceae_Robrichia_schomburgkii_ANENTESC3_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Robrichia/by_species/schomburgkii/ANENTESC3/Fabaceae_Robrichia_schomburgkii_ANENTESC3_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "alternate",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "compound",
+            "compound_type": "odd-pinnate",
+            "num_leaflets": ">10",
+            "leaflet_arrangement": "alternate"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "lanceolate",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "clearly visible, closely spaced, numerous",
+            "surface_features": "shiny",
+            "trichomes": "absent",
+            "petiole_length": "long",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "absent",
+            "color": "green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "The seedling is resting on a decaying log. A pink tag with \"ENTESC 3\" is attached to the leaf. The leaflets are small and numerous, giving the leaf a fern-like appearance."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): alternate (multiple leaflets are attached along the rachis at different levels, indicating an alternate arrangement along the stem structure)\n    2. Leaf spacing (clustered / distal): clustered (the leaflets are densely packed along the rachis with very little space between them)\nB. Leaf Complexity\n    3.\tLeaf complexity (simple / compound): compound (the leaf is composed of multiple distinct leaflets attached to a central axis)\n    4.\tCompound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): odd-pinnate (the leaflets are arranged along a central rachis, and a single terminal leaflet is present at the apex of the leaf structure)\n    5.\tNumber of leaflets (integer estimate 2, 4, 8, \u2026): >10 (there are clearly more than 10 leaflets visible on each side of the rachis, appearing to number 20 or more per leaf)\n    6.\tLeaflet arrangement (opposite / alternate / subopposite): alternate (the leaflets are arranged alternately along the rachis, not in direct pairs)\nC. Leaf Morphology\n    7.\tLeaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.): entire (the margins of the leaflets appear smooth and continuous without teeth or serrations)\n    8.\tLeaf shape (elliptic, obovate, lanceolate, etc.): lanceolate (the overall leaf structure is long and narrow, tapering towards the apex and base)\n    9.\tLeaf apex (acute, obtuse, acuminate): acute (the tip of the leaf is pointed)\n    10.\tLeaf base (rounded, cordate, cuneate): cuneate (the base of the leaf tapers to a wedge shape where it attaches to the stem)\n    11.\tVenation type (pinnate / palmate / parallel): pinnate (veins branch off from a central midrib in a feather-like pattern)\n    12.\tSecondary veins (visibility, spacing, number): clearly visible, closely spaced, numerous (fine veins branch off the midrib at regular, close intervals)\n    13.\tLeaf surface features (glabrous, shiny, dull, rugose): shiny (the leaf surface reflects light, indicating a smooth, glossy texture)\n    14.\tLeaf surface trichomes (present / absent): absent (no hair-like structures are visible on the leaf surface)\n    15.\tPetiole length (short / long): long (the petiole extends significantly from the base of the leaf structure, though the full length is partially obscured)\n    16.\tPetiole features (winged / grooved / terete): terete (the petiole appears round in cross-section)\nD. Stem & Shoot Traits\n    17.\tStem type, may not be visible (woody / herbaceous): herbaceous (the stem appears thin, green, and flexible, lacking the thickness and bark of a woody stem)\n    18.\tStem trichomes (present / absent): absent (no hairs are visible on the stem)\n    19.\tStem color: green (the visible portion of the stem is green)\n    20.\tStem texture (smooth / ridged / lenticellate): smooth (the stem surface appears uniform without ridges or lenticels)\nE. Other Visible Seedling Traits\n    21.\tStipules, sometimes visible only in close-up images (present / absent): absent (no stipules are visible at the base of the petiole)\n    22.\tLatex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no latex is visible)\n    23.\tPulvinus, for Fabaceae family only (present / absent): absent (no pulvinus is visible at the base of the leaf or leaflets)\n    24.\tTendrils (present / absent): absent (no tendrils are visible)\nF. Notes: The seedling is resting on a decaying log. A pink tag with \"ENTESC 3\" is attached to the leaf. The leaflets are small and numerous, giving the leaf a fern-like appearance.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 5274.140838067979
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 5274.140838067979,
+  "benchmark_metadata": {
+    "scientific_name": "Robrichia schomburgkii",
+    "family": "Fabaceae",
+    "genus": "Robrichia",
+    "species_epithet": "schomburgkii",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "specimen_id": "PPPIPEAE3",
+  "source_answer_key": "Piperaceae_Piper_aequale_PPPIPEAE3",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "opposite",
+            "spacing": "distal"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic to narrowly elliptic",
+            "apex": "acuminate",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "secondary veins clearly visible, 8\u201312+ pairs, closely and evenly spaced",
+            "surface_features": "glabrous and slightly shiny",
+            "trichomes": "absent",
+            "petiole_length": "long",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "absent",
+            "color": "green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "unclear",
+            "tendrils": "absent"
+          },
+          "notes": "Some leaves show holes and missing portions of the blade and margin, but overall leaf shape, margin, and venation remain visible; younger leaves appear paler and slightly broader than older, darker leaves."
+        }
+      }
+    }
+  }
+}

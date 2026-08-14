@@ -1,0 +1,47 @@
+{
+  "specimen_id": "MESERJME1",
+  "source_answer_key": "Sapindaceae_Serjania_mexicana_MESERJME1",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "unclear",
+            "spacing": "distal"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "palmately lobed",
+            "apex": "obtuse",
+            "base": "cordate",
+            "venation": "palmate",
+            "secondary_veins": "visible, moderately spaced, approximately 3\u20135 secondary veins per primary lobe vein",
+            "surface_features": "dull",
+            "trichomes": "unclear",
+            "petiole_length": "long",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "unclear",
+            "trichomes": "absent",
+            "color": "greenish-brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "unclear",
+            "tendrils": "absent"
+          },
+          "notes": "Many parts of the seedling, especially the stem base and petiole attachments, are obscured by the orange tag and neighboring vegetation; leaf blades show some missing margin areas but overall morphology remains visible, leading to several traits being rated as unclear."
+        }
+      }
+    }
+  }
+}

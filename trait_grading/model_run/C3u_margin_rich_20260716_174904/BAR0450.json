@@ -1,0 +1,72 @@
+{
+  "specimen_id": "BAR0450",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Violaceae/by_genus/Rinorea/by_species/silvatica/BAR0450/Violaceae_Rinorea_silvatica_BAR0450_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Violaceae/by_genus/Rinorea/by_species/silvatica/BAR0450/Violaceae_Rinorea_silvatica_BAR0450_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Violaceae/by_genus/Rinorea/by_species/silvatica/BAR0450/Violaceae_Rinorea_silvatica_BAR0450_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Violaceae/by_genus/Rinorea/by_species/silvatica/BAR0450/Violaceae_Rinorea_silvatica_BAR0450_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Violaceae/by_genus/Rinorea/by_species/silvatica/BAR0450/Violaceae_Rinorea_silvatica_BAR0450_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {},
+          "leaf_complexity": {},
+          "leaf_morphology": {
+            "margin": "entire"
+          },
+          "stem_traits": {},
+          "special_features": {},
+          "notes": "Several leaves exhibit minor damage, including small holes and irregular notches, likely from insect feeding or physical wear; however, the undamaged portions of the leaf margins remain smooth and uninterrupted."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nC. Leaf Morphology\n    7.\tLeaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (smooth and continuous edge without teeth or lobes, observed on intact leaf margins)\nF. Notes: Several leaves exhibit minor damage, including small holes and irregular notches, likely from insect feeding or physical wear; however, the undamaged portions of the leaf margins remain smooth and uninterrupted.\n\n####",
+        "thinking": null,
+        "few_shot_delivery": {
+          "n_examples": 0,
+          "n_exemplar_images": 0,
+          "n_specimen_images": 5,
+          "max_images": 10,
+          "images_over_budget": false,
+          "prompt_chars": 2155
+        }
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 1593.4661249999635
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 1593.4661249999635,
+  "benchmark_metadata": {
+    "scientific_name": "Rinorea silvatica",
+    "family": "Violaceae",
+    "genus": "Rinorea",
+    "species_epithet": "silvatica",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

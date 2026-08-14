@@ -1,0 +1,91 @@
+{
+  "specimen_id": "MECNESRU4",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Connaraceae/by_genus/Cnestidium/by_species/rufescens/MECNESRU4/Connaraceae_Cnestidium_rufescens_MECNESRU4_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Connaraceae/by_genus/Cnestidium/by_species/rufescens/MECNESRU4/Connaraceae_Cnestidium_rufescens_MECNESRU4_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Connaraceae/by_genus/Cnestidium/by_species/rufescens/MECNESRU4/Connaraceae_Cnestidium_rufescens_MECNESRU4_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Connaraceae/by_genus/Cnestidium/by_species/rufescens/MECNESRU4/Connaraceae_Cnestidium_rufescens_MECNESRU4_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Connaraceae/by_genus/Cnestidium/by_species/rufescens/MECNESRU4/Connaraceae_Cnestidium_rufescens_MECNESRU4_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "opposite",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "acute",
+            "base": "rounded",
+            "venation": "pinnate",
+            "secondary_veins": "visible, moderately spaced, 5\u20137 pairs per leaf",
+            "surface_features": "dull, glabrous",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "brownish-green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "The seedling exhibits typical juvenile morphology with opposite, simple, elliptic leaves. Multiple images confirm consistent leaf arrangement and morphology. Some minor spotting on leaf surfaces is present, but no clear damage or holes are observed. The stem is slender and woody with a smooth texture. No reproductive structures are visible. The surrounding forest floor is covered in leaf litter, but habitat conditions are not directly inferable from the images."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): opposite (clear paired leaves at visible nodes along stem)\n    2. Leaf spacing (clustered / distal): clustered (leaves appear grouped near apex, with some overlap)\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): simple (each leaf is a single blade without subdivisions)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): N/A\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): N/A\n    6. Leaflet arrangement (opposite / alternate / subopposite): N/A\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (smooth margin with no teeth or serrations visible)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): elliptic (broad in middle, tapering to both ends)\n    9. Leaf apex (acute, obtuse, acuminate): acute (tapering to a sharp point)\n    10. Leaf base (rounded, cordate, cuneate): rounded (base curves smoothly without indentation or narrowing)\n    11. Venation type (pinnate / palmate / parallel): pinnate (main vein runs from base to apex with lateral veins branching off)\n    12. Secondary veins (visibility, spacing, number): visible, moderately spaced, 5\u20137 pairs per leaf (clearly visible in close-up images)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): dull, glabrous (smooth surface, no gloss, no visible hairs)\n    14. Leaf surface trichomes (present / absent): absent (no visible surface hairs or fuzz)\n    15. Petiole length (short / long): short (petiole is relatively short compared to leaf blade)\n    16. Petiole features (winged / grooved / terete): terete (round in cross-section, no wings or grooves)\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): woody (stem appears firm, slightly brownish, not soft or succulent)\n    18. Stem trichomes (present / absent): absent (no visible hairs on stem surface)\n    19. Stem color: brownish-green (stem is greenish near apex, transitioning to brown toward base)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (no visible ridges or lenticels; surface appears even)\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipule structures observed at leaf bases)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no exudate visible when stem or leaf is broken)\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no swollen joint at leaf base visible)\n    24. Tendrils (present / absent): absent (no modified stems or leaves for climbing observed)\nF. Notes: The seedling exhibits typical juvenile morphology with opposite, simple, elliptic leaves. Multiple images confirm consistent leaf arrangement and morphology. Some minor spotting on leaf surfaces is present, but no clear damage or holes are observed. The stem is slender and woody with a smooth texture. No reproductive structures are visible. The surrounding forest floor is covered in leaf litter, but habitat conditions are not directly inferable from the images.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 19457.551871892065
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 19457.551871892065,
+  "benchmark_metadata": {
+    "scientific_name": "Cnestidium rufescens",
+    "family": "Connaraceae",
+    "genus": "Cnestidium",
+    "species_epithet": "rufescens",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

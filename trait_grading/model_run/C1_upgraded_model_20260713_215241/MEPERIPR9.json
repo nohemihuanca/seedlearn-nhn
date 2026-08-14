@@ -1,0 +1,91 @@
+{
+  "specimen_id": "MEPERIPR9",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Celastraceae/by_genus/Peritassa/by_species/pruinosa/MEPERIPR9/Celastraceae_Peritassa_pruinosa_MEPERIPR9_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Celastraceae/by_genus/Peritassa/by_species/pruinosa/MEPERIPR9/Celastraceae_Peritassa_pruinosa_MEPERIPR9_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Celastraceae/by_genus/Peritassa/by_species/pruinosa/MEPERIPR9/Celastraceae_Peritassa_pruinosa_MEPERIPR9_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Celastraceae/by_genus/Peritassa/by_species/pruinosa/MEPERIPR9/Celastraceae_Peritassa_pruinosa_MEPERIPR9_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Celastraceae/by_genus/Peritassa/by_species/pruinosa/MEPERIPR9/Celastraceae_Peritassa_pruinosa_MEPERIPR9_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "alternate",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "compound",
+            "compound_type": "odd-pinnate",
+            "num_leaflets": "13",
+            "leaflet_arrangement": "alternate"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "lanceolate",
+            "apex": "acuminate",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "clearly visible, pinnate, spaced relatively closely and regularly along the midrib",
+            "surface_features": "glabrous, slightly shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "not observed",
+            "tendrils": "absent"
+          },
+          "notes": "The seedling exhibits compound leaves with alternate leaflets. Some leaflets show minor damage, including holes and brown spots. The background consists of leaf litter."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): alternate (leaves are attached at successive nodes along the stem, alternating sides)\n    2. Leaf spacing (clustered / distal): clustered (leaves are densely packed at the terminal ends of the stems)\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): compound (leaflets are arranged along a central axis, rachis)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): odd-pinnate (a single terminal leaflet is present at the apex of the leaf)\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): 13 (estimated from the largest fully visible leaf structure)\n    6. Leaflet arrangement (opposite / alternate / subopposite): alternate (leaflets are arranged alternately along the rachis)\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.): entire (the leaflet margins appear smooth and continuous, despite some physical damage)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): lanceolate (leaflets are linear to lance-shaped, widest below the middle and tapering towards the tip)\n    9. Leaf apex (acute, obtuse, acuminate): acuminate (leaflets taper to a distinct, elongated point at the tip)\n    10. Leaf base (rounded, cordate, cuneate): cuneate (leaflets taper gradually to a wedge-shaped base where they attach to the rachis)\n    11. Venation type (pinnate / palmate / parallel): pinnate (a single midrib runs down the center of each leaflet with veins branching off)\n    12. Secondary veins (visibility, spacing, number): clearly visible, pinnate, spaced relatively closely and regularly along the midrib\n    13. Leaf surface features (glabrous, shiny, dull, rugose): glabrous, slightly shiny (the leaflets appear smooth and lack hairiness, with a slight sheen)\n    14. Leaf surface trichomes (present / absent): absent (no visible hairs or trichomes on the leaf surface)\n    15. Petiole length (short / long): short (the petiole connecting the leaf to the stem is very short and not prominently elongated)\n    16. Petiole features (winged / grooved / terete): terete (the petiole appears cylindrical and round in cross-section)\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): woody (the stems appear rigid, brown, and somewhat lignified)\n    18. Stem trichomes (present / absent): absent (the stem surface appears smooth and hairless)\n    19. Stem color: brown (the visible stems are a light to medium brown color)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (the stem surface appears relatively even without prominent ridges or lenticels)\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules are clearly visible at the leaf bases)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no latex is visible)\n    23. Pulvinus, for Fabaceae family only (present / absent): not observed (no pulvinus is clearly visible at the petiole-rachis or petiole-stem junctions)\n    24. Tendrils (present / absent): absent (no tendrils are visible on the seedling)\nF. Notes: The seedling exhibits compound leaves with alternate leaflets. Some leaflets show minor damage, including holes and brown spots. The background consists of leaf litter.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 5219.955916982144
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 5219.955916982144,
+  "benchmark_metadata": {
+    "scientific_name": "Peritassa pruinosa",
+    "family": "Celastraceae",
+    "genus": "Peritassa",
+    "species_epithet": "pruinosa",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

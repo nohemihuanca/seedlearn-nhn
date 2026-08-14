@@ -1,0 +1,47 @@
+{
+  "specimen_id": "SHCORDBI3",
+  "source_answer_key": "Boraginaceae_Cordia_bicolor_SHCORDBI3",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "whorled",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "toothed, serrate",
+            "shape": "lanceolate",
+            "apex": "acuminate",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "clearly visible, pinnate, fairly evenly spaced, approximately 8\u201312 pairs per leaf",
+            "surface_features": "glabrous, dull",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "light green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Leaves appear arranged in a whorl at the shoot apex (multiple leaves attached at a single visible node), with elongate lanceolate blades (narrow, tapering leaves radiating from center) and serrate margins (conspicuous triangular teeth along leaf edges). Some leaves show holes and missing margin sections (visible damage without inferred cause)."
+        }
+      }
+    }
+  }
+}

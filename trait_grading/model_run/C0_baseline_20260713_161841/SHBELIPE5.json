@@ -1,0 +1,90 @@
+{
+  "specimen_id": "SHBELIPE5",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Lauraceae/by_genus/Beilschmiedia/by_species/tovarensis/SHBELIPE5/Lauraceae_Beilschmiedia_tovarensis_SHBELIPE5_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Lauraceae/by_genus/Beilschmiedia/by_species/tovarensis/SHBELIPE5/Lauraceae_Beilschmiedia_tovarensis_SHBELIPE5_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Lauraceae/by_genus/Beilschmiedia/by_species/tovarensis/SHBELIPE5/Lauraceae_Beilschmiedia_tovarensis_SHBELIPE5_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Lauraceae/by_genus/Beilschmiedia/by_species/tovarensis/SHBELIPE5/Lauraceae_Beilschmiedia_tovarensis_SHBELIPE5_004.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "whorled",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "lanceolate",
+            "apex": "acute",
+            "base": "rounded",
+            "venation": "pinnate",
+            "secondary_veins": "visible, moderately spaced, numerous",
+            "surface_features": "shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "greenish-brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Some leaves show minor damage including small holes and slight edge irregularities, likely from environmental exposure or minor physical disturbance. The seedling is marked with a pink tag, which is not a natural feature. Images show the same individual from multiple angles, confirming whorled leaf arrangement and consistent leaf morphology. No flowers, fruits, or reproductive structures visible."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): whorled (multiple leaves are clearly attached at the same node, visible in multiple images)\n    2. Leaf spacing (clustered / distal): clustered (leaves are grouped closely at nodes, not spread out along the stem)\n\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): simple (each leaf is a single blade, no divisions into leaflets)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): N/A\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): N/A\n    6. Leaflet arrangement (opposite / alternate / subopposite): N/A\n\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (margins are smooth with no visible teeth or serrations)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): lanceolate (longer than wide, tapering to a point at apex, broad at base)\n    9. Leaf apex (acute, obtuse, acuminate): acute (tapering to a sharp point, not long and drawn out)\n    10. Leaf base (rounded, cordate, cuneate): rounded (base appears broad and curved, not tapering or heart-shaped)\n    11. Venation type (pinnate / palmate / parallel): pinnate (one central midrib with lateral veins branching off, visible in all images)\n    12. Secondary veins (visibility, spacing, number): visible, moderately spaced, numerous (secondary veins are clearly visible, running perpendicular to midrib, spaced at regular intervals)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): shiny (surface has a glossy appearance, reflecting light)\n    14. Leaf surface trichomes (present / absent): absent (no visible hairs or fuzz on leaf surface)\n    15. Petiole length (short / long): short (petiole is short, not elongated, attaching leaf blade directly to stem)\n    16. Petiole features (winged / grooved / terete): terete (petiole is round in cross-section, no wings or grooves visible)\n\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): woody (stem appears firm and rigid, with bark-like texture, consistent with young woody plant)\n    18. Stem trichomes (present / absent): absent (no visible hairs on stem surface)\n    19. Stem color: greenish-brown (stem is primarily green with brownish patches, possibly due to age or environmental exposure)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (surface appears smooth without ridges or lenticels; some minor scarring or discoloration present but not textured)\n\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules visible at leaf bases in any image)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no milky sap or latex exudate visible)\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no swollen joint at leaf base or petiole attachment, not visible)\n    24. Tendrils (present / absent): absent (no tendrils present)\n\nF. Notes: Some leaves show minor damage including small holes and slight edge irregularities, likely from environmental exposure or minor physical disturbance. The seedling is marked with a pink tag, which is not a natural feature. Images show the same individual from multiple angles, confirming whorled leaf arrangement and consistent leaf morphology. No flowers, fruits, or reproductive structures visible.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 19526.192685589194
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 19526.192685589194,
+  "benchmark_metadata": {
+    "scientific_name": "Beilschmiedia tovarensis",
+    "family": "Lauraceae",
+    "genus": "Beilschmiedia",
+    "species_epithet": "tovarensis",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

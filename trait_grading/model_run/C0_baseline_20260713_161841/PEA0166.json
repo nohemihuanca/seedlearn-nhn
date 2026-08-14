@@ -1,0 +1,90 @@
+{
+  "specimen_id": "PEA0166",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Dilleniaceae/by_genus/Doliocarpus/by_species/olivaceus/PEA0166/Dilleniaceae_Doliocarpus_olivaceus_PEA0166_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Dilleniaceae/by_genus/Doliocarpus/by_species/olivaceus/PEA0166/Dilleniaceae_Doliocarpus_olivaceus_PEA0166_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Dilleniaceae/by_genus/Doliocarpus/by_species/olivaceus/PEA0166/Dilleniaceae_Doliocarpus_olivaceus_PEA0166_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Dilleniaceae/by_genus/Doliocarpus/by_species/olivaceus/PEA0166/Dilleniaceae_Doliocarpus_olivaceus_PEA0166_004.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "alternate",
+            "spacing": "distal"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "acute",
+            "base": "rounded",
+            "venation": "pinnate",
+            "secondary_veins": "visible, spaced relatively close, numerous",
+            "surface_features": "shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "The seedling is marked with a yellow band labeled \"171\" at the base, likely for monitoring purposes. Some leaves show minor discoloration or browning, possibly due to aging or environmental factors, but no clear damage such as holes or margins missing is evident. The surrounding litter layer is dense, but habitat conditions are not clearly visible beyond the immediate vicinity of the seedling. All observations are based on visible morphological traits without inference of family, genus, or species. ####"
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): alternate (leaves are attached at successive nodes along the stem, alternating sides; visible in multiple images)\n    2. Leaf spacing (clustered / distal): distal (leaves are spaced out along the stem, not clustered at the apex or base)\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): simple (each leaf has a single blade without subdivisions)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): N/A\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): N/A\n    6. Leaflet arrangement (opposite / alternate / subopposite): N/A\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (leaf edges are smooth without teeth or lobes; visible in close-up images)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): elliptic (broadest near the middle, tapering to both ends; observed in multiple views)\n    9. Leaf apex (acute, obtuse, acuminate): acute (tapering to a sharp point; visible in side and top views)\n    10. Leaf base (rounded, cordate, cuneate): rounded (leaf base is curved and not tapering; visible in multiple angles)\n    11. Venation type (pinnate / palmate / parallel): pinnate (main vein runs from base to apex with lateral veins branching off; clearly visible in images)\n    12. Secondary veins (visibility, spacing, number): visible, spaced relatively close, numerous (secondary veins are clearly visible and run parallel to each other, close together; seen in top-down views)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): shiny (surface has a glossy sheen, reflecting light; visible in multiple images)\n    14. Leaf surface trichomes (present / absent): absent (no visible hairs or fuzz on leaf surface; observed in close-up images)\n    15. Petiole length (short / long): short (petiole is short, less than half the leaf blade length; visible in side views)\n    16. Petiole features (winged / grooved / terete): terete (petiole is round in cross-section; inferred from smooth, cylindrical appearance in images)\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): woody (stem is firm, brown, and appears to be developing lignification; visible in close-ups)\n    18. Stem trichomes (present / absent): absent (no visible hairs on stem; observed in close-up images)\n    19. Stem color: brown (stem is uniformly brown; visible in multiple images)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (surface appears smooth without ridges or lenticels; visible in close-up images)\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no structures visible at leaf bases that resemble stipules; observed in close-ups)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no exudate visible upon stem breakage or damage; no signs of latex in images)\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no swollen joint at leaf base or petiole; not visible in any image)\n    24. Tendrils (present / absent): absent (no modified stems or leaves forming tendrils; no such structures observed)\nF. Notes: The seedling is marked with a yellow band labeled \"171\" at the base, likely for monitoring purposes. Some leaves show minor discoloration or browning, possibly due to aging or environmental factors, but no clear damage such as holes or margins missing is evident. The surrounding litter layer is dense, but habitat conditions are not clearly visible beyond the immediate vicinity of the seedling. All observations are based on visible morphological traits without inference of family, genus, or species. ####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 21452.217390295118
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 21452.217390295118,
+  "benchmark_metadata": {
+    "scientific_name": "Doliocarpus olivaceus",
+    "family": "Dilleniaceae",
+    "genus": "Doliocarpus",
+    "species_epithet": "olivaceus",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

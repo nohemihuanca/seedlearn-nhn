@@ -1,0 +1,91 @@
+{
+  "specimen_id": "SRSYMPGL2",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Clusiaceae/by_genus/Symphonia/by_species/globulifera/SRSYMPGL2/Clusiaceae_Symphonia_globulifera_SRSYMPGL2_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Clusiaceae/by_genus/Symphonia/by_species/globulifera/SRSYMPGL2/Clusiaceae_Symphonia_globulifera_SRSYMPGL2_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Clusiaceae/by_genus/Symphonia/by_species/globulifera/SRSYMPGL2/Clusiaceae_Symphonia_globulifera_SRSYMPGL2_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Clusiaceae/by_genus/Symphonia/by_species/globulifera/SRSYMPGL2/Clusiaceae_Symphonia_globulifera_SRSYMPGL2_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Clusiaceae/by_genus/Symphonia/by_species/globulifera/SRSYMPGL2/Clusiaceae_Symphonia_globulifera_SRSYMPGL2_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "alternate",
+            "spacing": "distal"
+          },
+          "leaf_complexity": {
+            "type": "compound",
+            "compound_type": "odd-pinnate",
+            "num_leaflets": "8",
+            "leaflet_arrangement": "alternate"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "lanceolate",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "visible, closely spaced, numerous",
+            "surface_features": "shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "green to brownish-green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "[NOTE] The seedling exhibits compound, odd-pinnate leaves with lanceolate leaflets arranged alternately along the rachis. Leaves are shiny, entire, with acute apices and cuneate bases. The stem is woody, smooth, and greenish-brown. Some leaflets show minor damage (e.g., small holes or margin notches), but no clear signs of herbivory or pathogens are inferred. All images show the same individual from different angles, confirming consistent morphology. No stipules, latex, pulvinus, or tendrils are visible. Leaflet count estimated as 8 based on typical pinnate arrangement, though one leaflet may be missing or damaged."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): alternate (leaves are attached at successive nodes along the stem, alternating sides; no paired or whorled arrangement visible)\n    2. Leaf spacing (clustered / distal): distal (leaves are spaced out along the stem, not clustered at the apex)\n\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): compound (each leaf unit consists of multiple leaflets attached to a central rachis)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): odd-pinnate (leaflets arranged in pairs along the rachis with a single terminal leaflet)\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): 8 (two sets of 3 leaflets on each side plus a terminal leaflet, totaling 7; however, one leaflet appears to be missing or damaged, so estimated as 8 based on typical arrangement)\n    6. Leaflet arrangement (opposite / alternate / subopposite): alternate (leaflets are arranged alternately along the rachis, not in direct pairs)\n\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (margins are smooth with no teeth or serrations)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): lanceolate (narrow and tapering to a point, widest near the base)\n    9. Leaf apex (acute, obtuse, acuminate): acute (tip is sharply pointed)\n    10. Leaf base (rounded, cordate, cuneate): cuneate (base is wedge-shaped, tapering to the petiole)\n    11. Venation type (pinnate / palmate / parallel): pinnate (main vein runs lengthwise with lateral veins branching off to the margins)\n    12. Secondary veins (visibility, spacing, number): visible, closely spaced, numerous (secondary veins are clearly visible, running parallel to each other and closely spaced)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): shiny (surface has a glossy, reflective appearance)\n    14. Leaf surface trichomes (present / absent): absent (no visible hairs or trichomes on leaf surface)\n    15. Petiole length (short / long): short (petiole is relatively short compared to leaflet length)\n    16. Petiole features (winged / grooved / terete): terete (petiole is round and cylindrical in cross-section)\n\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): woody (stem appears firm and slightly woody, not soft or herbaceous)\n    18. Stem trichomes (present / absent): absent (no visible hairs on stem surface)\n    19. Stem color: green to brownish-green (stem is green near the apex, becoming brownish-green toward the base)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (surface is smooth with no ridges or lenticels visible)\n\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules observed at leaf bases)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no latex exudate visible when stems are broken or damaged)\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no pulvinus visible at leaflet or leaf base; note: pulvinus is not applicable unless in Fabaceae, but not observed)\n    24. Tendrils (present / absent): absent (no tendrils observed)\n\nF. Notes: [NOTE] The seedling exhibits compound, odd-pinnate leaves with lanceolate leaflets arranged alternately along the rachis. Leaves are shiny, entire, with acute apices and cuneate bases. The stem is woody, smooth, and greenish-brown. Some leaflets show minor damage (e.g., small holes or margin notches), but no clear signs of herbivory or pathogens are inferred. All images show the same individual from different angles, confirming consistent morphology. No stipules, latex, pulvinus, or tendrils are visible. Leaflet count estimated as 8 based on typical pinnate arrangement, though one leaflet may be missing or damaged.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 23362.634784076363
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 23362.634784076363,
+  "benchmark_metadata": {
+    "scientific_name": "Symphonia globulifera",
+    "family": "Clusiaceae",
+    "genus": "Symphonia",
+    "species_epithet": "globulifera",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

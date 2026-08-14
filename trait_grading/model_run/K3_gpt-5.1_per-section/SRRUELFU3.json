@@ -1,0 +1,47 @@
+{
+  "specimen_id": "SRRUELFU3",
+  "source_answer_key": "Acanthaceae_Ruellia_fulgida_SRRUELFU3",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "opposite",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "clearly visible, moderately spaced, approximately 6\u20139 pairs per leaf, arching toward the margin",
+            "surface_features": "dull",
+            "trichomes": "present",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "present",
+            "color": "purple-green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Leaves appear opposite at the upper nodes and are ovate with serrulate to faintly crenate margins and prominent venation; stem and leaf surfaces show noticeable fine hairs; some leaves have holes present."
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "specimen_id": "BAR0450",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Violaceae/by_genus/Rinorea/by_species/silvatica/BAR0450/Violaceae_Rinorea_silvatica_BAR0450_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Violaceae/by_genus/Rinorea/by_species/silvatica/BAR0450/Violaceae_Rinorea_silvatica_BAR0450_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Violaceae/by_genus/Rinorea/by_species/silvatica/BAR0450/Violaceae_Rinorea_silvatica_BAR0450_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Violaceae/by_genus/Rinorea/by_species/silvatica/BAR0450/Violaceae_Rinorea_silvatica_BAR0450_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Violaceae/by_genus/Rinorea/by_species/silvatica/BAR0450/Violaceae_Rinorea_silvatica_BAR0450_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "opposite",
+            "spacing": "distal"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "acute",
+            "base": "rounded",
+            "venation": "pinnate",
+            "secondary_veins": "visible, curved, and spaced regularly",
+            "surface_features": "shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Some leaves show damage in the form of holes and missing margin sections. Yellow flowers are present in the background but are not part of the seedling being assessed."
+        },
+        "raw_response": "A. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): opposite (clearly visible paired leaves attached at the same node along the stem in multiple images)\n    2. Leaf spacing (clustered / distal): distal (leaves are spaced out along the stem rather than clustered at the tip)\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): simple (each leaf is a single blade without leaflets)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): N/A\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): N/A\n    6. Leaflet arrangement (opposite / alternate / subopposite): N/A\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (smooth margins are visible on the leaves, though some have holes/damage)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): elliptic (leaves are broadly oval with the widest part near the middle)\n    9. Leaf apex (acute, obtuse, acuminate): acute (the tip comes to a distinct point)\n    10. Leaf base (rounded, cordate, cuneate): rounded (the base of the leaf appears broad and rounded)\n    11. Venation type (pinnate / palmate / parallel): pinnate (a single midrib with secondary veins branching off)\n    12. Secondary veins (visibility, spacing, number): visible, curved, and spaced regularly (prominent veins arching towards the leaf margin)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): shiny (the leaf surface reflects light, indicating a somewhat glossy texture)\n    14. Leaf surface trichomes (present / absent): absent (no hairs are visible on the leaf surface)\n    15. Petiole length (short / long): short (the stalk attaching the leaf to the stem is relatively short compared to the leaf blade)\n    16. Petiole features (winged / grooved / terete): terete (the petiole appears round in cross-section)\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): woody (the stems appear thin, rigid, and brownish, characteristic of a woody seedling)\n    18. Stem trichomes (present / absent): absent (the stem surface appears smooth without visible hairs)\n    19. Stem color: brown (the stems are a dark brown color)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (the stem appears relatively smooth without distinct ridges or lenticels visible at this resolution)\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules are clearly visible at the base of the petioles)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no swollen pulvinus is visible at the leaf base)\n    24. Tendrils (present / absent): absent\n\nF. Notes: Some leaves show damage in the form of holes and missing margin sections. Yellow flowers are present in the background but are not part of the seedling being assessed.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 4546.97003075853
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 4546.97003075853,
+  "benchmark_metadata": {
+    "scientific_name": "Rinorea silvatica",
+    "family": "Violaceae",
+    "genus": "Rinorea",
+    "species_epithet": "silvatica",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

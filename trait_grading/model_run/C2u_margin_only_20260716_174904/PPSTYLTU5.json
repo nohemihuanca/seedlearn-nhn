@@ -1,0 +1,72 @@
+{
+  "specimen_id": "PPSTYLTU5",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Primulaceae/by_genus/Stylogyne/by_species/turbacensis/PPSTYLTU5/Primulaceae_Stylogyne_turbacensis_PPSTYLTU5_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Primulaceae/by_genus/Stylogyne/by_species/turbacensis/PPSTYLTU5/Primulaceae_Stylogyne_turbacensis_PPSTYLTU5_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Primulaceae/by_genus/Stylogyne/by_species/turbacensis/PPSTYLTU5/Primulaceae_Stylogyne_turbacensis_PPSTYLTU5_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Primulaceae/by_genus/Stylogyne/by_species/turbacensis/PPSTYLTU5/Primulaceae_Stylogyne_turbacensis_PPSTYLTU5_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Primulaceae/by_genus/Stylogyne/by_species/turbacensis/PPSTYLTU5/Primulaceae_Stylogyne_turbacensis_PPSTYLTU5_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {},
+          "leaf_complexity": {},
+          "leaf_morphology": {
+            "margin": "entire"
+          },
+          "stem_traits": {},
+          "special_features": {},
+          "notes": "Several leaves exhibit physical damage with missing sections along the margin (e.g., images 1, 2, 3, 4); assessment is based on the intact portions of the leaf edges."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nC. Leaf Morphology\n    7.\tLeaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (smooth, continuous edge visible on all leaves where not damaged by herbivory)\nF. Notes: Several leaves exhibit physical damage with missing sections along the margin (e.g., images 1, 2, 3, 4); assessment is based on the intact portions of the leaf edges.\n####",
+        "thinking": null,
+        "few_shot_delivery": {
+          "n_examples": 0,
+          "n_exemplar_images": 0,
+          "n_specimen_images": 5,
+          "max_images": 10,
+          "images_over_budget": false,
+          "prompt_chars": 940
+        }
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 1738.0094110000073
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 1738.0094110000073,
+  "benchmark_metadata": {
+    "scientific_name": "Stylogyne turbacensis",
+    "family": "Primulaceae",
+    "genus": "Stylogyne",
+    "species_epithet": "turbacensis",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

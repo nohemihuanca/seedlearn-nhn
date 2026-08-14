@@ -1,0 +1,91 @@
+{
+  "specimen_id": "SRMYRCAGA3",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Myrtaceae/by_genus/Myrcia/by_species/splendens/SRMYRCAGA3/Myrtaceae_Myrcia_splendens_SRMYRCAGA3_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Myrtaceae/by_genus/Myrcia/by_species/splendens/SRMYRCAGA3/Myrtaceae_Myrcia_splendens_SRMYRCAGA3_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Myrtaceae/by_genus/Myrcia/by_species/splendens/SRMYRCAGA3/Myrtaceae_Myrcia_splendens_SRMYRCAGA3_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Myrtaceae/by_genus/Myrcia/by_species/splendens/SRMYRCAGA3/Myrtaceae_Myrcia_splendens_SRMYRCAGA3_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Myrtaceae/by_genus/Myrcia/by_species/splendens/SRMYRCAGA3/Myrtaceae_Myrcia_splendens_SRMYRCAGA3_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "whorled",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "acute",
+            "base": "rounded",
+            "venation": "pinnate",
+            "secondary_veins": "visible, closely spaced, numerous",
+            "surface_features": "shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "brown",
+            "texture": "ridged"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Some leaves show holes and margin damage, likely due to mechanical or biological factors, but cause is not determinable from images. The seedling appears to be growing in a moist, leaf-littered environment. Images show multiple views of the same individual, confirming whorled leaf arrangement and simple leaf morphology. Moisture on leaves suggests recent rain or high humidity."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): whorled (multiple leaves are clearly attached at the same node, visible in multiple images, particularly in Image 1 and 5)\n    2. Leaf spacing (clustered / distal): clustered (leaves are grouped closely at nodes along the stem, as seen in all images)\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): simple (each leaf is a single, undivided blade with no leaflets)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): N/A\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): N/A\n    6. Leaflet arrangement (opposite / alternate / subopposite): N/A\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (margins are smooth without teeth or serrations, visible in all images)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): elliptic (leaves are broadly oval with tapering ends, best seen in Image 2 and 5)\n    9. Leaf apex (acute, obtuse, acuminate): acute (tip is sharply pointed, as seen in Image 2 and 4)\n    10. Leaf base (rounded, cordate, cuneate): rounded (base is gently curved, visible in Image 1 and 5)\n    11. Venation type (pinnate / palmate / parallel): pinnate (main vein runs from base to apex with lateral veins branching off, visible in Image 2)\n    12. Secondary veins (visibility, spacing, number): visible, closely spaced, numerous (secondary veins are clearly visible and run parallel to each other, forming a dense network, as seen in Image 2)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): shiny (surface is glossy and reflects light, evident in all images due to moisture)\n    14. Leaf surface trichomes (present / absent): absent (no visible hairs on leaf surface; surface appears smooth)\n    15. Petiole length (short / long): short (petioles are short, connecting leaf to stem, visible in Image 4 and 5)\n    16. Petiole features (winged / grooved / terete): terete (petioles are round in cross-section, no wings or grooves visible)\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): woody (stem is brown, firm, and shows some bark texture, visible in Image 3 and 4)\n    18. Stem trichomes (present / absent): absent (no visible hairs on stem surface)\n    19. Stem color: brown (stem is light to medium brown, visible in Image 3 and 4)\n    20. Stem texture (smooth / ridged / lenticellate): ridged (stem surface has slight ridges and rough texture, visible in Image 3 and 4)\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules observed at leaf bases)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no exudate visible when stem or leaf is broken)\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no swollen joint at leaf base visible)\n    24. Tendrils (present / absent): absent (no tendrils observed)\nF. Notes: Some leaves show holes and margin damage, likely due to mechanical or biological factors, but cause is not determinable from images. The seedling appears to be growing in a moist, leaf-littered environment. Images show multiple views of the same individual, confirming whorled leaf arrangement and simple leaf morphology. Moisture on leaves suggests recent rain or high humidity. \n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 21082.51049136743
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 21082.51049136743,
+  "benchmark_metadata": {
+    "scientific_name": "Myrcia splendens",
+    "family": "Myrtaceae",
+    "genus": "Myrcia",
+    "species_epithet": "splendens",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

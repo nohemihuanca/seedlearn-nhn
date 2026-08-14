@@ -1,0 +1,47 @@
+{
+  "specimen_id": "CHFORSVI6",
+  "source_answer_key": "Apocynaceae_Forsteronia_acouci_CHFORSVI6",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "whorled",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "narrowly elliptic",
+            "apex": "acuminate",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "clearly visible, moderately close and fairly regular spacing, approximately 8\u201312 pairs per leaf",
+            "surface_features": "glabrous, slightly shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "greenish-brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Leaves appear arranged in a whorl at the stem apex (multiple leaves radiating from a single visible node); blades narrowly elliptic with entire margins (no lobes or teeth visible); midrib prominent and slightly raised; leaf surface smooth and slightly glossy (no visible hairs); small holes present on a few leaf blades (localized missing tissue)"
+        }
+      }
+    }
+  }
+}

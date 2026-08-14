@@ -1,0 +1,91 @@
+{
+  "specimen_id": "ANHIRTRA4",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Chrysobalanaceae/by_genus/Hirtella/by_species/racemosa/ANHIRTRA4/Chrysobalanaceae_Hirtella_racemosa_ANHIRTRA4_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Chrysobalanaceae/by_genus/Hirtella/by_species/racemosa/ANHIRTRA4/Chrysobalanaceae_Hirtella_racemosa_ANHIRTRA4_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Chrysobalanaceae/by_genus/Hirtella/by_species/racemosa/ANHIRTRA4/Chrysobalanaceae_Hirtella_racemosa_ANHIRTRA4_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Chrysobalanaceae/by_genus/Hirtella/by_species/racemosa/ANHIRTRA4/Chrysobalanaceae_Hirtella_racemosa_ANHIRTRA4_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Chrysobalanaceae/by_genus/Hirtella/by_species/racemosa/ANHIRTRA4/Chrysobalanaceae_Hirtella_racemosa_ANHIRTRA4_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "alternate",
+            "spacing": "distal"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "lanceolate",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "visible, closely spaced, numerous",
+            "surface_features": "shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "The seedling is low-growing and appears to be in a moist, shaded forest floor environment with abundant leaf litter. Some leaves show minor damage (e.g., small holes or margin tears), but this is not widespread. The pink tag is an artificial marker, not part of the plant. Images show the same individual from multiple angles; morphology is consistent across views. No flowers or fruits are visible. Leaf surfaces are wet, which may affect perceived glossiness, but shiny texture remains evident."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): alternate (leaves are attached at successive nodes along the stem, alternating sides; no paired or clustered arrangement visible at any node)\n    2. Leaf spacing (clustered / distal): distal (leaves are spaced along the stem with visible internodes, not clustered at a single point)\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): simple (each leaf has a single blade without subdivisions into leaflets)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): N/A (leaf complexity is simple)\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): N/A (leaf complexity is simple)\n    6. Leaflet arrangement (opposite / alternate / subopposite): N/A (leaf complexity is simple)\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (margins are smooth and uninterrupted; no teeth or serrations visible)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): lanceolate (narrow, elongated with a pointed tip and broader base)\n    9. Leaf apex (acute, obtuse, acuminate): acute (tip is sharply pointed but not drawn out into a long taper)\n    10. Leaf base (rounded, cordate, cuneate): cuneate (base tapers to a narrow point, wedge-shaped)\n    11. Venation type (pinnate / palmate / parallel): pinnate (main vein runs from base to apex, with lateral veins branching off and curving toward margins)\n    12. Secondary veins (visibility, spacing, number): visible, closely spaced, numerous (secondary veins are clearly visible, running from midrib to margin, closely packed)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): shiny (surface appears glossy and reflective, likely due to moisture and waxy cuticle)\n    14. Leaf surface trichomes (present / absent): absent (no visible hairs or fuzzy texture on leaf surface; surface appears smooth)\n    15. Petiole length (short / long): short (petiole is very short, barely visible, leaf appears sessile or nearly so)\n    16. Petiole features (winged / grooved / terete): terete (petiole is cylindrical and rounded in cross-section, no wings or grooves)\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): woody (stem appears firm, brown, and slightly lignified, typical of young woody seedling)\n    18. Stem trichomes (present / absent): absent (no visible hairs on stem surface; smooth texture)\n    19. Stem color: brown (stem is dark brown, consistent with young woody growth)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (surface is even and without ridges or lenticels; slight sheen visible)\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules observed at leaf bases; nodes appear clean)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no milky or colored sap visible when stems or leaves are damaged)\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no swollen leaf bases or joints visible; not applicable for pulvinus unless in Fabaceae, which is not indicated)\n    24. Tendrils (present / absent): absent (no modified leaf structures or stems for climbing observed)\nF. Notes: The seedling is low-growing and appears to be in a moist, shaded forest floor environment with abundant leaf litter. Some leaves show minor damage (e.g., small holes or margin tears), but this is not widespread. The pink tag is an artificial marker, not part of the plant. Images show the same individual from multiple angles; morphology is consistent across views. No flowers or fruits are visible. Leaf surfaces are wet, which may affect perceived glossiness, but shiny texture remains evident.",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 21934.562271926552
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 21934.562271926552,
+  "benchmark_metadata": {
+    "scientific_name": "Hirtella racemosa",
+    "family": "Chrysobalanaceae",
+    "genus": "Hirtella",
+    "species_epithet": "racemosa",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

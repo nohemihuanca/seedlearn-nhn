@@ -1,0 +1,47 @@
+{
+  "specimen_id": "MEPSYCHO6",
+  "source_answer_key": "Rubiaceae_Psychotria_horizontalis_MEPSYCHO6",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "opposite",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "lanceolate",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "faint to moderately visible pinnate secondary veins, approximately 5\u20137 pairs per leaf, fairly evenly spaced and gently arching toward the margin",
+            "surface_features": "glabrous, shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "unclear",
+            "color": "green-brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "unclear",
+            "tendrils": "absent"
+          },
+          "notes": "Leaves are simple and entire with some holes and margin missing (damage visible), arranged along slender green stems; small green bud cluster present at an upper node; no specialized climbing structures observed."
+        }
+      }
+    }
+  }
+}

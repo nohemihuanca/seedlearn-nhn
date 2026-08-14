@@ -1,0 +1,47 @@
+{
+  "specimen_id": "PPPIT1RU4",
+  "source_answer_key": "Fabaceae_Cojoba_rufescens_PPPIT1RU4",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "opposite",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "toothed",
+            "shape": "lanceolate",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "faintly visible, moderately regular spacing, numerous",
+            "surface_features": "dull, smooth",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "greenish-brown to reddish-brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "unclear",
+            "tendrils": "absent"
+          },
+          "notes": "Several leaves show holes present and margin missing. Assessment is based on the narrow toothed-leaved seedling in the center; adjacent fern fronds and glossy broader leaves belong to neighboring plants."
+        }
+      }
+    }
+  }
+}

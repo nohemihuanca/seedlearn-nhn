@@ -1,0 +1,47 @@
+{
+  "specimen_id": "CHCUPASY3",
+  "source_answer_key": "Sapindaceae_Cupania_seemannii_CHCUPASY3",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "unclear",
+            "spacing": "distal"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "visible, evenly spaced, about 7\u201310 pairs per leaf",
+            "surface_features": "glabrous, dull",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "green-brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Several leaves show holes present and margin missing. Assessment is based on the pink-tagged seedling; nearby narrow-leaved plants appear to be different individuals. Leaf relative position is kept as unclear because nodes are not shown clearly enough from all angles."
+        }
+      }
+    }
+  }
+}

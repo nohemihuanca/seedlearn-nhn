@@ -1,0 +1,91 @@
+{
+  "specimen_id": "PEA0147",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Annonaceae/by_genus/Desmopsis/by_species/panamensis/PEA0147/Annonaceae_Desmopsis_panamensis_PEA0147_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Annonaceae/by_genus/Desmopsis/by_species/panamensis/PEA0147/Annonaceae_Desmopsis_panamensis_PEA0147_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Annonaceae/by_genus/Desmopsis/by_species/panamensis/PEA0147/Annonaceae_Desmopsis_panamensis_PEA0147_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Annonaceae/by_genus/Desmopsis/by_species/panamensis/PEA0147/Annonaceae_Desmopsis_panamensis_PEA0147_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Annonaceae/by_genus/Desmopsis/by_species/panamensis/PEA0147/Annonaceae_Desmopsis_panamensis_PEA0147_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "alternate",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "visible, spaced moderately, 4\u20136 pairs per leaf",
+            "surface_features": "dull",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "[NOTE] Some leaves show dark spots and small holes, likely damage or natural discoloration; no evidence of insect activity or pathogen is inferred. Red material in foreground appears to be artificial flagging tape, not part of the plant. Leaf arrangement and morphology are consistent across all images. Seedling appears young, with multiple leaves emerging from a central stem. Stem is thin and upright, with no branching visible. Leaf surface is uniformly dull green with no gloss."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): alternate (leaves are attached at successive nodes along the stem, alternating sides; no paired or whorled arrangement visible)\n    2. Leaf spacing (clustered / distal): clustered (leaves appear grouped near the top of the stem, with short internodes)\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): simple (each leaf has a single blade without subdivisions)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): N/A\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): N/A\n    6. Leaflet arrangement (opposite / alternate / subopposite): N/A\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (smooth margin with no teeth or serrations visible)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): elliptic (broadest near the middle, tapering to both ends)\n    9. Leaf apex (acute, obtuse, acuminate): acute (tapering to a sharp point)\n    10. Leaf base (rounded, cordate, cuneate): cuneate (tapering to a narrow base)\n    11. Venation type (pinnate / palmate / parallel): pinnate (one central midvein with lateral veins branching off it)\n    12. Secondary veins (visibility, spacing, number): visible, spaced moderately, 4\u20136 pairs per leaf (secondary veins are clearly visible and run parallel to each other, emerging from midvein)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): dull (surface appears matte, not glossy or shiny)\n    14. Leaf surface trichomes (present / absent): absent (no visible hairs or fuzz on leaf surface)\n    15. Petiole length (short / long): short (petiole is short, less than 1 cm, connecting leaf blade to stem)\n    16. Petiole features (winged / grooved / terete): terete (round, cylindrical petiole with no wings or grooves)\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): woody (stem appears firm and slightly woody, not soft or herbaceous)\n    18. Stem trichomes (present / absent): absent (no visible hairs on stem)\n    19. Stem color: brown (stem is brownish, consistent across images)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (stem surface appears smooth without ridges or lenticels)\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules visible at leaf base)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no latex exudate seen)\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no swollen joint at leaf base; not applicable as not Fabaceae)\n    24. Tendrils (present / absent): absent (no tendrils visible)\nF. Notes: [NOTE] Some leaves show dark spots and small holes, likely damage or natural discoloration; no evidence of insect activity or pathogen is inferred. Red material in foreground appears to be artificial flagging tape, not part of the plant. Leaf arrangement and morphology are consistent across all images. Seedling appears young, with multiple leaves emerging from a central stem. Stem is thin and upright, with no branching visible. Leaf surface is uniformly dull green with no gloss.",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 20868.76892996952
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 20868.76892996952,
+  "benchmark_metadata": {
+    "scientific_name": "Desmopsis panamensis",
+    "family": "Annonaceae",
+    "genus": "Desmopsis",
+    "species_epithet": "panamensis",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

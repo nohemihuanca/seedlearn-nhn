@@ -1,0 +1,91 @@
+{
+  "specimen_id": "PPSTRYPA8",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Loganiaceae/by_genus/Strychnos/by_species/panamensis/PPSTRYPA8/Loganiaceae_Strychnos_panamensis_PPSTRYPA8_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Loganiaceae/by_genus/Strychnos/by_species/panamensis/PPSTRYPA8/Loganiaceae_Strychnos_panamensis_PPSTRYPA8_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Loganiaceae/by_genus/Strychnos/by_species/panamensis/PPSTRYPA8/Loganiaceae_Strychnos_panamensis_PPSTRYPA8_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Loganiaceae/by_genus/Strychnos/by_species/panamensis/PPSTRYPA8/Loganiaceae_Strychnos_panamensis_PPSTRYPA8_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Loganiaceae/by_genus/Strychnos/by_species/panamensis/PPSTRYPA8/Loganiaceae_Strychnos_panamensis_PPSTRYPA8_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "alternate",
+            "spacing": "distal"
+          },
+          "leaf_complexity": {
+            "type": "compound",
+            "compound_type": "odd-pinnate",
+            "num_leaflets": "3",
+            "leaflet_arrangement": "alternate"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "lanceolate",
+            "apex": "acuminate",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "visible",
+            "surface_features": "shiny",
+            "trichomes": "absent",
+            "petiole_length": "long",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "absent",
+            "color": "green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "The seedling displays distinct trifoliate leaves with alternate leaflet arrangement. There is minor physical damage visible on the margins of some leaves (holes present)."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): alternate (leaves are attached at successive nodes along the stem, alternating sides)\n    2. Leaf spacing (clustered / distal): distal (leaves are spaced apart along the elongated stem)\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): compound (leaves are composed of multiple distinct leaflets attached to a rachis)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): odd-pinnate (each leaf has a terminal leaflet at the tip of the rachis)\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): 3 (most clearly visible leaves are trifoliate with three leaflets)\n    6. Leaflet arrangement (opposite / alternate / subopposite): alternate (the leaflets are arranged alternately along the rachis, not in pairs)\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.): entire (leaf margins are smooth and continuous)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): lanceolate (leaflets are lance-shaped, widest below the middle and tapering to a point)\n    9. Leaf apex (acute, obtuse, acuminate): acuminate (leaf tips taper to a distinct, slender point)\n    10. Leaf base (rounded, cordate, cuneate): cuneate (leaf bases are wedge-shaped, tapering towards the petiolule)\n    11. Venation type (pinnate / palmate / parallel): pinnate (a central midrib is visible with secondary veins branching off it)\n    12. Secondary veins (visibility, spacing, number): visible (secondary veins are clearly visible, curving towards the leaf margin and spaced relatively closely)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): shiny (leaf surfaces reflect light, appearing glossy)\n    14. Leaf surface trichomes (present / absent): absent (leaf surfaces appear smooth without visible hairs)\n    15. Petiole length (short / long): long (the rachis and petiolules are elongated relative to the leaflet size)\n    16. Petiole features (winged / grooved / terete): terete (petioles and rachis appear round in cross-section, lacking wings or grooves)\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): herbaceous (stems appear green, thin, and flexible)\n    18. Stem trichomes (present / absent): absent (stems appear smooth and hairless)\n    19. Stem color: green (stems are uniformly green)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (stems appear smooth without ridges or lenticels)\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules are clearly visible at the leaf bases)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no distinct pulvinus is visible at the leaf base)\n    24. Tendrils (present / absent): absent (no tendrils are visible)\nF. Notes: The seedling displays distinct trifoliate leaves with alternate leaflet arrangement. There is minor physical damage visible on the margins of some leaves (holes present).\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 4727.678577881306
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 4727.678577881306,
+  "benchmark_metadata": {
+    "scientific_name": "Strychnos panamensis",
+    "family": "Loganiaceae",
+    "genus": "Strychnos",
+    "species_epithet": "panamensis",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

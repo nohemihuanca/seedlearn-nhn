@@ -1,0 +1,14 @@
+{
+  "n_graded": 114,
+  "family_accuracy": 0.9210526315789473,
+  "genus_accuracy": 0.8859649122807017,
+  "species_accuracy": 0.8508771929824561,
+  "corrected_family_accuracy": 0.9824561403508771,
+  "corrected_genus_accuracy": 0.9649122807017544,
+  "corrected_species_accuracy": 0.9385964912280702,
+  "n_credited_by_category": {
+    "typo": 14,
+    "synonym": 10,
+    "variant": 2
+  }
+}

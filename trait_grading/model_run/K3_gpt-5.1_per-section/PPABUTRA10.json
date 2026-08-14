@@ -1,0 +1,47 @@
+{
+  "specimen_id": "PPABUTRA10",
+  "source_answer_key": "Menispermaceae_Abuta_racemosa_PPABUTRA10",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "opposite",
+            "spacing": "distal"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "ovate",
+            "apex": "acuminate",
+            "base": "rounded",
+            "venation": "pinnate",
+            "secondary_veins": "clearly visible, moderately spaced, approximately 6\u20138 pairs per leaf",
+            "surface_features": "shiny and slightly rugose",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "absent",
+            "color": "light brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Simple, glossy, ovate leaves with entire margins and prominently impressed venation; leaf arrangement near the shoot tip appears opposite but attachment nodes are not fully visible, so this is uncertain."
+        }
+      }
+    }
+  }
+}

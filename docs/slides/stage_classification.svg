@@ -1,0 +1,300 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" font-family="Segoe UI, Calibri, Arial, sans-serif">
+  <rect width="1200" height="700" fill="white"/>
+
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#888"/>
+    </marker>
+  </defs>
+
+  <!-- Title -->
+  <text x="600" y="30" font-size="24" font-weight="600" fill="#333" text-anchor="middle">Visual Classification — BioCLIP 2 + SimpleShot</text>
+  <text x="600" y="54" font-size="14" fill="#888" text-anchor="middle">Few-shot taxonomic identification via pre-trained biological vision embeddings</text>
+
+  <!-- ════════════════════════════════════════════════════════ -->
+  <!--   SECTION LABEL: TRAINING (offline)                      -->
+  <!-- ════════════════════════════════════════════════════════ -->
+
+  <text x="32" y="90" font-size="14" font-weight="700" fill="#999" letter-spacing="2">TRAINING (offline)</text>
+  <line x1="32" y1="96" x2="1168" y2="96" stroke="#e0e0e0" stroke-width="1"/>
+
+  <!-- ── Training database images ── -->
+  <!-- Grid of small image placeholders representing training set -->
+  <rect x="32" y="112" width="120" height="180" rx="6" fill="#f8f8f8" stroke="#ddd" stroke-width="1"/>
+  <text x="92" y="132" font-size="12" font-weight="600" fill="#555" text-anchor="middle">Training Set</text>
+
+  <!-- Mini image grid (4x4) -->
+  <rect x="42" y="140" width="22" height="22" rx="2" fill="#f28e2b" stroke="#c47220" stroke-width="0.5" opacity="0.7"/>
+  <rect x="68" y="140" width="22" height="22" rx="2" fill="#f28e2b" stroke="#c47220" stroke-width="0.5" opacity="0.7"/>
+  <rect x="94" y="140" width="22" height="22" rx="2" fill="#4e79a7" stroke="#3a5d82" stroke-width="0.5" opacity="0.7"/>
+  <rect x="120" y="140" width="22" height="22" rx="2" fill="#4e79a7" stroke="#3a5d82" stroke-width="0.5" opacity="0.7"/>
+  <rect x="42" y="166" width="22" height="22" rx="2" fill="#e15759" stroke="#b84547" stroke-width="0.5" opacity="0.7"/>
+  <rect x="68" y="166" width="22" height="22" rx="2" fill="#f28e2b" stroke="#c47220" stroke-width="0.5" opacity="0.7"/>
+  <rect x="94" y="166" width="22" height="22" rx="2" fill="#59a14f" stroke="#47813f" stroke-width="0.5" opacity="0.7"/>
+  <rect x="120" y="166" width="22" height="22" rx="2" fill="#e15759" stroke="#b84547" stroke-width="0.5" opacity="0.7"/>
+  <rect x="42" y="192" width="22" height="22" rx="2" fill="#59a14f" stroke="#47813f" stroke-width="0.5" opacity="0.7"/>
+  <rect x="68" y="192" width="22" height="22" rx="2" fill="#4e79a7" stroke="#3a5d82" stroke-width="0.5" opacity="0.7"/>
+  <rect x="94" y="192" width="22" height="22" rx="2" fill="#f28e2b" stroke="#c47220" stroke-width="0.5" opacity="0.7"/>
+  <rect x="120" y="192" width="22" height="22" rx="2" fill="#59a14f" stroke="#47813f" stroke-width="0.5" opacity="0.7"/>
+  <rect x="42" y="218" width="22" height="22" rx="2" fill="#e15759" stroke="#b84547" stroke-width="0.5" opacity="0.7"/>
+  <rect x="68" y="218" width="22" height="22" rx="2" fill="#59a14f" stroke="#47813f" stroke-width="0.5" opacity="0.7"/>
+  <rect x="94" y="218" width="22" height="22" rx="2" fill="#e15759" stroke="#b84547" stroke-width="0.5" opacity="0.7"/>
+  <rect x="120" y="218" width="22" height="22" rx="2" fill="#4e79a7" stroke="#3a5d82" stroke-width="0.5" opacity="0.7"/>
+
+  <text x="92" y="262" font-size="10" fill="#888" text-anchor="middle">10,407 images</text>
+  <text x="92" y="276" font-size="10" fill="#888" text-anchor="middle">52 families</text>
+
+  <!-- Arrow: training images → BioCLIP encoder -->
+  <line x1="155" y1="200" x2="175" y2="200" stroke="#888" stroke-width="1.5" marker-end="url(#arr)"/>
+
+  <!-- ── BioCLIP 2 Encoder (training) ── -->
+  <rect x="177" y="140" width="140" height="120" rx="8" fill="#6a4c93" stroke="#553d76" stroke-width="1.5"/>
+  <text x="247" y="164" font-size="13" font-weight="700" fill="white" text-anchor="middle">BioCLIP 2</text>
+  <line x1="189" y1="172" x2="305" y2="172" stroke="rgba(255,255,255,0.4)" stroke-width="1"/>
+  <text x="247" y="192" font-size="11" fill="white" text-anchor="middle">ViT-L/14</text>
+  <text x="247" y="208" font-size="11" fill="white" text-anchor="middle">304M params</text>
+  <text x="247" y="230" font-size="10" fill="rgba(255,255,255,0.7)" text-anchor="middle">TreeOfLife-200M</text>
+  <text x="247" y="244" font-size="10" fill="rgba(255,255,255,0.7)" text-anchor="middle">pre-trained</text>
+
+  <!-- Arrow: encoder → vectors -->
+  <line x1="319" y1="200" x2="339" y2="200" stroke="#888" stroke-width="1.5" marker-end="url(#arr)"/>
+
+  <!-- ── Raw embeddings ── -->
+  <rect x="341" y="170" width="100" height="60" rx="6" fill="#f0f0f0" stroke="#ccc" stroke-width="1"/>
+  <text x="391" y="194" font-size="11" fill="#555" text-anchor="middle">Embeddings</text>
+  <text x="391" y="212" font-size="10" fill="#888" text-anchor="middle">(N, 768)</text>
+
+  <!-- Arrow: vectors → mean-center -->
+  <line x1="443" y1="200" x2="463" y2="200" stroke="#888" stroke-width="1.5" marker-end="url(#arr)"/>
+
+  <!-- ── Mean-center + normalize ── -->
+  <rect x="465" y="162" width="120" height="76" rx="6" fill="#f0f0f0" stroke="#ccc" stroke-width="1"/>
+  <text x="525" y="186" font-size="11" fill="#555" text-anchor="middle">Mean-center</text>
+  <text x="525" y="204" font-size="11" fill="#555" text-anchor="middle">+ L2 normalize</text>
+  <text x="525" y="224" font-size="10" fill="#888" text-anchor="middle">→ unit hypersphere</text>
+
+  <!-- Arrow: normalize → centroids -->
+  <line x1="587" y1="200" x2="607" y2="200" stroke="#888" stroke-width="1.5" marker-end="url(#arr)"/>
+
+  <!-- ── Class centroids (the core output of training) ── -->
+  <rect x="609" y="125" width="200" height="155" rx="8" fill="#f8f3ee" stroke="#d4a574" stroke-width="1.5"/>
+  <text x="709" y="148" font-size="13" font-weight="700" fill="#8b6914" text-anchor="middle">Class Centroids</text>
+  <line x1="621" y1="156" x2="797" y2="156" stroke="#d4a574" stroke-width="1"/>
+
+  <!-- Centroid dots with labels (representing embedding space) -->
+  <circle cx="645" cy="185" r="8" fill="#f28e2b" stroke="#c47220" stroke-width="1"/>
+  <text x="660" y="189" font-size="10" fill="#555">Fabaceae</text>
+
+  <circle cx="645" cy="210" r="8" fill="#4e79a7" stroke="#3a5d82" stroke-width="1"/>
+  <text x="660" y="214" font-size="10" fill="#555">Meliaceae</text>
+
+  <circle cx="645" cy="235" r="8" fill="#e15759" stroke="#b84547" stroke-width="1"/>
+  <text x="660" y="239" font-size="10" fill="#555">Rubiaceae</text>
+
+  <circle cx="645" cy="260" r="8" fill="#59a14f" stroke="#47813f" stroke-width="1"/>
+  <text x="660" y="264" font-size="10" fill="#555">Moraceae</text>
+
+  <text x="745" y="189" font-size="10" fill="#888">(768-dim)</text>
+  <text x="745" y="207" font-size="10" fill="#888">(768-dim)</text>
+  <text x="745" y="225" font-size="10" fill="#888">(768-dim)</text>
+  <text x="745" y="243" font-size="10" fill="#888">(768-dim)</text>
+  <text x="709" y="272" font-size="10" fill="#999" text-anchor="middle">... 52 centroids total</text>
+
+  <!-- ════════════════════════════════════════════════════════ -->
+  <!--   EMBEDDING SPACE VISUALIZATION (right side)             -->
+  <!-- ════════════════════════════════════════════════════════ -->
+
+  <rect x="840" y="108" width="340" height="190" rx="8" fill="#fafafa" stroke="#ddd" stroke-width="1"/>
+  <text x="1010" y="130" font-size="12" font-weight="600" fill="#777" text-anchor="middle">768-dim Embedding Space (projected to 2D)</text>
+
+  <!-- Cluster 1: Fabaceae (orange) -->
+  <circle cx="910" cy="180" r="4" fill="#f28e2b" opacity="0.4"/>
+  <circle cx="920" cy="170" r="4" fill="#f28e2b" opacity="0.4"/>
+  <circle cx="905" cy="190" r="4" fill="#f28e2b" opacity="0.4"/>
+  <circle cx="925" cy="185" r="4" fill="#f28e2b" opacity="0.4"/>
+  <circle cx="915" cy="195" r="4" fill="#f28e2b" opacity="0.4"/>
+  <circle cx="912" cy="175" r="4" fill="#f28e2b" opacity="0.4"/>
+  <circle cx="915" cy="182" r="7" fill="#f28e2b" stroke="#c47220" stroke-width="1.5"/>
+  <text x="915" y="215" font-size="9" fill="#c47220" text-anchor="middle">Fabaceae</text>
+
+  <!-- Cluster 2: Meliaceae (blue) -->
+  <circle cx="1000" cy="160" r="4" fill="#4e79a7" opacity="0.4"/>
+  <circle cx="1010" cy="155" r="4" fill="#4e79a7" opacity="0.4"/>
+  <circle cx="995" cy="170" r="4" fill="#4e79a7" opacity="0.4"/>
+  <circle cx="1015" cy="165" r="4" fill="#4e79a7" opacity="0.4"/>
+  <circle cx="1005" cy="175" r="4" fill="#4e79a7" opacity="0.4"/>
+  <circle cx="1005" cy="165" r="7" fill="#4e79a7" stroke="#3a5d82" stroke-width="1.5"/>
+  <text x="1005" y="195" font-size="9" fill="#3a5d82" text-anchor="middle">Meliaceae</text>
+
+  <!-- Cluster 3: Rubiaceae (red) -->
+  <circle cx="960" cy="240" r="4" fill="#e15759" opacity="0.4"/>
+  <circle cx="950" cy="250" r="4" fill="#e15759" opacity="0.4"/>
+  <circle cx="970" cy="245" r="4" fill="#e15759" opacity="0.4"/>
+  <circle cx="955" cy="235" r="4" fill="#e15759" opacity="0.4"/>
+  <circle cx="965" cy="255" r="4" fill="#e15759" opacity="0.4"/>
+  <circle cx="960" cy="245" r="7" fill="#e15759" stroke="#b84547" stroke-width="1.5"/>
+  <text x="960" y="275" font-size="9" fill="#b84547" text-anchor="middle">Rubiaceae</text>
+
+  <!-- Cluster 4: Moraceae (green) -->
+  <circle cx="1080" cy="230" r="4" fill="#59a14f" opacity="0.4"/>
+  <circle cx="1090" cy="225" r="4" fill="#59a14f" opacity="0.4"/>
+  <circle cx="1075" cy="240" r="4" fill="#59a14f" opacity="0.4"/>
+  <circle cx="1095" cy="235" r="4" fill="#59a14f" opacity="0.4"/>
+  <circle cx="1085" cy="245" r="4" fill="#59a14f" opacity="0.4"/>
+  <circle cx="1085" cy="235" r="7" fill="#59a14f" stroke="#47813f" stroke-width="1.5"/>
+  <text x="1085" y="265" font-size="9" fill="#47813f" text-anchor="middle">Moraceae</text>
+
+  <!-- Legend for embedding space -->
+  <circle cx="860" cy="285" r="4" fill="#888" opacity="0.4"/>
+  <text x="870" y="289" font-size="9" fill="#888">= training image</text>
+  <circle cx="950" cy="285" r="5" fill="#888" stroke="#555" stroke-width="1.5"/>
+  <text x="962" y="289" font-size="9" fill="#888">= class centroid</text>
+
+  <!-- ════════════════════════════════════════════════════════ -->
+  <!--   SECTION LABEL: INFERENCE (per specimen)                -->
+  <!-- ════════════════════════════════════════════════════════ -->
+
+  <text x="32" y="340" font-size="14" font-weight="700" fill="#999" letter-spacing="2">INFERENCE (per specimen)</text>
+  <line x1="32" y1="346" x2="1168" y2="346" stroke="#e0e0e0" stroke-width="1"/>
+
+  <!-- ── 5 specimen images ── -->
+  <rect x="32" y="362" width="110" height="170" rx="6" fill="#f8f8f8" stroke="#ddd" stroke-width="1"/>
+  <text x="87" y="382" font-size="12" font-weight="600" fill="#555" text-anchor="middle">Query Images</text>
+
+  <!-- 5 image thumbnails in a column -->
+  <rect x="46" y="392" width="36" height="24" rx="3" fill="#af7aa1" stroke="#8c6181" stroke-width="1"/>
+  <text x="64" y="408" font-size="8" fill="white" text-anchor="middle">img 1</text>
+  <rect x="46" y="420" width="36" height="24" rx="3" fill="#af7aa1" stroke="#8c6181" stroke-width="1"/>
+  <text x="64" y="436" font-size="8" fill="white" text-anchor="middle">img 2</text>
+  <rect x="46" y="448" width="36" height="24" rx="3" fill="#af7aa1" stroke="#8c6181" stroke-width="1"/>
+  <text x="64" y="464" font-size="8" fill="white" text-anchor="middle">img 3</text>
+  <rect x="92" y="392" width="36" height="24" rx="3" fill="#af7aa1" stroke="#8c6181" stroke-width="1"/>
+  <text x="110" y="408" font-size="8" fill="white" text-anchor="middle">img 4</text>
+  <rect x="92" y="420" width="36" height="24" rx="3" fill="#af7aa1" stroke="#8c6181" stroke-width="1"/>
+  <text x="110" y="436" font-size="8" fill="white" text-anchor="middle">img 5</text>
+
+  <text x="87" y="510" font-size="10" fill="#888" text-anchor="middle">5 images,</text>
+  <text x="87" y="524" font-size="10" fill="#888" text-anchor="middle">1 specimen</text>
+
+  <!-- Arrow: images → BioCLIP encoder -->
+  <line x1="145" y1="445" x2="175" y2="445" stroke="#888" stroke-width="1.5" marker-end="url(#arr)"/>
+
+  <!-- ── BioCLIP 2 Encoder (inference, same model) ── -->
+  <rect x="177" y="390" width="140" height="110" rx="8" fill="#6a4c93" stroke="#553d76" stroke-width="1.5"/>
+  <text x="247" y="414" font-size="13" font-weight="700" fill="white" text-anchor="middle">BioCLIP 2</text>
+  <line x1="189" y1="422" x2="305" y2="422" stroke="rgba(255,255,255,0.4)" stroke-width="1"/>
+  <text x="247" y="442" font-size="11" fill="white" text-anchor="middle">ViT-L/14</text>
+  <text x="247" y="462" font-size="10" fill="rgba(255,255,255,0.7)" text-anchor="middle">same weights as training</text>
+  <text x="247" y="478" font-size="10" fill="rgba(255,255,255,0.7)" text-anchor="middle">encode each image</text>
+
+  <!-- Arrow: encoder → 5 vectors -->
+  <line x1="319" y1="445" x2="339" y2="445" stroke="#888" stroke-width="1.5" marker-end="url(#arr)"/>
+
+  <!-- ── 5 embedding vectors ── -->
+  <rect x="341" y="408" width="100" height="74" rx="6" fill="#f0f0f0" stroke="#ccc" stroke-width="1"/>
+  <text x="391" y="430" font-size="11" fill="#555" text-anchor="middle">5 Vectors</text>
+  <text x="391" y="448" font-size="10" fill="#888" text-anchor="middle">(5, 768)</text>
+  <text x="391" y="466" font-size="10" fill="#888" text-anchor="middle">L2-normalized</text>
+
+  <!-- Arrow: 5 vectors → mean pool -->
+  <line x1="443" y1="445" x2="463" y2="445" stroke="#888" stroke-width="1.5" marker-end="url(#arr)"/>
+
+  <!-- ── Mean pool ── -->
+  <rect x="465" y="410" width="110" height="70" rx="6" fill="#f0f0f0" stroke="#ccc" stroke-width="1"/>
+  <text x="520" y="434" font-size="11" fill="#555" text-anchor="middle">Mean Pool</text>
+  <text x="520" y="452" font-size="10" fill="#888" text-anchor="middle">→ (1, 768)</text>
+  <text x="520" y="468" font-size="10" fill="#888" text-anchor="middle">re-normalize</text>
+
+  <!-- Arrow: mean pool → distance computation -->
+  <line x1="577" y1="445" x2="597" y2="445" stroke="#888" stroke-width="1.5" marker-end="url(#arr)"/>
+
+  <!-- ── Distance to centroids ── -->
+  <rect x="599" y="395" width="160" height="100" rx="8" fill="#f8f3ee" stroke="#d4a574" stroke-width="1.5"/>
+  <text x="679" y="418" font-size="13" font-weight="700" fill="#8b6914" text-anchor="middle">L2 Distance</text>
+  <line x1="611" y1="426" x2="747" y2="426" stroke="#d4a574" stroke-width="1"/>
+  <text x="679" y="446" font-size="11" fill="#555" text-anchor="middle">query vs. all centroids</text>
+  <text x="679" y="466" font-size="10" fill="#888" text-anchor="middle">on normalized vectors,</text>
+  <text x="679" y="482" font-size="10" fill="#888" text-anchor="middle">L2 ≡ cosine distance</text>
+
+  <!-- Arrow: distance → softmax/top-k -->
+  <line x1="761" y1="445" x2="781" y2="445" stroke="#888" stroke-width="1.5" marker-end="url(#arr)"/>
+
+  <!-- ── Softmax + top-k ── -->
+  <rect x="783" y="395" width="130" height="100" rx="8" fill="#59a14f" stroke="#47813f" stroke-width="1.5"/>
+  <text x="848" y="418" font-size="13" font-weight="700" fill="white" text-anchor="middle">Softmax</text>
+  <line x1="795" y1="426" x2="901" y2="426" stroke="rgba(255,255,255,0.4)" stroke-width="1"/>
+  <text x="848" y="446" font-size="11" fill="white" text-anchor="middle">softmax(-distances)</text>
+  <text x="848" y="466" font-size="10" fill="rgba(255,255,255,0.7)" text-anchor="middle">→ probabilities</text>
+  <text x="848" y="482" font-size="10" fill="rgba(255,255,255,0.7)" text-anchor="middle">→ top-k ranking</text>
+
+  <!-- Arrow: softmax → output -->
+  <line x1="915" y1="445" x2="935" y2="445" stroke="#888" stroke-width="1.5" marker-end="url(#arr)"/>
+
+  <!-- ── Output predictions ── -->
+  <rect x="937" y="375" width="240" height="150" rx="8" fill="#f5f5f5" stroke="#bbb" stroke-width="1.5"/>
+  <text x="1057" y="398" font-size="13" font-weight="700" fill="#333" text-anchor="middle">Top-k Predictions</text>
+  <line x1="949" y1="406" x2="1165" y2="406" stroke="#ddd" stroke-width="1"/>
+
+  <!-- Prediction rows -->
+  <text x="957" y="428" font-size="11" fill="#555">1.</text>
+  <circle cx="977" cy="424" r="5" fill="#f28e2b" stroke="#c47220" stroke-width="1"/>
+  <text x="990" y="428" font-size="11" fill="#555">Fabaceae</text>
+  <text x="1100" y="428" font-size="11" font-weight="600" fill="#59a14f">42.1%</text>
+
+  <text x="957" y="450" font-size="11" fill="#555">2.</text>
+  <circle cx="977" cy="446" r="5" fill="#e15759" stroke="#b84547" stroke-width="1"/>
+  <text x="990" y="450" font-size="11" fill="#555">Rubiaceae</text>
+  <text x="1100" y="450" font-size="11" fill="#888">18.3%</text>
+
+  <text x="957" y="472" font-size="11" fill="#555">3.</text>
+  <circle cx="977" cy="468" r="5" fill="#4e79a7" stroke="#3a5d82" stroke-width="1"/>
+  <text x="990" y="472" font-size="11" fill="#555">Meliaceae</text>
+  <text x="1100" y="472" font-size="11" fill="#888">12.7%</text>
+
+  <text x="957" y="494" font-size="11" fill="#555">4.</text>
+  <circle cx="977" cy="490" r="5" fill="#59a14f" stroke="#47813f" stroke-width="1"/>
+  <text x="990" y="494" font-size="11" fill="#555">Moraceae</text>
+  <text x="1100" y="494" font-size="11" fill="#888">8.4%</text>
+
+  <text x="957" y="514" font-size="10" fill="#aaa">... 52 classes ranked</text>
+
+  <!-- ════════════════════════════════════════════════════════ -->
+  <!--   EMBEDDING SPACE: Query point visualization             -->
+  <!-- ════════════════════════════════════════════════════════ -->
+
+  <!-- Dotted connection from query to embedding space above -->
+  <line x1="520" y1="408" x2="520" y2="360" stroke="#af7aa1" stroke-width="1" stroke-dasharray="4 3"/>
+  <line x1="520" y1="360" x2="895" y2="360" stroke="#af7aa1" stroke-width="1" stroke-dasharray="4 3"/>
+  <line x1="895" y1="360" x2="895" y2="300" stroke="#af7aa1" stroke-width="1" stroke-dasharray="4 3"/>
+
+  <!-- Query point in embedding space (near Fabaceae cluster) -->
+  <circle cx="930" cy="190" r="6" fill="#af7aa1" stroke="#8c6181" stroke-width="2"/>
+  <text x="930" y="185" font-size="8" fill="#8c6181" text-anchor="middle" font-weight="600">?</text>
+
+  <!-- Distance line from query to nearest centroid -->
+  <line x1="924" y1="186" x2="918" y2="183" stroke="#af7aa1" stroke-width="1" stroke-dasharray="2 2"/>
+
+  <!-- ════════════════════════════════════════════════════════ -->
+  <!--   FOOTER: Key facts                                      -->
+  <!-- ════════════════════════════════════════════════════════ -->
+
+  <line x1="32" y1="558" x2="1168" y2="558" stroke="#e0e0e0" stroke-width="1"/>
+
+  <text x="32" y="580" font-size="11" fill="#888" font-weight="600">Model:</text>
+  <text x="80" y="580" font-size="11" fill="#555">BioCLIP 2 (ViT-L/14) — pre-trained on TreeOfLife-200M (214M organism images + taxonomic text)</text>
+
+  <text x="32" y="600" font-size="11" fill="#888" font-weight="600">Why BioCLIP?</text>
+  <text x="118" y="600" font-size="11" fill="#555">Embedding space encodes taxonomic structure — related organisms cluster without task-specific fine-tuning</text>
+
+  <text x="32" y="620" font-size="11" fill="#888" font-weight="600">Multi-image:</text>
+  <text x="118" y="620" font-size="11" fill="#555">Each image embedded independently → mean-pooled to single vector → re-normalized to unit length</text>
+
+  <text x="32" y="640" font-size="11" fill="#888" font-weight="600">Multi-rank:</text>
+  <text x="118" y="640" font-size="11" fill="#555">Same embeddings, independent classifiers per rank (family / genus / species) with rank-specific centroids</text>
+
+  <text x="32" y="660" font-size="11" fill="#888" font-weight="600">Metric:</text>
+  <text x="80" y="660" font-size="11" fill="#555">L2 distance on L2-normalized vectors = cosine distance. softmax(-distance) → probability ranking</text>
+
+  <text x="32" y="680" font-size="11" fill="#888" font-weight="600">Dataset:</text>
+  <text x="88" y="680" font-size="11" fill="#555">10,407 images, 2,112 individuals, 52 families / 114 genera / 164 species. Train: 70%, Val: 15%, Test: 15%</text>
+</svg>

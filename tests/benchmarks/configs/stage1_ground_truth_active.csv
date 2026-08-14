@@ -1,0 +1,22 @@
+specimen_key,specimen_id,family,genus,species,scientific_name,num_images,leaf_complexity,leaf_complexity_match_type,leaf_arrangement,leaf_arrangement_match_type,leaf_margin,leaf_margin_match_type,stipules,stipules_match_type,latex,latex_match_type,multi_label_count
+Acanthaceae_Ruellia_fulgida,SRRUELFU5,Acanthaceae,Ruellia,fulgida,Ruellia fulgida,5,simple,exact,opposite,exact,entire,exact,absent,exact,absent,exact,0
+Bignoniaceae_Stizophyllum_riparium,PPSTIZRI1,Bignoniaceae,Stizophyllum,riparium,Stizophyllum riparium,4,compound,exact,opposite,exact,entire,exact,absent,exact,absent,exact,0
+Capparaceae_Capparidastrum_frondosum,BAR0018,Capparaceae,Capparidastrum,frondosum,Capparidastrum frondosum,5,simple,exact,alternate | opposite,multi_label,entire | toothed,multi_label,absent | present,multi_label,absent,exact,3
+Clusiaceae_Tovomita_longifolia_1,SHTOVOLO2,Clusiaceae,Tovomita,longifolia,Tovomita longifolia,5,simple,exact,opposite,exact,entire,exact,absent,exact,present,exact,0
+Clusiaceae_Tovomita_longifolia_2,SHTOVOLO6,Clusiaceae,Tovomita,longifolia,Tovomita longifolia,5,simple,exact,opposite,exact,entire,exact,absent,exact,present,exact,0
+Convolvulaceae_Maripa_panamensis,BAR0334,Convolvulaceae,Maripa,panamensis,Maripa panamensis,5,simple,exact,alternate,exact,entire | lobed | toothed,multi_label,absent,exact,absent | present,multi_label,2
+Dilleniaceae_Tetracera_portobellensis,BVTET1PO4,Dilleniaceae,Tetracera,portobellensis,Tetracera portobellensis,5,simple,exact,alternate,exact,entire | toothed,multi_label,absent | present,multi_label,absent,exact,2
+Erythropalaceae_Heisteria_concinna,BVHEISCO3,Erythropalaceae,Heisteria,concinna,Heisteria concinna,5,simple,exact,alternate,exact,entire,exact,absent,exact,absent | present,multi_label,1
+Fabaceae_Cojoba_rufescens_1,PPPIT1RU3,Fabaceae,Cojoba,rufescens,Cojoba rufescens,5,compound,exact,alternate,exact,entire | toothed,multi_label,present,exact,absent,exact,1
+Fabaceae_Cojoba_rufescens_2,PPPIT1RU4,Fabaceae,Cojoba,rufescens,Cojoba rufescens,5,compound,exact,alternate,exact,entire | toothed,multi_label,present,exact,absent,exact,1
+Fabaceae_Inga_punctata,PPINGAPU6,Fabaceae,Inga,punctata,Inga punctata,5,compound,exact,alternate,exact,entire | toothed,multi_label,present,exact,absent,exact,1
+Fabaceae_Tachigali_versicolor,SHTACHVE1,Fabaceae,Tachigali,versicolor,Tachigali versicolor,5,compound,exact,alternate,exact,entire | toothed,multi_label,present,exact,absent,exact,1
+Lecythidaceae_Gustavia_superba,CHGUSTSU4,Lecythidaceae,Gustavia,superba,Gustavia superba,5,simple,exact,alternate,exact,entire,exact,absent,exact,absent,exact,0
+Melastomataceae_Miconia_simplex,SHMICOSI1,Melastomataceae,Miconia,simplex,Miconia simplex,5,simple,exact,opposite | whorled,multi_label,entire | toothed,multi_label,absent,exact,absent,exact,2
+Ochnaceae_Ouratea_sulcatinervia,SROURASU2,Ochnaceae,Ouratea,sulcatinervia,Ouratea sulcatinervia,5,simple,exact,alternate,exact,entire | toothed,multi_label,present,exact,absent,exact,1
+Piperaceae_Piper_augustum,SRPIPEA45,Piperaceae,Piper,augustum,Piper augustum,5,simple,exact,alternate,exact,entire,exact,absent | present,multi_label,absent,exact,1
+Rubiaceae_Alseis_blackiana,CHALSEBL2,Rubiaceae,Alseis,blackiana,Alseis blackiana,5,simple,exact,opposite,exact,entire | lobed,multi_label,present,exact,absent,exact,1
+Sapotaceae_Chrysophyllum_cainito_1,PEA0189,Sapotaceae,Chrysophyllum,cainito,Chrysophyllum cainito,5,simple,exact,alternate,exact,entire,exact,absent | present,multi_label,present,exact,1
+Sapotaceae_Chrysophyllum_cainito_2,PEA0307,Sapotaceae,Chrysophyllum,cainito,Chrysophyllum cainito,4,simple,exact,alternate,exact,entire,exact,absent | present,multi_label,present,exact,1
+Verbenaceae_Petrea_volubilis,BVPETRAS3,Verbenaceae,Petrea,volubilis,Petrea volubilis,5,simple,exact,opposite,exact,entire | toothed,multi_label,absent | present,multi_label,absent,exact,2
+Vochysiaceae_Vochysia_ferruginea,BVVOCHFE3,Vochysiaceae,Vochysia,ferruginea,Vochysia ferruginea,5,simple,exact,whorled,exact,entire,exact,present,exact,absent,exact,0

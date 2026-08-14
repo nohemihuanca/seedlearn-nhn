@@ -1,0 +1,91 @@
+{
+  "specimen_id": "SHCREMPA5",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Annonaceae/by_genus/Cremastosperma/by_species/panamense/SHCREMPA5/Annonaceae_Cremastosperma_panamense_SHCREMPA5_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Annonaceae/by_genus/Cremastosperma/by_species/panamense/SHCREMPA5/Annonaceae_Cremastosperma_panamense_SHCREMPA5_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Annonaceae/by_genus/Cremastosperma/by_species/panamense/SHCREMPA5/Annonaceae_Cremastosperma_panamense_SHCREMPA5_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Annonaceae/by_genus/Cremastosperma/by_species/panamense/SHCREMPA5/Annonaceae_Cremastosperma_panamense_SHCREMPA5_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Annonaceae/by_genus/Cremastosperma/by_species/panamense/SHCREMPA5/Annonaceae_Cremastosperma_panamense_SHCREMPA5_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "alternate",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "visible, closely spaced, numerous",
+            "surface_features": "shiny, glabrous",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "absent",
+            "color": "green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "[NOTE] The seedling exhibits a terminal cluster of simple, elliptic, shiny leaves with pinnate venation and entire margins. The stem is herbaceous, green, and smooth. Some leaves show minor damage (small holes or margin irregularities), but no clear signs of herbivory or pathogens are inferred. The plant is growing among leaf litter, which is not explicitly described as habitat. All images show the same individual from different angles, confirming consistent morphology. No family, genus, or species is identified per conservative annotation rules."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): alternate (leaves are attached at successive nodes along the stem, alternating sides; no paired leaves or whorls observed)\n    2. Leaf spacing (clustered / distal): clustered (multiple leaves appear grouped at the distal end of the stem, forming a terminal cluster)\n\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): simple (each leaf has a single blade attached to the petiole; no leaflets present)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): N/A (leaf complexity is simple)\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): N/A (leaf complexity is simple)\n    6. Leaflet arrangement (opposite / alternate / subopposite): N/A (leaf complexity is simple)\n\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (smooth margin with no teeth or serrations visible)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): elliptic (broadest near the middle, tapering to both ends, with a generally oval form)\n    9. Leaf apex (acute, obtuse, acuminate): acute (tapering to a sharp point)\n    10. Leaf base (rounded, cordate, cuneate): cuneate (tapering to a narrow base, wedge-shaped)\n    11. Venation type (pinnate / palmate / parallel): pinnate (main vein runs lengthwise with lateral veins branching off to the sides)\n    12. Secondary veins (visibility, spacing, number): visible, closely spaced, numerous (secondary veins are prominent, forming a reticulate pattern, with many veins per leaf)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): shiny, glabrous (surface is smooth and glossy, reflecting light)\n    14. Leaf surface trichomes (present / absent): absent (no visible hairs or trichomes on leaf surface)\n    15. Petiole length (short / long): short (petiole is relatively short, not exceeding the leaf blade length)\n    16. Petiole features (winged / grooved / terete): terete (round in cross-section, not flattened or winged)\n\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): herbaceous (stem appears soft and green, not woody)\n    18. Stem trichomes (present / absent): absent (no visible hairs on stem surface)\n    19. Stem color: green (stem is light to medium green)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (no ridges or lenticels visible; surface appears smooth)\n\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules observed at leaf bases)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no latex exudation visible)\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no swollen leaf base or pulvinus visible; not applicable if not Fabaceae, but assessed as absent)\n    24. Tendrils (present / absent): absent (no tendrils observed)\n\nF. Notes: [NOTE] The seedling exhibits a terminal cluster of simple, elliptic, shiny leaves with pinnate venation and entire margins. The stem is herbaceous, green, and smooth. Some leaves show minor damage (small holes or margin irregularities), but no clear signs of herbivory or pathogens are inferred. The plant is growing among leaf litter, which is not explicitly described as habitat. All images show the same individual from different angles, confirming consistent morphology. No family, genus, or species is identified per conservative annotation rules.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 21873.789011035115
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 21873.789011035115,
+  "benchmark_metadata": {
+    "scientific_name": "Cremastosperma panamense",
+    "family": "Annonaceae",
+    "genus": "Cremastosperma",
+    "species_epithet": "panamense",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

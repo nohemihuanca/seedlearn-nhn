@@ -1,0 +1,91 @@
+{
+  "specimen_id": "SHVOCHFE2",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Vochysiaceae/by_genus/Vochysia/by_species/ferruginea/SHVOCHFE2/Vochysiaceae_Vochysia_ferruginea_SHVOCHFE2_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Vochysiaceae/by_genus/Vochysia/by_species/ferruginea/SHVOCHFE2/Vochysiaceae_Vochysia_ferruginea_SHVOCHFE2_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Vochysiaceae/by_genus/Vochysia/by_species/ferruginea/SHVOCHFE2/Vochysiaceae_Vochysia_ferruginea_SHVOCHFE2_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Vochysiaceae/by_genus/Vochysia/by_species/ferruginea/SHVOCHFE2/Vochysiaceae_Vochysia_ferruginea_SHVOCHFE2_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Vochysiaceae/by_genus/Vochysia/by_species/ferruginea/SHVOCHFE2/Vochysiaceae_Vochysia_ferruginea_SHVOCHFE2_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "whorled",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "lanceolate",
+            "apex": "acuminate",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "visible",
+            "surface_features": "shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "The seedling displays a distinct whorled leaf arrangement at the apex. Some leaves exhibit minor damage, including small holes and margin notches."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): whorled (multiple leaves, approximately 8 to 10, are clearly attached at the same terminal node forming a rosette-like cluster)\n    2. Leaf spacing (clustered / distal): clustered (leaves are crowded at the shoot apex)\nB. Leaf Complexity\n    3.\tLeaf complexity (simple / compound): simple (each leaf is a single blade attached to the stem)\n    4.\tCompound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): N/A\n    5.\tNumber of leaflets (integer estimate 2, 4, 8, \u2026): N/A\n    6.\tLeaflet arrangement (opposite / alternate / subopposite): N/A\nC. Leaf Morphology\n    7.\tLeaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (margins appear smooth, though some minor mechanical damage is visible on a few leaves)\n    8.\tLeaf shape (elliptic, obovate, lanceolate, etc.): lanceolate (leaves are widest near the base and taper to a point)\n    9.\tLeaf apex (acute, obtuse, acuminate): acuminate (leaves taper to a distinct, elongated tip)\n    10.\tLeaf base (rounded, cordate, cuneate): cuneate (leaves taper gradually toward the petiole attachment)\n    11.\tVenation type (pinnate / palmate / parallel): pinnate (a central midrib is visible with secondary veins branching off it)\n    12.\tSecondary veins (visibility, spacing, number): visible (secondary veins are clearly visible, running parallel to each other from the midrib toward the margin)\n    13.\tLeaf surface features (glabrous, shiny, dull, rugose): shiny (the leaf surface reflects light, indicating a glossy texture)\n    14.\tLeaf surface trichomes (present / absent): absent (no visible hairs on the leaf surface)\n    15.\tPetiole length (short / long): short (petioles are present but appear short relative to the leaf blade length)\n    16.\tPetiole features (winged / grooved / terete): terete (petioles appear cylindrical and rounded in cross-section)\nD. Stem & Shoot Traits\n    17.\tStem type, may not be visible (woody / herbaceous): woody (the stem appears stiff, lignified, and brown, characteristic of a tree seedling)\n    18.\tStem trichomes (present / absent): absent (the visible portion of the stem appears hairless)\n    19.\tStem color: brown (the stem is brownish in color)\n    20.\tStem texture (smooth / ridged / lenticellate): smooth (the stem surface appears relatively smooth without prominent ridges or lenticels)\nE. Other Visible Seedling Traits\n    21.\tStipules, sometimes visible only in close-up images (present / absent): absent (no stipules are clearly visible at the leaf attachment points)\n    22.\tLatex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no latex is visible)\n    23.\tPulvinus, for Fabaceae family only (present / absent): absent (no swollen pulvinus joint is visible at the base of the leaf petioles)\n    24.\tTendrils (present / absent): absent (no tendrils are present)\nF. Notes: The seedling displays a distinct whorled leaf arrangement at the apex. Some leaves exhibit minor damage, including small holes and margin notches.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 4775.812664069235
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 4775.812664069235,
+  "benchmark_metadata": {
+    "scientific_name": "Vochysia ferruginea",
+    "family": "Vochysiaceae",
+    "genus": "Vochysia",
+    "species_epithet": "ferruginea",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

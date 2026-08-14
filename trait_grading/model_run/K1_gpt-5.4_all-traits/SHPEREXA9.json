@@ -1,0 +1,47 @@
+{
+  "specimen_id": "SHPEREXA9",
+  "source_answer_key": "Moraceae_Perebea_xanthochyma_SHPEREXA9",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "unclear",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "toothed, serrate",
+            "shape": "lanceolate to elliptic-lanceolate",
+            "apex": "acuminate",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "clearly visible, fairly regular spacing, approximately 10\u201315 pairs per leaf",
+            "surface_features": "glabrous, dull",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "unclear"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "brown to reddish-brown",
+            "texture": "lenticellate"
+          },
+          "special_features": {
+            "stipules": "present",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Leaves are concentrated at the shoot tip, giving a pseudo-whorled appearance, but the true nodal arrangement is not clearly visible. Several leaves show minor damage, including margin missing, holes present, and small necrotic patches."
+        }
+      }
+    }
+  }
+}

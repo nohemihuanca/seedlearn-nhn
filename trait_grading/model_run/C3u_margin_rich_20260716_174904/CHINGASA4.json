@@ -1,0 +1,73 @@
+{
+  "specimen_id": "CHINGASA4",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Inga/by_species/sapindoides/CHINGASA4/Fabaceae_Inga_sapindoides_CHINGASA4_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Inga/by_species/sapindoides/CHINGASA4/Fabaceae_Inga_sapindoides_CHINGASA4_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Inga/by_species/sapindoides/CHINGASA4/Fabaceae_Inga_sapindoides_CHINGASA4_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Inga/by_species/sapindoides/CHINGASA4/Fabaceae_Inga_sapindoides_CHINGASA4_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Inga/by_species/sapindoides/CHINGASA4/Fabaceae_Inga_sapindoides_CHINGASA4_005.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Inga/by_species/sapindoides/CHINGASA4/Fabaceae_Inga_sapindoides_CHINGASA4_006.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {},
+          "leaf_complexity": {},
+          "leaf_morphology": {
+            "margin": "[entire"
+          },
+          "stem_traits": {},
+          "special_features": {},
+          "notes": "[The primary subject plant features compound leaves with leaflets that have a smooth, continuous edge. There is some insect damage present (irregular holes), but no true teeth, serrations, or lobes are visible along the intact margins.]"
+        },
+        "raw_response": "Based on the analysis of the provided images, here is the morphological assessment.\n\n=== Morphological Assessment Form ===\nC. Leaf Morphology\n    7.\tLeaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): [entire (smooth edge, with damage restricted to larger, irregular holes)]\nF. Notes: [The primary subject plant features compound leaves with leaflets that have a smooth, continuous edge. There is some insect damage present (irregular holes), but no true teeth, serrations, or lobes are visible along the intact margins.]\n####",
+        "thinking": null,
+        "few_shot_delivery": {
+          "n_examples": 0,
+          "n_exemplar_images": 0,
+          "n_specimen_images": 6,
+          "max_images": 10,
+          "images_over_budget": false,
+          "prompt_chars": 2155
+        }
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 1971.8868159999374
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 1971.8868159999374,
+  "benchmark_metadata": {
+    "scientific_name": "Inga sapindoides",
+    "family": "Fabaceae",
+    "genus": "Inga",
+    "species_epithet": "sapindoides",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

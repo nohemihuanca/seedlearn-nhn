@@ -1,0 +1,47 @@
+{
+  "specimen_id": "BAR0018",
+  "source_answer_key": "Capparaceae_Morisonia_frondosa_BAR0018",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "whorled",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "1",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "obtuse",
+            "base": "rounded",
+            "venation": "pinnate",
+            "secondary_veins": "faint to moderately visible, regularly spaced, approximately 6\u20138 pairs per leaf, arching from midrib toward margin",
+            "surface_features": "glabrous, slightly shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "unclear",
+            "trichomes": "unclear",
+            "color": "unclear",
+            "texture": "unclear"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Seedling displays several broad, simple leaves clustered near the stem apex with entire margins; some leaves have holes present; no climbing or twining structures observed (overall morphology consistent across all images)."
+        }
+      }
+    }
+  }
+}

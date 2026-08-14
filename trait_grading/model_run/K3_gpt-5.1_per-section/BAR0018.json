@@ -1,0 +1,47 @@
+{
+  "specimen_id": "BAR0018",
+  "source_answer_key": "Capparaceae_Morisonia_frondosa_BAR0018",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "whorled",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "secondary veins clearly visible, 5\u20138 pairs, moderately spaced and gently arching toward the margin",
+            "surface_features": "dull",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "unclear"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "absent",
+            "color": "light green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "unclear",
+            "tendrils": "absent"
+          },
+          "notes": "Seedling shows several broad, entire, elliptic leaves arranged around the stem apex; some leaves have holes and missing margins; plant is photographed growing on soil covered with leaf litter alongside other broadleaf seedlings."
+        }
+      }
+    }
+  }
+}

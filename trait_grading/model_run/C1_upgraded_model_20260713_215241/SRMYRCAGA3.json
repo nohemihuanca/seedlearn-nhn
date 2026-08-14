@@ -1,0 +1,91 @@
+{
+  "specimen_id": "SRMYRCAGA3",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Myrtaceae/by_genus/Myrcia/by_species/splendens/SRMYRCAGA3/Myrtaceae_Myrcia_splendens_SRMYRCAGA3_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Myrtaceae/by_genus/Myrcia/by_species/splendens/SRMYRCAGA3/Myrtaceae_Myrcia_splendens_SRMYRCAGA3_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Myrtaceae/by_genus/Myrcia/by_species/splendens/SRMYRCAGA3/Myrtaceae_Myrcia_splendens_SRMYRCAGA3_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Myrtaceae/by_genus/Myrcia/by_species/splendens/SRMYRCAGA3/Myrtaceae_Myrcia_splendens_SRMYRCAGA3_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Myrtaceae/by_genus/Myrcia/by_species/splendens/SRMYRCAGA3/Myrtaceae_Myrcia_splendens_SRMYRCAGA3_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "opposite",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic to obovate",
+            "apex": "acute to acuminate",
+            "base": "rounded to cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "visible, parallel to the midrib, spacing appears regular",
+            "surface_features": "shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Several leaves exhibit clear damage in the form of holes and missing tissue along the margins."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): opposite (clear paired leaves are visible attached at the same nodes in multiple views, such as the first and fifth images)\n    2. Leaf spacing (clustered / distal): clustered (leaves appear gathered at the stem tips)\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): simple\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): N/A\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): N/A\n    6. Leaflet arrangement (opposite / alternate / subopposite): N/A\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): elliptic to obovate\n    9. Leaf apex (acute, obtuse, acuminate): acute to acuminate\n    10. Leaf base (rounded, cordate, cuneate): rounded to cuneate\n    11. Venation type (pinnate / palmate / parallel): pinnate\n    12. Secondary veins (visibility, spacing, number): visible, parallel to the midrib, spacing appears regular\n    13. Leaf surface features (glabrous, shiny, dull, rugose): shiny\n    14. Leaf surface trichomes (present / absent): absent\n    15. Petiole length (short / long): short\n    16. Petiole features (winged / grooved / terete): terete\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): woody\n    18. Stem trichomes (present / absent): absent\n    19. Stem color: brown\n    20. Stem texture (smooth / ridged / lenticellate): smooth\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed\n    23. Pulvinus, for Fabaceae family only (present / absent): absent\n    24. Tendrils (present / absent): absent\nF. Notes: Several leaves exhibit clear damage in the form of holes and missing tissue along the margins.\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 3650.1951604150236
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 3650.1951604150236,
+  "benchmark_metadata": {
+    "scientific_name": "Myrcia splendens",
+    "family": "Myrtaceae",
+    "genus": "Myrcia",
+    "species_epithet": "splendens",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

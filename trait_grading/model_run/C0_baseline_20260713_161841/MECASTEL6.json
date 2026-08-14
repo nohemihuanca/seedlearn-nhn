@@ -1,0 +1,91 @@
+{
+  "specimen_id": "MECASTEL6",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Moraceae/by_genus/Castilla/by_species/elastica/MECASTEL6/Moraceae_Castilla_elastica_MECASTEL6_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Moraceae/by_genus/Castilla/by_species/elastica/MECASTEL6/Moraceae_Castilla_elastica_MECASTEL6_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Moraceae/by_genus/Castilla/by_species/elastica/MECASTEL6/Moraceae_Castilla_elastica_MECASTEL6_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Moraceae/by_genus/Castilla/by_species/elastica/MECASTEL6/Moraceae_Castilla_elastica_MECASTEL6_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Moraceae/by_genus/Castilla/by_species/elastica/MECASTEL6/Moraceae_Castilla_elastica_MECASTEL6_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "whorled",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "obovate",
+            "apex": "obtuse",
+            "base": "rounded",
+            "venation": "pinnate",
+            "secondary_veins": "visible, spaced widely, approximately 5\u20137 pairs per leaf",
+            "surface_features": "dull, slightly rugose",
+            "trichomes": "present",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "greenish-brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "The seedling exhibits a whorled arrangement of simple, obovate leaves with entire margins and pinnate venation. The leaves are clustered at the apex, with short petioles and a dull, slightly rugose surface. Fine white speckles suggest the presence of trichomes or glandular dots. The stem is young and woody, smooth, greenish-brown, without visible trichomes or lenticels. No stipules, latex, pulvinus, or tendrils are present. Damage is minimal, with only minor spots and a small brown leaf fragment on one leaf surface. All images show the same individual from multiple angles, confirming the morphological consistency."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): whorled (multiple leaves clearly emerge from a single node, visible in close-up views, with 5 leaves at the terminal node)\n    2. Leaf spacing (clustered / distal): clustered (leaves are grouped at the apex of the stem, with no visible leaves below the terminal cluster)\n\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): simple (each leaf has a single blade without divisions into leaflets)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): N/A\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): N/A\n    6. Leaflet arrangement (opposite / alternate / subopposite): N/A\n\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (margins are smooth without teeth or lobes, visible in all images)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): obovate (broadest near the apex, tapering to a rounded base, with a slightly rounded tip)\n    9. Leaf apex (acute, obtuse, acuminate): obtuse (tip is rounded, not pointed or tapering)\n    10. Leaf base (rounded, cordate, cuneate): rounded (base is broadly rounded, not tapered or heart-shaped)\n    11. Venation type (pinnate / palmate / parallel): pinnate (main vein runs from base to apex, with secondary veins branching off and extending to the margin)\n    12. Secondary veins (visibility, spacing, number): visible, spaced widely, approximately 5\u20137 pairs per leaf (secondary veins are prominent, running parallel to the margin, clearly visible in all images)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): dull, slightly rugose (surface is not shiny, has a textured or slightly wrinkled appearance, especially when viewed closely)\n    14. Leaf surface trichomes (present / absent): present (fine, white speckles are visible on the leaf surface, consistent with trichomes or glandular dots)\n    15. Petiole length (short / long): short (petioles are short, not exceeding 1\u20132 cm, and appear stout)\n    16. Petiole features (winged / grooved / terete): terete (petioles are round in cross-section, no wings or grooves observed)\n\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): woody (stem is firm, greenish-brown, and appears woody, especially in close-up views)\n    18. Stem trichomes (present / absent): absent (no visible hairs or trichomes on the stem surface)\n    19. Stem color: greenish-brown (stem has a greenish-brown hue, consistent with young woody growth)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (surface is smooth without ridges or lenticels)\n\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules are visible at the leaf base)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no latex exudate visible upon leaf or stem damage)\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no swollen joint at leaf base, not characteristic of Fabaceae)\n    24. Tendrils (present / absent): absent (no tendrils observed)\n\nF. Notes: The seedling exhibits a whorled arrangement of simple, obovate leaves with entire margins and pinnate venation. The leaves are clustered at the apex, with short petioles and a dull, slightly rugose surface. Fine white speckles suggest the presence of trichomes or glandular dots. The stem is young and woody, smooth, greenish-brown, without visible trichomes or lenticels. No stipules, latex, pulvinus, or tendrils are present. Damage is minimal, with only minor spots and a small brown leaf fragment on one leaf surface. All images show the same individual from multiple angles, confirming the morphological consistency.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 22797.872060909867
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 22797.872060909867,
+  "benchmark_metadata": {
+    "scientific_name": "Castilla elastica",
+    "family": "Moraceae",
+    "genus": "Castilla",
+    "species_epithet": "elastica",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

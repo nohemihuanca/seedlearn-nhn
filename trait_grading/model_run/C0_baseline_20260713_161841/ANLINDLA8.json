@@ -1,0 +1,90 @@
+{
+  "specimen_id": "ANLINDLA8",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Achariaceae/by_genus/Lindackeria/by_species/laurina/ANLINDLA8/Achariaceae_Lindackeria_laurina_ANLINDLA8_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Achariaceae/by_genus/Lindackeria/by_species/laurina/ANLINDLA8/Achariaceae_Lindackeria_laurina_ANLINDLA8_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Achariaceae/by_genus/Lindackeria/by_species/laurina/ANLINDLA8/Achariaceae_Lindackeria_laurina_ANLINDLA8_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Achariaceae/by_genus/Lindackeria/by_species/laurina/ANLINDLA8/Achariaceae_Lindackeria_laurina_ANLINDLA8_004.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "opposite",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "acute",
+            "base": "rounded",
+            "venation": "pinnate",
+            "secondary_veins": "visible, spaced moderately, numerous",
+            "surface_features": "shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "absent",
+            "color": "green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Leaves show multiple small holes and some larger irregular margins, indicating damage. No clear signs of disease or insect presence beyond physical damage. Seedling appears to be in a shaded, leaf-littered environment, but habitat is not explicitly visible. All images show the same individual from different angles; no flowering or fruiting structures are visible."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): opposite (multiple images show clear pairs of leaves at nodes, with visible node junctions)\n    2. Leaf spacing (clustered / distal): clustered (leaves are arranged in tight groups at nodes along the stem, especially evident in top-down views)\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): simple (each leaf is a single blade without subdivisions)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): N/A\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): N/A\n    6. Leaflet arrangement (opposite / alternate / subopposite): N/A\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (margins are smooth, no teeth or serrations visible despite damage)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): elliptic (broadest near the middle, tapering to both ends)\n    9. Leaf apex (acute, obtuse, acuminate): acute (tip is sharply pointed)\n    10. Leaf base (rounded, cordate, cuneate): rounded (base is gently curved, not tapered or heart-shaped)\n    11. Venation type (pinnate / palmate / parallel): pinnate (primary vein runs from base to apex, with secondary veins branching off perpendicularly)\n    12. Secondary veins (visibility, spacing, number): visible, spaced moderately, numerous (clearly visible as fine lines radiating from midrib; multiple pairs per leaf)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): shiny (surface appears glossy, reflecting light)\n    14. Leaf surface trichomes (present / absent): absent (no visible hairs or fuzz on leaf surface)\n    15. Petiole length (short / long): short (petiole is relatively short compared to leaf blade, not exceeding 1/5 of blade length)\n    16. Petiole features (winged / grooved / terete): terete (round in cross-section, no wings or grooves visible)\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): herbaceous (stem appears green and flexible, not woody)\n    18. Stem trichomes (present / absent): absent (no visible hairs on stem)\n    19. Stem color: green (stem is uniformly green, with slight reddish tinge in some areas)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (surface is even, no ridges or lenticels visible)\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules observed at leaf base)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no latex exudate visible when stem or leaf is broken)\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no swollen joint at leaf base; not applicable as leaf is simple and not obviously Fabaceae)\n    24. Tendrils (present / absent): absent (no tendrils observed)\nF. Notes: Leaves show multiple small holes and some larger irregular margins, indicating damage. No clear signs of disease or insect presence beyond physical damage. Seedling appears to be in a shaded, leaf-littered environment, but habitat is not explicitly visible. All images show the same individual from different angles; no flowering or fruiting structures are visible.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 19579.23343218863
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 19579.23343218863,
+  "benchmark_metadata": {
+    "scientific_name": "Lindackeria laurina",
+    "family": "Achariaceae",
+    "genus": "Lindackeria",
+    "species_epithet": "laurina",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

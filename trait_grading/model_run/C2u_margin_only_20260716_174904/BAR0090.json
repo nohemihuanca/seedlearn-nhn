@@ -1,0 +1,72 @@
+{
+  "specimen_id": "BAR0090",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Lecythidaceae/by_genus/Gustavia/by_species/superba/BAR0090/Lecythidaceae_Gustavia_superba_BAR0090_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Lecythidaceae/by_genus/Gustavia/by_species/superba/BAR0090/Lecythidaceae_Gustavia_superba_BAR0090_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Lecythidaceae/by_genus/Gustavia/by_species/superba/BAR0090/Lecythidaceae_Gustavia_superba_BAR0090_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Lecythidaceae/by_genus/Gustavia/by_species/superba/BAR0090/Lecythidaceae_Gustavia_superba_BAR0090_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Lecythidaceae/by_genus/Gustavia/by_species/superba/BAR0090/Lecythidaceae_Gustavia_superba_BAR0090_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {},
+          "leaf_complexity": {},
+          "leaf_morphology": {
+            "margin": "entire"
+          },
+          "stem_traits": {},
+          "special_features": {},
+          "notes": "The leaves exhibit significant insect damage, including large irregular holes and chewed edges, which obscure parts of the margin; however, the undamaged portions are clearly entire."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nC. Leaf Morphology\n    7.\tLeaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (The leaf margins appear smooth and continuous along the intact sections visible across all images, lacking any teeth, serrations, or lobes.)\nF. Notes: The leaves exhibit significant insect damage, including large irregular holes and chewed edges, which obscure parts of the margin; however, the undamaged portions are clearly entire.\n\n####",
+        "thinking": null,
+        "few_shot_delivery": {
+          "n_examples": 0,
+          "n_exemplar_images": 0,
+          "n_specimen_images": 5,
+          "max_images": 10,
+          "images_over_budget": false,
+          "prompt_chars": 940
+        }
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 1679.903975000002
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 1679.903975000002,
+  "benchmark_metadata": {
+    "scientific_name": "Gustavia superba",
+    "family": "Lecythidaceae",
+    "genus": "Gustavia",
+    "species_epithet": "superba",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

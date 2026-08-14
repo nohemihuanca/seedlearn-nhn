@@ -1,0 +1,72 @@
+{
+  "specimen_id": "BAR0350",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Senegalia/by_species/hayesii/BAR0350/Fabaceae_Senegalia_hayesii_BAR0350_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Senegalia/by_species/hayesii/BAR0350/Fabaceae_Senegalia_hayesii_BAR0350_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Senegalia/by_species/hayesii/BAR0350/Fabaceae_Senegalia_hayesii_BAR0350_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Senegalia/by_species/hayesii/BAR0350/Fabaceae_Senegalia_hayesii_BAR0350_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Senegalia/by_species/hayesii/BAR0350/Fabaceae_Senegalia_hayesii_BAR0350_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {},
+          "leaf_complexity": {},
+          "leaf_morphology": {
+            "margin": "entire"
+          },
+          "stem_traits": {},
+          "special_features": {},
+          "notes": "The specimen exhibits bipinnate leaves composed of numerous small leaflets. While some leaflets show minor physical damage (small notches), the margins of the intact leaflets are consistently smooth."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nC. Leaf Morphology\n    7.\tLeaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (The leaflets display smooth, continuous edges without any teeth or serrations along the margins, as seen clearly in the close-up views of the intact leaflets.)\nF. Notes: The specimen exhibits bipinnate leaves composed of numerous small leaflets. While some leaflets show minor physical damage (small notches), the margins of the intact leaflets are consistently smooth.\n\n####",
+        "thinking": null,
+        "few_shot_delivery": {
+          "n_examples": 0,
+          "n_exemplar_images": 0,
+          "n_specimen_images": 5,
+          "max_images": 10,
+          "images_over_budget": false,
+          "prompt_chars": 940
+        }
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 1749.824354999987
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 1749.824354999987,
+  "benchmark_metadata": {
+    "scientific_name": "Senegalia hayesii",
+    "family": "Fabaceae",
+    "genus": "Senegalia",
+    "species_epithet": "hayesii",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "specimen_id": "SRCASSEL5",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rhizophoraceae/by_genus/Cassipourea/by_species/elliptica/SRCASSEL5/Rhizophoraceae_Cassipourea_elliptica_SRCASSEL5_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rhizophoraceae/by_genus/Cassipourea/by_species/elliptica/SRCASSEL5/Rhizophoraceae_Cassipourea_elliptica_SRCASSEL5_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rhizophoraceae/by_genus/Cassipourea/by_species/elliptica/SRCASSEL5/Rhizophoraceae_Cassipourea_elliptica_SRCASSEL5_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rhizophoraceae/by_genus/Cassipourea/by_species/elliptica/SRCASSEL5/Rhizophoraceae_Cassipourea_elliptica_SRCASSEL5_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rhizophoraceae/by_genus/Cassipourea/by_species/elliptica/SRCASSEL5/Rhizophoraceae_Cassipourea_elliptica_SRCASSEL5_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "alternate",
+            "spacing": "distal"
+          },
+          "leaf_complexity": {
+            "type": "compound",
+            "compound_type": "odd-pinnate",
+            "num_leaflets": "5",
+            "leaflet_arrangement": "opposite"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "lanceolate",
+            "apex": "acuminate",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "clearly visible, parallel to each other, and arching towards the margin",
+            "surface_features": "rugose",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "absent",
+            "color": "green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "The seedling exhibits heteroblasty or multiple leaf forms, as some leaves appear to be trifoliate (3 leaflets) while the most prominent leaf is quinquefoliate (5 leaflets). Several leaves show damage including holes and margin loss. A pink marker tag is visible attached to the stem."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): alternate (visible in multiple views where leaves attach singly at different heights along the stem)\n    2. Leaf spacing (clustered / distal): distal (leaves are spaced out along the stem rather than gathered tightly at the apex)\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): compound (each leaf unit consists of multiple distinct leaflets attached to a central axis)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): odd-pinnate (terminal leaflets are present at the tip of the rachis)\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): 5 (visible on the prominent leaf in the center of the second image)\n    6. Leaflet arrangement (opposite / alternate / subopposite): opposite (leaflets are paired along the rachis, with a single terminal leaflet)\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.): entire (margins appear smooth without teeth or serrations)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): lanceolate (leaflets are elongated and widest below the middle)\n    9. Leaf apex (acute, obtuse, acuminate): acuminate (leaf tips taper to a distinct point)\n    10. Leaf base (rounded, cordate, cuneate): cuneate (leaf base tapers to the petiolule)\n    11. Venation type (pinnate / palmate / parallel): pinnate (clear midrib with secondary veins branching off)\n    12. Secondary veins (visibility, spacing, number): clearly visible, parallel to each other, and arching towards the margin (prominently impressed on the upper surface)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): rugose (surface appears wrinkled or bumpy due to prominent veins)\n    14. Leaf surface trichomes (present / absent): absent (surface appears smooth and glabrous)\n    15. Petiole length (short / long): short (petiolules are short relative to the leaflet blade)\n    16. Petiole features (winged / grooved / terete): terete (petiolules appear cylindrical and round in cross-section)\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): herbaceous (stem appears thin, green, and soft)\n    18. Stem trichomes (present / absent): absent (stem appears smooth)\n    19. Stem color: green (with reddish/brownish tints at nodes)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (no visible ridges or lenticels)\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules visible at leaf nodes)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no exudate visible)\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no distinct swelling at the base of the petiole)\n    24. Tendrils (present / absent): absent (no tendrils observed)\nF. Notes: The seedling exhibits heteroblasty or multiple leaf forms, as some leaves appear to be trifoliate (3 leaflets) while the most prominent leaf is quinquefoliate (5 leaflets). Several leaves show damage including holes and margin loss. A pink marker tag is visible attached to the stem.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 4823.4674064442515
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 4823.4674064442515,
+  "benchmark_metadata": {
+    "scientific_name": "Cassipourea elliptica",
+    "family": "Rhizophoraceae",
+    "genus": "Cassipourea",
+    "species_epithet": "elliptica",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

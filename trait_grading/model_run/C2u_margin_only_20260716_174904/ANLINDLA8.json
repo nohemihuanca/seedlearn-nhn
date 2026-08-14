@@ -1,0 +1,71 @@
+{
+  "specimen_id": "ANLINDLA8",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Achariaceae/by_genus/Lindackeria/by_species/laurina/ANLINDLA8/Achariaceae_Lindackeria_laurina_ANLINDLA8_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Achariaceae/by_genus/Lindackeria/by_species/laurina/ANLINDLA8/Achariaceae_Lindackeria_laurina_ANLINDLA8_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Achariaceae/by_genus/Lindackeria/by_species/laurina/ANLINDLA8/Achariaceae_Lindackeria_laurina_ANLINDLA8_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Achariaceae/by_genus/Lindackeria/by_species/laurina/ANLINDLA8/Achariaceae_Lindackeria_laurina_ANLINDLA8_004.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {},
+          "leaf_complexity": {},
+          "leaf_morphology": {
+            "margin": "[entire]"
+          },
+          "stem_traits": {},
+          "special_features": {},
+          "notes": "[The leaves are extensively damaged by insect herbivory, with numerous holes and missing sections present on multiple leaves across all images. The margin assessment is based on the undamaged portions of the leaf edges.]"
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nC. Leaf Morphology\n    7.\tLeaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): [entire] (The intact edges of the leaves, particularly visible on the upper surfaces in the third and fourth images, form a smooth, continuous curve without any teeth or serrations.)\nF. Notes: [The leaves are extensively damaged by insect herbivory, with numerous holes and missing sections present on multiple leaves across all images. The margin assessment is based on the undamaged portions of the leaf edges.]\n####",
+        "thinking": null,
+        "few_shot_delivery": {
+          "n_examples": 0,
+          "n_exemplar_images": 0,
+          "n_specimen_images": 4,
+          "max_images": 10,
+          "images_over_budget": false,
+          "prompt_chars": 940
+        }
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 1664.8287749999326
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 1664.8287749999326,
+  "benchmark_metadata": {
+    "scientific_name": "Lindackeria laurina",
+    "family": "Achariaceae",
+    "genus": "Lindackeria",
+    "species_epithet": "laurina",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

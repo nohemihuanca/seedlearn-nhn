@@ -1,0 +1,47 @@
+{
+  "specimen_id": "SRCASSEL5",
+  "source_answer_key": "Rhizophoraceae_Cassipourea_elliptica_SRCASSEL5",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "opposite",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "unclear"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "lanceolate",
+            "apex": "acuminate",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "conspicuous, closely spaced, approximately 10\u201315 pairs per leaf, gently arched toward the margin",
+            "surface_features": "glabrous, shiny, slightly rugose",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "unclear",
+            "trichomes": "absent",
+            "color": "green to light brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "unclear",
+            "tendrils": "absent"
+          },
+          "notes": "Pink floral structure or inflorescence visible near central stem (bright magenta elongated cluster); leaves appear simple, entire, glossy, with prominent impressed venation; several leaves show holes and missing margin portions (damage present)."
+        }
+      }
+    }
+  }
+}

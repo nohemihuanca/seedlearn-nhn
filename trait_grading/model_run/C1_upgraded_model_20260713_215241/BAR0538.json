@@ -1,0 +1,91 @@
+{
+  "specimen_id": "BAR0538",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Malpighiaceae/by_genus/Hiraea/by_species/reclinata/BAR0538/Malpighiaceae_Hiraea_reclinata_BAR0538_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Malpighiaceae/by_genus/Hiraea/by_species/reclinata/BAR0538/Malpighiaceae_Hiraea_reclinata_BAR0538_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Malpighiaceae/by_genus/Hiraea/by_species/reclinata/BAR0538/Malpighiaceae_Hiraea_reclinata_BAR0538_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Malpighiaceae/by_genus/Hiraea/by_species/reclinata/BAR0538/Malpighiaceae_Hiraea_reclinata_BAR0538_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Malpighiaceae/by_genus/Hiraea/by_species/reclinata/BAR0538/Malpighiaceae_Hiraea_reclinata_BAR0538_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "whorled",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "obovate to elliptic",
+            "apex": "obtuse to shortly acuminate",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "clearly visible, prominent, spaced relatively evenly, curving towards the leaf margin",
+            "surface_features": "glabrous, shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "green with white/greyish markings",
+            "texture": "ridged"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "The seedling exhibits a distinctive whorled leaf arrangement at the apex. The stem is notably thick and segmented. Several leaves display damage in the form of holes and ragged edges. An orange tag is tied around the stem, likely for identification purposes."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): whorled (multiple leaves, appearing to be 5-7, radiate from a single terminal node at the stem apex, clearly visible in all images)\n    2. Leaf spacing (clustered / distal): clustered (leaves are arranged in a dense rosette-like cluster at the stem tip)\nB. Leaf Complexity\n    3.\tLeaf complexity (simple / compound): simple (individual leaves are undivided blades)\n    4.\tCompound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): N/A\n    5.\tNumber of leaflets (integer estimate 2, 4, 8, \u2026): N/A\n    6.\tLeaflet arrangement (opposite / alternate / subopposite): N/A\nC. Leaf Morphology\n    7.\tLeaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (margins appear smooth, though some leaves show irregular holes/damage)\n    8.\tLeaf shape (elliptic, obovate, lanceolate, etc.): obovate to elliptic (leaves are broadest above the middle and taper towards the base)\n    9.\tLeaf apex (acute, obtuse, acuminate): obtuse to shortly acuminate (tips are generally rounded but can be slightly pointed)\n    10.\tLeaf base (rounded, cordate, cuneate): cuneate (tapers gradually to the petiole)\n    11.\tVenation type (pinnate / palmate / parallel): pinnate (single midrib with lateral veins branching off)\n    12.\tSecondary veins (visibility, spacing, number): clearly visible, prominent, spaced relatively evenly, curving towards the leaf margin (arcuate)\n    13.\tLeaf surface features (glabrous, shiny, dull, rugose): glabrous, shiny (surface appears smooth and reflects light)\n    14.\tLeaf surface trichomes (present / absent): absent (no visible hairs on leaf surface)\n    15.\tPetiole length (short / long): short (petioles are distinct but relatively short compared to leaf blade size)\n    16.\tPetiole features (winged / grooved / terete): terete (petioles appear round in cross-section)\nD. Stem & Shoot Traits\n    17.\tStem type, may not be visible (woody / herbaceous): woody (stem appears thick, rigid, and segmented/ringed, indicative of a woody seedling)\n    18.\tStem trichomes (present / absent): absent (stem surface appears smooth where visible)\n    19.\tStem color: green with white/greyish markings (visible in images 1 and 3)\n    20.\tStem texture (smooth / ridged / lenticellate): ridged (stem shows distinct horizontal rings or striations)\nE. Other Visible Seedling Traits\n    21.\tStipules, sometimes visible only in close-up images (present / absent): absent (no stipules visible at the leaf nodes)\n    22.\tLatex, rarely visible but extremely diagnostic when present (present / not observed): not observed\n    23.\tPulvinus, for Fabaceae family only (present / absent): absent (no swollen joint visible at leaf base)\n    24.\tTendrils (present / absent): absent\nF. Notes: The seedling exhibits a distinctive whorled leaf arrangement at the apex. The stem is notably thick and segmented. Several leaves display damage in the form of holes and ragged edges. An orange tag is tied around the stem, likely for identification purposes.\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 4775.688239838928
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 4775.688239838928,
+  "benchmark_metadata": {
+    "scientific_name": "Hiraea reclinata",
+    "family": "Malpighiaceae",
+    "genus": "Hiraea",
+    "species_epithet": "reclinata",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "specimen_id": "OLPAULBR1",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Sapindaceae/by_genus/Paullinia/by_species/bracteosa/OLPAULBR1/Sapindaceae_Paullinia_bracteosa_OLPAULBR1_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Sapindaceae/by_genus/Paullinia/by_species/bracteosa/OLPAULBR1/Sapindaceae_Paullinia_bracteosa_OLPAULBR1_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Sapindaceae/by_genus/Paullinia/by_species/bracteosa/OLPAULBR1/Sapindaceae_Paullinia_bracteosa_OLPAULBR1_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Sapindaceae/by_genus/Paullinia/by_species/bracteosa/OLPAULBR1/Sapindaceae_Paullinia_bracteosa_OLPAULBR1_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Sapindaceae/by_genus/Paullinia/by_species/bracteosa/OLPAULBR1/Sapindaceae_Paullinia_bracteosa_OLPAULBR1_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "whorled",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "toothed",
+            "shape": "ovate",
+            "apex": "acuminate",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "prominent and clearly visible, curving towards the leaf margin",
+            "surface_features": "shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "winged"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "absent",
+            "color": "green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "The seedling exhibits a distinct whorled arrangement of leaves. Several leaves show minor damage in the form of small holes along the margins. The venation is strongly impressed, giving the leaf surface a slightly rugose appearance."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): whorled (multiple leaves are clearly seen radiating from a single node at the stem apex, with a lower node also showing a cluster)\n    2. Leaf spacing (clustered / distal): clustered (leaves are grouped together at the top of the short stem)\nB. Leaf Complexity\n    3.\tLeaf complexity (simple / compound): simple (each leaf is a single blade attached to the stem by a petiole)\n    4.\tCompound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): N/A\n    5.\tNumber of leaflets (integer estimate 2, 4, 8, \u2026): N/A\n    6.\tLeaflet arrangement (opposite / alternate / subopposite): N/A\nC. Leaf Morphology\n    7.\tLeaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): toothed (margin is distinctly serrated/serrulate)\n    8.\tLeaf shape (elliptic, obovate, lanceolate, etc.): ovate (leaves are broadest below the middle and taper to the apex)\n    9.\tLeaf apex (acute, obtuse, acuminate): acuminate (tapers to a distinct, elongated point)\n    10.\tLeaf base (rounded, cordate, cuneate): cuneate (wedge-shaped, narrowing towards the petiole)\n    11.\tVenation type (pinnate / palmate / parallel): pinnate (single midrib with lateral veins branching off)\n    12.\tSecondary veins (visibility, spacing, number): prominent and clearly visible, curving towards the leaf margin\n    13.\tLeaf surface features (glabrous, shiny, dull, rugose): shiny (surface reflects light, indicating a glabrous/waxy texture)\n    14.\tLeaf surface trichomes (present / absent): absent (surface appears smooth)\n    15.\tPetiole length (short / long): short (petioles are clearly visible but relatively short compared to the leaf blade)\n    16.\tPetiole features (winged / grooved / terete): winged (the petioles appear flattened with narrow edges)\nD. Stem & Shoot Traits\n    17.\tStem type, may not be visible (woody / herbaceous): herbaceous (the stem appears green and succulent, typical of a young seedling)\n    18.\tStem trichomes (present / absent): absent (stem appears smooth)\n    19.\tStem color: green\n    20.\tStem texture (smooth / ridged / lenticellate): smooth\nE. Other Visible Seedling Traits\n    21.\tStipules, sometimes visible only in close-up images (present / absent): unclear (node structures are crowded, making distinct stipules hard to confirm)\n    22.\tLatex, rarely visible but extremely diagnostic when present (present / not observed): not observed\n    23.\tPulvinus, for Fabaceae family only (present / absent): absent (no distinct jointed structure at the petiole base)\n    24.\tTendrils (present / absent): absent\nF. Notes: The seedling exhibits a distinct whorled arrangement of leaves. Several leaves show minor damage in the form of small holes along the margins. The venation is strongly impressed, giving the leaf surface a slightly rugose appearance.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 4566.530145239085
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 4566.530145239085,
+  "benchmark_metadata": {
+    "scientific_name": "Paullinia bracteosa",
+    "family": "Sapindaceae",
+    "genus": "Paullinia",
+    "species_epithet": "bracteosa",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

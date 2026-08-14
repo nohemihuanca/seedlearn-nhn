@@ -1,0 +1,49 @@
+<!-- Minimal fixture based on real STRI identification key page (cl=70). -->
+<!-- Stripped to essential structure for parser tests. -->
+<html>
+<body>
+<div id="innertext">
+
+<!-- Filter checkboxes: 2 categories, 4 options total -->
+<!-- Uses mixed char IDs (char18, char15) to test regex matching -->
+<div id="char18">
+<div class="dynam" style="display:;"><span class="dynamlang" lang="English" style="display:">Latex</span></div>
+<div class="cs-div">
+<input id="cb2-1" name="attr[]" onclick="this.form.submit();" type="checkbox" value="2-1"/>
+<span lang="English" style="display:">present</span>
+</div>
+<div class="cs-div">
+<input id="cb2-2" name="attr[]" onclick="this.form.submit();" type="checkbox" value="2-2"/>
+<span lang="English" style="display:">absent</span>
+</div>
+</div>
+
+<div id="char15">
+<div class="dynam" style="display:;"><span class="dynamlang" lang="English" style="display:">Type <a class="infoAnchor" href="#">?</a></span></div>
+<div class="cs-div">
+<input id="cb3-1" name="attr[]" onclick="this.form.submit();" type="checkbox" value="3-1"/>
+<span lang="English" style="display:">simple</span>
+</div>
+<div class="cs-div">
+<input id="cb3-2" name="attr[]" onclick="this.form.submit();" type="checkbox" value="3-2"/>
+<span lang="English" style="display:">compound</span>
+</div>
+</div>
+
+<!-- Species list: 2 families, 4 species -->
+<div id="key-taxa">
+<div>Test checklist description</div>
+<div style="margin-bottom:15px;">Species Count: 4</div>
+
+<div class="family-div">Anacardiaceae</div>
+<div class="taxon-div"><div class="sciname-div"><a href="../taxa/index.php?taxon=61651&amp;clid=70" target="_blank"><i>Anacardium excelsum</i></a></div></div>
+<div class="taxon-div"><div class="sciname-div"><a href="../taxa/index.php?taxon=62139&amp;clid=70" target="_blank"><i>Astronium graveolens</i></a></div></div>
+
+<div class="family-div">Fabaceae</div>
+<div class="taxon-div"><div class="sciname-div"><a href="../taxa/index.php?taxon=64534&amp;clid=70" target="_blank"><i>Erythrina fusca</i></a></div></div>
+<div class="taxon-div"><div class="sciname-div"><a href="../taxa/index.php?taxon=66182&amp;clid=70" target="_blank"><i>Lonchocarpus velutinus</i></a></div></div>
+</div>
+
+</div>
+</body>
+</html>

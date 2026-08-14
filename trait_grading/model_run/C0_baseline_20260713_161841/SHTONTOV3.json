@@ -1,0 +1,91 @@
+{
+  "specimen_id": "SHTONTOV3",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Celastraceae/by_genus/Tontelea/by_species/passiflora/SHTONTOV3/Celastraceae_Tontelea_passiflora_SHTONTOV3_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Celastraceae/by_genus/Tontelea/by_species/passiflora/SHTONTOV3/Celastraceae_Tontelea_passiflora_SHTONTOV3_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Celastraceae/by_genus/Tontelea/by_species/passiflora/SHTONTOV3/Celastraceae_Tontelea_passiflora_SHTONTOV3_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Celastraceae/by_genus/Tontelea/by_species/passiflora/SHTONTOV3/Celastraceae_Tontelea_passiflora_SHTONTOV3_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Celastraceae/by_genus/Tontelea/by_species/passiflora/SHTONTOV3/Celastraceae_Tontelea_passiflora_SHTONTOV3_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "alternate",
+            "spacing": "distal"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "visible, moderately spaced, numerous",
+            "surface_features": "shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Some leaves show minor damage with small holes and margin irregularities; these are noted neutrally as visible features. The seedling appears to be growing in a leaf litter-covered forest floor environment, but this is inferred from background context and not directly observable in the images. The plant has multiple branches with similar leaf morphology, suggesting consistent growth pattern. Images collectively show the same individual from different angles, confirming consistency in morphological traits."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): alternate (leaves are attached at successive nodes along the stem, alternating sides; nodes are visible and leaves are not paired or in groups of three or more at a single node)\n    2. Leaf spacing (clustered / distal): distal (leaves are spaced out along the stem, not bunched closely together)\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): simple (each leaf is a single blade without distinct leaflets)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): N/A\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): N/A\n    6. Leaflet arrangement (opposite / alternate / subopposite): N/A\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (leaf margins are smooth without teeth or serrations)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): elliptic (leaves are broadest near the middle and taper toward both ends)\n    9. Leaf apex (acute, obtuse, acuminate): acute (tip is sharply pointed but not elongated)\n    10. Leaf base (rounded, cordate, cuneate): cuneate (base tapers to a narrow point, wedge-shaped)\n    11. Venation type (pinnate / palmate / parallel): pinnate (main vein runs lengthwise with lateral veins branching off in pairs)\n    12. Secondary veins (visibility, spacing, number): visible, moderately spaced, numerous (secondary veins are clearly visible, running parallel to each other and spaced evenly across the leaf)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): shiny (leaf surface is glossy and reflects light)\n    14. Leaf surface trichomes (present / absent): absent (no visible hairs or trichomes on leaf surface)\n    15. Petiole length (short / long): short (petioles are short, not elongated)\n    16. Petiole features (winged / grooved / terete): terete (petioles are round in cross-section, not flattened or winged)\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): woody (stem appears firm and rigid, typical of young woody plant)\n    18. Stem trichomes (present / absent): absent (no visible hairs on stem)\n    19. Stem color: green (stem is green, indicating young growth)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (stem surface is smooth without ridges or lenticels)\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules visible at leaf bases)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no latex exudate visible)\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no swollen base at leaf petiole junction, which would indicate pulvinus)\n    24. Tendrils (present / absent): absent (no tendrils visible)\nF. Notes: Some leaves show minor damage with small holes and margin irregularities; these are noted neutrally as visible features. The seedling appears to be growing in a leaf litter-covered forest floor environment, but this is inferred from background context and not directly observable in the images. The plant has multiple branches with similar leaf morphology, suggesting consistent growth pattern. Images collectively show the same individual from different angles, confirming consistency in morphological traits.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 19905.106621794403
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 19905.106621794403,
+  "benchmark_metadata": {
+    "scientific_name": "Tontelea passiflora",
+    "family": "Celastraceae",
+    "genus": "Tontelea",
+    "species_epithet": "passiflora",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "specimen_id": "ANCONNPA5",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Connaraceae/by_genus/Connarus/by_species/panamensis/ANCONNPA5/Connaraceae_Connarus_panamensis_ANCONNPA5_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Connaraceae/by_genus/Connarus/by_species/panamensis/ANCONNPA5/Connaraceae_Connarus_panamensis_ANCONNPA5_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Connaraceae/by_genus/Connarus/by_species/panamensis/ANCONNPA5/Connaraceae_Connarus_panamensis_ANCONNPA5_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Connaraceae/by_genus/Connarus/by_species/panamensis/ANCONNPA5/Connaraceae_Connarus_panamensis_ANCONNPA5_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Connaraceae/by_genus/Connarus/by_species/panamensis/ANCONNPA5/Connaraceae_Connarus_panamensis_ANCONNPA5_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "opposite",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "obtuse",
+            "base": "rounded",
+            "venation": "pinnate",
+            "secondary_veins": "visible, spaced widely, 3\u20135 pairs per leaf",
+            "surface_features": "shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "brownish-green",
+            "texture": "ridged"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Several leaves show small holes and minor damage, likely from mechanical or biotic causes, but no clear signs of insect activity or pathogen symptoms. The seedling is marked with a pink tag, suggesting it is part of a monitoring or research plot. The surrounding environment includes leaf litter and tree bases, consistent with a forest floor setting, but habitat is not explicitly assessed per rules. All images show the same individual seedling from different angles, confirming the above observations."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): opposite (clear paired leaves at each node visible in multiple images)\n    2. Leaf spacing (clustered / distal): clustered (leaves are grouped near the apex, with no long internodes visible)\n\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): simple (each leaf is a single blade, not divided into leaflets)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): N/A\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): N/A\n    6. Leaflet arrangement (opposite / alternate / subopposite): N/A\n\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (smooth margin with no teeth or serrations visible)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): elliptic (broadest near the middle, tapering to both ends)\n    9. Leaf apex (acute, obtuse, acuminate): obtuse (rounded tip, not sharply pointed)\n    10. Leaf base (rounded, cordate, cuneate): rounded (base is broadly rounded, not tapering or heart-shaped)\n    11. Venation type (pinnate / palmate / parallel): pinnate (main vein with lateral veins branching off and running parallel to margin)\n    12. Secondary veins (visibility, spacing, number): visible, spaced widely, 3\u20135 pairs per leaf (clearly visible in close-up images, especially on upper surface)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): shiny (surface appears glossy and reflective, especially on upper surface)\n    14. Leaf surface trichomes (present / absent): absent (no visible hairs or fuzz on leaf surface)\n    15. Petiole length (short / long): short (petiole is relatively short, less than 1/3 the length of the leaf blade)\n    16. Petiole features (winged / grooved / terete): terete (round, cylindrical petiole with no wings or grooves)\n\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): woody (stem appears firm, slightly ridged, and brownish, typical of young woody seedling)\n    18. Stem trichomes (present / absent): absent (no visible hairs on stem surface)\n    19. Stem color: brownish-green (stem is greenish-brown, with some darker patches)\n    20. Stem texture (smooth / ridged / lenticellate): ridged (stem surface has slight longitudinal ridges, not smooth or lenticellate)\n\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules visible at leaf base in any image)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no exudate visible when stem is broken or damaged)\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no swollen joint at leaf base; not applicable as leaf complexity is simple)\n    24. Tendrils (present / absent): absent (no tendrils visible)\n\nF. Notes: Several leaves show small holes and minor damage, likely from mechanical or biotic causes, but no clear signs of insect activity or pathogen symptoms. The seedling is marked with a pink tag, suggesting it is part of a monitoring or research plot. The surrounding environment includes leaf litter and tree bases, consistent with a forest floor setting, but habitat is not explicitly assessed per rules. All images show the same individual seedling from different angles, confirming the above observations. \n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 20428.206858690828
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 20428.206858690828,
+  "benchmark_metadata": {
+    "scientific_name": "Connarus panamensis",
+    "family": "Connaraceae",
+    "genus": "Connarus",
+    "species_epithet": "panamensis",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

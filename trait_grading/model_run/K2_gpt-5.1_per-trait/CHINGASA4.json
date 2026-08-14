@@ -1,0 +1,47 @@
+{
+  "specimen_id": "CHINGASA4",
+  "source_answer_key": "Fabaceae_Inga_sapindoides_CHINGASA4",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "opposite",
+            "spacing": "distal"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "1",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "acuminate",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "clearly visible, moderately close, about 8\u201312 pairs per side",
+            "surface_features": "dull, glabrous, slightly rugose",
+            "trichomes": "unclear",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "present",
+            "color": "green-brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "N/A (no additional distinct seedling structures besides stem and leaves are clearly visible)"
+        }
+      }
+    }
+  }
+}

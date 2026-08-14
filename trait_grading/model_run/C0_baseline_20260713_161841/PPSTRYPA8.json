@@ -1,0 +1,91 @@
+{
+  "specimen_id": "PPSTRYPA8",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Loganiaceae/by_genus/Strychnos/by_species/panamensis/PPSTRYPA8/Loganiaceae_Strychnos_panamensis_PPSTRYPA8_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Loganiaceae/by_genus/Strychnos/by_species/panamensis/PPSTRYPA8/Loganiaceae_Strychnos_panamensis_PPSTRYPA8_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Loganiaceae/by_genus/Strychnos/by_species/panamensis/PPSTRYPA8/Loganiaceae_Strychnos_panamensis_PPSTRYPA8_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Loganiaceae/by_genus/Strychnos/by_species/panamensis/PPSTRYPA8/Loganiaceae_Strychnos_panamensis_PPSTRYPA8_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Loganiaceae/by_genus/Strychnos/by_species/panamensis/PPSTRYPA8/Loganiaceae_Strychnos_panamensis_PPSTRYPA8_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "opposite",
+            "spacing": "distal"
+          },
+          "leaf_complexity": {
+            "type": "compound",
+            "compound_type": "even-pinnate",
+            "num_leaflets": "4",
+            "leaflet_arrangement": "opposite"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "visible, closely spaced, 4-6 pairs per leaflet",
+            "surface_features": "shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Some leaflets show minor damage with small holes or margin irregularities, likely due to environmental factors. The plant appears to be a young seedling with multiple stems emerging from a common base. The compound leaves with even-pinnate arrangement and shiny elliptic leaflets are consistent across all images. No flowers or fruits are visible."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): opposite (clear paired leaves at each node along the stem, visible in multiple images)\n    2. Leaf spacing (clustered / distal): distal (leaves spaced along the stem with visible internodes, not clustered at tips)\n\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): compound (each leaf unit consists of multiple leaflets attached to a common petiole)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): even-pinnate (leaflets arranged in pairs along the rachis with no terminal leaflet, visible in close-up images)\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): 4 (each compound leaf has two pairs of leaflets, totaling four leaflets per leaf unit)\n    6. Leaflet arrangement (opposite / alternate / subopposite): opposite (leaflets arranged in pairs along the rachis, with two leaflets per node)\n\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (smooth margin with no visible teeth or serrations)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): elliptic (broadest near the middle, tapering toward both ends)\n    9. Leaf apex (acute, obtuse, acuminate): acute (tapering to a sharp point)\n    10. Leaf base (rounded, cordate, cuneate): cuneate (tapering to a narrow base)\n    11. Venation type (pinnate / palmate / parallel): pinnate (main vein running from base to apex, with secondary veins branching off and curving toward margin)\n    12. Secondary veins (visibility, spacing, number): visible, closely spaced, 4-6 pairs per leaflet (clearly visible in close-up images, running parallel to margin)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): shiny (surface reflects light, indicating a waxy or glossy cuticle)\n    14. Leaf surface trichomes (present / absent): absent (no visible hairs or fuzz on leaf surface)\n    15. Petiole length (short / long): short (petiole is short, connecting leaflets to rachis without elongation)\n    16. Petiole features (winged / grooved / terete): terete (round and cylindrical in cross-section, no wings or grooves)\n\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): woody (stem appears firm and slightly rigid, with visible nodes and internodes)\n    18. Stem trichomes (present / absent): absent (no visible hairs on stem surface)\n    19. Stem color: green (young stem is green, transitioning to brown in older sections)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (no visible ridges or lenticels; surface appears uniform)\n\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules observed at leaf bases)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no exudate visible upon stem damage or breakage)\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no swollen joint at leaflet base, not characteristic of Fabaceae)\n    24. Tendrils (present / absent): absent (no modified stems or leaves functioning as tendrils)\n\nF. Notes: Some leaflets show minor damage with small holes or margin irregularities, likely due to environmental factors. The plant appears to be a young seedling with multiple stems emerging from a common base. The compound leaves with even-pinnate arrangement and shiny elliptic leaflets are consistent across all images. No flowers or fruits are visible.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 20930.389267858118
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 20930.389267858118,
+  "benchmark_metadata": {
+    "scientific_name": "Strychnos panamensis",
+    "family": "Loganiaceae",
+    "genus": "Strychnos",
+    "species_epithet": "panamensis",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

@@ -1,0 +1,30 @@
+# Ablation Experiment Configuration
+# All paths relative to project root (seedlearn-dev/)
+
+data:
+  catalog: "data/raw/2026-01-29/sorted_12K/metadata/species_catalog_v2026-01-29_12K_20260129_123334.csv"
+  cache_dir: "data/embeddings/2026-01-29_v2026-01-29_12K"
+  splits_dir: "data/splits/2026-01-29_v2026-01-29_12K"
+  rag_index: "data/traits/latest/rag_index"
+  split_seed: 42
+
+pipeline_config: "configs/pipeline.yaml"
+
+# Ablation conditions: which stages to skip
+conditions:
+  A:
+    name: "full_pipeline"
+    skip: []
+  B:
+    name: "no_rag"
+    skip: ["trait_retrieval"]
+  C:
+    name: "visual_only"
+    skip: ["morphology", "trait_retrieval"]
+  D:
+    name: "baseline"
+    skip: ["morphology", "trait_retrieval", "evidence_synthesis", "reasoning"]
+
+slurm:
+  partition: "gpu_h200"
+  num_shards: 4

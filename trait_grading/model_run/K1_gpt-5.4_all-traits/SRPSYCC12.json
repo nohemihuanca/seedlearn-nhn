@@ -1,0 +1,47 @@
+{
+  "specimen_id": "SRPSYCC12",
+  "source_answer_key": "Rubiaceae_Palicourea_violacea_SRPSYCC12",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "opposite",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "very conspicuous, closely spaced, about 12\u201316 pairs per leaf",
+            "surface_features": "glabrous, slightly shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "brownish green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Leaves are dark green and glossy with paler young expanding leaves at the apex; several leaves show holes present and small areas of margin missing; the strong, closely arched secondary veins give the blades a distinctly corrugated appearance."
+        }
+      }
+    }
+  }
+}

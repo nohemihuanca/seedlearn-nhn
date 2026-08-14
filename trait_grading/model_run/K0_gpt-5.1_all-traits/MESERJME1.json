@@ -1,0 +1,47 @@
+{
+  "specimen_id": "MESERJME1",
+  "source_answer_key": "Sapindaceae_Serjania_mexicana_MESERJME1",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "unclear",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "palmately lobed",
+            "apex": "acute",
+            "base": "cordate",
+            "venation": "palmate",
+            "secondary_veins": "visible, moderately spaced",
+            "surface_features": "glabrous and dull",
+            "trichomes": "absent",
+            "petiole_length": "long",
+            "petiole_features": "unclear"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "absent",
+            "color": "green to light brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "unclear",
+            "tendrils": "absent"
+          },
+          "notes": "Description focuses on the tagged seedling with palmately lobed leaves; other nearby plants with different leaf morphology appear in the background and are not included in this assessment."
+        }
+      }
+    }
+  }
+}

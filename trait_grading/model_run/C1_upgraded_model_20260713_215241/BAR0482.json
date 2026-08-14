@@ -1,0 +1,91 @@
+{
+  "specimen_id": "BAR0482",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Celastraceae/by_genus/Hylenaea/by_species/praecelsa/BAR0482/Celastraceae_Hylenaea_praecelsa_BAR0482_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Celastraceae/by_genus/Hylenaea/by_species/praecelsa/BAR0482/Celastraceae_Hylenaea_praecelsa_BAR0482_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Celastraceae/by_genus/Hylenaea/by_species/praecelsa/BAR0482/Celastraceae_Hylenaea_praecelsa_BAR0482_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Celastraceae/by_genus/Hylenaea/by_species/praecelsa/BAR0482/Celastraceae_Hylenaea_praecelsa_BAR0482_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Celastraceae/by_genus/Hylenaea/by_species/praecelsa/BAR0482/Celastraceae_Hylenaea_praecelsa_BAR0482_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "alternate",
+            "spacing": "unclear"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "acuminate",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "clearly visible, moderately spaced, approximately 5-6 pairs visible on one side",
+            "surface_features": "dull",
+            "trichomes": "unclear",
+            "petiole_length": "short",
+            "petiole_features": "unclear"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "unclear",
+            "color": "green",
+            "texture": "unclear"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "The leaf surface, particularly along the margins and on the upper surface, has numerous small, light-colored insects (likely ants or aphids) clustered on it. This does not appear to be physical damage to the leaf tissue itself but rather an infestation. The background consists of dry leaf litter. An orange marker tag is visible in the background."
+        },
+        "raw_response": "A. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): alternate (only a single leaf is clearly visible attached to the stem; no other leaves at the same node or successive nodes are clearly distinguishable to determine the pattern definitively, but the single leaf suggests a typical seedling architecture which is often alternate, though \"alternate\" is the most plausible inference given the single leaf context and lack of opposite pairs)\n    2. Leaf spacing (clustered / distal): unclear (only one leaf is clearly visible and attached to the stem; spacing cannot be determined)\n\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): simple (the leaf blade is undivided)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): N/A\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): N/A\n    6. Leaflet arrangement (opposite / alternate / subopposite): N/A\n\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.): entire (the leaf margin appears smooth and continuous, although there are small insects/ants clustered along it, they do not obscure the margin enough to suggest teeth)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): elliptic (the leaf is widest near the middle and tapers towards both ends, with a somewhat rounded to slightly pointed apex and a cuneate to rounded base)\n    9. Leaf apex (acute, obtuse, acuminate): acuminate (the apex tapers to a distinct, elongated point)\n    10. Leaf base (rounded, cordate, cuneate): cuneate (the base gradually narrows to the petiole attachment)\n    11. Venation type (pinnate / palmate / parallel): pinnate (a clear midrib is visible with secondary veins branching off from it)\n    12. Secondary veins (visibility, spacing, number): clearly visible, moderately spaced, approximately 5-6 pairs visible on one side\n    13. Leaf surface features (glabrous, shiny, dull, rugose): dull (the leaf surface does not reflect much light, appearing matte)\n    14. Leaf surface trichomes (present / absent): unclear (the presence of small insects and debris along the margin and on the surface makes it difficult to definitively assess for trichomes; any small bumps could be insects or natural features)\n    15. Petiole length (short / long): short (the visible portion of the petiole appears short relative to the leaf blade)\n    16. Petiole features (winged / grooved / terete): unclear (the petiole is thin and partially obscured by debris and insects; its cross-sectional shape is not clearly discernible)\n\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): herbaceous (the visible stem appears thin and green, characteristic of a young seedling)\n    18. Stem trichomes (present / absent): unclear (the stem is thin and covered with small insects/debris, making it difficult to assess for trichomes)\n    19. Stem color: green (the visible part of the stem is green)\n    20. Stem texture (smooth / ridged / lenticellate): unclear (the texture is difficult to determine due to the small size, angle, and presence of debris/insects)\n\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): unclear (the base of the petiole where stipules would be located is not clearly visible or is obscured by debris/insects)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no pulvinus is visible at the petiole base or along the leaf)\n    24. Tendrils (present / absent): absent\n\nF. Notes: The leaf surface, particularly along the margins and on the upper surface, has numerous small, light-colored insects (likely ants or aphids) clustered on it. This does not appear to be physical damage to the leaf tissue itself but rather an infestation. The background consists of dry leaf litter. An orange marker tag is visible in the background.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 5645.971640944481
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 5645.971640944481,
+  "benchmark_metadata": {
+    "scientific_name": "Hylenaea praecelsa",
+    "family": "Celastraceae",
+    "genus": "Hylenaea",
+    "species_epithet": "praecelsa",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "specimen_id": "SRCOCCP16",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Polygonaceae/by_genus/Coccoloba/by_species/excelsa/SRCOCCP16/Polygonaceae_Coccoloba_excelsa_SRCOCCP16_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Polygonaceae/by_genus/Coccoloba/by_species/excelsa/SRCOCCP16/Polygonaceae_Coccoloba_excelsa_SRCOCCP16_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Polygonaceae/by_genus/Coccoloba/by_species/excelsa/SRCOCCP16/Polygonaceae_Coccoloba_excelsa_SRCOCCP16_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Polygonaceae/by_genus/Coccoloba/by_species/excelsa/SRCOCCP16/Polygonaceae_Coccoloba_excelsa_SRCOCCP16_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Polygonaceae/by_genus/Coccoloba/by_species/excelsa/SRCOCCP16/Polygonaceae_Coccoloba_excelsa_SRCOCCP16_005.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Polygonaceae/by_genus/Coccoloba/by_species/excelsa/SRCOCCP16/Polygonaceae_Coccoloba_excelsa_SRCOCCP16_006.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {},
+          "leaf_complexity": {},
+          "leaf_morphology": {
+            "margin": "[entire"
+          },
+          "stem_traits": {},
+          "special_features": {},
+          "notes": "[The leaf margins are clearly visible across multiple angles and consistently show a smooth, unbroken edge. Some leaves have insect damage (holes) along the margin, but the undamaged portions are entirely smooth.]####"
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nC. Leaf Morphology\n    7.\tLeaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): [entire (the leaf margins are smooth and continuous throughout, lacking any teeth, serrations, or lobes)]\nF. Notes: [The leaf margins are clearly visible across multiple angles and consistently show a smooth, unbroken edge. Some leaves have insect damage (holes) along the margin, but the undamaged portions are entirely smooth.]####",
+        "thinking": null,
+        "few_shot_delivery": {
+          "n_examples": 1,
+          "n_exemplar_images": 3,
+          "n_specimen_images": 6,
+          "max_images": 10,
+          "images_over_budget": false,
+          "prompt_chars": 2155
+        }
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 1931.3452779999807
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 1931.3452779999807,
+  "benchmark_metadata": {
+    "scientific_name": "Coccoloba excelsa",
+    "family": "Polygonaceae",
+    "genus": "Coccoloba",
+    "species_epithet": "excelsa",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

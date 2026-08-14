@@ -1,0 +1,47 @@
+{
+  "specimen_id": "SHTACHVE3",
+  "source_answer_key": "Fabaceae_Tachigali_panamensis_SHTACHVE3",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "alternate",
+            "spacing": "distal"
+          },
+          "leaf_complexity": {
+            "type": "compound",
+            "compound_type": "odd-pinnate",
+            "num_leaflets": "9",
+            "leaflet_arrangement": "opposite"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "prominent, 8\u201312 pairs per leaflet, evenly spaced, arising at an acute angle from the midrib and slightly arched toward the margin",
+            "surface_features": "glabrous, shiny",
+            "trichomes": "absent",
+            "petiole_length": "long",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "light brown with a reddish tint",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "unclear",
+            "tendrils": "absent"
+          },
+          "notes": "Seedling shows pinnately compound leaves with several elliptic leaflets per leaf and prominent secondary venation; some leaflets have small holes or missing margin sections (all traits clearly visible in the provided images)."
+        }
+      }
+    }
+  }
+}

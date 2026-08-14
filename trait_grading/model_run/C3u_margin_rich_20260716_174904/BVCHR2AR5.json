@@ -1,0 +1,72 @@
+{
+  "specimen_id": "BVCHR2AR5",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Sapotaceae/by_genus/Chrysophyllum/by_species/argenteum/BVCHR2AR5/Sapotaceae_Chrysophyllum_argenteum_BVCHR2AR5_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Sapotaceae/by_genus/Chrysophyllum/by_species/argenteum/BVCHR2AR5/Sapotaceae_Chrysophyllum_argenteum_BVCHR2AR5_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Sapotaceae/by_genus/Chrysophyllum/by_species/argenteum/BVCHR2AR5/Sapotaceae_Chrysophyllum_argenteum_BVCHR2AR5_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Sapotaceae/by_genus/Chrysophyllum/by_species/argenteum/BVCHR2AR5/Sapotaceae_Chrysophyllum_argenteum_BVCHR2AR5_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Sapotaceae/by_genus/Chrysophyllum/by_species/argenteum/BVCHR2AR5/Sapotaceae_Chrysophyllum_argenteum_BVCHR2AR5_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {},
+          "leaf_complexity": {},
+          "leaf_morphology": {
+            "margin": "entire"
+          },
+          "stem_traits": {},
+          "special_features": {},
+          "notes": "Several leaves exhibit irregular holes and notches, likely caused by insect herbivory; these damaged sections were excluded from the margin assessment."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nC. Leaf Morphology\n    7.\tLeaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (the leaf margins appear as smooth, continuous lines without any visible teeth, serrations, or lobes along the intact edges)\nF. Notes: Several leaves exhibit irregular holes and notches, likely caused by insect herbivory; these damaged sections were excluded from the margin assessment.\n####",
+        "thinking": null,
+        "few_shot_delivery": {
+          "n_examples": 0,
+          "n_exemplar_images": 0,
+          "n_specimen_images": 5,
+          "max_images": 10,
+          "images_over_budget": false,
+          "prompt_chars": 2155
+        }
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 1580.605379000076
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 1580.605379000076,
+  "benchmark_metadata": {
+    "scientific_name": "Chrysophyllum argenteum",
+    "family": "Sapotaceae",
+    "genus": "Chrysophyllum",
+    "species_epithet": "argenteum",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "specimen_id": "PEA0208",
+  "source_answer_key": "Euphorbiaceae_Acalypha_diversifolia_PEA0208",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "opposite",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "toothed, fine serrate",
+            "shape": "elliptic",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "prominent, fairly evenly spaced, about 6\u20138 pairs",
+            "surface_features": "dull, slightly rugose",
+            "trichomes": "present",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "present",
+            "color": "greenish-brown",
+            "texture": "lenticellate"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Seedling appears to be a resprout from an older stem axis; assessment was based on the clearly attached opposite leaves, while nearby tiny round leaves on the ground plane appear to belong to another plant."
+        }
+      }
+    }
+  }
+}

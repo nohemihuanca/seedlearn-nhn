@@ -1,0 +1,47 @@
+{
+  "specimen_id": "OLALSEBL3",
+  "source_answer_key": "Rubiaceae_Alseis_blackiana_OLALSEBL3",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "unclear",
+            "spacing": "unclear"
+          },
+          "leaf_complexity": {
+            "type": "compound",
+            "compound_type": "N/A",
+            "num_leaflets": "7",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "narrowly elliptic to lanceolate",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "clearly visible and prominent",
+            "surface_features": "shiny and slightly rugose",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "unclear",
+            "tendrils": "absent"
+          },
+          "notes": "Seedling shows radiating, palmately arranged leaflets giving a star-like leaf appearance; leaflets are glossy green, narrowly elliptic to oblanceolate, with strongly impressed secondary veins that create a quilted texture; margins mostly entire with a few small holes and minor missing sections; stem appears slender and upright, with pink flagging tape visible near the base."
+        }
+      }
+    }
+  }
+}

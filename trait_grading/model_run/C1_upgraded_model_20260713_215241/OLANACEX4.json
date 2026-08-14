@@ -1,0 +1,91 @@
+{
+  "specimen_id": "OLANACEX4",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Anacardiaceae/by_genus/Anacardium/by_species/excelsum/OLANACEX4/Anacardiaceae_Anacardium_excelsum_OLANACEX4_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Anacardiaceae/by_genus/Anacardium/by_species/excelsum/OLANACEX4/Anacardiaceae_Anacardium_excelsum_OLANACEX4_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Anacardiaceae/by_genus/Anacardium/by_species/excelsum/OLANACEX4/Anacardiaceae_Anacardium_excelsum_OLANACEX4_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Anacardiaceae/by_genus/Anacardium/by_species/excelsum/OLANACEX4/Anacardiaceae_Anacardium_excelsum_OLANACEX4_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Anacardiaceae/by_genus/Anacardium/by_species/excelsum/OLANACEX4/Anacardiaceae_Anacardium_excelsum_OLANACEX4_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "whorled",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "lanceolate",
+            "apex": "acuminate",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "clearly visible, closely spaced, and numerous",
+            "surface_features": "shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "absent",
+            "color": "green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "The seedling displays a distinct whorl of four leaves at the apex. The leaf venation is very prominent and reticulate, giving the surface a slightly textured appearance despite being shiny. The background shows a forest floor with leaf litter and other small plants."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): whorled (four leaves are clearly visible attached at the same node in a radial arrangement)\n    2. Leaf spacing (clustered / distal): clustered (the leaves are arranged closely together at the apex of the seedling stem)\nB. Leaf Complexity\n    3.\tLeaf complexity (simple / compound): simple (each leaf is a single blade without leaflets)\n    4.\tCompound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): N/A\n    5.\tNumber of leaflets (integer estimate 2, 4, 8, \u2026): N/A\n    6.\tLeaflet arrangement (opposite / alternate / subopposite): N/A\nC. Leaf Morphology\n    7.\tLeaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.): entire (the leaf edges appear smooth without teeth)\n    8.\tLeaf shape (elliptic, obovate, lanceolate, etc.): lanceolate (the leaves are elongated and widest near the base, tapering toward the tip)\n    9.\tLeaf apex (acute, obtuse, acuminate): acuminate (the leaf tip tapers to a distinct, slender point)\n    10.\tLeaf base (rounded, cordate, cuneate): cuneate (the base of the leaf tapers gradually to the petiole)\n    11.\tVenation type (pinnate / palmate / parallel): pinnate (a central midrib is visible with lateral veins branching off it)\n    12.\tSecondary veins (visibility, spacing, number): clearly visible, closely spaced, and numerous (forming a distinct pattern across the leaf surface)\n    13.\tLeaf surface features (glabrous, shiny, dull, rugose): shiny (the leaf surface reflects light, indicating a smooth, glossy texture)\n    14.\tLeaf surface trichomes (present / absent): absent (no visible hairs on the leaf surface)\n    15.\tPetiole length (short / long): short (the petioles are noticeably shorter than the leaf blades)\n    16.\tPetiole features (winged / grooved / terete): terete (the petioles appear rounded and cylindrical in cross-section)\nD. Stem & Shoot Traits\n    17.\tStem type, may not be visible (woody / herbaceous): herbaceous (the stem appears green, thin, and soft, characteristic of a young seedling)\n    18.\tStem trichomes (present / absent): absent (the stem appears smooth without visible hairs)\n    19.\tStem color: green (the stem is a vibrant green color)\n    20.\tStem texture (smooth / ridged / lenticellate): smooth (the stem surface appears even and lacks ridges or lenticels)\nE. Other Visible Seedling Traits\n    21.\tStipules, sometimes visible only in close-up images (absent / present): absent (no stipules are visible at the leaf nodes)\n    22.\tLatex, rarely visible but extremely diagnostic when present (present / not observed): not observed\n    23.\tPulvinus, for Fabaceae family only (present / absent): absent (no swollen joint-like structure is visible at the base of the petiole)\n    24.\tTendrils (present / absent): absent\n\nF. Notes: The seedling displays a distinct whorl of four leaves at the apex. The leaf venation is very prominent and reticulate, giving the surface a slightly textured appearance despite being shiny. The background shows a forest floor with leaf litter and other small plants.\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 5018.822974059731
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 5018.822974059731,
+  "benchmark_metadata": {
+    "scientific_name": "Anacardium excelsum",
+    "family": "Anacardiaceae",
+    "genus": "Anacardium",
+    "species_epithet": "excelsum",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "specimen_id": "OLCROTBI2",
+  "source_answer_key": "Euphorbiaceae_Croton_billbergianus_OLCROTBI2",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "alternate",
+            "spacing": "distal"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "ovate to cordate",
+            "apex": "acute",
+            "base": "cordate",
+            "venation": "palmate",
+            "secondary_veins": "visible, few to several, moderately spaced",
+            "surface_features": "glabrous, shiny",
+            "trichomes": "absent",
+            "petiole_length": "long",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "unclear",
+            "color": "green to light brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "N/A",
+            "tendrils": "absent"
+          },
+          "notes": "Assessment is based on the slender stem bearing the glossy broad leaves with cordate bases; some neighboring narrow and toothed leaves in the frame appear to belong to other plants. One leaf shows holes present and margin missing."
+        }
+      }
+    }
+  }
+}

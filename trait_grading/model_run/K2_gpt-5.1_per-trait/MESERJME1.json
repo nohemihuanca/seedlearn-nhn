@@ -1,0 +1,47 @@
+{
+  "specimen_id": "MESERJME1",
+  "source_answer_key": "Sapindaceae_Serjania_mexicana_MESERJME1",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "unclear",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "palmately 3\u20135-lobed, overall broadly ovate to elliptic",
+            "apex": "acute",
+            "base": "unclear",
+            "venation": "pinnate",
+            "secondary_veins": "secondary veins faintly visible, moderately and fairly evenly spaced, c. 5\u20137 pairs per side",
+            "surface_features": "glabrous, dull",
+            "trichomes": "absent",
+            "petiole_length": "long",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "unclear",
+            "trichomes": "absent",
+            "color": "green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "unclear",
+            "tendrils": "absent"
+          },
+          "notes": "Leaves appear palmately lobed with shallow sinuses, forming a single blade per petiole (lobed morphology visible in multiple views); some leaf margins have small missing sections and spots (damage present); seedling located adjacent to a fallen log and partially covered by surrounding leaf litter (context visible in images)."
+        }
+      }
+    }
+  }
+}

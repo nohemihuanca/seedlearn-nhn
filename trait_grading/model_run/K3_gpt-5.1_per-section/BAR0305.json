@@ -1,0 +1,47 @@
+{
+  "specimen_id": "BAR0305",
+  "source_answer_key": "Celastraceae_Prionostemma_aspera_BAR0305",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "alternate",
+            "spacing": "distal"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "narrowly elliptic",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "secondary veins visible and moderately prominent, evenly spaced, approximately 6\u201310 pairs per leaf",
+            "surface_features": "smooth and slightly shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "unclear"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Leaves appear simple, entire, and narrowly elliptic; phyllotaxy appears mostly alternate though some nodes are partially obscured, and several leaves show pale speckling on the lamina surface."
+        }
+      }
+    }
+  }
+}

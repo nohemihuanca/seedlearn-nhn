@@ -1,0 +1,72 @@
+{
+  "specimen_id": "CHPAR1PY2",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Tanaecium/by_species/pyramidatum/CHPAR1PY2/Bignoniaceae_Tanaecium_pyramidatum_CHPAR1PY2_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Tanaecium/by_species/pyramidatum/CHPAR1PY2/Bignoniaceae_Tanaecium_pyramidatum_CHPAR1PY2_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Tanaecium/by_species/pyramidatum/CHPAR1PY2/Bignoniaceae_Tanaecium_pyramidatum_CHPAR1PY2_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Tanaecium/by_species/pyramidatum/CHPAR1PY2/Bignoniaceae_Tanaecium_pyramidatum_CHPAR1PY2_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Tanaecium/by_species/pyramidatum/CHPAR1PY2/Bignoniaceae_Tanaecium_pyramidatum_CHPAR1PY2_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {},
+          "leaf_complexity": {},
+          "leaf_morphology": {
+            "margin": "[entire"
+          },
+          "stem_traits": {},
+          "special_features": {},
+          "notes": "[The seedling exhibits some herbivore damage on lower leaves (e.g., missing tissue and holes), but the intact margins of the healthy leaves are clearly entire.]"
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nC. Leaf Morphology\n    7.\tLeaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): [entire (the leaf edges are smooth and continuous without any teeth or serrations, as seen clearly on the apical leaves in the third and fourth images)]\nF. Notes: [The seedling exhibits some herbivore damage on lower leaves (e.g., missing tissue and holes), but the intact margins of the healthy leaves are clearly entire.]\n####",
+        "thinking": null,
+        "few_shot_delivery": {
+          "n_examples": 0,
+          "n_exemplar_images": 0,
+          "n_specimen_images": 5,
+          "max_images": 10,
+          "images_over_budget": false,
+          "prompt_chars": 940
+        }
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 1717.9731659999788
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 1717.9731659999788,
+  "benchmark_metadata": {
+    "scientific_name": "Tanaecium pyramidatum",
+    "family": "Bignoniaceae",
+    "genus": "Tanaecium",
+    "species_epithet": "pyramidatum",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

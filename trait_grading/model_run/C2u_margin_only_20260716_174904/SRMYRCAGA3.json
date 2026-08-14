@@ -1,0 +1,72 @@
+{
+  "specimen_id": "SRMYRCAGA3",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Myrtaceae/by_genus/Myrcia/by_species/splendens/SRMYRCAGA3/Myrtaceae_Myrcia_splendens_SRMYRCAGA3_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Myrtaceae/by_genus/Myrcia/by_species/splendens/SRMYRCAGA3/Myrtaceae_Myrcia_splendens_SRMYRCAGA3_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Myrtaceae/by_genus/Myrcia/by_species/splendens/SRMYRCAGA3/Myrtaceae_Myrcia_splendens_SRMYRCAGA3_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Myrtaceae/by_genus/Myrcia/by_species/splendens/SRMYRCAGA3/Myrtaceae_Myrcia_splendens_SRMYRCAGA3_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Myrtaceae/by_genus/Myrcia/by_species/splendens/SRMYRCAGA3/Myrtaceae_Myrcia_splendens_SRMYRCAGA3_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {},
+          "leaf_complexity": {},
+          "leaf_morphology": {
+            "margin": "entire"
+          },
+          "stem_traits": {},
+          "special_features": {},
+          "notes": "Several leaves exhibit physical damage, including irregular holes and missing sections along the margins, which are excluded from the margin assessment."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nC. Leaf Morphology\n    7.\tLeaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (the visible edges of the leaves are smooth and continuous without any teeth or serrations)\nF. Notes: Several leaves exhibit physical damage, including irregular holes and missing sections along the margins, which are excluded from the margin assessment.\n####",
+        "thinking": null,
+        "few_shot_delivery": {
+          "n_examples": 0,
+          "n_exemplar_images": 0,
+          "n_specimen_images": 5,
+          "max_images": 10,
+          "images_over_budget": false,
+          "prompt_chars": 940
+        }
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 1638.2801670000617
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 1638.2801670000617,
+  "benchmark_metadata": {
+    "scientific_name": "Myrcia splendens",
+    "family": "Myrtaceae",
+    "genus": "Myrcia",
+    "species_epithet": "splendens",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

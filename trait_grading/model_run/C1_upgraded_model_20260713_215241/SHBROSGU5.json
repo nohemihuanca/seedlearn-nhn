@@ -1,0 +1,91 @@
+{
+  "specimen_id": "SHBROSGU5",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Moraceae/by_genus/Brosimum/by_species/guianense/SHBROSGU5/Moraceae_Brosimum_guianense_SHBROSGU5_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Moraceae/by_genus/Brosimum/by_species/guianense/SHBROSGU5/Moraceae_Brosimum_guianense_SHBROSGU5_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Moraceae/by_genus/Brosimum/by_species/guianense/SHBROSGU5/Moraceae_Brosimum_guianense_SHBROSGU5_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Moraceae/by_genus/Brosimum/by_species/guianense/SHBROSGU5/Moraceae_Brosimum_guianense_SHBROSGU5_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Moraceae/by_genus/Brosimum/by_species/guianense/SHBROSGU5/Moraceae_Brosimum_guianense_SHBROSGU5_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "alternate",
+            "spacing": "distal"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "toothed",
+            "shape": "elliptic",
+            "apex": "acuminate",
+            "base": "rounded",
+            "venation": "pinnate",
+            "secondary_veins": "clearly visible, closely spaced, and numerous",
+            "surface_features": "shiny, rugose",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "absent",
+            "color": "green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "The leaf margin is consistently serrulate (finely toothed) across all images. The rugose texture is a prominent feature of the leaf surface. The plant is growing on the forest floor amongst leaf litter and other small seedlings."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): alternate (leaves are attached singly at different nodes along the stem, alternating sides)\n    2. Leaf spacing (clustered / distal): distal (leaves are spaced out along the stem with distinct internodes, not clustered together)\nB. Leaf Complexity\n    3.\tLeaf complexity (simple / compound): simple (each leaf is a single blade attached to the stem, not divided into leaflets)\n    4.\tCompound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): N/A\n    5.\tNumber of leaflets (integer estimate 2, 4, 8, \u2026): N/A\n    6.\tLeaflet arrangement (opposite / alternate / subopposite): N/A\nC. Leaf Morphology\n    7.\tLeaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): toothed (margin shows distinct, small, regular teeth along the edges)\n    8.\tLeaf shape (elliptic, obovate, lanceolate, etc.): elliptic (leaf is widest near the middle and tapers towards both ends)\n    9.\tLeaf apex (acute, obtuse, acuminate): acuminate (tapers to a distinct, elongated point)\n    10.\tLeaf base (rounded, cordate, cuneate): rounded (base of the leaf appears broadly curved without a distinct taper)\n    11.\tVenation type (pinnate / palmate / parallel): pinnate (single midrib with secondary veins branching off to the sides)\n    12.\tSecondary veins (visibility, spacing, number): clearly visible, closely spaced, and numerous (runs parallel to the margin)\n    13.\tLeaf surface features (glabrous, shiny, dull, rugose): shiny, rugose (surface is glossy and has a textured, slightly bumpy appearance due to prominent venation)\n    14.\tLeaf surface trichomes (present / absent): absent (surface appears smooth and lacks visible hairs)\n    15.\tPetiole length (short / long): short (petiole is noticeably shorter than the leaf blade)\n    16.\tPetiole features (winged / grooved / terete): terete (petiole appears round in cross-section and smooth)\nD. Stem & Shoot Traits\n    17.\tStem type, may not be visible (woody / herbaceous): herbaceous (stem appears green, slender, and flexible, characteristic of a young seedling)\n    18.\tStem trichomes (present / absent): absent (stem surface appears smooth without visible hairs)\n    19.\tStem color: green (appears green, similar to the leaf color)\n    20.\tStem texture (smooth / ridged / lenticellate): smooth (no visible ridges or lenticels on the visible stem parts)\nE. Other Visible Seedling Traits\n    21.\tStipules, sometimes visible only in close-up images (present / absent): absent (no stipules are visible at the leaf bases)\n    22.\tLatex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no latex is visible)\n    23.\tPulvinus, for Fabaceae family only (present / absent): absent (no pulvinus is visible at the leaf base)\n    24.\tTendrils (present / absent): absent (no tendrils are visible)\nF. Notes: The leaf margin is consistently serrulate (finely toothed) across all images. The rugose texture is a prominent feature of the leaf surface. The plant is growing on the forest floor amongst leaf litter and other small seedlings.\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 4865.164236631244
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 4865.164236631244,
+  "benchmark_metadata": {
+    "scientific_name": "Brosimum guianense",
+    "family": "Moraceae",
+    "genus": "Brosimum",
+    "species_epithet": "guianense",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

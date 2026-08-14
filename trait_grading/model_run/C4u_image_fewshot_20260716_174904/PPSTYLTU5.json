@@ -1,0 +1,72 @@
+{
+  "specimen_id": "PPSTYLTU5",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Primulaceae/by_genus/Stylogyne/by_species/turbacensis/PPSTYLTU5/Primulaceae_Stylogyne_turbacensis_PPSTYLTU5_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Primulaceae/by_genus/Stylogyne/by_species/turbacensis/PPSTYLTU5/Primulaceae_Stylogyne_turbacensis_PPSTYLTU5_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Primulaceae/by_genus/Stylogyne/by_species/turbacensis/PPSTYLTU5/Primulaceae_Stylogyne_turbacensis_PPSTYLTU5_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Primulaceae/by_genus/Stylogyne/by_species/turbacensis/PPSTYLTU5/Primulaceae_Stylogyne_turbacensis_PPSTYLTU5_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Primulaceae/by_genus/Stylogyne/by_species/turbacensis/PPSTYLTU5/Primulaceae_Stylogyne_turbacensis_PPSTYLTU5_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {},
+          "leaf_complexity": {},
+          "leaf_morphology": {
+            "margin": "entire"
+          },
+          "stem_traits": {},
+          "special_features": {},
+          "notes": "Several leaves exhibit irregular notches and holes along the margins, which appear to be mechanical damage or herbivory rather than natural morphological features. The margin is classified based on the intact sections where the edge is a continuous, smooth line."
+        },
+        "raw_response": "C. Leaf Morphology\n    7.\tLeaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (the leaf margins are smooth and continuous without any teeth, serrations, or scalloping, although some leaves show physical damage from external factors)\nF. Notes: Several leaves exhibit irregular notches and holes along the margins, which appear to be mechanical damage or herbivory rather than natural morphological features. The margin is classified based on the intact sections where the edge is a continuous, smooth line.\n\n####",
+        "thinking": null,
+        "few_shot_delivery": {
+          "n_examples": 1,
+          "n_exemplar_images": 3,
+          "n_specimen_images": 5,
+          "max_images": 10,
+          "images_over_budget": false,
+          "prompt_chars": 2155
+        }
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 1700.1761540000189
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 1700.1761540000189,
+  "benchmark_metadata": {
+    "scientific_name": "Stylogyne turbacensis",
+    "family": "Primulaceae",
+    "genus": "Stylogyne",
+    "species_epithet": "turbacensis",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

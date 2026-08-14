@@ -1,0 +1,47 @@
+{
+  "specimen_id": "OLOXANLO5",
+  "source_answer_key": "Annonaceae_Oxandra_longipetala_OLOXANLO5",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "alternate",
+            "spacing": "distal"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "visible and moderately prominent",
+            "surface_features": "shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "dark brown to purplish-brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "unclear",
+            "tendrils": "absent"
+          },
+          "notes": "Seedling has simple, glossy, elliptic leaves with entire to slightly wavy margins; venation is prominent and slightly impressed. Leaves appear arranged along slender dark stems, with some leaves showing discoloration patterns and small missing margin sections or holes. Multiple seedlings and other vegetation are present around the focal individual, which may obscure some nodal details."
+        }
+      }
+    }
+  }
+}

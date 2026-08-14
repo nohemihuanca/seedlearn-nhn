@@ -1,0 +1,91 @@
+{
+  "specimen_id": "BAR0018",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Capparaceae/by_genus/Morisonia/by_species/frondosa/BAR0018/Capparaceae_Morisonia_frondosa_BAR0018_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Capparaceae/by_genus/Morisonia/by_species/frondosa/BAR0018/Capparaceae_Morisonia_frondosa_BAR0018_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Capparaceae/by_genus/Morisonia/by_species/frondosa/BAR0018/Capparaceae_Morisonia_frondosa_BAR0018_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Capparaceae/by_genus/Morisonia/by_species/frondosa/BAR0018/Capparaceae_Morisonia_frondosa_BAR0018_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Capparaceae/by_genus/Morisonia/by_species/frondosa/BAR0018/Capparaceae_Morisonia_frondosa_BAR0018_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "whorled",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "obovate",
+            "apex": "obtuse",
+            "base": "rounded",
+            "venation": "pinnate",
+            "secondary_veins": "visible, spaced widely, approximately 4\u20136 per side",
+            "surface_features": "shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "green to reddish-brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "[NOTE] The seedling exhibits a whorled leaf arrangement with 4\u20135 leaves per node, forming a compact cluster. Some leaves show small holes, likely from physical damage or minor herbivory, but no clear signs of disease or insect infestation. The overall morphology is consistent with a young, healthy tropical tree seedling. Leaf surfaces are shiny and glabrous, with pinnate venation and entire margins. Stem is woody and smooth, with no visible trichomes or latex. No stipules or pulvinus observed. All images show the same individual from slightly different angles, confirming consistency in morphology."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): whorled (three or more leaves clearly attached at the same node, visible in all images)\n    2. Leaf spacing (clustered / distal): clustered (leaves are grouped closely at the apex of the stem, forming a rosette-like cluster)\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): simple (each leaf is a single blade with no divisions into leaflets)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): N/A\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): N/A\n    6. Leaflet arrangement (opposite / alternate / subopposite): N/A\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (smooth margin with no teeth or serrations visible)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): obovate (broadest near the apex, tapering toward the base)\n    9. Leaf apex (acute, obtuse, acuminate): obtuse (blunt tip, not pointed)\n    10. Leaf base (rounded, cordate, cuneate): rounded (base is broad and gently curved)\n    11. Venation type (pinnate / palmate / parallel): pinnate (primary vein runs from base to apex, with secondary veins branching off at angles)\n    12. Secondary veins (visibility, spacing, number): visible, spaced widely, approximately 4\u20136 per side (secondary veins are prominent and curve toward the margin, visible in close-up views)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): shiny (surface appears glossy and reflective, especially in areas with moisture)\n    14. Leaf surface trichomes (present / absent): absent (no visible hairs or fuzz on leaf surface)\n    15. Petiole length (short / long): short (petioles are short and stout, connecting leaf blade to stem)\n    16. Petiole features (winged / grooved / terete): terete (cylindrical, round in cross-section, no wings or grooves)\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): woody (stem appears firm and rigid, typical of young tree seedlings)\n    18. Stem trichomes (present / absent): absent (no visible hairs on stem)\n    19. Stem color: green to reddish-brown (stem is green near apex, transitioning to reddish-brown toward base)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (no ridges or lenticels visible; surface appears smooth)\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules observed at leaf bases)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no exudate or milky sap visible)\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no swollen joint at leaf base; not applicable as leaf is simple and not in Fabaceae)\n    24. Tendrils (present / absent): absent (no tendrils observed)\nF. Notes: [NOTE] The seedling exhibits a whorled leaf arrangement with 4\u20135 leaves per node, forming a compact cluster. Some leaves show small holes, likely from physical damage or minor herbivory, but no clear signs of disease or insect infestation. The overall morphology is consistent with a young, healthy tropical tree seedling. Leaf surfaces are shiny and glabrous, with pinnate venation and entire margins. Stem is woody and smooth, with no visible trichomes or latex. No stipules or pulvinus observed. All images show the same individual from slightly different angles, confirming consistency in morphology.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 21209.88810993731
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 21209.88810993731,
+  "benchmark_metadata": {
+    "scientific_name": "Morisonia frondosa",
+    "family": "Capparaceae",
+    "genus": "Morisonia",
+    "species_epithet": "frondosa",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

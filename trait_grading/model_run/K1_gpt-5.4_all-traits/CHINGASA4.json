@@ -1,0 +1,47 @@
+{
+  "specimen_id": "CHINGASA4",
+  "source_answer_key": "Fabaceae_Inga_sapindoides_CHINGASA4",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "opposite",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "clearly visible, fairly evenly spaced, about 7\u201310 pairs",
+            "surface_features": "dull, slightly rugose",
+            "trichomes": "unclear",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "present",
+            "color": "greenish-brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Assessment is based on the tagged seedling with opposite, entire-margined leaves; a separate nearby serrate-leaved seedling is also visible in some images and was not scored. Several leaves show holes present and margin missing."
+        }
+      }
+    }
+  }
+}

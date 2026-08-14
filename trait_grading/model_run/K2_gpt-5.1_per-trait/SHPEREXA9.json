@@ -1,0 +1,47 @@
+{
+  "specimen_id": "SHPEREXA9",
+  "source_answer_key": "Moraceae_Perebea_xanthochyma_SHPEREXA9",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "whorled",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "toothed, serrate",
+            "shape": "lanceolate",
+            "apex": "acuminate",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "distinct and clearly raised, closely spaced, approximately 12\u201320 pairs per leaf, each slightly arching toward and terminating at the serrated margin",
+            "surface_features": "glabrous, dull",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "present",
+            "color": "brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Leaves appear clustered in a pseudo-whorl at the upper node (several leaves radiating from a single point); blades narrowly elliptic with sharp serrations along the margin (regular, forward-pointing teeth); midrib strongly raised on the lower surface (conspicuous central vein); some leaves show margin missing and small holes present (localized loss of lamina tissue); seedling stem upright and relatively slender (single vertical main stem visible)."
+        }
+      }
+    }
+  }
+}

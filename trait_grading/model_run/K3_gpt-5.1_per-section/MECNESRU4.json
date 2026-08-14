@@ -1,0 +1,47 @@
+{
+  "specimen_id": "MECNESRU4",
+  "source_answer_key": "Connaraceae_Cnestidium_rufescens_MECNESRU4",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "unclear",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "compound",
+            "compound_type": "N/A",
+            "num_leaflets": "3",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "clearly visible, moderately spaced, about 6\u201310 pairs per leaf",
+            "surface_features": "shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "green to light brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "unclear",
+            "tendrils": "absent"
+          },
+          "notes": "Seedling shows several simple, elliptic leaves with entire margins, and some leaf blades have holes and small missing sections along the margin; nearby vegetation obscures parts of the lower stem, limiting visibility of some traits."
+        }
+      }
+    }
+  }
+}

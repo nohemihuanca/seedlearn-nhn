@@ -1,0 +1,47 @@
+{
+  "specimen_id": "MEPERIPR9",
+  "source_answer_key": "Celastraceae_Peritassa_pruinosa_MEPERIPR9",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "alternate",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "8",
+            "leaflet_arrangement": "opposite"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "narrowly elliptic",
+            "apex": "acuminate",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "secondary veins clearly visible, moderately close, about 8\u201312 pairs per leaf side",
+            "surface_features": "glabrous, slightly shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "light brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "unclear",
+            "tendrils": "absent"
+          },
+          "notes": "Leaves appear simple and narrowly elliptic-lanceolate with entire margins (no lobing or serration visible); several leaves show round discolored spots and some margin loss (visible circular patches and missing edge sections); seedling situated on a leaf-litter-covered ground surface (surrounding dead leaves clearly visible)."
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "specimen_id": "MEPICRLA10",
+  "source_answer_key": "Picramniaceae_Picramnia_latifolia_MEPICRLA10",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "unclear",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic to broadly ovate",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "secondary veins visible, moderately spaced, c. 6\u201310 pairs per leaf",
+            "surface_features": "glabrous and shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "unclear"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "green to light brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Leaves are simple, entire, glossy, and vary from elliptic to more ovate with an acute to slightly acuminate apex; several leaves show narrow winding mines and some margin missing; the seedling appears to be a self-supporting woody plant with short petioles and no obvious specialized climbing or support structures."
+        }
+      }
+    }
+  }
+}

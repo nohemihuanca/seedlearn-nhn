@@ -1,0 +1,47 @@
+{
+  "specimen_id": "METYNACR4",
+  "source_answer_key": "Bignoniaceae_Tynanthus_croatianus_METYNACR4",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "unclear",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic to slightly ovate",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "moderately visible, 5\u20138 pairs per leaf, evenly to moderately spaced",
+            "surface_features": "glabrous and slightly shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "unclear"
+          },
+          "stem_traits": {
+            "type": "unclear",
+            "trichomes": "absent",
+            "color": "green to light brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "unclear",
+            "tendrils": "absent"
+          },
+          "notes": "Seedling with multiple simple, entire leaves; some lower leaves show holes and partial loss of margin; slight discoloration on older leaves; main stem upright but partly obscured by a tag and nearby vegetation, limiting close examination of nodal features."
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "specimen_id": "BVMANSKE10",
+  "source_answer_key": "Bignoniaceae_Pachyptera_kerere_BVMANSKE10",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "unclear",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "unclear",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "lanceolate",
+            "apex": "acuminate",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "moderately visible pinnate secondary veins, evenly spaced, approximately 7\u201310 pairs per leaf",
+            "surface_features": "glabrous, slightly shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "light green to light brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "unclear",
+            "tendrils": "absent"
+          },
+          "notes": "Seedling shows multiple narrow, entire, green leaves radiating from the upper stem; some leaves have holes and small missing margin sections; the exact leaf attachment pattern at the nodes is unclear from the images (description is based solely on visible leaf shape and condition, without inferring taxonomic identity)"
+        }
+      }
+    }
+  }
+}

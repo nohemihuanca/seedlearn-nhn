@@ -1,0 +1,47 @@
+{
+  "specimen_id": "BAR0090",
+  "source_answer_key": "Lecythidaceae_Gustavia_superba_BAR0090",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "opposite",
+            "spacing": "distal"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "secondary veins clearly visible, moderately spaced, about 7\u201310 pairs",
+            "surface_features": "glabrous and shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "unclear"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "greenish-brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "unclear",
+            "tendrils": "absent"
+          },
+          "notes": "Seedling with a single slender upright stem bearing several broad, simple, elliptic leaves with entire margins and a conspicuously raised midrib and secondary veins; leaf surfaces appear slightly corrugated; some leaves show holes and small missing portions along the margin; plant is emerging from ground-level leaf litter."
+        }
+      }
+    }
+  }
+}

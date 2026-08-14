@@ -1,0 +1,91 @@
+{
+  "specimen_id": "MECNESRU4",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Connaraceae/by_genus/Cnestidium/by_species/rufescens/MECNESRU4/Connaraceae_Cnestidium_rufescens_MECNESRU4_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Connaraceae/by_genus/Cnestidium/by_species/rufescens/MECNESRU4/Connaraceae_Cnestidium_rufescens_MECNESRU4_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Connaraceae/by_genus/Cnestidium/by_species/rufescens/MECNESRU4/Connaraceae_Cnestidium_rufescens_MECNESRU4_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Connaraceae/by_genus/Cnestidium/by_species/rufescens/MECNESRU4/Connaraceae_Cnestidium_rufescens_MECNESRU4_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Connaraceae/by_genus/Cnestidium/by_species/rufescens/MECNESRU4/Connaraceae_Cnestidium_rufescens_MECNESRU4_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "opposite",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "compound",
+            "compound_type": "odd-pinnate",
+            "num_leaflets": "3",
+            "leaflet_arrangement": "subopposite"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "acute",
+            "base": "rounded",
+            "venation": "pinnate",
+            "secondary_veins": "visible, moderately spaced, numerous",
+            "surface_features": "dull",
+            "trichomes": "present",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "present",
+            "color": "greenish-brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "not observed",
+            "tendrils": "absent"
+          },
+          "notes": "Some leaflets show minor damage in the form of small holes."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): opposite (multiple nodes clearly show leaves attached in pairs)\n    2. Leaf spacing (clustered / distal): clustered (leaves are closely spaced along the short stem)\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): compound (leaves consist of multiple leaflets attached to a central axis)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): odd-pinnate (terminal leaflets are visible at the apex of the leaflets)\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): 3 (visible leaflets are arranged as a trifoliate group)\n    6. Leaflet arrangement (opposite / alternate / subopposite): subopposite (leaflets appear paired with a terminal one, though exact symmetry is slightly irregular)\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.): entire (leaf margins are smooth without teeth)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): elliptic (leaflets are broadly oval, widest near the middle)\n    9. Leaf apex (acute, obtuse, acuminate): acute (leaf tips taper to a distinct point)\n    10. Leaf base (rounded, cordate, cuneate): rounded (leaf bases are broadly curved)\n    11. Venation type (pinnate / palmate / parallel): pinnate (a central midrib is visible with veins branching off laterally)\n    12. Secondary veins (visibility, spacing, number): visible, moderately spaced, numerous (veins curve slightly towards the margin)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): dull (surface lacks strong gloss, appears matte)\n    14. Leaf surface trichomes (present / absent): present (fine, short hairs are visible on the stems and leaf surfaces)\n    15. Petiole length (short / long): short (petioles are relatively short compared to the leaf blade)\n    16. Petiole features (winged / grooved / terete): terete (petioles appear round in cross-section)\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): herbaceous (stem appears soft and green, lacking thick bark)\n    18. Stem trichomes (present / absent): present (fine hairs are visible on the stem surface)\n    19. Stem color: greenish-brown (stems show a mix of green and light brown tones)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (no obvious ridges or lenticels are visible)\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules are clearly visible at the leaf bases)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no latex is visible)\n    23. Pulvinus, for Fabaceae family only (present / absent): not observed (pulvinus is not clearly visible)\n    24. Tendrils (present / absent): absent (no tendrils are visible)\nF. Notes: Some leaflets show minor damage in the form of small holes.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 4551.005567889661
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 4551.005567889661,
+  "benchmark_metadata": {
+    "scientific_name": "Cnestidium rufescens",
+    "family": "Connaraceae",
+    "genus": "Cnestidium",
+    "species_epithet": "rufescens",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

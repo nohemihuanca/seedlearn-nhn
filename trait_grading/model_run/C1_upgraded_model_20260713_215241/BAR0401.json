@@ -1,0 +1,91 @@
+{
+  "specimen_id": "BAR0401",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Sapotaceae/by_genus/Pouteria/by_species/reticulata/BAR0401/Sapotaceae_Pouteria_reticulata_BAR0401_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Sapotaceae/by_genus/Pouteria/by_species/reticulata/BAR0401/Sapotaceae_Pouteria_reticulata_BAR0401_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Sapotaceae/by_genus/Pouteria/by_species/reticulata/BAR0401/Sapotaceae_Pouteria_reticulata_BAR0401_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Sapotaceae/by_genus/Pouteria/by_species/reticulata/BAR0401/Sapotaceae_Pouteria_reticulata_BAR0401_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Sapotaceae/by_genus/Pouteria/by_species/reticulata/BAR0401/Sapotaceae_Pouteria_reticulata_BAR0401_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "whorled",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "lanceolate",
+            "apex": "acuminate",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "clearly visible, spaced regularly, pinnate",
+            "surface_features": "rugose",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "absent",
+            "color": "green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "The seedling exhibits a distinct whorled phyllotaxy at the terminal node. Several leaves display irregular holes and brownish patches along the margins and surfaces, indicating physical damage. The leaves are arranged in a tight, palmate-like cluster at the apex of the stem."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): whorled (multiple leaves, approximately 9-11, are clearly attached at a single terminal node radiating outward, visible in top-down views)\n    2. Leaf spacing (clustered / distal): clustered (leaves are densely arranged in a rosette-like formation at the shoot tip)\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): simple (each leaf is a single blade without leaflets)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): N/A\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): N/A\n    6. Leaflet arrangement (opposite / alternate / subopposite): N/A\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.): entire (margins appear smooth and continuous, though some leaves show physical damage/holes)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): lanceolate (leaves are significantly longer than wide, tapering toward the base and apex)\n    9. Leaf apex (acute, obtuse, acuminate): acuminate (leaves taper to a distinct, elongated point at the tip)\n    10. Leaf base (rounded, cordate, cuneate): cuneate (leaves narrow gradually to a wedge-shaped base)\n    11. Venation type (pinnate / palmate / parallel): pinnate (a central midrib is visible with secondary veins branching from it)\n    12. Secondary veins (visibility, spacing, number): clearly visible, spaced regularly, pinnate (secondary veins are distinct and run parallel to each other from the midrib to the margin)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): rugose (the leaf surface appears textured and slightly uneven due to the sunken secondary veins)\n    14. Leaf surface trichomes (present / absent): absent (surface appears smooth and glabrous)\n    15. Petiole length (short / long): short (petioles are very short, causing leaves to appear almost sessile and clustered)\n    16. Petiole features (winged / grooved / terete): terete (petioles appear cylindrical and round in cross-section)\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): herbaceous (the stem appears thin, green, and non-lignified)\n    18. Stem trichomes (present / absent): absent (stem appears smooth)\n    19. Stem color: green (stem is green, consistent with herbaceous growth)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (stem surface appears uniform without distinct ridges or lenticels)\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules are visible at the leaf nodes)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no pulvinus is visible at the base of the petiole)\n    24. Tendrils (present / absent): absent\n\nF. Notes: The seedling exhibits a distinct whorled phyllotaxy at the terminal node. Several leaves display irregular holes and brownish patches along the margins and surfaces, indicating physical damage. The leaves are arranged in a tight, palmate-like cluster at the apex of the stem.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 4863.623440731317
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 4863.623440731317,
+  "benchmark_metadata": {
+    "scientific_name": "Pouteria reticulata",
+    "family": "Sapotaceae",
+    "genus": "Pouteria",
+    "species_epithet": "reticulata",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

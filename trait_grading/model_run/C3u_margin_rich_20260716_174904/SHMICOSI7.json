@@ -1,0 +1,72 @@
+{
+  "specimen_id": "SHMICOSI7",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Melastomataceae/by_genus/Miconia/by_species/simplex/SHMICOSI7/Melastomataceae_Miconia_simplex_SHMICOSI7_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Melastomataceae/by_genus/Miconia/by_species/simplex/SHMICOSI7/Melastomataceae_Miconia_simplex_SHMICOSI7_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Melastomataceae/by_genus/Miconia/by_species/simplex/SHMICOSI7/Melastomataceae_Miconia_simplex_SHMICOSI7_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Melastomataceae/by_genus/Miconia/by_species/simplex/SHMICOSI7/Melastomataceae_Miconia_simplex_SHMICOSI7_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Melastomataceae/by_genus/Miconia/by_species/simplex/SHMICOSI7/Melastomataceae_Miconia_simplex_SHMICOSI7_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {},
+          "leaf_complexity": {},
+          "leaf_morphology": {
+            "margin": "[entire"
+          },
+          "stem_traits": {},
+          "special_features": {},
+          "notes": "[The leaves exhibit prominent, parallel secondary veins extending to the margin. Several leaves show signs of herbivory, including irregular holes and missing sections along the edges; these damaged areas are excluded from the margin assessment.]"
+        },
+        "raw_response": "C. Leaf Morphology\n    7.\tLeaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): [entire (the leaf margins are smooth and continuous, lacking any teeth, serrations, or lobes)]\nF. Notes: [The leaves exhibit prominent, parallel secondary veins extending to the margin. Several leaves show signs of herbivory, including irregular holes and missing sections along the edges; these damaged areas are excluded from the margin assessment.]\n####",
+        "thinking": null,
+        "few_shot_delivery": {
+          "n_examples": 0,
+          "n_exemplar_images": 0,
+          "n_specimen_images": 5,
+          "max_images": 10,
+          "images_over_budget": false,
+          "prompt_chars": 2155
+        }
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 1611.719737000044
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 1611.719737000044,
+  "benchmark_metadata": {
+    "scientific_name": "Miconia simplex",
+    "family": "Melastomataceae",
+    "genus": "Miconia",
+    "species_epithet": "simplex",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

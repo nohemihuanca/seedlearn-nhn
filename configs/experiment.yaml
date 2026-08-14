@@ -1,0 +1,72 @@
+# Experiment Configuration for SimpleShot Few-Shot Learning
+
+# Dataset Configuration
+data:
+  catalog: "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/metadata/species_catalog_v2026-01-29_12K_20260129_123334.csv"
+  ranks:
+    - family  # 52 classes (Jan 29 re-sort, accepted taxonomy)
+    - species  # 164 classes (Jan 29 re-sort, accepted taxonomy)
+
+# Split Configuration
+splits:
+  train_ratio: 0.70
+  val_ratio: 0.15
+  test_ratio: 0.15
+  num_seeds: 5
+  start_seed: 42
+
+# Feature Extraction Configuration
+features:
+  model_str: "hf-hub:imageomics/bioclip-2"
+  batch_size: 32
+  normalize: true
+  cache_dir: "cache/features"
+
+# Few-Shot Learning Configuration
+few_shot:
+  # N-shot scenarios to test
+  k_shots:
+    - 1
+    - 5
+    - 10
+    - 20
+    - 50
+  # Number of support set samples per configuration
+  num_support_samples: 10
+  support_seeds:
+    - 42
+    - 123
+    - 456
+    - 789
+    - 1024
+
+# Compute Configuration
+compute:
+  # For feature extraction (GPU)
+  extraction:
+    device: "cuda"
+    batch_size: 32
+    time_limit: "04:00:00"  # 4 hours
+    memory: "32G"
+    gpus: 1
+
+  # For experiments (CPU sufficient with cached features)
+  experiment:
+    device: "cpu"
+    time_limit: "00:30:00"  # 30 minutes
+    memory: "16G"
+
+# Output Configuration
+output:
+  splits_dir: "splits"
+  cache_dir: "cache"
+  results_dir: "results"
+
+# Baselines to compare against (Oct 23 clean data)
+baselines:
+  blind:
+    family: 0.2387  # 23.87% accuracy
+    species: 0.0167  # 1.67% accuracy
+  closed_set:
+    family: 0.1349  # 13.49% accuracy
+    species: 0.1133  # 11.33% accuracy

@@ -1,0 +1,47 @@
+{
+  "specimen_id": "SRPSYCC12",
+  "source_answer_key": "Rubiaceae_Palicourea_violacea_SRPSYCC12",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "whorled",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "secondary veins very prominent and clearly visible, approximately 12\u201316 pairs per leaf, closely and evenly spaced, slightly arching toward the margin",
+            "surface_features": "glabrous, shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "unclear",
+            "trichomes": "unclear",
+            "color": "unclear",
+            "texture": "unclear"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "unclear",
+            "tendrils": "absent"
+          },
+          "notes": "Seedling displays a compact rosette-like arrangement of leaves at the apex and several leaves with small holes and speckling, but no specialized climbing or grasping structures are evident (interpretation based on all image angles of the same individual)"
+        }
+      }
+    }
+  }
+}

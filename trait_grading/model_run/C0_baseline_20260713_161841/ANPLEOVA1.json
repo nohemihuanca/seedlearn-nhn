@@ -1,0 +1,91 @@
+{
+  "specimen_id": "ANPLEOVA1",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Pleonotoma/by_species/variabilis/ANPLEOVA1/Bignoniaceae_Pleonotoma_variabilis_ANPLEOVA1_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Pleonotoma/by_species/variabilis/ANPLEOVA1/Bignoniaceae_Pleonotoma_variabilis_ANPLEOVA1_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Pleonotoma/by_species/variabilis/ANPLEOVA1/Bignoniaceae_Pleonotoma_variabilis_ANPLEOVA1_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Pleonotoma/by_species/variabilis/ANPLEOVA1/Bignoniaceae_Pleonotoma_variabilis_ANPLEOVA1_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Pleonotoma/by_species/variabilis/ANPLEOVA1/Bignoniaceae_Pleonotoma_variabilis_ANPLEOVA1_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "alternate",
+            "spacing": "distal"
+          },
+          "leaf_complexity": {
+            "type": "compound",
+            "compound_type": "odd-pinnate",
+            "num_leaflets": "7",
+            "leaflet_arrangement": "alternate"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "acute",
+            "base": "rounded",
+            "venation": "pinnate",
+            "secondary_veins": "visible, closely spaced, numerous",
+            "surface_features": "shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "absent",
+            "color": "green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Some leaflets show small holes and margin irregularities, likely due to physical damage or minor feeding; no signs of disease or discoloration. The seedling is small and young, with multiple compound leaves developing. The pink tag is an artificial marker, not part of the plant. All images show the same individual from different angles, confirming consistent morphology. No reproductive structures are visible."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): alternate (leaves are attached at successive nodes along the stem, alternating sides; no paired or whorled arrangement visible)\n    2. Leaf spacing (clustered / distal): distal (leaves are spaced out along the stem, not clustered at the apex or nodes)\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): compound (each leaf has multiple leaflets attached to a central rachis)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): odd-pinnate (leaflets arranged in pairs along a central axis with a single terminal leaflet; terminal leaflet present)\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): 7 (each compound leaf has 3 pairs of lateral leaflets plus one terminal leaflet, totaling 7 leaflets per leaf)\n    6. Leaflet arrangement (opposite / alternate / subopposite): alternate (leaflet pairs are arranged alternately along the rachis, not directly opposite each other)\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (margins are smooth with no visible teeth or serrations)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): elliptic (leaflets are broadly oval with a rounded base and tapering apex)\n    9. Leaf apex (acute, obtuse, acuminate): acute (apex is pointed but not sharply drawn out)\n    10. Leaf base (rounded, cordate, cuneate): rounded (base is gently curved, not tapered or heart-shaped)\n    11. Venation type (pinnate / palmate / parallel): pinnate (main vein runs lengthwise with lateral veins branching off at angles)\n    12. Secondary veins (visibility, spacing, number): visible, closely spaced, numerous (secondary veins are clearly visible, forming a dense network, running parallel to the margin)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): shiny (surface is glossy, reflecting light, likely due to moisture but also inherent surface texture)\n    14. Leaf surface trichomes (present / absent): absent (no visible hairs or fuzz on leaf surface; surface appears smooth)\n    15. Petiole length (short / long): short (petiole is short, attaching the compound leaf to the stem without a long stalk)\n    16. Petiole features (winged / grooved / terete): terete (petiole is round in cross-section, without wings or grooves)\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): herbaceous (stem is green, flexible, and not woody; typical of young seedlings)\n    18. Stem trichomes (present / absent): absent (no visible hairs on stem surface; smooth texture)\n    19. Stem color: green (stem is bright green, consistent with young, photosynthetic tissue)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (surface is smooth without ridges or lenticels)\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules observed at leaf bases; node junctions appear clean)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no latex exudate visible when stem or leaf is damaged)\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no swollen joint or pulvinus visible at leaflet or leaf base; not applicable unless in Fabaceae, but not observed)\n    24. Tendrils (present / absent): absent (no tendrils present; plant is not climbing)\nF. Notes: Some leaflets show small holes and margin irregularities, likely due to physical damage or minor feeding; no signs of disease or discoloration. The seedling is small and young, with multiple compound leaves developing. The pink tag is an artificial marker, not part of the plant. All images show the same individual from different angles, confirming consistent morphology. No reproductive structures are visible. \n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 22163.11811702326
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 22163.11811702326,
+  "benchmark_metadata": {
+    "scientific_name": "Pleonotoma variabilis",
+    "family": "Bignoniaceae",
+    "genus": "Pleonotoma",
+    "species_epithet": "variabilis",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

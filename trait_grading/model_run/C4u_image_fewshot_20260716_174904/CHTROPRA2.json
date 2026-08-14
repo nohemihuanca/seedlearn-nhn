@@ -1,0 +1,72 @@
+{
+  "specimen_id": "CHTROPRA2",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Moraceae/by_genus/Trophis/by_species/racemosa/CHTROPRA2/Moraceae_Trophis_racemosa_CHTROPRA2_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Moraceae/by_genus/Trophis/by_species/racemosa/CHTROPRA2/Moraceae_Trophis_racemosa_CHTROPRA2_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Moraceae/by_genus/Trophis/by_species/racemosa/CHTROPRA2/Moraceae_Trophis_racemosa_CHTROPRA2_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Moraceae/by_genus/Trophis/by_species/racemosa/CHTROPRA2/Moraceae_Trophis_racemosa_CHTROPRA2_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Moraceae/by_genus/Trophis/by_species/racemosa/CHTROPRA2/Moraceae_Trophis_racemosa_CHTROPRA2_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {},
+          "leaf_complexity": {},
+          "leaf_morphology": {
+            "margin": "toothed"
+          },
+          "stem_traits": {},
+          "special_features": {},
+          "notes": "The leaf margins are clearly visible across all images. Close inspection reveals a consistent pattern of small, sharp teeth along the edges of the leaves, which classifies them as toothed. There are no deep indentations to suggest a lobed margin. Some leaves show minor insect damage (small holes), but the overall margin structure where intact is distinctly serrate."
+        },
+        "raw_response": "C. Leaf Morphology\n    7.\tLeaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): toothed (finely serrate with small, forward-pointing teeth along the entire margin)\nF. Notes: The leaf margins are clearly visible across all images. Close inspection reveals a consistent pattern of small, sharp teeth along the edges of the leaves, which classifies them as toothed. There are no deep indentations to suggest a lobed margin. Some leaves show minor insect damage (small holes), but the overall margin structure where intact is distinctly serrate.\n\n####",
+        "thinking": null,
+        "few_shot_delivery": {
+          "n_examples": 1,
+          "n_exemplar_images": 3,
+          "n_specimen_images": 5,
+          "max_images": 10,
+          "images_over_budget": false,
+          "prompt_chars": 2155
+        }
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 1728.6914470000738
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 1728.6914470000738,
+  "benchmark_metadata": {
+    "scientific_name": "Trophis racemosa",
+    "family": "Moraceae",
+    "genus": "Trophis",
+    "species_epithet": "racemosa",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

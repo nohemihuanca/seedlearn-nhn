@@ -1,0 +1,47 @@
+{
+  "specimen_id": "SRBANICO6",
+  "source_answer_key": "Malpighiaceae_Bronwenia_cornifolia_SRBANICO6",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "opposite",
+            "spacing": "distal"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "clearly visible, approximately 7\u201310 pairs per leaf, moderately closely spaced and fairly regular, curving toward the margin",
+            "surface_features": "glabrous, slightly shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "light brown to light green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "unclear",
+            "tendrils": "absent"
+          },
+          "notes": "Leaves simple, elliptic to narrowly elliptic with entire margins and prominent pinnate venation (leaf outlines and venation clearly visible); leaf arrangement along the stem unclear (nodes partially obscured so relative position cannot be confidently assessed); several leaves show holes and missing margin portions (lamina damage clearly visible)."
+        }
+      }
+    }
+  }
+}

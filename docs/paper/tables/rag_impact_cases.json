@@ -1,0 +1,90 @@
+{
+  "helped": [
+    {
+      "specimen_id": "MECNESRU5",
+      "ground_truth": "Connaraceae",
+      "with_rag": "Connaraceae",
+      "without_rag": "Fabaceae"
+    },
+    {
+      "specimen_id": "OLPEREXA6",
+      "ground_truth": "Moraceae",
+      "with_rag": "Moraceae",
+      "without_rag": "Elaeocarpaceae"
+    }
+  ],
+  "hurt": [
+    {
+      "specimen_id": "ANFARAOC4",
+      "ground_truth": "Rubiaceae",
+      "with_rag": "Meliaceae",
+      "without_rag": "Rubiaceae"
+    },
+    {
+      "specimen_id": "BAR0334",
+      "ground_truth": "Convolvulaceae",
+      "with_rag": "Lecythidaceae",
+      "without_rag": "Convolvulaceae"
+    },
+    {
+      "specimen_id": "BAR0393",
+      "ground_truth": "Bignoniaceae",
+      "with_rag": "Celastraceae",
+      "without_rag": "Bignoniaceae"
+    },
+    {
+      "specimen_id": "BAR0512",
+      "ground_truth": "Bignoniaceae",
+      "with_rag": "Connaraceae",
+      "without_rag": "Bignoniaceae"
+    },
+    {
+      "specimen_id": "BAR0543",
+      "ground_truth": "Fabaceae",
+      "with_rag": "Moraceae",
+      "without_rag": "Fabaceae"
+    },
+    {
+      "specimen_id": "BVMAYTSC10",
+      "ground_truth": "Celastraceae",
+      "with_rag": "Clusiaceae",
+      "without_rag": "Celastraceae"
+    },
+    {
+      "specimen_id": "BVPHRYCO4",
+      "ground_truth": "Bignoniaceae",
+      "with_rag": "Myristicaceae",
+      "without_rag": "Bignoniaceae"
+    },
+    {
+      "specimen_id": "CHANNOHA6",
+      "ground_truth": "Annonaceae",
+      "with_rag": "Sapindaceae",
+      "without_rag": "Annonaceae"
+    },
+    {
+      "specimen_id": "CHCALLLA7",
+      "ground_truth": "Bignoniaceae",
+      "with_rag": "Sapindaceae",
+      "without_rag": "Bignoniaceae"
+    },
+    {
+      "specimen_id": "CHFARAOC2",
+      "ground_truth": "Rubiaceae",
+      "with_rag": "Moraceae",
+      "without_rag": "Rubiaceae"
+    },
+    {
+      "specimen_id": "CHPAR1PY3",
+      "ground_truth": "Bignoniaceae",
+      "with_rag": "Lacistemataceae",
+      "without_rag": "Bignoniaceae"
+    },
+    {
+      "specimen_id": "OLSTIZRI1",
+      "ground_truth": "Bignoniaceae",
+      "with_rag": "Connaraceae",
+      "without_rag": "Bignoniaceae"
+    }
+  ]
+}

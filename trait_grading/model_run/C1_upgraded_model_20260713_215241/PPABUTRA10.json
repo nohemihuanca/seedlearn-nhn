@@ -1,0 +1,91 @@
+{
+  "specimen_id": "PPABUTRA10",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Menispermaceae/by_genus/Abuta/by_species/racemosa/PPABUTRA10/Menispermaceae_Abuta_racemosa_PPABUTRA10_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Menispermaceae/by_genus/Abuta/by_species/racemosa/PPABUTRA10/Menispermaceae_Abuta_racemosa_PPABUTRA10_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Menispermaceae/by_genus/Abuta/by_species/racemosa/PPABUTRA10/Menispermaceae_Abuta_racemosa_PPABUTRA10_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Menispermaceae/by_genus/Abuta/by_species/racemosa/PPABUTRA10/Menispermaceae_Abuta_racemosa_PPABUTRA10_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Menispermaceae/by_genus/Abuta/by_species/racemosa/PPABUTRA10/Menispermaceae_Abuta_racemosa_PPABUTRA10_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "opposite",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "ovate",
+            "apex": "acute",
+            "base": "cordate",
+            "venation": "palmate",
+            "secondary_veins": "prominent and clearly visible",
+            "surface_features": "rugose",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "absent",
+            "color": "green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "The seedling exhibits heteroblasty, with a large, deeply lobed juvenile leaf present in the background (likely belonging to a different plant species) and a smaller, unlobed juvenile leaf partially visible in some frames. The target seedling has cordate, palmately-veined leaves."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): opposite (multiple images show distinct pairs of leaves emerging from the same node along the stem)\n    2. Leaf spacing (clustered / distal): clustered (leaves are grouped relatively closely at the apex of the visible stem section)\nB. Leaf Complexity\n    3.\tLeaf complexity (simple / compound): simple (each leaf unit is a single blade attached to the stem by a petiole, not composed of leaflets)\n    4.\tCompound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): N/A\n    5.\tNumber of leaflets (integer estimate 2, 4, 8, \u2026): N/A\n    6.\tLeaflet arrangement (opposite / alternate / subopposite): N/A\nC. Leaf Morphology\n    7.\tLeaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (leaf edges appear smooth without serrations or lobes)\n    8.\tLeaf shape (elliptic, obovate, lanceolate, etc.): ovate (leaves are broadly egg-shaped, widest below the middle)\n    9.\tLeaf apex (acute, obtuse, acuminate): acute (the tip tapers to a distinct point)\n    10.\tLeaf base (rounded, cordate, cuneate): cordate (the base is clearly heart-shaped with lobes extending outward)\n    11.\tVenation type (pinnate / palmate / parallel): palmate (multiple main veins are clearly visible originating from the point where the petiole meets the leaf blade)\n    12.\tSecondary veins (visibility, spacing, number): prominent and clearly visible (the veins create a distinct, raised, net-like pattern across the leaf surface)\n    13.\tLeaf surface features (glabrous, shiny, dull, rugose): rugose (the surface is noticeably wrinkled and uneven due to the prominent venation)\n    14.\tLeaf surface trichomes (present / absent): absent (the leaf surface appears smooth and hairless)\n    15.\tPetiole length (short / long): short (the petioles are relatively short compared to the leaf blade size)\n    16.\tPetiole features (winged / grooved / terete): terete (the petioles appear cylindrical and rounded in cross-section)\nD. Stem & Shoot Traits\n    17.\tStem type, may not be visible (woody / herbaceous): herbaceous (the stem appears thin, green, and non-woody)\n    18.\tStem trichomes (present / absent): absent (the stem appears smooth and hairless)\n    19.\tStem color: green\n    20.\tStem texture (smooth / ridged / lenticellate): smooth\nE. Other Visible Seedling Traits\n    21.\tStipules, sometimes visible only in close-up images (present / absent): absent (no stipules are visible at the leaf nodes)\n    22.\tLatex, rarely visible but extremely diagnostic when present (present / not observed): not observed\n    23.\tPulvinus, for Fabaceae family only (present / absent): absent (no pulvinus is visible at the leaf base)\n    24.\tTendrils (present / absent): absent\nF. Notes: The seedling exhibits heteroblasty, with a large, deeply lobed juvenile leaf present in the background (likely belonging to a different plant species) and a smaller, unlobed juvenile leaf partially visible in some frames. The target seedling has cordate, palmately-veined leaves.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 4735.382558312267
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 4735.382558312267,
+  "benchmark_metadata": {
+    "scientific_name": "Abuta racemosa",
+    "family": "Menispermaceae",
+    "genus": "Abuta",
+    "species_epithet": "racemosa",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

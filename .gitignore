@@ -1,0 +1,55 @@
+# Data (symlinked to NFS, not versioned)
+# Includes: embeddings, splits, experiments, traits, STRI scraper HTML cache
+data/*
+
+# Virtual environments
+.conda/*
+.venv/*
+seedlearn_venv/*
+seedlearn_env/
+
+# Python
+__pycache__/
+*.pyc
+
+# Tool caches
+.pytest_cache/
+.ruff_cache/
+
+# Results and outputs (ephemeral, stored on NFS)
+_results/
+_*/
+results/
+tests/benchmarks/results/
+**/outputs/*
+
+# Runtime logs (SLURM output, pipeline logs)
+logs/
+
+# Secrets and local config
+.env
+.claude/
+.ssh/
+
+# Personal notes
+**/mynotes.txt
+scraps/
+obsolete/
+
+# Coverage
+.coverage
+htmlcov/
+
+# Ad-hoc shell scripts (committed scripts use explicit names)
+run_*.sh
+
+# Paper specimen photos (large binaries, keep local only)
+docs/paper/figures/specimen_example_*.png
+.venv-vllm017/
+
+# AI assistant / reindex artifacts (NEVER COMMIT — global rule #1)
+**/CLAUDE.md
+**/CLAUDE_*.md
+CLAUDE.md
+/index.md
+/wiki/

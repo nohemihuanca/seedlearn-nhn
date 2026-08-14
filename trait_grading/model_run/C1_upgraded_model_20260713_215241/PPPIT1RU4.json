@@ -1,0 +1,91 @@
+{
+  "specimen_id": "PPPIT1RU4",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Cojoba/by_species/rufescens/PPPIT1RU4/Fabaceae_Cojoba_rufescens_PPPIT1RU4_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Cojoba/by_species/rufescens/PPPIT1RU4/Fabaceae_Cojoba_rufescens_PPPIT1RU4_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Cojoba/by_species/rufescens/PPPIT1RU4/Fabaceae_Cojoba_rufescens_PPPIT1RU4_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Cojoba/by_species/rufescens/PPPIT1RU4/Fabaceae_Cojoba_rufescens_PPPIT1RU4_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Cojoba/by_species/rufescens/PPPIT1RU4/Fabaceae_Cojoba_rufescens_PPPIT1RU4_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "opposite",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "compound",
+            "compound_type": "odd-pinnate",
+            "num_leaflets": "11",
+            "leaflet_arrangement": "opposite"
+          },
+          "leaf_morphology": {
+            "margin": "toothed",
+            "shape": "lanceolate",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "clearly visible and spaced",
+            "surface_features": "rugose",
+            "trichomes": "absent",
+            "petiole_length": "long",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "absent",
+            "color": "green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "The leaflets exhibit distinct damage in the form of holes along the margins and irregularities in the leaf blade."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): opposite (multiple leaflets are clearly seen attached in pairs along the rachis in all images)\n    2. Leaf spacing (clustered / distal): clustered (leaflets are densely arranged along the rachis, appearing crowded)\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): compound (the leaf is clearly divided into multiple distinct leaflets)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): odd-pinnate (a terminal leaflet is present at the apex of the leaf structure)\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): 11 (multiple leaves are visible; the most complete leaflets count is 11)\n    6. Leaflet arrangement (opposite / alternate / subopposite): opposite (leaflets are paired along the rachis)\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.): toothed (distinct, rounded teeth are visible along the margins)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): lanceolate (leaflets are elongated with the widest part near the base and tapering toward the tip)\n    9. Leaf apex (acute, obtuse, acuminate): acute (the tips of the leaflets come to a distinct, sharp point)\n    10. Leaf base (rounded, cordate, cuneate): cuneate (the base of the leaflets tapers to the attachment point)\n    11. Venation type (pinnate / palmate / parallel): pinnate (a central midrib is visible with veins branching off to the sides)\n    12. Secondary veins (visibility, spacing, number): clearly visible and spaced (distinct veins branch off the midrib at an angle)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): rugose (the leaf surface appears textured with sunken veins creating a wrinkled appearance)\n    14. Leaf surface trichomes (present / absent): absent (the surface appears smooth without visible hairs)\n    15. Petiole length (short / long): long (the rachis extending the leaflets is quite long)\n    16. Petiole features (winged / grooved / terete): terete (the rachis appears round in cross-section)\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): herbaceous (the stem appears green and flexible)\n    18. Stem trichomes (present / absent): absent (no hairs are visible on the stem)\n    19. Stem color: green (the visible stem is green)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (the stem surface appears smooth)\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules are visible at the base of the petioles)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no pulvinus is visible)\n    24. Tendrils (present / absent): absent (no tendrils are present)\nF. Notes: The leaflets exhibit distinct damage in the form of holes along the margins and irregularities in the leaf blade.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 4653.770539909601
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 4653.770539909601,
+  "benchmark_metadata": {
+    "scientific_name": "Cojoba rufescens",
+    "family": "Fabaceae",
+    "genus": "Cojoba",
+    "species_epithet": "rufescens",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

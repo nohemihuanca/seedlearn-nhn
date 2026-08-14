@@ -1,0 +1,72 @@
+{
+  "specimen_id": "SRPSYCC12",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rubiaceae/by_genus/Palicourea/by_species/violacea/SRPSYCC12/Rubiaceae_Palicourea_violacea_SRPSYCC12_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rubiaceae/by_genus/Palicourea/by_species/violacea/SRPSYCC12/Rubiaceae_Palicourea_violacea_SRPSYCC12_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rubiaceae/by_genus/Palicourea/by_species/violacea/SRPSYCC12/Rubiaceae_Palicourea_violacea_SRPSYCC12_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rubiaceae/by_genus/Palicourea/by_species/violacea/SRPSYCC12/Rubiaceae_Palicourea_violacea_SRPSYCC12_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rubiaceae/by_genus/Palicourea/by_species/violacea/SRPSYCC12/Rubiaceae_Palicourea_violacea_SRPSYCC12_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {},
+          "leaf_complexity": {},
+          "leaf_morphology": {
+            "margin": "entire"
+          },
+          "stem_traits": {},
+          "special_features": {},
+          "notes": "Some leaves show minor damage, such as small holes likely caused by insect feeding, but the natural leaf edge remains intact and smooth."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nC. Leaf Morphology\n    7.\tLeaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (The leaf margins are smooth and continuous along their entire length without any teeth, serrations, or lobes)\nF. Notes: Some leaves show minor damage, such as small holes likely caused by insect feeding, but the natural leaf edge remains intact and smooth.\n\n####",
+        "thinking": null,
+        "few_shot_delivery": {
+          "n_examples": 0,
+          "n_exemplar_images": 0,
+          "n_specimen_images": 5,
+          "max_images": 10,
+          "images_over_budget": false,
+          "prompt_chars": 2155
+        }
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 1564.4025419999252
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 1564.4025419999252,
+  "benchmark_metadata": {
+    "scientific_name": "Palicourea violacea",
+    "family": "Rubiaceae",
+    "genus": "Palicourea",
+    "species_epithet": "violacea",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "specimen_id": "OLALSEBL3",
+  "source_answer_key": "Rubiaceae_Alseis_blackiana_OLALSEBL3",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "unclear",
+            "spacing": "distal"
+          },
+          "leaf_complexity": {
+            "type": "compound",
+            "compound_type": "N/A",
+            "num_leaflets": "7",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic-lanceolate",
+            "apex": "acuminate",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "clearly visible, fairly evenly spaced, numerous",
+            "surface_features": "glabrous, shiny, slightly rugose",
+            "trichomes": "absent",
+            "petiole_length": "long",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "dark green to brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "unclear",
+            "tendrils": "absent"
+          },
+          "notes": "Palmately compound leaves are clearly visible, with one upper leaf showing about seven glossy leaflets; a lower leaf on the same seedling appears narrower but is partly obscured. Minor damage is present on some leaflets, including holes and small missing margin sections."
+        }
+      }
+    }
+  }
+}

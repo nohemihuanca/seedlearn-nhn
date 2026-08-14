@@ -1,0 +1,47 @@
+{
+  "specimen_id": "OLCROTBI2",
+  "source_answer_key": "Euphorbiaceae_Croton_billbergianus_OLCROTBI2",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "unclear",
+            "spacing": "distal"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "ovate",
+            "apex": "acute",
+            "base": "cordate",
+            "venation": "pinnate",
+            "secondary_veins": "secondary veins clearly visible, moderately close, c. 5\u20138 pairs",
+            "surface_features": "shiny",
+            "trichomes": "absent",
+            "petiole_length": "long",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "absent",
+            "color": "green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Seedling shows simple, glossy green leaves with cordate to broadly ovate blades and mostly entire margins; venation is clearly visible with curved secondary veins; some leaves have holes present and small portions of margin missing; stems appear thin and flexible, and the seedling is leaning against nearby material rather than using specialized climbing structures; stipules, if present, are too small or obscured to be confidently evaluated."
+        }
+      }
+    }
+  }
+}

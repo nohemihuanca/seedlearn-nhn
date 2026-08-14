@@ -1,0 +1,91 @@
+{
+  "specimen_id": "CHARDIPE7",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Primulaceae/by_genus/Ardisia/by_species/pellucida/CHARDIPE7/Primulaceae_Ardisia_pellucida_CHARDIPE7_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Primulaceae/by_genus/Ardisia/by_species/pellucida/CHARDIPE7/Primulaceae_Ardisia_pellucida_CHARDIPE7_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Primulaceae/by_genus/Ardisia/by_species/pellucida/CHARDIPE7/Primulaceae_Ardisia_pellucida_CHARDIPE7_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Primulaceae/by_genus/Ardisia/by_species/pellucida/CHARDIPE7/Primulaceae_Ardisia_pellucida_CHARDIPE7_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Primulaceae/by_genus/Ardisia/by_species/pellucida/CHARDIPE7/Primulaceae_Ardisia_pellucida_CHARDIPE7_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "whorled",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "toothed",
+            "shape": "obovate",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "prominent",
+            "surface_features": "rugose",
+            "trichomes": "present",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "present",
+            "color": "green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "The seedling has a cluster of small, round, brownish structures in the center of the leaf whorl, which appear to be developing flower buds or immature fruits. Several leaves show damage in the form of irregular holes. The overall appearance is of a young, robust seedling with distinct morphological features."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): whorled (multiple leaves are clearly attached at the same node in a radial arrangement around the central stem)\n    2. Leaf spacing (clustered / distal): clustered (leaves are tightly grouped at the terminal apex of the seedling)\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): simple (leaves are undivided blades)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): N/A\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): N/A\n    6. Leaflet arrangement (opposite / alternate / subopposite): N/A\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): toothed (fine, regular serrations are visible along the leaf margins)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): obovate (leaf is broadest near the apex and tapers towards the base)\n    9. Leaf apex (acute, obtuse, acuminate): acute (leaf tip comes to a distinct, relatively sharp point)\n    10. Leaf base (rounded, cordate, cuneate): cuneate (leaf base tapers abruptly to a wedge-like shape where it attaches to the petiole)\n    11. Venation type (pinnate / palmate / parallel): pinnate (a central midrib is visible with lateral veins branching off it)\n    12. Secondary veins (visibility, spacing, number): prominent (veins are clearly visible and form a distinct, somewhat reticulate pattern on the leaf surface)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): rugose (the leaf surface appears wrinkled and textured between the veins)\n    14. Leaf surface trichomes (present / absent): present (fine hairs are visible along the leaf margins and possibly the surface)\n    15. Petiole length (short / long): short (petioles are barely visible, indicating a very short length relative to the leaf blade)\n    16. Petiole features (winged / grooved / terete): terete (where visible, the petioles appear rounded)\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): herbaceous (the stem appears green and soft, typical of a young seedling)\n    18. Stem trichomes (present / absent): present (fine hairs are visible on the stem, particularly near the leaf attachment points)\n    19. Stem color: green (with some reddish/pinkish tinges at the nodes and inflorescence base)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (the stem appears relatively smooth without obvious ridges or lenticels)\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no distinct stipules are visible at the leaf bases)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no pulvinus is visible at the leaf base)\n    24. Tendrils (present / absent): absent\nF. Notes: The seedling has a cluster of small, round, brownish structures in the center of the leaf whorl, which appear to be developing flower buds or immature fruits. Several leaves show damage in the form of irregular holes. The overall appearance is of a young, robust seedling with distinct morphological features.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 4818.314099218696
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 4818.314099218696,
+  "benchmark_metadata": {
+    "scientific_name": "Ardisia pellucida",
+    "family": "Primulaceae",
+    "genus": "Ardisia",
+    "species_epithet": "pellucida",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

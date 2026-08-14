@@ -1,0 +1,47 @@
+{
+  "specimen_id": "BAR0350",
+  "source_answer_key": "Fabaceae_Senegalia_hayesii_BAR0350",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "alternate",
+            "spacing": "distal"
+          },
+          "leaf_complexity": {
+            "type": "compound",
+            "compound_type": "even-pinnate",
+            "num_leaflets": "20",
+            "leaflet_arrangement": "opposite"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "oblong",
+            "apex": "obtuse",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "faint, closely spaced, unclear count",
+            "surface_features": "slightly shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "green to brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "unclear",
+            "tendrils": "absent"
+          },
+          "notes": "The assessed individual is the pinnate-leaved seedling; a nearby simple-leaved stem is also present in the scene and appears separate. Larger leaves are darker green while newer leaves are paler green. Some leaflets show pale spotting and small holes or minor areas of margin missing."
+        }
+      }
+    }
+  }
+}

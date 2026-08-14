@@ -1,0 +1,91 @@
+{
+  "specimen_id": "SRRUELFU3",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Acanthaceae/by_genus/Ruellia/by_species/fulgida/SRRUELFU3/Acanthaceae_Ruellia_fulgida_SRRUELFU3_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Acanthaceae/by_genus/Ruellia/by_species/fulgida/SRRUELFU3/Acanthaceae_Ruellia_fulgida_SRRUELFU3_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Acanthaceae/by_genus/Ruellia/by_species/fulgida/SRRUELFU3/Acanthaceae_Ruellia_fulgida_SRRUELFU3_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Acanthaceae/by_genus/Ruellia/by_species/fulgida/SRRUELFU3/Acanthaceae_Ruellia_fulgida_SRRUELFU3_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Acanthaceae/by_genus/Ruellia/by_species/fulgida/SRRUELFU3/Acanthaceae_Ruellia_fulgida_SRRUELFU3_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "opposite",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "ovate",
+            "apex": "acuminate",
+            "base": "rounded",
+            "venation": "pinnate",
+            "secondary_veins": "visible, closely spaced, forming a reticulate pattern",
+            "surface_features": "rugose",
+            "trichomes": "present",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "present",
+            "color": "green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Holes are present on some of the lower leaves. The plant has a pink identification tag attached."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): opposite (clearly paired leaves attached at the same node are visible in multiple images)\n    2. Leaf spacing (clustered / distal): clustered (leaves are tightly grouped at the apex of the shoot)\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): simple (each leaf blade is undivided)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): N/A\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): N/A\n    6. Leaflet arrangement (opposite / alternate / subopposite): N/A\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.): entire (smooth margins visible on all leaf edges)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): ovate (broadest part is near the base, tapering to the apex)\n    9. Leaf apex (acute, obtuse, acuminate): acuminate (tapering to a distinct, elongated point)\n    10. Leaf base (rounded, cordate, cuneate): rounded (broad and rounded where the leaf meets the petiole)\n    11. Venation type (pinnate / palmate / parallel): pinnate (single midrib with secondary veins branching off)\n    12. Secondary veins (visibility, spacing, number): visible, closely spaced, forming a reticulate pattern\n    13. Leaf surface features (glabrous, shiny, dull, rugose): rugose (surface appears wrinkled or puckered due to prominent venation)\n    14. Leaf surface trichomes (present / absent): present (fine hairs are visible along the leaf margins and veins)\n    15. Petiole length (short / long): short (petioles are not elongated relative to the leaf blade)\n    16. Petiole features (winged / grooved / terete): terete (cylindrical cross-section)\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): herbaceous (appears soft and green, typical of a young seedling)\n    18. Stem trichomes (present / absent): present (hairs are visible on the stem, particularly in close-up views)\n    19. Stem color: green\n    20. Stem texture (smooth / ridged / lenticellate): smooth\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): unclear\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed\n    23. Pulvinus, for Fabaceae family only (present / absent): absent\n    24. Tendrils (present / absent): absent\nF. Notes: Holes are present on some of the lower leaves. The plant has a pink identification tag attached.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 4445.867204107344
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 4445.867204107344,
+  "benchmark_metadata": {
+    "scientific_name": "Ruellia fulgida",
+    "family": "Acanthaceae",
+    "genus": "Ruellia",
+    "species_epithet": "fulgida",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

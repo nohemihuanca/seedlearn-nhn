@@ -1,0 +1,91 @@
+{
+  "specimen_id": "ANROUPMO6",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Proteaceae/by_genus/Roupala/by_species/montana/ANROUPMO6/Proteaceae_Roupala_montana_ANROUPMO6_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Proteaceae/by_genus/Roupala/by_species/montana/ANROUPMO6/Proteaceae_Roupala_montana_ANROUPMO6_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Proteaceae/by_genus/Roupala/by_species/montana/ANROUPMO6/Proteaceae_Roupala_montana_ANROUPMO6_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Proteaceae/by_genus/Roupala/by_species/montana/ANROUPMO6/Proteaceae_Roupala_montana_ANROUPMO6_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Proteaceae/by_genus/Roupala/by_species/montana/ANROUPMO6/Proteaceae_Roupala_montana_ANROUPMO6_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "alternate",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "compound",
+            "compound_type": "odd-pinnate",
+            "num_leaflets": "16",
+            "leaflet_arrangement": "alternate"
+          },
+          "leaf_morphology": {
+            "margin": "toothed, serrate",
+            "shape": "lanceolate",
+            "apex": "acuminate",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "visible, pinnate arrangement with veins extending towards the margin",
+            "surface_features": "shiny",
+            "trichomes": "absent",
+            "petiole_length": "long",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "unclear",
+            "trichomes": "absent",
+            "color": "green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "The seedling exhibits bipinnate or tripinnate compound leaves with sharply serrated leaflets. The overall appearance is consistent with certain palm species (such as *Licuala*), which often display this type of pinnate leaf architecture in their juvenile stages."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): alternate (leaves are attached at successive nodes along the stem, alternating sides)\n    2. Leaf spacing (clustered / distal): clustered (leaves are grouped closely together at the tips of the stems)\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): compound (the leaf is divided into multiple distinct leaflets along a central axis)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): odd-pinnate (there is a single terminal leaflet at the apex of the rachis)\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): 16 (estimated based on multiple views showing approximately 8 leaflet pairs plus a terminal leaflet)\n    6. Leaflet arrangement (opposite / alternate / subopposite): alternate (leaflets are attached at different points along the rachis, not in perfect pairs)\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.): toothed, serrate (margins have sharp, saw-like teeth pointing forward)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): lanceolate (leaflets are long and narrow, widest near the base and tapering to the tip)\n    9. Leaf apex (acute, obtuse, acuminate): acuminate (leaflets taper to a slender, pointed tip)\n    10. Leaf base (rounded, cordate, cuneate): cuneate (leaflets are wedge-shaped, narrowing towards the attachment point)\n    11. Venation type (pinnate / palmate / parallel): pinnate (secondary veins branch off from a central midrib)\n    12. Secondary veins (visibility, spacing, number): visible, pinnate arrangement with veins extending towards the margin\n    13. Leaf surface features (glabrous, shiny, dull, rugose): shiny (leaves reflect light, indicating a smooth, glossy surface)\n    14. Leaf surface trichomes (present / absent): absent (no hairs are visible on the leaf surface)\n    15. Petiole length (short / long): long (the petiole is a distinct, elongated stalk connecting the leaf blade to the stem)\n    16. Petiole features (winged / grooved / terete): terete (the petiole appears cylindrical and round in cross-section)\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): unclear (the main stem base is not clearly visible to determine if it is woody or herbaceous)\n    18. Stem trichomes (present / absent): absent (no hairs are visible on the visible parts of the stem)\n    19. Stem color: green (the visible stems and rachises are green)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (the stem surface appears uniform and lacks prominent ridges or lenticels)\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules are visible at the leaf bases)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no swollen joint-like structure is visible at the leaf base)\n    24. Tendrils (present / absent): absent (no tendrils are observed)\nF. Notes: The seedling exhibits bipinnate or tripinnate compound leaves with sharply serrated leaflets. The overall appearance is consistent with certain palm species (such as *Licuala*), which often display this type of pinnate leaf architecture in their juvenile stages.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 4897.716257255524
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 4897.716257255524,
+  "benchmark_metadata": {
+    "scientific_name": "Roupala montana",
+    "family": "Proteaceae",
+    "genus": "Roupala",
+    "species_epithet": "montana",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

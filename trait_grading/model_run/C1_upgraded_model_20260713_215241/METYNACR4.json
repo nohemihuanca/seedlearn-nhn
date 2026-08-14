@@ -1,0 +1,91 @@
+{
+  "specimen_id": "METYNACR4",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Tynanthus/by_species/croatianus/METYNACR4/Bignoniaceae_Tynanthus_croatianus_METYNACR4_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Tynanthus/by_species/croatianus/METYNACR4/Bignoniaceae_Tynanthus_croatianus_METYNACR4_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Tynanthus/by_species/croatianus/METYNACR4/Bignoniaceae_Tynanthus_croatianus_METYNACR4_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Tynanthus/by_species/croatianus/METYNACR4/Bignoniaceae_Tynanthus_croatianus_METYNACR4_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Tynanthus/by_species/croatianus/METYNACR4/Bignoniaceae_Tynanthus_croatianus_METYNACR4_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "opposite",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "compound",
+            "compound_type": "odd-pinnate",
+            "num_leaflets": "5",
+            "leaflet_arrangement": "alternate"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "ovate",
+            "apex": "acute",
+            "base": "rounded",
+            "venation": "pinnate",
+            "secondary_veins": "clearly visible, spaced regularly, numerous",
+            "surface_features": "glabrous",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "absent",
+            "color": "green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "One of the lower leaflets exhibits a distinct hole in the leaf blade."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): opposite (clearly visible paired leaves attached at the same node along the stem in multiple views)\n    2. Leaf spacing (clustered / distal): clustered (leaves are grouped closely together at the apex of the shoot system)\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): compound (each leaf unit is divided into multiple distinct leaflets)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): odd-pinnate (each leaf has a terminal leaflet at the apex of the rachis)\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): 5 (consistently observed five leaflets per leaf in all images)\n    6. Leaflet arrangement (opposite / alternate / subopposite): alternate (leaflets are attached at different points along the rachis, not strictly in pairs)\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.): entire (leaf edges are smooth without teeth or serrations)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): ovate (leaflets are broadly egg-shaped, widest below the middle)\n    9. Leaf apex (acute, obtuse, acuminate): acute (leaf tips taper to a distinct point)\n    10. Leaf base (rounded, cordate, cuneate): rounded (leaf bases are generally circular or blunt)\n    11. Venation type (pinnate / palmate / parallel): pinnate (single midrib with veins branching off to the sides)\n    12. Secondary veins (visibility, spacing, number): clearly visible, spaced regularly, numerous\n    13. Leaf surface features (glabrous, shiny, dull, rugose): glabrous (surfaces appear smooth and hairless)\n    14. Leaf surface trichomes (present / absent): absent (no visible hairs on leaf surfaces)\n    15. Petiole length (short / long): short (petioles connecting leaflets to the rachis are visibly brief)\n    16. Petiole features (winged / grooved / terete): terete (petioles appear rounded in cross-section)\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): herbaceous (stem appears green, soft, and non-woody)\n    18. Stem trichomes (present / absent): absent (stem surface appears smooth)\n    19. Stem color: green\n    20. Stem texture (smooth / ridged / lenticellate): smooth (no visible ridges, lenticels, or roughness)\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules visible at leaf nodes)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no visible swelling at the base of the leaflets or petioles)\n    24. Tendrils (present / absent): absent (no tendrils are visible)\nF. Notes: One of the lower leaflets exhibits a distinct hole in the leaf blade.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 4727.584560867399
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 4727.584560867399,
+  "benchmark_metadata": {
+    "scientific_name": "Tynanthus croatianus",
+    "family": "Bignoniaceae",
+    "genus": "Tynanthus",
+    "species_epithet": "croatianus",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "specimen_id": "CHFORSVI6",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Apocynaceae/by_genus/Forsteronia/by_species/acouci/CHFORSVI6/Apocynaceae_Forsteronia_acouci_CHFORSVI6_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Apocynaceae/by_genus/Forsteronia/by_species/acouci/CHFORSVI6/Apocynaceae_Forsteronia_acouci_CHFORSVI6_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Apocynaceae/by_genus/Forsteronia/by_species/acouci/CHFORSVI6/Apocynaceae_Forsteronia_acouci_CHFORSVI6_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Apocynaceae/by_genus/Forsteronia/by_species/acouci/CHFORSVI6/Apocynaceae_Forsteronia_acouci_CHFORSVI6_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Apocynaceae/by_genus/Forsteronia/by_species/acouci/CHFORSVI6/Apocynaceae_Forsteronia_acouci_CHFORSVI6_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {},
+          "leaf_complexity": {},
+          "leaf_morphology": {
+            "margin": "[entire"
+          },
+          "stem_traits": {},
+          "special_features": {},
+          "notes": "[The plant displays a whorled leaf arrangement. While some leaves show minor physical damage from insects (torn edges), the natural margin of the intact leaf blades is smooth.]"
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nC. Leaf Morphology\n    7.\tLeaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): [entire (the leaf blades exhibit a smooth, continuous edge without any teeth, serrations, or lobes)]\nF. Notes: [The plant displays a whorled leaf arrangement. While some leaves show minor physical damage from insects (torn edges), the natural margin of the intact leaf blades is smooth.]\n####",
+        "thinking": null,
+        "few_shot_delivery": {
+          "n_examples": 0,
+          "n_exemplar_images": 0,
+          "n_specimen_images": 5,
+          "max_images": 10,
+          "images_over_budget": false,
+          "prompt_chars": 2155
+        }
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 1624.987003000001
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 1624.987003000001,
+  "benchmark_metadata": {
+    "scientific_name": "Forsteronia acouci",
+    "family": "Apocynaceae",
+    "genus": "Forsteronia",
+    "species_epithet": "acouci",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

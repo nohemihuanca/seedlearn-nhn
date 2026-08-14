@@ -1,0 +1,91 @@
+{
+  "specimen_id": "MEMACHM29",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Machaerium/by_species/milleflorum/MEMACHM29/Fabaceae_Machaerium_milleflorum_MEMACHM29_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Machaerium/by_species/milleflorum/MEMACHM29/Fabaceae_Machaerium_milleflorum_MEMACHM29_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Machaerium/by_species/milleflorum/MEMACHM29/Fabaceae_Machaerium_milleflorum_MEMACHM29_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Machaerium/by_species/milleflorum/MEMACHM29/Fabaceae_Machaerium_milleflorum_MEMACHM29_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Machaerium/by_species/milleflorum/MEMACHM29/Fabaceae_Machaerium_milleflorum_MEMACHM29_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "alternate",
+            "spacing": "distal"
+          },
+          "leaf_complexity": {
+            "type": "compound",
+            "compound_type": "odd-pinnate",
+            "num_leaflets": "8",
+            "leaflet_arrangement": "opposite"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "acute",
+            "base": "rounded",
+            "venation": "pinnate",
+            "secondary_veins": "visible, closely spaced, numerous",
+            "surface_features": "dull",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "brown",
+            "texture": "ridged"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Some leaflets show small holes, likely from mechanical damage or minor abrasion, but no clear evidence of insect herbivory. The seedling is growing against a decaying tree trunk with moist, dark soil. Multiple images confirm consistent morphology across angles. The compound leaf structure with odd-pinnate arrangement and elliptic leaflets is consistent throughout. No flowers or fruits are visible. The stem appears young but woody, with a slightly ridged texture."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): alternate (leaves are attached at successive nodes along the stem, alternating sides; no paired or clustered arrangement visible)\n    2. Leaf spacing (clustered / distal): distal (leaves are spaced out along the stem, not clustered at the apex or base)\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): compound (each leaf consists of multiple leaflets arranged along a central axis)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): odd-pinnate (leaflets arranged in pairs along the rachis with a single terminal leaflet; terminal leaflet visible in some images)\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): 8 (estimated per leaf; each leaf has approximately 8 pairs of leaflets plus a terminal leaflet, totaling ~17 leaflets per leaf; closest integer from options is 8 for paired count, but full count is ~17; however, per instructions, use integer estimate from 2, 4, 8, etc. \u2014 8 is most appropriate as it reflects the paired structure; note: 17 is not an option, so 8 is best fit for paired count)\n    6. Leaflet arrangement (opposite / alternate / subopposite): opposite (leaflets are arranged in pairs along the rachis, directly across from each other)\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (margins are smooth without teeth or serrations)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): elliptic (leaflets are broadest at the middle and taper to both ends)\n    9. Leaf apex (acute, obtuse, acuminate): acute (apex is sharply pointed)\n    10. Leaf base (rounded, cordate, cuneate): rounded (base of leaflets is gently curved)\n    11. Venation type (pinnate / palmate / parallel): pinnate (main vein runs lengthwise with secondary veins branching off at angles)\n    12. Secondary veins (visibility, spacing, number): visible, closely spaced, numerous (secondary veins are clearly visible, run parallel to each other, and are closely packed)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): dull (surface appears matte, not glossy or shiny)\n    14. Leaf surface trichomes (present / absent): absent (no visible hairs or trichomes on leaf surface)\n    15. Petiole length (short / long): short (petiole is relatively short compared to leaflet length)\n    16. Petiole features (winged / grooved / terete): terete (petiole is round in cross-section, not flattened or winged)\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): woody (stem is firm, brown, and appears lignified, typical of young woody plant)\n    18. Stem trichomes (present / absent): absent (no visible hairs on stem surface)\n    19. Stem color: brown (stem is dark brown, with some reddish-brown tones)\n    20. Stem texture (smooth / ridged / lenticellate): ridged (stem surface has slight longitudinal ridges or grooves)\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules visible at leaf bases)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no latex exudate visible when stem is broken or damaged)\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no swollen joints at base of leaflets or petiole; pulvinus not visible)\n    24. Tendrils (present / absent): absent (no modified stems or leaves functioning as tendrils)\nF. Notes: Some leaflets show small holes, likely from mechanical damage or minor abrasion, but no clear evidence of insect herbivory. The seedling is growing against a decaying tree trunk with moist, dark soil. Multiple images confirm consistent morphology across angles. The compound leaf structure with odd-pinnate arrangement and elliptic leaflets is consistent throughout. No flowers or fruits are visible. The stem appears young but woody, with a slightly ridged texture. \n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 23112.155579030514
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 23112.155579030514,
+  "benchmark_metadata": {
+    "scientific_name": "Machaerium milleflorum",
+    "family": "Fabaceae",
+    "genus": "Machaerium",
+    "species_epithet": "milleflorum",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

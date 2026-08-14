@@ -1,0 +1,72 @@
+{
+  "specimen_id": "SRLISIJE1",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Gentianaceae/by_genus/Lisianthius/by_species/jefensis/SRLISIJE1/Gentianaceae_Lisianthius_jefensis_SRLISIJE1_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Gentianaceae/by_genus/Lisianthius/by_species/jefensis/SRLISIJE1/Gentianaceae_Lisianthius_jefensis_SRLISIJE1_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Gentianaceae/by_genus/Lisianthius/by_species/jefensis/SRLISIJE1/Gentianaceae_Lisianthius_jefensis_SRLISIJE1_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Gentianaceae/by_genus/Lisianthius/by_species/jefensis/SRLISIJE1/Gentianaceae_Lisianthius_jefensis_SRLISIJE1_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Gentianaceae/by_genus/Lisianthius/by_species/jefensis/SRLISIJE1/Gentianaceae_Lisianthius_jefensis_SRLISIJE1_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {},
+          "leaf_complexity": {},
+          "leaf_morphology": {
+            "margin": "[toothed"
+          },
+          "stem_traits": {},
+          "special_features": {},
+          "notes": "[Close-up views confirm the leaf margins are lined with fine, sharp teeth angled toward the apex, characteristic of a serrate margin. Some minor insect damage is present but the serrated edge is clearly visible along the intact portions of the leaves.]"
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nC. Leaf Morphology\n    7.\tLeaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): [toothed (serrate)]\nF. Notes: [Close-up views confirm the leaf margins are lined with fine, sharp teeth angled toward the apex, characteristic of a serrate margin. Some minor insect damage is present but the serrated edge is clearly visible along the intact portions of the leaves.]\n####",
+        "thinking": null,
+        "few_shot_delivery": {
+          "n_examples": 1,
+          "n_exemplar_images": 3,
+          "n_specimen_images": 5,
+          "max_images": 10,
+          "images_over_budget": false,
+          "prompt_chars": 2155
+        }
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 1634.36095499992
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 1634.36095499992,
+  "benchmark_metadata": {
+    "scientific_name": "Lisianthius jefensis",
+    "family": "Gentianaceae",
+    "genus": "Lisianthius",
+    "species_epithet": "jefensis",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

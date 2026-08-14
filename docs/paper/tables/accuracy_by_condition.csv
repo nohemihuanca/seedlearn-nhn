@@ -1,0 +1,5 @@
+condition,name,final_top1,visual_top1,visual_top3,visual_top5,n
+A,full,0.8800,0.6550,0.8800,0.9400,200
+B,no_rag,0.9300,0.6550,0.8800,0.9400,200
+C,visual_only,0.9550,0.6550,0.8800,0.9400,200
+D,baseline,0.6200,0.6200,0.8400,0.9400,50

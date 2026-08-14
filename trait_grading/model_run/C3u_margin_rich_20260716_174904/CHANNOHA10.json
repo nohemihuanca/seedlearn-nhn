@@ -1,0 +1,72 @@
+{
+  "specimen_id": "CHANNOHA10",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Annonaceae/by_genus/Annona/by_species/hayesii/CHANNOHA10/Annonaceae_Annona_hayesii_CHANNOHA10_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Annonaceae/by_genus/Annona/by_species/hayesii/CHANNOHA10/Annonaceae_Annona_hayesii_CHANNOHA10_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Annonaceae/by_genus/Annona/by_species/hayesii/CHANNOHA10/Annonaceae_Annona_hayesii_CHANNOHA10_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Annonaceae/by_genus/Annona/by_species/hayesii/CHANNOHA10/Annonaceae_Annona_hayesii_CHANNOHA10_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Annonaceae/by_genus/Annona/by_species/hayesii/CHANNOHA10/Annonaceae_Annona_hayesii_CHANNOHA10_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {},
+          "leaf_complexity": {},
+          "leaf_morphology": {
+            "margin": "[entire"
+          },
+          "stem_traits": {},
+          "special_features": {},
+          "notes": "[The leaf margins are extensively damaged by insect herbivory, characterized by large, irregular holes and missing sections. The classification is based on the undamaged portions of the leaf blade visible in the images, which exhibit a smooth edge.]"
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nC. Leaf Morphology\n    7.\tLeaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): [entire (the visible, intact portions of the leaf margins are smooth and continuous, lacking any teeth, serrations, or lobes)]\nF. Notes: [The leaf margins are extensively damaged by insect herbivory, characterized by large, irregular holes and missing sections. The classification is based on the undamaged portions of the leaf blade visible in the images, which exhibit a smooth edge.]\n####",
+        "thinking": null,
+        "few_shot_delivery": {
+          "n_examples": 0,
+          "n_exemplar_images": 0,
+          "n_specimen_images": 5,
+          "max_images": 10,
+          "images_over_budget": false,
+          "prompt_chars": 2155
+        }
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 1675.4929130000846
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 1675.4929130000846,
+  "benchmark_metadata": {
+    "scientific_name": "Annona hayesii",
+    "family": "Annonaceae",
+    "genus": "Annona",
+    "species_epithet": "hayesii",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

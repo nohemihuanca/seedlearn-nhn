@@ -1,0 +1,11 @@
+{
+  "external": true,
+  "label": "K0_gpt-5.1_all-traits",
+  "model": "gpt-5.1",
+  "granularity": "all_traits",
+  "prompt_style": "sys4",
+  "source_json": "/tmp/claude-16293/-nfs-roberts-project-pi-lsc4-lmb242-seedlearn/a08a416a-2acf-4f7e-bc2f-a2adcfc9eeb8/scratchpad/cb/workshop_pipeline/step_1_cloudbank/results/gpt-5.1/sys4_user1_results.json",
+  "n_specimens": 114,
+  "prompt_file": "configs/experiments/gpt_workshop_sys4_prompt.txt",
+  "prompt_note": "Full SYSTEM_PROMPT_4 (--sys_prompt_id=4); all 24 traits asked in one call. Same prompt and granularity as K1 -- the two differ only in model, so K0-vs-K1 isolates gpt-5.1 vs gpt-5.4."
+}

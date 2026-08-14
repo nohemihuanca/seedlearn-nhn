@@ -1,0 +1,47 @@
+{
+  "specimen_id": "PPSTYLTU5",
+  "source_answer_key": "Primulaceae_Stylogyne_turbacensis_PPSTYLTU5",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "whorled",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "lanceolate",
+            "apex": "acuminate",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "clearly visible but not strongly raised; regularly spaced at moderate intervals; numerous, approximately 12\u201318 pairs per leaf",
+            "surface_features": "glabrous, shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "greenish-brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Whorl of 6\u20137 simple, entire, lanceolate leaves at the shoot apex; leaf surfaces glossy green with some holes and portions of margin missing on a few leaves; pink tag tied near the apex (describes overall leaf arrangement, condition, and marking that may assist later identification)"
+        }
+      }
+    }
+  }
+}

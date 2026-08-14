@@ -1,0 +1,91 @@
+{
+  "specimen_id": "MEPICRLA10",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Picramniaceae/by_genus/Picramnia/by_species/latifolia/MEPICRLA10/Picramniaceae_Picramnia_latifolia_MEPICRLA10_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Picramniaceae/by_genus/Picramnia/by_species/latifolia/MEPICRLA10/Picramniaceae_Picramnia_latifolia_MEPICRLA10_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Picramniaceae/by_genus/Picramnia/by_species/latifolia/MEPICRLA10/Picramniaceae_Picramnia_latifolia_MEPICRLA10_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Picramniaceae/by_genus/Picramnia/by_species/latifolia/MEPICRLA10/Picramniaceae_Picramnia_latifolia_MEPICRLA10_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Picramniaceae/by_genus/Picramnia/by_species/latifolia/MEPICRLA10/Picramniaceae_Picramnia_latifolia_MEPICRLA10_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "alternate",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "acute",
+            "base": "rounded",
+            "venation": "pinnate",
+            "secondary_veins": "visible, closely spaced, numerous",
+            "surface_features": "shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "green with brown patches",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "[NOTE] Multiple images show the same seedling from different angles. Leaves exhibit white, winding trails consistent with leaf miner damage (not herbivory or pathogen). Some leaves have minor margin damage (small holes or notches). No flowers or fruits are visible. The plant is growing among other understory vegetation with leaf litter on the ground. All observations are based on visible morphological traits without inference of family, genus, or species."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): alternate (leaves are attached at successive nodes along the stem, alternating sides; no paired leaves at a single node visible)\n    2. Leaf spacing (clustered / distal): clustered (leaves appear grouped near the stem apex, with short internodes)\n\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): simple (each leaf is a single blade without distinct leaflets)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): N/A\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): N/A\n    6. Leaflet arrangement (opposite / alternate / subopposite): N/A\n\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (margins are smooth without teeth or serrations)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): elliptic (leaves are oval with rounded ends, widest near the middle)\n    9. Leaf apex (acute, obtuse, acuminate): acute (tip is pointed but not sharply tapered)\n    10. Leaf base (rounded, cordate, cuneate): rounded (base is blunt and curved)\n    11. Venation type (pinnate / palmate / parallel): pinnate (main vein runs from base to apex, with secondary veins branching off laterally)\n    12. Secondary veins (visibility, spacing, number): visible, closely spaced, numerous (secondary veins are clearly visible and run parallel to each other, close together)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): shiny (surface appears glossy, reflecting light)\n    14. Leaf surface trichomes (present / absent): absent (no visible hairs or fuzz on leaf surface)\n    15. Petiole length (short / long): short (petioles are short, not exceeding leaf blade length)\n    16. Petiole features (winged / grooved / terete): terete (petioles are round in cross-section, not flattened or winged)\n\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): woody (stem is firm, green with some bark, typical of young woody plant)\n    18. Stem trichomes (present / absent): absent (no visible hairs on stem surface)\n    19. Stem color: green with brown patches (stem is primarily green, with areas of brownish bark or lichen)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (surface appears smooth, no ridges or lenticels visible)\n\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules observed at leaf bases)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no latex visible when stems or leaves are damaged)\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no pulvinus visible at leaf base or petiole junction)\n    24. Tendrils (present / absent): absent (no tendrils observed)\n\nF. Notes: [NOTE] Multiple images show the same seedling from different angles. Leaves exhibit white, winding trails consistent with leaf miner damage (not herbivory or pathogen). Some leaves have minor margin damage (small holes or notches). No flowers or fruits are visible. The plant is growing among other understory vegetation with leaf litter on the ground. All observations are based on visible morphological traits without inference of family, genus, or species.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 19820.047101005912
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 19820.047101005912,
+  "benchmark_metadata": {
+    "scientific_name": "Picramnia latifolia",
+    "family": "Picramniaceae",
+    "genus": "Picramnia",
+    "species_epithet": "latifolia",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

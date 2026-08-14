@@ -1,0 +1,47 @@
+{
+  "specimen_id": "SHPEREXA9",
+  "source_answer_key": "Moraceae_Perebea_xanthochyma_SHPEREXA9",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "whorled",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "serrate",
+            "shape": "lanceolate",
+            "apex": "acuminate",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "clearly visible, closely spaced, numerous",
+            "surface_features": "glabrous and dull",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Leaves appear arranged in a whorl-like cluster at the shoot tip, with simple, narrowly elliptic blades and sharply serrate margins; some leaves show small holes and portions of the margin missing. Certain fine-scale characters (e.g., stipules, latex) may not be discernible due to image resolution and viewing angle."
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "specimen_id": "SROURASU5",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Ochnaceae/by_genus/Ouratea/by_species/sulcatinervia/SROURASU5/Ochnaceae_Ouratea_sulcatinervia_SROURASU5_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Ochnaceae/by_genus/Ouratea/by_species/sulcatinervia/SROURASU5/Ochnaceae_Ouratea_sulcatinervia_SROURASU5_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Ochnaceae/by_genus/Ouratea/by_species/sulcatinervia/SROURASU5/Ochnaceae_Ouratea_sulcatinervia_SROURASU5_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Ochnaceae/by_genus/Ouratea/by_species/sulcatinervia/SROURASU5/Ochnaceae_Ouratea_sulcatinervia_SROURASU5_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Ochnaceae/by_genus/Ouratea/by_species/sulcatinervia/SROURASU5/Ochnaceae_Ouratea_sulcatinervia_SROURASU5_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "whorled",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "lanceolate",
+            "apex": "acute",
+            "base": "rounded",
+            "venation": "pinnate",
+            "secondary_veins": "clearly visible, numerous, closely spaced, arching toward margin",
+            "surface_features": "shiny, glabrous",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "absent",
+            "color": "green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Multiple leaves show holes and margin damage, likely from physical or biological factors; damage is not uniform across leaves. The plant exhibits a whorled leaf arrangement with 5-6 leaves per node. All images show the same individual seedling from slightly different angles. The pink tag is an artificial marker and not a plant feature. No flowers or fruits are visible."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): whorled (multiple leaves are clearly attached at the same node, visible in close-up images, with 5-6 leaves per node)\n    2. Leaf spacing (clustered / distal): clustered (leaves are arranged in tight groups at each node along the stem, with no long internodes between leaf clusters)\n\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): simple (each leaf is a single blade without divisions into leaflets)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): N/A\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): N/A\n    6. Leaflet arrangement (opposite / alternate / subopposite): N/A\n\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (margins are smooth without teeth or serrations; some damage is visible but not natural toothed margin)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): lanceolate (longer than wide, tapering to a point at apex, broadest near base)\n    9. Leaf apex (acute, obtuse, acuminate): acute (tapers to a sharp point)\n    10. Leaf base (rounded, cordate, cuneate): rounded (base is broadly rounded, not tapered or heart-shaped)\n    11. Venation type (pinnate / palmate / parallel): pinnate (main vein runs length of leaf with secondary veins branching off and curving toward margin)\n    12. Secondary veins (visibility, spacing, number): clearly visible, numerous, closely spaced, arching toward margin (secondary veins are prominent, parallel to each other, and form a distinct network)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): shiny, glabrous (surface is smooth and glossy, reflecting light; no visible hairs)\n    14. Leaf surface trichomes (present / absent): absent (no visible hairs or fuzz on leaf surface)\n    15. Petiole length (short / long): short (petiole is short, leaf blade appears to attach directly to stem)\n    16. Petiole features (winged / grooved / terete): terete (petiole is round in cross-section, not flattened or winged)\n\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): herbaceous (stem is green, soft, and flexible, not woody)\n    18. Stem trichomes (present / absent): absent (no visible hairs on stem surface)\n    19. Stem color: green (stem is bright green, with some brownish coloration at nodes)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (surface is smooth without ridges or lenticels)\n\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no structures resembling stipules visible at leaf bases)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no exudate visible when stem is damaged or cut)\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no swollen joint at leaf base; not applicable as leaf complexity is simple)\n    24. Tendrils (present / absent): absent (no modified stems or leaves functioning as tendrils)\n\nF. Notes: Multiple leaves show holes and margin damage, likely from physical or biological factors; damage is not uniform across leaves. The plant exhibits a whorled leaf arrangement with 5-6 leaves per node. All images show the same individual seedling from slightly different angles. The pink tag is an artificial marker and not a plant feature. No flowers or fruits are visible.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 20652.813466265798
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 20652.813466265798,
+  "benchmark_metadata": {
+    "scientific_name": "Ouratea sulcatinervia",
+    "family": "Ochnaceae",
+    "genus": "Ouratea",
+    "species_epithet": "sulcatinervia",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

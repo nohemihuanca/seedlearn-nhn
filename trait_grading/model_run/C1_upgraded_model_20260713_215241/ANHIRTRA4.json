@@ -1,0 +1,91 @@
+{
+  "specimen_id": "ANHIRTRA4",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Chrysobalanaceae/by_genus/Hirtella/by_species/racemosa/ANHIRTRA4/Chrysobalanaceae_Hirtella_racemosa_ANHIRTRA4_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Chrysobalanaceae/by_genus/Hirtella/by_species/racemosa/ANHIRTRA4/Chrysobalanaceae_Hirtella_racemosa_ANHIRTRA4_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Chrysobalanaceae/by_genus/Hirtella/by_species/racemosa/ANHIRTRA4/Chrysobalanaceae_Hirtella_racemosa_ANHIRTRA4_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Chrysobalanaceae/by_genus/Hirtella/by_species/racemosa/ANHIRTRA4/Chrysobalanaceae_Hirtella_racemosa_ANHIRTRA4_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Chrysobalanaceae/by_genus/Hirtella/by_species/racemosa/ANHIRTRA4/Chrysobalanaceae_Hirtella_racemosa_ANHIRTRA4_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "alternate",
+            "spacing": "distal"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "lanceolate",
+            "apex": "acuminate",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "visible and distinct",
+            "surface_features": "shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "The seedling is marked with a pink tag. Some leaves show minor damage (small holes and missing margin sections)."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): alternate (leaves are attached at different nodes along the stem, alternating sides, visible across multiple images)\n    2. Leaf spacing (clustered / distal): distal (leaves are spaced apart along the stem rather than tightly clustered at the tips)\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): simple (each leaf blade is undivided and attached directly to the stem via a petiole)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): N/A\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): N/A\n    6. Leaflet arrangement (opposite / alternate / subopposite): N/A\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (leaf edges appear smooth without teeth or serrations in all views)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): lanceolate (leaves are elongated and tapering towards both the base and apex)\n    9. Leaf apex (acute, obtuse, acuminate): acuminate (the apex tapers to a distinct, elongated point, clearly visible in close-up)\n    10. Leaf base (rounded, cordate, cuneate): cuneate (the leaf base tapers down to the petiole, appearing wedge-shaped)\n    11. Venation type (pinnate / palmate / parallel): pinnate (a central midrib is visible with lateral veins branching off it)\n    12. Secondary veins (visibility, spacing, number): visible and distinct (veins are clearly visible against the green leaf surface, spacing appears regular)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): shiny (the leaf surface reflects light, indicating a smooth and somewhat glossy texture)\n    14. Leaf surface trichomes (present / absent): absent (no visible hairs on the leaf surface in the close-up images)\n    15. Petiole length (short / long): short (the petiole connecting the leaf blade to the stem is relatively short compared to the leaf length)\n    16. Petiole features (winged / grooved / terete): terete (the petioles appear cylindrical and round in cross-section)\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): woody (the stem appears thin, rigid, and brown, characteristic of a woody seedling)\n    18. Stem trichomes (present / absent): absent (the stem appears smooth without visible hairs)\n    19. Stem color: brown (the visible parts of the stem are a dark brown color)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (the stem surface appears relatively smooth without obvious ridges or lenticels)\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules are visible at the base of the petioles in the provided images)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no latex is visible)\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no pulvinus is visible at the base of the petioles)\n    24. Tendrils (present / absent): absent (no tendrils are present on the seedling)\nF. Notes: The seedling is marked with a pink tag. Some leaves show minor damage (small holes and missing margin sections).",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 4797.842436935753
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 4797.842436935753,
+  "benchmark_metadata": {
+    "scientific_name": "Hirtella racemosa",
+    "family": "Chrysobalanaceae",
+    "genus": "Hirtella",
+    "species_epithet": "racemosa",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

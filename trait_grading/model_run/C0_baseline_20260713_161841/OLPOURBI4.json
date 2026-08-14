@@ -1,0 +1,91 @@
+{
+  "specimen_id": "OLPOURBI4",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Urticaceae/by_genus/Pourouma/by_species/bicolor/OLPOURBI4/Urticaceae_Pourouma_bicolor_OLPOURBI4_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Urticaceae/by_genus/Pourouma/by_species/bicolor/OLPOURBI4/Urticaceae_Pourouma_bicolor_OLPOURBI4_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Urticaceae/by_genus/Pourouma/by_species/bicolor/OLPOURBI4/Urticaceae_Pourouma_bicolor_OLPOURBI4_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Urticaceae/by_genus/Pourouma/by_species/bicolor/OLPOURBI4/Urticaceae_Pourouma_bicolor_OLPOURBI4_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Urticaceae/by_genus/Pourouma/by_species/bicolor/OLPOURBI4/Urticaceae_Pourouma_bicolor_OLPOURBI4_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "whorled",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "toothed, serrate",
+            "shape": "elliptic",
+            "apex": "acute",
+            "base": "rounded",
+            "venation": "pinnate",
+            "secondary_veins": "visible, closely spaced, 5-7 pairs",
+            "surface_features": "shiny, glabrous",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "green with patches of brown and white",
+            "texture": "lenticellate"
+          },
+          "special_features": {
+            "stipules": "present",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "The seedling exhibits a whorled leaf arrangement with simple, elliptic leaves that have serrate margins and pinnate venation. Leaves are clustered at the apex, with short petioles and a shiny, glabrous surface. The stem is woody, green with mottled patches, and shows lenticels. Stipules are present as small, dried structures at the leaf bases. Damage is visible on some leaves, including small holes and margin missing, but cause is not inferred. No latex or tendrils are observed. The pink tag and cooler in the background are research artifacts and not part of the plant."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): whorled (multiple leaves clearly attached at the same node, visible in close-up images)\n    2. Leaf spacing (clustered / distal): clustered (leaves are grouped near the apex of the stem, forming a dense rosette-like arrangement)\n\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): simple (each leaf is a single, undivided blade)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): N/A\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): N/A\n    6. Leaflet arrangement (opposite / alternate / subopposite): N/A\n\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): toothed, serrate (margins show small, regular, forward-pointing teeth along the edge)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): elliptic (broadest near the middle, tapering toward both ends)\n    9. Leaf apex (acute, obtuse, acuminate): acute (comes to a sharp, pointed tip)\n    10. Leaf base (rounded, cordate, cuneate): rounded (base is broadly curved, not tapered or heart-shaped)\n    11. Venation type (pinnate / palmate / parallel): pinnate (main vein runs from base to apex, with secondary veins branching off to the sides)\n    12. Secondary veins (visibility, spacing, number): visible, closely spaced, 5-7 pairs (secondary veins clearly visible, running parallel to each other and close together)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): shiny, glabrous (surface is smooth and glossy, with no visible hairs)\n    14. Leaf surface trichomes (present / absent): absent (no visible hairs or fuzz on leaf surface)\n    15. Petiole length (short / long): short (petioles are short, less than half the length of the leaf blade)\n    16. Petiole features (winged / grooved / terete): terete (petioles are round in cross-section, not flattened or winged)\n\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): woody (stem is thick, firm, and shows signs of bark and lenticels, indicating woody tissue)\n    18. Stem trichomes (present / absent): absent (no visible hairs on stem surface)\n    19. Stem color: green with patches of brown and white (stem is primarily green but has mottled areas of brown and white, possibly lichen or weathering)\n    20. Stem texture (smooth / ridged / lenticellate): lenticellate (small, raised, circular pores visible on stem surface, typical of woody stems)\n\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): present (small, brown, dried structures visible at the base of leaf petioles in close-up images)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no exudate visible when stem or leaf is damaged)\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no swollen joint at leaf base or petiole base visible)\n    24. Tendrils (present / absent): absent (no modified stems or leaves functioning as tendrils)\n\nF. Notes: The seedling exhibits a whorled leaf arrangement with simple, elliptic leaves that have serrate margins and pinnate venation. Leaves are clustered at the apex, with short petioles and a shiny, glabrous surface. The stem is woody, green with mottled patches, and shows lenticels. Stipules are present as small, dried structures at the leaf bases. Damage is visible on some leaves, including small holes and margin missing, but cause is not inferred. No latex or tendrils are observed. The pink tag and cooler in the background are research artifacts and not part of the plant.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 21970.040305051953
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 21970.040305051953,
+  "benchmark_metadata": {
+    "scientific_name": "Pourouma bicolor",
+    "family": "Urticaceae",
+    "genus": "Pourouma",
+    "species_epithet": "bicolor",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

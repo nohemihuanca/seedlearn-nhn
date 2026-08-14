@@ -1,0 +1,91 @@
+{
+  "specimen_id": "MEPSYCHO6",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rubiaceae/by_genus/Psychotria/by_species/horizontalis/MEPSYCHO6/Rubiaceae_Psychotria_horizontalis_MEPSYCHO6_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rubiaceae/by_genus/Psychotria/by_species/horizontalis/MEPSYCHO6/Rubiaceae_Psychotria_horizontalis_MEPSYCHO6_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rubiaceae/by_genus/Psychotria/by_species/horizontalis/MEPSYCHO6/Rubiaceae_Psychotria_horizontalis_MEPSYCHO6_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rubiaceae/by_genus/Psychotria/by_species/horizontalis/MEPSYCHO6/Rubiaceae_Psychotria_horizontalis_MEPSYCHO6_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rubiaceae/by_genus/Psychotria/by_species/horizontalis/MEPSYCHO6/Rubiaceae_Psychotria_horizontalis_MEPSYCHO6_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "whorled",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "visible, moderately spaced, 3\u20135 pairs per leaf",
+            "surface_features": "glabrous, dull",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "absent",
+            "color": "green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Some leaves show small holes and margin damage, likely due to physical disturbance or minor herbivory. The plant is small and low-growing, with multiple whorled leaves per node. A pink tag is attached to one stem, likely for field identification. No flowers are clearly visible, only small green buds at the leaf axils. All images show the same individual from different angles, confirming the whorled leaf arrangement and consistent morphology."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): whorled (multiple leaves clearly attached at the same node, visible in close-up images)\n    2. Leaf spacing (clustered / distal): clustered (leaves grouped at nodes along the stem, not spread out)\n\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): simple (each leaf is a single blade, not divided into leaflets)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): N/A\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): N/A\n    6. Leaflet arrangement (opposite / alternate / subopposite): N/A\n\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (smooth margin with no visible teeth or serrations)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): elliptic (broad in the middle, tapering toward both ends)\n    9. Leaf apex (acute, obtuse, acuminate): acute (tapering to a sharp point)\n    10. Leaf base (rounded, cordate, cuneate): cuneate (tapering to a narrow base)\n    11. Venation type (pinnate / palmate / parallel): pinnate (main vein with lateral veins branching off in pairs)\n    12. Secondary veins (visibility, spacing, number): visible, moderately spaced, 3\u20135 pairs per leaf (clearly visible in close-up images)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): glabrous, dull (smooth surface, not shiny)\n    14. Leaf surface trichomes (present / absent): absent (no visible hairs on leaf surface)\n    15. Petiole length (short / long): short (petiole is short, not extending beyond leaf base)\n    16. Petiole features (winged / grooved / terete): terete (round, cylindrical petiole)\n\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): herbaceous (stem appears soft and green, not woody)\n    18. Stem trichomes (present / absent): absent (no visible hairs on stem)\n    19. Stem color: green (young stem is green, transitioning to brown in older parts)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (no ridges or lenticels visible)\n\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules observed at leaf bases)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no exudate seen when stem is broken or damaged)\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no swollen joint at leaf base observed)\n    24. Tendrils (present / absent): absent (no tendrils visible)\n\nF. Notes: Some leaves show small holes and margin damage, likely due to physical disturbance or minor herbivory. The plant is small and low-growing, with multiple whorled leaves per node. A pink tag is attached to one stem, likely for field identification. No flowers are clearly visible, only small green buds at the leaf axils. All images show the same individual from different angles, confirming the whorled leaf arrangement and consistent morphology.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 19299.353341106325
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 19299.353341106325,
+  "benchmark_metadata": {
+    "scientific_name": "Psychotria horizontalis",
+    "family": "Rubiaceae",
+    "genus": "Psychotria",
+    "species_epithet": "horizontalis",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

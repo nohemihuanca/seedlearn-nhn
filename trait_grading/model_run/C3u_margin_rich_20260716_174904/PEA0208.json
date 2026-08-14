@@ -1,0 +1,72 @@
+{
+  "specimen_id": "PEA0208",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Euphorbiaceae/by_genus/Acalypha/by_species/diversifolia/PEA0208/Euphorbiaceae_Acalypha_diversifolia_PEA0208_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Euphorbiaceae/by_genus/Acalypha/by_species/diversifolia/PEA0208/Euphorbiaceae_Acalypha_diversifolia_PEA0208_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Euphorbiaceae/by_genus/Acalypha/by_species/diversifolia/PEA0208/Euphorbiaceae_Acalypha_diversifolia_PEA0208_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Euphorbiaceae/by_genus/Acalypha/by_species/diversifolia/PEA0208/Euphorbiaceae_Acalypha_diversifolia_PEA0208_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Euphorbiaceae/by_genus/Acalypha/by_species/diversifolia/PEA0208/Euphorbiaceae_Acalypha_diversifolia_PEA0208_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {},
+          "leaf_complexity": {},
+          "leaf_morphology": {
+            "margin": "toothed"
+          },
+          "stem_traits": {},
+          "special_features": {},
+          "notes": "The seedling exhibits multiple leaves; the leaf margin is clearly toothed (serrate) on the juvenile leaves. The stem has a yellow identification tag labeled '84'. The plant is surrounded by forest floor litter."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nC. Leaf Morphology\n    7.\tLeaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): toothed (finely serrate, visible along the margins of the green leaves in the close-up views)\nF. Notes: The seedling exhibits multiple leaves; the leaf margin is clearly toothed (serrate) on the juvenile leaves. The stem has a yellow identification tag labeled '84'. The plant is surrounded by forest floor litter.\n\n####",
+        "thinking": null,
+        "few_shot_delivery": {
+          "n_examples": 0,
+          "n_exemplar_images": 0,
+          "n_specimen_images": 5,
+          "max_images": 10,
+          "images_over_budget": false,
+          "prompt_chars": 2155
+        }
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 1926.275440999916
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 1926.275440999916,
+  "benchmark_metadata": {
+    "scientific_name": "Acalypha diversifolia",
+    "family": "Euphorbiaceae",
+    "genus": "Acalypha",
+    "species_epithet": "diversifolia",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

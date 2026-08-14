@@ -1,0 +1,91 @@
+{
+  "specimen_id": "SHPEREXA9",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Moraceae/by_genus/Perebea/by_species/xanthochyma/SHPEREXA9/Moraceae_Perebea_xanthochyma_SHPEREXA9_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Moraceae/by_genus/Perebea/by_species/xanthochyma/SHPEREXA9/Moraceae_Perebea_xanthochyma_SHPEREXA9_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Moraceae/by_genus/Perebea/by_species/xanthochyma/SHPEREXA9/Moraceae_Perebea_xanthochyma_SHPEREXA9_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Moraceae/by_genus/Perebea/by_species/xanthochyma/SHPEREXA9/Moraceae_Perebea_xanthochyma_SHPEREXA9_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Moraceae/by_genus/Perebea/by_species/xanthochyma/SHPEREXA9/Moraceae_Perebea_xanthochyma_SHPEREXA9_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "whorled",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "toothed, serrate",
+            "shape": "lanceolate",
+            "apex": "acuminate",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "clearly visible, numerous, curved, and running parallel to the leaf margin",
+            "surface_features": "rugose",
+            "trichomes": "present",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "present",
+            "color": "brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "The plant exhibits a distinct rosette-like appearance due to the whorled leaf arrangement. Some leaves show minor physical damage (holes and missing tissue) on the margins."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): whorled (multiple images show 5-6 leaves radiating from a single central node)\n    2. Leaf spacing (clustered / distal): clustered (leaves are grouped in whorls at the stem apex)\nB. Leaf Complexity\n    3.\tLeaf complexity (simple / compound): simple (individual leaf blades are not divided into separate leaflets)\n    4.\tCompound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): N/A\n    5.\tNumber of leaflets (integer estimate 2, 4, 8, \u2026): N/A\n    6.\tLeaflet arrangement (opposite / alternate / subopposite): N/A\nC. Leaf Morphology\n    7.\tLeaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): toothed, serrate (margins show fine, regular teeth pointing forward)\n    8.\tLeaf shape (elliptic, obovate, lanceolate, etc.): lanceolate (leaves are longer than wide, tapering toward the base and apex)\n    9.\tLeaf apex (acute, obtuse, acuminate): acuminate (tapering to a slender tip)\n    10.\tLeaf base (rounded, cordate, cuneate): cuneate (wedge-shaped, tapering to the petiole)\n    11.\tVenation type (pinnate / palmate / parallel): pinnate (single midrib with lateral veins branching off)\n    12.\tSecondary veins (visibility, spacing, number): clearly visible, numerous, curved, and running parallel to the leaf margin\n    13.\tLeaf surface features (glabrous, shiny, dull, rugose): rugose (surface appears textured and slightly wrinkled between veins)\n    14.\tLeaf surface trichomes (present / absent): present (fine hairs are visible along the margins and on the stem)\n    15.\tPetiole length (short / long): short (petioles are very brief where they attach to the stem)\n    16.\tPetiole features (winged / grooved / terete): terete (cylindrical, not flattened or winged)\nD. Stem & Shoot Traits\n    17.\tStem type, may not be visible (woody / herbaceous): woody (stem appears brown, rigid, and lignified)\n    18.\tStem trichomes (present / absent): present (fine hairs are visible on the stem surface)\n    19.\tStem color: brown\n    20.\tStem texture (smooth / ridged / lenticellate): smooth\nE. Other Visible Seedling Traits\n    21.\tStipules, sometimes visible only in close-up images (present / absent): unclear\n    22.\tLatex, rarely visible but extremely diagnostic when present (present / not observed): not observed\n    23.\tPulvinus, for Fabaceae family only (present / absent): absent\n    24.\tTendrils (present / absent): absent\nF. Notes: The plant exhibits a distinct rosette-like appearance due to the whorled leaf arrangement. Some leaves show minor physical damage (holes and missing tissue) on the margins.",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 4405.25864623487
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 4405.25864623487,
+  "benchmark_metadata": {
+    "scientific_name": "Perebea xanthochyma",
+    "family": "Moraceae",
+    "genus": "Perebea",
+    "species_epithet": "xanthochyma",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

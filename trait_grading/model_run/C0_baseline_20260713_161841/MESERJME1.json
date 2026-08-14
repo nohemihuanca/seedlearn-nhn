@@ -1,0 +1,91 @@
+{
+  "specimen_id": "MESERJME1",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Sapindaceae/by_genus/Serjania/by_species/mexicana/MESERJME1/Sapindaceae_Serjania_mexicana_MESERJME1_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Sapindaceae/by_genus/Serjania/by_species/mexicana/MESERJME1/Sapindaceae_Serjania_mexicana_MESERJME1_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Sapindaceae/by_genus/Serjania/by_species/mexicana/MESERJME1/Sapindaceae_Serjania_mexicana_MESERJME1_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Sapindaceae/by_genus/Serjania/by_species/mexicana/MESERJME1/Sapindaceae_Serjania_mexicana_MESERJME1_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Sapindaceae/by_genus/Serjania/by_species/mexicana/MESERJME1/Sapindaceae_Serjania_mexicana_MESERJME1_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "alternate",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "compound",
+            "compound_type": "odd-pinnate",
+            "num_leaflets": "5",
+            "leaflet_arrangement": "alternate"
+          },
+          "leaf_morphology": {
+            "margin": "toothed, serrate",
+            "shape": "elliptic",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "visible, moderately spaced, numerous",
+            "surface_features": "dull",
+            "trichomes": "present",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "absent",
+            "color": "green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "The seedling is small and located under a tree trunk with surrounding leaf litter. One leaflet shows a dark spot, possibly damage or necrosis. The orange tag labeled \"SERIME1\" is attached to the stem, likely for identification purposes. All images show the same individual from different angles. No family, genus, or species is identified per conservative annotation rules."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): alternate (leaves are attached at successive nodes along the stem, alternating sides; visible in side view of stem in image 4)\n    2. Leaf spacing (clustered / distal): clustered (leaves appear grouped near the apex of the stem; visible in all images)\n\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): compound (each leaf unit has multiple leaflets radiating from a central point; visible in all images)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): odd-pinnate (central leaflet is present; visible in top-down view of leaf in image 5)\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): 5 (five leaflets per leaf; visible in images 2, 3, 5)\n    6. Leaflet arrangement (opposite / alternate / subopposite): alternate (leaflets arranged alternately along the rachis; visible in image 5)\n\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): toothed, serrate (margins have fine, irregular teeth; visible in close-up views of leaflets in images 2 and 5)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): elliptic (leaflets are broadest near the middle and taper to both ends; visible in images 2 and 5)\n    9. Leaf apex (acute, obtuse, acuminate): acute (tip is sharply pointed; visible in images 2 and 5)\n    10. Leaf base (rounded, cordate, cuneate): cuneate (base is wedge-shaped; visible in images 2 and 5)\n    11. Venation type (pinnate / palmate / parallel): pinnate (main vein runs from base to apex, with secondary veins branching off; visible in images 2 and 5)\n    12. Secondary veins (visibility, spacing, number): visible, moderately spaced, numerous (secondary veins are clearly visible and extend from midrib to margin; visible in images 2 and 5)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): dull (surface appears matte, not shiny; visible in all images)\n    14. Leaf surface trichomes (present / absent): present (small, white speckles or fine hairs visible on leaf surface; visible in images 2, 3, 5)\n    15. Petiole length (short / long): short (petiole is short, leaflets close to stem; visible in images 2, 3, 5)\n    16. Petiole features (winged / grooved / terete): terete (petiole is round in cross-section; inferred from side view in image 4)\n\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): herbaceous (stem appears soft and green, not woody; visible in image 4)\n    18. Stem trichomes (present / absent): absent (no visible hairs on stem; visible in image 4)\n    19. Stem color: green (stem is green, consistent with herbaceous growth; visible in image 4)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (surface appears smooth; visible in image 4)\n\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules observed at leaf base; visible in images 2, 3, 5)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no exudate visible; no signs of latex; visible in all images)\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no swollen joint at leaf base; visible in images 2, 3, 5)\n    24. Tendrils (present / absent): absent (no tendrils observed; visible in all images)\n\nF. Notes: The seedling is small and located under a tree trunk with surrounding leaf litter. One leaflet shows a dark spot, possibly damage or necrosis. The orange tag labeled \"SERIME1\" is attached to the stem, likely for identification purposes. All images show the same individual from different angles. No family, genus, or species is identified per conservative annotation rules.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 23428.854724857956
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 23428.854724857956,
+  "benchmark_metadata": {
+    "scientific_name": "Serjania mexicana",
+    "family": "Sapindaceae",
+    "genus": "Serjania",
+    "species_epithet": "mexicana",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

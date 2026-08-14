@@ -1,0 +1,23 @@
+{
+  "specimen_id": "ANMAPRGU4",
+  "source_answer_key": "Euphorbiaceae_Maprounea_guianensis_ANMAPRGU4",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {},
+          "leaf_complexity": {
+            "type": "compound",
+            "compound_type": "odd-pinnate",
+            "num_leaflets": "32",
+            "leaflet_arrangement": "subopposite"
+          },
+          "leaf_morphology": {},
+          "stem_traits": {},
+          "special_features": {},
+          "notes": "The tagged plant has entire-margined, elliptic to narrowly ovate leaflets distinct from the nearby finely divided bipinnate foliage of a different plant; some leaflets show small round holes."
+        }
+      }
+    }
+  }
+}

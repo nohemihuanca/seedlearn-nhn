@@ -1,0 +1,22 @@
+{
+  "catalog": "data/raw/2026-01-29/sorted_12K/metadata/species_catalog_v2026-01-29_12K_20260129_123334.csv",
+  "stri_matrix": "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/traits/stri_web_keys/per_key_trait_matrices/cl185_complete_tree_species_of_panama_trait_matrix.csv",
+  "synonym_table": "configs/species_lists/inat_metadata_FINAL_NHN_01_2025.csv",
+  "n_specimens": 114,
+  "n_species": 114,
+  "limit": null,
+  "species_filter": null,
+  "specimen_source": "trait_grading/keys/curator_taxonomic_key.csv",
+  "missing_specimens": [],
+  "skip_stages": [
+    "classification",
+    "trait_retrieval",
+    "evidence_synthesis",
+    "reasoning"
+  ],
+  "prompt_style": "margin_rich",
+  "model": "Qwen/Qwen3.6-35B-A3B-FP8",
+  "vlm_endpoint": "http://localhost:8000/v1",
+  "examples_file": "configs/experiments/leaf_margin_examples.json",
+  "started_at": "2026-07-16T18:01:14.381821"
+}

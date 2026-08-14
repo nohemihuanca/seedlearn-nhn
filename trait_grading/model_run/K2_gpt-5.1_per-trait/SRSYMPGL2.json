@@ -1,0 +1,47 @@
+{
+  "specimen_id": "SRSYMPGL2",
+  "source_answer_key": "Clusiaceae_Symphonia_globulifera_SRSYMPGL2",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "unclear",
+            "spacing": "distal"
+          },
+          "leaf_complexity": {
+            "type": "compound",
+            "compound_type": "odd-pinnate",
+            "num_leaflets": "8",
+            "leaflet_arrangement": "alternate"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "narrowly elliptic",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "very faint to obscure, appearing as many fine, closely spaced lines from midrib toward margin; exact number per leaf unclear",
+            "surface_features": "glabrous, slightly shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "greenish-brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "unclear",
+            "tendrils": "absent"
+          },
+          "notes": "Leaves are narrow-elliptic with entire margins and arranged along slender stems; some blades show small holes and slight margin loss (based on overall leaf outline and visible missing tissue on a few leaf blades)"
+        }
+      }
+    }
+  }
+}

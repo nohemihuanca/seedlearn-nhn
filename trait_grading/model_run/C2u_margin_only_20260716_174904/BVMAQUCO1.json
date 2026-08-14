@@ -1,0 +1,72 @@
+{
+  "specimen_id": "BVMAQUCO1",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Moraceae/by_genus/Maquira/by_species/guianensis/BVMAQUCO1/Moraceae_Maquira_guianensis_BVMAQUCO1_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Moraceae/by_genus/Maquira/by_species/guianensis/BVMAQUCO1/Moraceae_Maquira_guianensis_BVMAQUCO1_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Moraceae/by_genus/Maquira/by_species/guianensis/BVMAQUCO1/Moraceae_Maquira_guianensis_BVMAQUCO1_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Moraceae/by_genus/Maquira/by_species/guianensis/BVMAQUCO1/Moraceae_Maquira_guianensis_BVMAQUCO1_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Moraceae/by_genus/Maquira/by_species/guianensis/BVMAQUCO1/Moraceae_Maquira_guianensis_BVMAQUCO1_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {},
+          "leaf_complexity": {},
+          "leaf_morphology": {
+            "margin": "entire"
+          },
+          "stem_traits": {},
+          "special_features": {},
+          "notes": "Minor physical damage (small holes) is present on some leaves, but the margin remains smooth and intact where undamaged."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nC. Leaf Morphology\n    7.\tLeaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (The leaf edges are smooth and continuous without any teeth, serrations, or lobes across all visible leaves in the provided images)\nF. Notes: Minor physical damage (small holes) is present on some leaves, but the margin remains smooth and intact where undamaged.\n\n####",
+        "thinking": null,
+        "few_shot_delivery": {
+          "n_examples": 0,
+          "n_exemplar_images": 0,
+          "n_specimen_images": 5,
+          "max_images": 10,
+          "images_over_budget": false,
+          "prompt_chars": 940
+        }
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 1643.2293029999983
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 1643.2293029999983,
+  "benchmark_metadata": {
+    "scientific_name": "Maquira guianensis",
+    "family": "Moraceae",
+    "genus": "Maquira",
+    "species_epithet": "guianensis",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

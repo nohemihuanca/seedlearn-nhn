@@ -1,0 +1,72 @@
+{
+  "specimen_id": "CHCUPASY3",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Sapindaceae/by_genus/Cupania/by_species/seemannii/CHCUPASY3/Sapindaceae_Cupania_seemannii_CHCUPASY3_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Sapindaceae/by_genus/Cupania/by_species/seemannii/CHCUPASY3/Sapindaceae_Cupania_seemannii_CHCUPASY3_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Sapindaceae/by_genus/Cupania/by_species/seemannii/CHCUPASY3/Sapindaceae_Cupania_seemannii_CHCUPASY3_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Sapindaceae/by_genus/Cupania/by_species/seemannii/CHCUPASY3/Sapindaceae_Cupania_seemannii_CHCUPASY3_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Sapindaceae/by_genus/Cupania/by_species/seemannii/CHCUPASY3/Sapindaceae_Cupania_seemannii_CHCUPASY3_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {},
+          "leaf_complexity": {},
+          "leaf_morphology": {
+            "margin": "entire"
+          },
+          "stem_traits": {},
+          "special_features": {},
+          "notes": "The plant exhibits compound leaves (likely pinnate). Several leaves display significant herbivory damage (irregular holes and missing sections), but the leaf margins on all intact sections are smooth and entire."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nC. Leaf Morphology\n    7.\tLeaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (The leaf margins are smooth and continuous without any teeth or serrations, although some leaves show irregular holes from physical damage)\nF. Notes: The plant exhibits compound leaves (likely pinnate). Several leaves display significant herbivory damage (irregular holes and missing sections), but the leaf margins on all intact sections are smooth and entire.\n\n####",
+        "thinking": null,
+        "few_shot_delivery": {
+          "n_examples": 0,
+          "n_exemplar_images": 0,
+          "n_specimen_images": 5,
+          "max_images": 10,
+          "images_over_budget": false,
+          "prompt_chars": 940
+        }
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 1719.002269999919
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 1719.002269999919,
+  "benchmark_metadata": {
+    "scientific_name": "Cupania seemannii",
+    "family": "Sapindaceae",
+    "genus": "Cupania",
+    "species_epithet": "seemannii",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

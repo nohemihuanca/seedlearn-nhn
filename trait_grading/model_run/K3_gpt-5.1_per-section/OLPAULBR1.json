@@ -1,0 +1,47 @@
+{
+  "specimen_id": "OLPAULBR1",
+  "source_answer_key": "Sapindaceae_Paullinia_bracteosa_OLPAULBR1",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "whorled",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "conspicuous, closely spaced, numerous",
+            "surface_features": "glabrous and shiny, slightly rugose",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "absent",
+            "color": "green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Leaves appear simple, elliptic to oblong with a strong midrib and numerous parallel secondary veins curving toward the margin; margins appear finely serrate to crenate; leaf surface is glossy; several leaves arise from the upper stem giving a whorled appearance; some leaf margins show holes present; cotyledons and seed remnants are not visible; assessment of stipules and latex is limited by viewing angle and lack of visible injuries."
+        }
+      }
+    }
+  }
+}

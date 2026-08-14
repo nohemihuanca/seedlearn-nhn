@@ -1,0 +1,47 @@
+{
+  "specimen_id": "ANROUPMO6",
+  "source_answer_key": "Proteaceae_Roupala_montana_ANROUPMO6",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "unclear",
+            "spacing": "unclear"
+          },
+          "leaf_complexity": {
+            "type": "compound",
+            "compound_type": "unclear",
+            "num_leaflets": "30",
+            "leaflet_arrangement": "opposite"
+          },
+          "leaf_morphology": {
+            "margin": "toothed, serrate",
+            "shape": "lanceolate",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "visible, closely spaced",
+            "surface_features": "glabrous and dull",
+            "trichomes": "absent",
+            "petiole_length": "unclear",
+            "petiole_features": "unclear"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "greenish-brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "unclear",
+            "tendrils": "absent"
+          },
+          "notes": "Leaflets show some missing margin sections and holes present on a few leaflets; younger leaf portions appear brighter green compared to darker green older portions."
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "specimen_id": "BAR0586",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Melastomataceae/by_genus/Mouriri/by_species/myrtilloides/BAR0586/Melastomataceae_Mouriri_myrtilloides_BAR0586_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Melastomataceae/by_genus/Mouriri/by_species/myrtilloides/BAR0586/Melastomataceae_Mouriri_myrtilloides_BAR0586_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Melastomataceae/by_genus/Mouriri/by_species/myrtilloides/BAR0586/Melastomataceae_Mouriri_myrtilloides_BAR0586_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Melastomataceae/by_genus/Mouriri/by_species/myrtilloides/BAR0586/Melastomataceae_Mouriri_myrtilloides_BAR0586_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Melastomataceae/by_genus/Mouriri/by_species/myrtilloides/BAR0586/Melastomataceae_Mouriri_myrtilloides_BAR0586_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "opposite",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "compound",
+            "compound_type": "odd-pinnate",
+            "num_leaflets": "8",
+            "leaflet_arrangement": "alternate"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "lanceolate",
+            "apex": "acuminate",
+            "base": "rounded",
+            "venation": "pinnate",
+            "secondary_veins": "clearly visible, parallel to each other, and spaced regularly along the midrib",
+            "surface_features": "shiny",
+            "trichomes": "absent",
+            "petiole_length": "long",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "The seedling exhibits a climbing or scrambling habit with very long, slender rachises. The leaves are compound with alternate leaflets. The surrounding vegetation includes broad-leafed palms."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): opposite (paired leaflets are clearly visible attached at the same node along the rachis in multiple views)\n    2. Leaf spacing (clustered / distal): clustered (the leaflets are arranged in close proximity along the rachis without significant internodal gaps)\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): compound (the leaf consists of multiple distinct leaflets attached to a central axis)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): odd-pinnate (a single terminal leaflet is visible at the apex of the leaf structure)\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): 8 (visible leaflets in the best views range between 7 and 9, with an estimate of 8)\n    6. Leaflet arrangement (opposite / alternate / subopposite): alternate (leaflets are attached along the rachis in a staggered, alternating pattern rather than directly across from one another)\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.): entire (leaflets have smooth edges, though some physical damage/holes are present)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): lanceolate (leaflets are elongated and tapering towards the tip)\n    9. Leaf apex (acute, obtuse, acuminate): acuminate (the leaflets taper to a distinct, elongated point)\n    10. Leaf base (rounded, cordate, cuneate): rounded (the base of the leaflets appears broadly rounded)\n    11. Venation type (pinnate / palmate / parallel): pinnate (a central midrib is clearly visible with secondary veins branching off)\n    12. Secondary veins (visibility, spacing, number): clearly visible, parallel to each other, and spaced regularly along the midrib\n    13. Leaf surface features (glabrous, shiny, dull, rugose): shiny (the leaflets exhibit a glossy sheen, particularly in the close-up images)\n    14. Leaf surface trichomes (present / absent): absent (the surface appears smooth without visible hairs)\n    15. Petiole length (short / long): long (the rachis extending the leaflets is notably long and slender)\n    16. Petiole features (winged / grooved / terete): terete (the rachis appears round and slender in cross-section)\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): woody (the main stem appears rigid and lignified, consistent with a woody seedling)\n    18. Stem trichomes (present / absent): absent (the stem appears smooth)\n    19. Stem color: brown (the stem is a dull brownish color)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (the stem surface appears uniform without ridges or lenticels)\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules are visible at the base of the petioles)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no distinct pulvinus is visible at the leaf base)\n    24. Tendrils (present / absent): absent\nF. Notes: The seedling exhibits a climbing or scrambling habit with very long, slender rachises. The leaves are compound with alternate leaflets. The surrounding vegetation includes broad-leafed palms.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 4854.257544036955
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 4854.257544036955,
+  "benchmark_metadata": {
+    "scientific_name": "Mouriri myrtilloides",
+    "family": "Melastomataceae",
+    "genus": "Mouriri",
+    "species_epithet": "myrtilloides",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

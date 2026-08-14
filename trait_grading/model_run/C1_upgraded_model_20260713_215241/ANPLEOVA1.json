@@ -1,0 +1,91 @@
+{
+  "specimen_id": "ANPLEOVA1",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Pleonotoma/by_species/variabilis/ANPLEOVA1/Bignoniaceae_Pleonotoma_variabilis_ANPLEOVA1_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Pleonotoma/by_species/variabilis/ANPLEOVA1/Bignoniaceae_Pleonotoma_variabilis_ANPLEOVA1_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Pleonotoma/by_species/variabilis/ANPLEOVA1/Bignoniaceae_Pleonotoma_variabilis_ANPLEOVA1_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Pleonotoma/by_species/variabilis/ANPLEOVA1/Bignoniaceae_Pleonotoma_variabilis_ANPLEOVA1_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Pleonotoma/by_species/variabilis/ANPLEOVA1/Bignoniaceae_Pleonotoma_variabilis_ANPLEOVA1_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "alternate",
+            "spacing": "distal"
+          },
+          "leaf_complexity": {
+            "type": "compound",
+            "compound_type": "odd-pinnate",
+            "num_leaflets": "5",
+            "leaflet_arrangement": "subopposite"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "acute",
+            "base": "rounded",
+            "venation": "pinnate",
+            "secondary_veins": "clearly visible, fine, and spaced closely along the midrib",
+            "surface_features": "shiny",
+            "trichomes": "absent",
+            "petiole_length": "long",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "absent",
+            "color": "green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Some leaflets show irregular holes along the margins and in the center of the blade."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): alternate (leaves are attached at different nodes along the stem, alternating sides)\n    2. Leaf spacing (clustered / distal): distal (leaves are spaced out along the stem rather than crowded together)\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): compound (leaves are composed of multiple distinct leaflets attached to a central axis)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): odd-pinnate (each leaf has a terminal leaflet at the apex of the rachis)\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): 5 (multiple leaves clearly show three leaflets, while others show five leaflets)\n    6. Leaflet arrangement (opposite / alternate / subopposite): subopposite (leaflets along the rachis appear paired but with slight offsets)\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.): entire (leaf margins are smooth with no teeth or serrations, though some leaves have holes)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): elliptic (leaflets are broadly oval, widest near the middle)\n    9. Leaf apex (acute, obtuse, acuminate): acute (leaf tips come to a distinct, sharp point)\n    10. Leaf base (rounded, cordate, cuneate): rounded (leaf bases appear smooth and curved without a notch)\n    11. Venation type (pinnate / palmate / parallel): pinnate (a central midrib runs the length of the leaflet with secondary veins branching off)\n    12. Secondary veins (visibility, spacing, number): clearly visible, fine, and spaced closely along the midrib\n    13. Leaf surface features (glabrous, shiny, dull, rugose): shiny (leaf surfaces reflect light, indicating a smooth texture)\n    14. Leaf surface trichomes (present / absent): absent (no hairs are visible on the leaf surfaces)\n    15. Petiole length (short / long): long (petioles are slender and extend a significant distance from the stem)\n    16. Petiole features (winged / grooved / terete): terete (petioles appear round in cross-section)\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): herbaceous (the stem is green, thin, and flexible, typical of a young seedling)\n    18. Stem trichomes (present / absent): absent (stem appears smooth)\n    19. Stem color: green (the stem is a uniform bright green)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (no ridges or lenticels are visible on the stem)\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules are visible at the leaf bases)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no latex is visible)\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no swollen joint-like structure is visible at the leaf base)\n    24. Tendrils (present / absent): absent (no tendrils are present)\nF. Notes: Some leaflets show irregular holes along the margins and in the center of the blade.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 4923.334298189729
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 4923.334298189729,
+  "benchmark_metadata": {
+    "scientific_name": "Pleonotoma variabilis",
+    "family": "Bignoniaceae",
+    "genus": "Pleonotoma",
+    "species_epithet": "variabilis",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

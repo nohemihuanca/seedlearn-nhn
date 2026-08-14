@@ -1,0 +1,47 @@
+{
+  "specimen_id": "BVSOROAF8",
+  "source_answer_key": "Moraceae_Sorocea_affinis_BVSOROAF8",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "unclear",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "lanceolate",
+            "apex": "acuminate",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "conspicuous and raised, numerous and regularly spaced",
+            "surface_features": "glabrous and shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "unclear"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "unclear",
+            "color": "medium green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "unclear",
+            "tendrils": "absent"
+          },
+          "notes": "Leaves are simple, elliptic-lanceolate with entire margins and strong, impressed secondary venation; several leaves appear to emerge from near the same level on the stem, but the exact node structure is not clearly visible."
+        }
+      }
+    }
+  }
+}

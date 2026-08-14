@@ -1,0 +1,91 @@
+{
+  "specimen_id": "SHTACHVE3",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Tachigali/by_species/panamensis/SHTACHVE3/Fabaceae_Tachigali_panamensis_SHTACHVE3_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Tachigali/by_species/panamensis/SHTACHVE3/Fabaceae_Tachigali_panamensis_SHTACHVE3_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Tachigali/by_species/panamensis/SHTACHVE3/Fabaceae_Tachigali_panamensis_SHTACHVE3_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Tachigali/by_species/panamensis/SHTACHVE3/Fabaceae_Tachigali_panamensis_SHTACHVE3_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Tachigali/by_species/panamensis/SHTACHVE3/Fabaceae_Tachigali_panamensis_SHTACHVE3_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "alternate",
+            "spacing": "distal"
+          },
+          "leaf_complexity": {
+            "type": "compound",
+            "compound_type": "odd-pinnate",
+            "num_leaflets": "9",
+            "leaflet_arrangement": "opposite"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "acute",
+            "base": "rounded",
+            "venation": "pinnate",
+            "secondary_veins": "visible, closely spaced, numerous",
+            "surface_features": "shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "green to reddish-brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Multiple images show the same seedling individual from different angles. Some leaflets have minor holes and brown spots, which are noted as damage but not attributed to cause. The plant is growing near a larger tree trunk, but habitat is not inferred. The compound leaves with 9 leaflets, alternate arrangement, and shiny, elliptic leaflets with entire margins are consistent across images. Stem is green and woody with smooth texture and no trichomes. No stipules, latex, or pulvinus observed. Leaflet arrangement is opposite along the rachis, characteristic of odd-pinnate compound leaves."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): alternate (leaves are attached at successive nodes along the stem, alternating sides; no paired leaves or whorls visible)\n    2. Leaf spacing (clustered / distal): distal (leaves are spaced along the stem with visible internodes; not clustered at the apex)\n\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): compound (each leaf has multiple leaflets attached to a central rachis)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): odd-pinnate (the terminal leaflet is present and the leaflets are arranged along the rachis in pairs with one at the end)\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): 9 (each compound leaf has 4 pairs of leaflets plus a terminal leaflet, totaling 9)\n    6. Leaflet arrangement (opposite / alternate / subopposite): opposite (leaflets are arranged in pairs along the rachis, one on each side)\n\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (margins are smooth with no teeth or serrations)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): elliptic (leaflets are broadest near the middle and taper to both ends)\n    9. Leaf apex (acute, obtuse, acuminate): acute (tip is sharply pointed)\n    10. Leaf base (rounded, cordate, cuneate): rounded (base is smoothly curved, not tapered or heart-shaped)\n    11. Venation type (pinnate / palmate / parallel): pinnate (main vein runs from base to apex, with secondary veins branching off and running to margins)\n    12. Secondary veins (visibility, spacing, number): visible, closely spaced, numerous (secondary veins are clearly visible, running parallel to each other and close together)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): shiny (surface has a glossy appearance, reflecting light)\n    14. Leaf surface trichomes (present / absent): absent (no visible hairs or fuzz on leaf surface)\n    15. Petiole length (short / long): short (petiole is relatively short compared to the leaflet length, especially for compound leaves)\n    16. Petiole features (winged / grooved / terete): terete (petiole is round in cross-section, without wings or grooves)\n\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): woody (stem is firm, green to brownish, with visible nodes and internodes, consistent with young woody growth)\n    18. Stem trichomes (present / absent): absent (no visible hairs on stem surface)\n    19. Stem color: green to reddish-brown (young stems are green, older portions show reddish-brown coloration)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (surface is smooth without ridges or lenticels; some slight sheen present)\n\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules visible at leaf bases in any image)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no latex exudate visible when stems or leaves are damaged)\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no swollen joints at leaflet bases visible; pulvinus not present)\n    24. Tendrils (present / absent): absent (no tendrils visible on stems or leaves)\n\nF. Notes: Multiple images show the same seedling individual from different angles. Some leaflets have minor holes and brown spots, which are noted as damage but not attributed to cause. The plant is growing near a larger tree trunk, but habitat is not inferred. The compound leaves with 9 leaflets, alternate arrangement, and shiny, elliptic leaflets with entire margins are consistent across images. Stem is green and woody with smooth texture and no trichomes. No stipules, latex, or pulvinus observed. Leaflet arrangement is opposite along the rachis, characteristic of odd-pinnate compound leaves. \n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 22645.51290916279
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 22645.51290916279,
+  "benchmark_metadata": {
+    "scientific_name": "Tachigali panamensis",
+    "family": "Fabaceae",
+    "genus": "Tachigali",
+    "species_epithet": "panamensis",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

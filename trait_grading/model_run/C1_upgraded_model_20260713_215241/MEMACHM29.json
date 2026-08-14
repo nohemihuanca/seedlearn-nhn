@@ -1,0 +1,91 @@
+{
+  "specimen_id": "MEMACHM29",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Machaerium/by_species/milleflorum/MEMACHM29/Fabaceae_Machaerium_milleflorum_MEMACHM29_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Machaerium/by_species/milleflorum/MEMACHM29/Fabaceae_Machaerium_milleflorum_MEMACHM29_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Machaerium/by_species/milleflorum/MEMACHM29/Fabaceae_Machaerium_milleflorum_MEMACHM29_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Machaerium/by_species/milleflorum/MEMACHM29/Fabaceae_Machaerium_milleflorum_MEMACHM29_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Machaerium/by_species/milleflorum/MEMACHM29/Fabaceae_Machaerium_milleflorum_MEMACHM29_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "alternate",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "compound",
+            "compound_type": "odd-pinnate",
+            "num_leaflets": "16-20",
+            "leaflet_arrangement": "opposite"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "obovate to oblong",
+            "apex": "obtuse to rounded",
+            "base": "rounded",
+            "venation": "pinnate",
+            "secondary_veins": "visible, pinnate, numerous, and arranged in a parallel fashion relative to each other",
+            "surface_features": "dull",
+            "trichomes": "present",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "present",
+            "color": "green to brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "present",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "The seedling is growing against a rough, dark brown tree trunk. Some leaflets show small holes. The overall leaf structure is bipinnate, though the images primarily show the pinnate leaflets. The lighting is natural and diffuse."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): alternate (leaves emerge singly at successive nodes along the stem, visible in multiple images)\n    2. Leaf spacing (clustered / distal): clustered (leaves are grouped near the apex of the stem, giving a clustered appearance)\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): compound (each leaf unit consists of multiple leaflets attached to a rachis)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): odd-pinnate (each leaflet axis terminates in a single leaflet)\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): 16-20 (estimated from the longest, most complete leaflets visible)\n    6. Leaflet arrangement (opposite / alternate / subopposite): opposite (leaflets are paired along the rachis)\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.): entire (leaf margins are smooth without teeth)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): obovate to oblong (leaflets are wider towards the tip and generally rectangular-oblong)\n    9. Leaf apex (acute, obtuse, acuminate): obtuse to rounded (leaf tips are blunt and rounded)\n    10. Leaf base (rounded, cordate, cuneate): rounded (leaf bases are rounded)\n    11. Venation type (pinnate / palmate / parallel): pinnate (veins branch off a central midrib)\n    12. Secondary veins (visibility, spacing, number): visible, pinnate, numerous, and arranged in a parallel fashion relative to each other\n    13. Leaf surface features (glabrous, shiny, dull, rugose): dull (leaf surfaces appear matte, not glossy)\n    14. Leaf surface trichomes (present / absent): present (fine hairs are visible on the leaflets and rachis)\n    15. Petiole length (short / long): short (petioles are relatively short compared to the leaflets)\n    16. Petiole features (winged / grooved / terete): terete (petioles appear round in cross-section)\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): herbaceous (stem appears soft and green, not yet woody)\n    18. Stem trichomes (present / absent): present (hairs are visible on the main stem)\n    19. Stem color: green to brown (stem color varies from green near the top to brownish lower down)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (stem appears relatively smooth, though hairy)\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): present (small, pointed stipules are visible at the base of the petiole where it joins the stem)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no distinct swelling at the base of the petiole is visible)\n    24. Tendrils (present / absent): absent\nF. Notes: The seedling is growing against a rough, dark brown tree trunk. Some leaflets show small holes. The overall leaf structure is bipinnate, though the images primarily show the pinnate leaflets. The lighting is natural and diffuse.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 4743.733188137412
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 4743.733188137412,
+  "benchmark_metadata": {
+    "scientific_name": "Machaerium milleflorum",
+    "family": "Fabaceae",
+    "genus": "Machaerium",
+    "species_epithet": "milleflorum",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "specimen_id": "PEA0224",
+  "source_answer_key": "Convolvulaceae_Maripa_panamensis_PEA0224",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "unclear",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic to narrowly elliptic",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "clearly visible, fairly regular spacing, approximately 8\u201312 pairs per leaf",
+            "surface_features": "glabrous and shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "unclear"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Seedling has glossy, entire, simple leaves with a prominent midrib and secondary veins, appearing glabrous; leaves are clustered near the stem apex, and some leaves show small holes or missing margin sections; surrounding ground layer of leaf litter and rocks is visible."
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "specimen_id": "BVMANSKE10",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Pachyptera/by_species/kerere/BVMANSKE10/Bignoniaceae_Pachyptera_kerere_BVMANSKE10_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Pachyptera/by_species/kerere/BVMANSKE10/Bignoniaceae_Pachyptera_kerere_BVMANSKE10_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Pachyptera/by_species/kerere/BVMANSKE10/Bignoniaceae_Pachyptera_kerere_BVMANSKE10_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Pachyptera/by_species/kerere/BVMANSKE10/Bignoniaceae_Pachyptera_kerere_BVMANSKE10_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Pachyptera/by_species/kerere/BVMANSKE10/Bignoniaceae_Pachyptera_kerere_BVMANSKE10_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {},
+          "leaf_complexity": {},
+          "leaf_morphology": {
+            "margin": "entire"
+          },
+          "stem_traits": {},
+          "special_features": {},
+          "notes": "The leaflets show some irregular physical damage and insect herbivory (e.g., missing chunks of tissue), but the underlying margin structure on the intact edges is smooth."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nC. Leaf Morphology\n    7.\tLeaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (the leaflet edges appear smooth and continuous throughout the visible portions of the plant)\nF. Notes: The leaflets show some irregular physical damage and insect herbivory (e.g., missing chunks of tissue), but the underlying margin structure on the intact edges is smooth.\n\n####",
+        "thinking": null,
+        "few_shot_delivery": {
+          "n_examples": 0,
+          "n_exemplar_images": 0,
+          "n_specimen_images": 5,
+          "max_images": 10,
+          "images_over_budget": false,
+          "prompt_chars": 940
+        }
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 1712.8213209999785
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 1712.8213209999785,
+  "benchmark_metadata": {
+    "scientific_name": "Pachyptera kerere",
+    "family": "Bignoniaceae",
+    "genus": "Pachyptera",
+    "species_epithet": "kerere",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

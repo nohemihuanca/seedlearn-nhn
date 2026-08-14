@@ -1,0 +1,72 @@
+{
+  "specimen_id": "PPPIPEAE3",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Piperaceae/by_genus/Piper/by_species/aequale/PPPIPEAE3/Piperaceae_Piper_aequale_PPPIPEAE3_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Piperaceae/by_genus/Piper/by_species/aequale/PPPIPEAE3/Piperaceae_Piper_aequale_PPPIPEAE3_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Piperaceae/by_genus/Piper/by_species/aequale/PPPIPEAE3/Piperaceae_Piper_aequale_PPPIPEAE3_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Piperaceae/by_genus/Piper/by_species/aequale/PPPIPEAE3/Piperaceae_Piper_aequale_PPPIPEAE3_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Piperaceae/by_genus/Piper/by_species/aequale/PPPIPEAE3/Piperaceae_Piper_aequale_PPPIPEAE3_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {},
+          "leaf_complexity": {},
+          "leaf_morphology": {
+            "margin": "entire"
+          },
+          "stem_traits": {},
+          "special_features": {},
+          "notes": "Several leaves show damage (holes and missing sections), likely from herbivory; however, the intact margins of these and other leaves are clearly smooth and entire."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nC. Leaf Morphology\n    7.\tLeaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (smooth, continuous edge with no serrations or teeth visible on any of the leaves across the images)\nF. Notes: Several leaves show damage (holes and missing sections), likely from herbivory; however, the intact margins of these and other leaves are clearly smooth and entire.\n\n####",
+        "thinking": null,
+        "few_shot_delivery": {
+          "n_examples": 0,
+          "n_exemplar_images": 0,
+          "n_specimen_images": 5,
+          "max_images": 10,
+          "images_over_budget": false,
+          "prompt_chars": 940
+        }
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 1663.5775459999422
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 1663.5775459999422,
+  "benchmark_metadata": {
+    "scientific_name": "Piper aequale",
+    "family": "Piperaceae",
+    "genus": "Piper",
+    "species_epithet": "aequale",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

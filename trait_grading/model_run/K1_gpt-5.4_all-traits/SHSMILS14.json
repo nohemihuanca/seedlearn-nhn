@@ -1,0 +1,47 @@
+{
+  "specimen_id": "SHSMILS14",
+  "source_answer_key": "Smilacaceae_Smilax_spinosa_SHSMILS14",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "alternate",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic to lanceolate",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "palmate",
+            "secondary_veins": "clearly visible, moderately spaced, several",
+            "surface_features": "glabrous, slightly shiny, weakly rugose",
+            "trichomes": "absent",
+            "petiole_length": "long",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "absent",
+            "color": "green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "N/A",
+            "tendrils": "present"
+          },
+          "notes": "Slender climbing seedling/shoot with several strong basal veins per leaf; small holes are present on some leaf blades."
+        }
+      }
+    }
+  }
+}

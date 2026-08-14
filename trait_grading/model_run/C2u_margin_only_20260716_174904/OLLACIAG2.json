@@ -1,0 +1,72 @@
+{
+  "specimen_id": "OLLACIAG2",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Lacistemataceae/by_genus/Lacistema/by_species/aggregatum/OLLACIAG2/Lacistemataceae_Lacistema_aggregatum_OLLACIAG2_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Lacistemataceae/by_genus/Lacistema/by_species/aggregatum/OLLACIAG2/Lacistemataceae_Lacistema_aggregatum_OLLACIAG2_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Lacistemataceae/by_genus/Lacistema/by_species/aggregatum/OLLACIAG2/Lacistemataceae_Lacistema_aggregatum_OLLACIAG2_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Lacistemataceae/by_genus/Lacistema/by_species/aggregatum/OLLACIAG2/Lacistemataceae_Lacistema_aggregatum_OLLACIAG2_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Lacistemataceae/by_genus/Lacistema/by_species/aggregatum/OLLACIAG2/Lacistemataceae_Lacistema_aggregatum_OLLACIAG2_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {},
+          "leaf_complexity": {},
+          "leaf_morphology": {
+            "margin": "entire"
+          },
+          "stem_traits": {},
+          "special_features": {},
+          "notes": "Several leaves exhibit distinct serpentine trails (mines) on their surfaces, and some leaves show minor physical damage with small missing notches along the margin."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nC. Leaf Morphology\n    7.\tLeaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (The leaf edges are smooth and continuous without any serrations or lobes, as clearly seen on the healthy leaves in the close-up images.)\nF. Notes: Several leaves exhibit distinct serpentine trails (mines) on their surfaces, and some leaves show minor physical damage with small missing notches along the margin.\n####",
+        "thinking": null,
+        "few_shot_delivery": {
+          "n_examples": 0,
+          "n_exemplar_images": 0,
+          "n_specimen_images": 5,
+          "max_images": 10,
+          "images_over_budget": false,
+          "prompt_chars": 940
+        }
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 1697.4797730000546
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 1697.4797730000546,
+  "benchmark_metadata": {
+    "scientific_name": "Lacistema aggregatum",
+    "family": "Lacistemataceae",
+    "genus": "Lacistema",
+    "species_epithet": "aggregatum",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

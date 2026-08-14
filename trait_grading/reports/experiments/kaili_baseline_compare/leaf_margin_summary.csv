@@ -1,0 +1,5 @@
+label,model,granularity,external,n_model_specimens,roni_rate,roni_kappa,roni_n,carmen_rate,carmen_kappa,carmen_n,stri_accuracy,stri_n
+baseline_qwen3-vl-32b,Qwen/Qwen3-VL-32B-Instruct-FP8,,False,114,0.8393,0.5032,112,0.9123,0.6718,114,0.9324,74
+K1_gpt-5.4_all-traits,gpt-5.4,all_traits,True,113,0.8378,0.5022,111,0.9115,0.6713,113,0.9324,74
+K2_gpt-5.1_per-trait,gpt-5.1,per_trait,True,113,0.8108,0.3953,111,0.8839,0.5439,112,0.9452,73
+K3_gpt-5.1_per-section,gpt-5.1,per_section,True,113,0.8018,0.3577,111,0.8673,0.4744,113,0.9459,74

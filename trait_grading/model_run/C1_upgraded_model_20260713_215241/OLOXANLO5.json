@@ -1,0 +1,91 @@
+{
+  "specimen_id": "OLOXANLO5",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Annonaceae/by_genus/Oxandra/by_species/longipetala/OLOXANLO5/Annonaceae_Oxandra_longipetala_OLOXANLO5_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Annonaceae/by_genus/Oxandra/by_species/longipetala/OLOXANLO5/Annonaceae_Oxandra_longipetala_OLOXANLO5_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Annonaceae/by_genus/Oxandra/by_species/longipetala/OLOXANLO5/Annonaceae_Oxandra_longipetala_OLOXANLO5_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Annonaceae/by_genus/Oxandra/by_species/longipetala/OLOXANLO5/Annonaceae_Oxandra_longipetala_OLOXANLO5_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Annonaceae/by_genus/Oxandra/by_species/longipetala/OLOXANLO5/Annonaceae_Oxandra_longipetala_OLOXANLO5_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "opposite",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "compound",
+            "compound_type": "unclear",
+            "num_leaflets": "4",
+            "leaflet_arrangement": "opposite"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "acute",
+            "base": "rounded",
+            "venation": "pinnate",
+            "secondary_veins": "visible, relatively close and parallel spacing, branching from the midrib",
+            "surface_features": "shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "brown to dark brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "The plant exhibits pinnately compound leaves with opposite leaflets. Several leaves show signs of physical damage, including holes and missing margins. Some leaf surfaces display irregular yellowish-green mottling or discoloration. The leaves are glossy and wet. A pink tag is visible in the background, indicating the plant is being monitored."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): opposite (clearly visible paired leaflets attached at the same node along the rachis in multiple images)\n    2. Leaf spacing (clustered / distal): clustered (leaves are grouped closely along the stems)\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): compound (leaves are clearly composed of multiple leaflets attached to a central rachis)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): unclear (the terminal leaflet is not consistently visible to confirm the presence of a terminal leaflet)\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): 4 (visible on the most distinct leaf structure in the foreground)\n    6. Leaflet arrangement (opposite / alternate / subopposite): opposite (leaflets are arranged in pairs along the rachis)\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.): entire (margins appear smooth, though some minor physical damage is present)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): elliptic (leaflets are broadly oval-shaped, widest near the middle)\n    9. Leaf apex (acute, obtuse, acuminate): acute (leaf tips taper to a distinct point)\n    10. Leaf base (rounded, cordate, cuneate): rounded (leaf bases appear broadly rounded)\n    11. Venation type (pinnate / palmate / parallel): pinnate (a central midrib is visible with secondary veins branching off it)\n    12. Secondary veins (visibility, spacing, number): visible, relatively close and parallel spacing, branching from the midrib\n    13. Leaf surface features (glabrous, shiny, dull, rugose): shiny (leaf surfaces are glossy and reflect light)\n    14. Leaf surface trichomes (present / absent): absent (surface appears smooth without visible hairs)\n    15. Petiole length (short / long): short (petioles connecting leaflets to the rachis appear short)\n    16. Petiole features (winged / grooved / terete): terete (petioles appear rounded in cross-section)\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): woody (stems appear rigid and lignified)\n    18. Stem trichomes (present / absent): absent (stems appear smooth)\n    19. Stem color: brown to dark brown (visible on thinner stems)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (stems appear relatively smooth without prominent ridges or lenticels)\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules are clearly visible at the leaf bases)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no pulvinus is visible at the leaf base)\n    24. Tendrils (present / absent): absent\n\nF. Notes: The plant exhibits pinnately compound leaves with opposite leaflets. Several leaves show signs of physical damage, including holes and missing margins. Some leaf surfaces display irregular yellowish-green mottling or discoloration. The leaves are glossy and wet. A pink tag is visible in the background, indicating the plant is being monitored.\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 4958.274291828275
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 4958.274291828275,
+  "benchmark_metadata": {
+    "scientific_name": "Oxandra longipetala",
+    "family": "Annonaceae",
+    "genus": "Oxandra",
+    "species_epithet": "longipetala",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

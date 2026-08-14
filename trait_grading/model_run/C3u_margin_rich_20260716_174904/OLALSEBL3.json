@@ -1,0 +1,72 @@
+{
+  "specimen_id": "OLALSEBL3",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rubiaceae/by_genus/Alseis/by_species/blackiana/OLALSEBL3/Rubiaceae_Alseis_blackiana_OLALSEBL3_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rubiaceae/by_genus/Alseis/by_species/blackiana/OLALSEBL3/Rubiaceae_Alseis_blackiana_OLALSEBL3_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rubiaceae/by_genus/Alseis/by_species/blackiana/OLALSEBL3/Rubiaceae_Alseis_blackiana_OLALSEBL3_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rubiaceae/by_genus/Alseis/by_species/blackiana/OLALSEBL3/Rubiaceae_Alseis_blackiana_OLALSEBL3_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Rubiaceae/by_genus/Alseis/by_species/blackiana/OLALSEBL3/Rubiaceae_Alseis_blackiana_OLALSEBL3_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {},
+          "leaf_complexity": {},
+          "leaf_morphology": {
+            "margin": "[entire"
+          },
+          "stem_traits": {},
+          "special_features": {},
+          "notes": "[The plant exhibits palmately compound leaves. Some leaflets show minor insect damage (e.g., small holes), but the margin of the intact leaf tissue is smooth.]"
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nC. Leaf Morphology\n    7.\tLeaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): [entire (the leaf blade edges are smooth and continuous with no visible teeth, serrations, or lobes)]\nF. Notes: [The plant exhibits palmately compound leaves. Some leaflets show minor insect damage (e.g., small holes), but the margin of the intact leaf tissue is smooth.]\n####",
+        "thinking": null,
+        "few_shot_delivery": {
+          "n_examples": 0,
+          "n_exemplar_images": 0,
+          "n_specimen_images": 5,
+          "max_images": 10,
+          "images_over_budget": false,
+          "prompt_chars": 2155
+        }
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 1599.5965390000038
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 1599.5965390000038,
+  "benchmark_metadata": {
+    "scientific_name": "Alseis blackiana",
+    "family": "Rubiaceae",
+    "genus": "Alseis",
+    "species_epithet": "blackiana",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

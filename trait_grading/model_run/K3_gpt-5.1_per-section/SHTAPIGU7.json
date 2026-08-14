@@ -1,0 +1,47 @@
+{
+  "specimen_id": "SHTAPIGU7",
+  "source_answer_key": "Anacardiaceae_Tapirira_guianensis_SHTAPIGU7",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "opposite",
+            "spacing": "unclear"
+          },
+          "leaf_complexity": {
+            "type": "compound",
+            "compound_type": "odd-pinnate",
+            "num_leaflets": "9",
+            "leaflet_arrangement": "opposite"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "clearly visible, closely spaced, numerous",
+            "surface_features": "shiny",
+            "trichomes": "absent",
+            "petiole_length": "long",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "light brown to yellow-green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Compound leaves with multiple opposite to subopposite leaflets on a single rachis; leaflets are glossy, entire-margined, and elliptic with an acuminate tip; some leaflets show holes present; seedling appears self-supporting with an upright stem and no climbing structures."
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "specimen_id": "ANENTESC3",
+  "source_answer_key": "Fabaceae_Robrichia_schomburgkii_ANENTESC3",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "unclear",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "compound",
+            "compound_type": "even-pinnate",
+            "num_leaflets": "24",
+            "leaflet_arrangement": "alternate"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "linear-lanceolate",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "unclear",
+            "secondary_veins": "unclear",
+            "surface_features": "glabrous and slightly shiny",
+            "trichomes": "absent",
+            "petiole_length": "unclear",
+            "petiole_features": "unclear"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "unclear",
+            "color": "green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Plant has finely divided, pinnate to bipinnate fronds consistent with a fern-like morphology; many standard seedling characters (e.g., stipules, pulvinus, tendrils) are not evident in this individual."
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "specimen_id": "SHCREMPA5",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Annonaceae/by_genus/Cremastosperma/by_species/panamense/SHCREMPA5/Annonaceae_Cremastosperma_panamense_SHCREMPA5_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Annonaceae/by_genus/Cremastosperma/by_species/panamense/SHCREMPA5/Annonaceae_Cremastosperma_panamense_SHCREMPA5_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Annonaceae/by_genus/Cremastosperma/by_species/panamense/SHCREMPA5/Annonaceae_Cremastosperma_panamense_SHCREMPA5_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Annonaceae/by_genus/Cremastosperma/by_species/panamense/SHCREMPA5/Annonaceae_Cremastosperma_panamense_SHCREMPA5_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Annonaceae/by_genus/Cremastosperma/by_species/panamense/SHCREMPA5/Annonaceae_Cremastosperma_panamense_SHCREMPA5_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {},
+          "leaf_complexity": {},
+          "leaf_morphology": {
+            "margin": "entire"
+          },
+          "stem_traits": {},
+          "special_features": {},
+          "notes": "The leaves are glossy with prominent reticulate venation, and the margins are clearly smooth throughout."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nC. Leaf Morphology\n    7.\tLeaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (The leaf margins visible across all images are smooth and continuous without any teeth, notches, or serrations)\nF. Notes: The leaves are glossy with prominent reticulate venation, and the margins are clearly smooth throughout.\n####",
+        "thinking": null,
+        "few_shot_delivery": {
+          "n_examples": 0,
+          "n_exemplar_images": 0,
+          "n_specimen_images": 5,
+          "max_images": 10,
+          "images_over_budget": false,
+          "prompt_chars": 940
+        }
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 1664.7105729999794
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 1664.7105729999794,
+  "benchmark_metadata": {
+    "scientific_name": "Cremastosperma panamense",
+    "family": "Annonaceae",
+    "genus": "Cremastosperma",
+    "species_epithet": "panamense",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

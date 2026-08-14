@@ -1,0 +1,91 @@
+{
+  "specimen_id": "CHSWARS13",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Swartzia/by_species/simplex/CHSWARS13/Fabaceae_Swartzia_simplex_CHSWARS13_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Swartzia/by_species/simplex/CHSWARS13/Fabaceae_Swartzia_simplex_CHSWARS13_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Swartzia/by_species/simplex/CHSWARS13/Fabaceae_Swartzia_simplex_CHSWARS13_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Swartzia/by_species/simplex/CHSWARS13/Fabaceae_Swartzia_simplex_CHSWARS13_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Swartzia/by_species/simplex/CHSWARS13/Fabaceae_Swartzia_simplex_CHSWARS13_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "alternate",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "compound",
+            "compound_type": "odd-pinnate",
+            "num_leaflets": "3",
+            "leaflet_arrangement": "alternate"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "ovate to elliptic",
+            "apex": "acute to acuminate",
+            "base": "rounded to cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "visible, fine, and relatively closely spaced",
+            "surface_features": "slightly shiny, glabrous",
+            "trichomes": "absent",
+            "petiole_length": "long",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "absent",
+            "color": "green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "The seedling shows some physical damage on a few leaflets, including distinct holes. There is a pink tag attached to a lower part of the plant. The leaves appear to have some minor white speckling on the surface."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): alternate (leaves are attached at different points along the stem in an alternating pattern)\n    2. Leaf spacing (clustered / distal): clustered (leaves are grouped in clusters along the stem segments)\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): compound (leaves consist of multiple leaflets attached to a central axis)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): odd-pinnate (leaflets are arranged along a rachis with a terminal leaflet present)\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): 3 (the most clearly visible leaf structure consists of three leaflets)\n    6. Leaflet arrangement (opposite / alternate / subopposite): alternate (the leaflets are arranged alternately along the rachis, not in pairs)\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.): entire (leaf margins are smooth without teeth)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): ovate to elliptic (leaflets are broadly oval, wider towards the base)\n    9. Leaf apex (acute, obtuse, acuminate): acute to acuminate (leaf tips taper to a point)\n    10. Leaf base (rounded, cordate, cuneate): rounded to cuneate (leaf bases are broadly rounded or wedge-shaped)\n    11. Venation type (pinnate / palmate / parallel): pinnate (a central vein is visible with smaller veins branching off)\n    12. Secondary veins (visibility, spacing, number): visible, fine, and relatively closely spaced\n    13. Leaf surface features (glabrous, shiny, dull, rugose): slightly shiny, glabrous (leaves appear smooth with a slight sheen)\n    14. Leaf surface trichomes (present / absent): absent (no hairs are visible on the leaf surface)\n    15. Petiole length (short / long): long (the petiole connecting the leaflet cluster to the stem is noticeably long)\n    16. Petiole features (winged / grooved / terete): terete (the petiole appears round in cross-section)\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): herbaceous (the stem appears thin, green, and non-woody)\n    18. Stem trichomes (present / absent): absent (no hairs are visible on the stem)\n    19. Stem color: green\n    20. Stem texture (smooth / ridged / lenticellate): smooth\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules are clearly visible at the leaf bases)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no distinct pulvinus is visible at the leaf base)\n    24. Tendrils (present / absent): absent (no tendrils are visible)\nF. Notes: The seedling shows some physical damage on a few leaflets, including distinct holes. There is a pink tag attached to a lower part of the plant. The leaves appear to have some minor white speckling on the surface.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 4618.070132099092
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 4618.070132099092,
+  "benchmark_metadata": {
+    "scientific_name": "Swartzia simplex",
+    "family": "Fabaceae",
+    "genus": "Swartzia",
+    "species_epithet": "simplex",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

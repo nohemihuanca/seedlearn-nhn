@@ -1,0 +1,47 @@
+{
+  "specimen_id": "BVPETRAS9",
+  "source_answer_key": "Verbenaceae_Petrea_volubilis_BVPETRAS9",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "whorled",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "lanceolate",
+            "apex": "acuminate",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "clearly visible, closely spaced, numerous",
+            "surface_features": "glabrous, shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "unclear",
+            "trichomes": "absent",
+            "color": "light brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Leaves form a near-rosette on a short central stem (radiating arrangement clearly visible from above); blades are narrow-elliptic to lanceolate with entire margins (no lobes or teeth seen); pale speckling is present on the upper surfaces of several leaves (patchy light-colored spots); some leaves show margin missing or holes (localized loss of tissue at edges and within blades); no climbing or twining habit evident."
+        }
+      }
+    }
+  }
+}

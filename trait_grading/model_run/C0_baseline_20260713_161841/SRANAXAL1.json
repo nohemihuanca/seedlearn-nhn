@@ -1,0 +1,91 @@
+{
+  "specimen_id": "SRANAXAL1",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Annonaceae/by_genus/Anaxagorea/by_species/allenii/SRANAXAL1/Annonaceae_Anaxagorea_allenii_SRANAXAL1_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Annonaceae/by_genus/Anaxagorea/by_species/allenii/SRANAXAL1/Annonaceae_Anaxagorea_allenii_SRANAXAL1_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Annonaceae/by_genus/Anaxagorea/by_species/allenii/SRANAXAL1/Annonaceae_Anaxagorea_allenii_SRANAXAL1_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Annonaceae/by_genus/Anaxagorea/by_species/allenii/SRANAXAL1/Annonaceae_Anaxagorea_allenii_SRANAXAL1_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Annonaceae/by_genus/Anaxagorea/by_species/allenii/SRANAXAL1/Annonaceae_Anaxagorea_allenii_SRANAXAL1_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "alternate",
+            "spacing": "distal"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "lanceolate",
+            "apex": "acuminate",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "visible, closely spaced, numerous",
+            "surface_features": "shiny, glabrous",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "green to brownish-green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "The seedling is covered in a fine, light-colored, granular substance (possibly fungal spores, insect frass, or environmental debris) which obscures some surface details but does not appear to be part of the plant's morphology. The images show the same individual from multiple angles, confirming the consistent leaf arrangement and morphology. Some leaves show minor damage with small holes or margin irregularities, but no clear herbivory or pathogen signs are evident. The plant is growing in a forest floor environment with leaf litter and soil visible. All observations are made conservatively without inferring family, genus, or species."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): alternate (leaves are attached at successive nodes along the stem, alternating sides; no paired or whorled nodes visible)\n    2. Leaf spacing (clustered / distal): distal (leaves are spaced out along the stem, not clustered at the apex or in tight groups)\n\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): simple (each leaf is a single, undivided blade; no leaflets present)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): N/A (leaf complexity is simple)\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): N/A (leaf complexity is simple)\n    6. Leaflet arrangement (opposite / alternate / subopposite): N/A (leaf complexity is simple)\n\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (smooth margin with no teeth or serrations visible)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): lanceolate (long, narrow, widest near the base, tapering to a point)\n    9. Leaf apex (acute, obtuse, acuminate): acuminate (tapering to a long, slender point)\n    10. Leaf base (rounded, cordate, cuneate): cuneate (wedge-shaped, tapering to the petiole)\n    11. Venation type (pinnate / palmate / parallel): pinnate (main vein runs lengthwise with lateral veins branching off, visible in the images)\n    12. Secondary veins (visibility, spacing, number): visible, closely spaced, numerous (secondary veins are clearly visible, running parallel to each other and perpendicular to the midrib)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): shiny, glabrous (surface is smooth and glossy; no visible hairs or texture)\n    14. Leaf surface trichomes (present / absent): absent (no visible trichomes; surface appears smooth)\n    15. Petiole length (short / long): short (petiole is short relative to leaf blade, barely visible in some views)\n    16. Petiole features (winged / grooved / terete): terete (circular in cross-section, not winged or grooved; based on visible stem and petiole structure)\n\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): woody (stem appears firm and rigid, with a brownish-green color and slight lignification; consistent with young woody seedling)\n    18. Stem trichomes (present / absent): absent (no visible hairs on stem surface)\n    19. Stem color: green to brownish-green (stem is primarily green with some brownish or reddish tones, especially at nodes)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (surface appears smooth without ridges or lenticels; no visible pores or bumps)\n\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules visible at leaf bases; nodes appear clean)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no latex exudate seen when leaves or stem are damaged)\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no swollen joint at leaf base; not a feature of this plant)\n    24. Tendrils (present / absent): absent (no tendrils present; plant is not climbing or twining)\n\nF. Notes: The seedling is covered in a fine, light-colored, granular substance (possibly fungal spores, insect frass, or environmental debris) which obscures some surface details but does not appear to be part of the plant's morphology. The images show the same individual from multiple angles, confirming the consistent leaf arrangement and morphology. Some leaves show minor damage with small holes or margin irregularities, but no clear herbivory or pathogen signs are evident. The plant is growing in a forest floor environment with leaf litter and soil visible. All observations are made conservatively without inferring family, genus, or species.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 23337.021326180547
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 23337.021326180547,
+  "benchmark_metadata": {
+    "scientific_name": "Anaxagorea allenii",
+    "family": "Annonaceae",
+    "genus": "Anaxagorea",
+    "species_epithet": "allenii",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

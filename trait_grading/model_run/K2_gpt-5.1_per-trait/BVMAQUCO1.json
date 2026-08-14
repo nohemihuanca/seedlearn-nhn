@@ -1,0 +1,47 @@
+{
+  "specimen_id": "BVMAQUCO1",
+  "source_answer_key": "Moraceae_Maquira_guianensis_BVMAQUCO1",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "whorled",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "1",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "narrowly elliptic",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "clearly visible and moderately raised, with fairly even spacing along the midrib and approximately 8\u201310 pairs per leaf",
+            "surface_features": "glabrous, shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "brownish-green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Seedling shows several simple, entire leaves radiating from an upper node giving a whorl-like appearance (attachment point partially visible). Leaves are elliptic with conspicuous secondary veins and glossy surfaces. Small round holes are present on some leaf blades. No other specialized organs besides leaves and stem are visible."
+        }
+      }
+    }
+  }
+}

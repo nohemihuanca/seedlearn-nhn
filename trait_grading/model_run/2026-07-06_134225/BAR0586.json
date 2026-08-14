@@ -1,0 +1,481 @@
+{
+  "specimen_id": "BAR0586",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Melastomataceae/by_genus/Mouriri/by_species/myrtilloides/BAR0586/Melastomataceae_Mouriri_myrtilloides_BAR0586_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Melastomataceae/by_genus/Mouriri/by_species/myrtilloides/BAR0586/Melastomataceae_Mouriri_myrtilloides_BAR0586_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Melastomataceae/by_genus/Mouriri/by_species/myrtilloides/BAR0586/Melastomataceae_Mouriri_myrtilloides_BAR0586_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Melastomataceae/by_genus/Mouriri/by_species/myrtilloides/BAR0586/Melastomataceae_Mouriri_myrtilloides_BAR0586_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Melastomataceae/by_genus/Mouriri/by_species/myrtilloides/BAR0586/Melastomataceae_Mouriri_myrtilloides_BAR0586_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "opposite",
+            "spacing": "distal"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "lanceolate",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "visible, close spacing, numerous",
+            "surface_features": "shiny, glabrous",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "green to light brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "present"
+          },
+          "notes": "The seedling exhibits a climbing or scrambling habit with tendrils at shoot tips. Leaves are opposite, simple, lanceolate, and shiny. The stem is woody and smooth. Some leaves show minor damage such as small holes or margin irregularities, but no clear signs of herbivory or disease. The plant is growing amidst leaf litter and other understory vegetation. Tendrils are a key diagnostic feature for climbing habit."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): opposite (clear paired leaf attachment at each visible node along the stem)\n    2. Leaf spacing (clustered / distal): distal (leaves are spaced along the stem with visible internodes, not clustered at the apex)\n\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): simple (each leaf is a single blade without leaflets)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): N/A (leaf complexity is simple)\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): N/A (leaf complexity is simple)\n    6. Leaflet arrangement (opposite / alternate / subopposite): N/A (leaf complexity is simple)\n\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (smooth margin without teeth or lobes)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): lanceolate (longer than wide, tapering to a point at the apex)\n    9. Leaf apex (acute, obtuse, acuminate): acute (sharply pointed tip)\n    10. Leaf base (rounded, cordate, cuneate): cuneate (wedge-shaped, tapering to the petiole)\n    11. Venation type (pinnate / palmate / parallel): pinnate (main vein with lateral veins branching off and running to margin)\n    12. Secondary veins (visibility, spacing, number): visible, close spacing, numerous (secondary veins clearly visible, running perpendicular to midrib, closely spaced)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): shiny, glabrous (surface smooth and glossy, no visible hairs or texture)\n    14. Leaf surface trichomes (present / absent): absent (no visible hairs on leaf surface)\n    15. Petiole length (short / long): short (petiole is short, not elongated)\n    16. Petiole features (winged / grooved / terete): terete (round in cross-section, not flattened or winged)\n\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): woody (stem is firm, green to brown, with visible bark texture, consistent with young woody stem)\n    18. Stem trichomes (present / absent): absent (no visible hairs on stem surface)\n    19. Stem color: green to light brown (stem is green near apex, transitioning to brownish lower down)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (surface appears smooth without ridges or lenticels)\n\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no structures visible at leaf base that would indicate stipules)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no exudate visible when stems or leaves are broken)\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no swollen joint at leaf base visible)\n    24. Tendrils (present / absent): present (thin, coiled structures visible at tips of some shoots, indicating tendrils)\n\nF. Notes: The seedling exhibits a climbing or scrambling habit with tendrils at shoot tips. Leaves are opposite, simple, lanceolate, and shiny. The stem is woody and smooth. Some leaves show minor damage such as small holes or margin irregularities, but no clear signs of herbivory or disease. The plant is growing amidst leaf litter and other understory vegetation. Tendrils are a key diagnostic feature for climbing habit.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 20092.45739900507
+    },
+    "classification": {
+      "data": {
+        "predictions_by_rank": {
+          "family": [
+            {
+              "rank_value": "Melastomataceae",
+              "softmax_score": 0.030360206961631775,
+              "rank_position": 1,
+              "l2_distance": 0.698246419429779,
+              "cosine_similarity": 0.731167197227478
+            },
+            {
+              "rank_value": "Myrtaceae",
+              "softmax_score": 0.026421304792165756,
+              "rank_position": 2,
+              "l2_distance": 0.8372085094451904,
+              "cosine_similarity": 0.5536101460456848
+            },
+            {
+              "rank_value": "Fabaceae",
+              "softmax_score": 0.02443385124206543,
+              "rank_position": 3,
+              "l2_distance": 0.9154097437858582,
+              "cosine_similarity": 0.40454602241516113
+            },
+            {
+              "rank_value": "Loganiaceae",
+              "softmax_score": 0.024051759392023087,
+              "rank_position": 4,
+              "l2_distance": 0.9311710596084595,
+              "cosine_similarity": 0.4768543243408203
+            },
+            {
+              "rank_value": "Chrysobalanaceae",
+              "softmax_score": 0.023668546229600906,
+              "rank_position": 5,
+              "l2_distance": 0.9472322463989258,
+              "cosine_similarity": 0.3514064848423004
+            }
+          ],
+          "genus": [
+            {
+              "rank_value": "Mouriri",
+              "softmax_score": 0.016423674300312996,
+              "rank_position": 1,
+              "l2_distance": 0.5606943964958191,
+              "cosine_similarity": 0.8338914513587952
+            },
+            {
+              "rank_value": "Licania",
+              "softmax_score": 0.012441739439964294,
+              "rank_position": 2,
+              "l2_distance": 0.838361382484436,
+              "cosine_similarity": 0.5704588294029236
+            },
+            {
+              "rank_value": "Eugenia",
+              "softmax_score": 0.012168461456894875,
+              "rank_position": 3,
+              "l2_distance": 0.8605707287788391,
+              "cosine_similarity": 0.509421169757843
+            },
+            {
+              "rank_value": "Cojoba",
+              "softmax_score": 0.011684542521834373,
+              "rank_position": 4,
+              "l2_distance": 0.9011514186859131,
+              "cosine_similarity": 0.49946129322052
+            },
+            {
+              "rank_value": "Strychnos",
+              "softmax_score": 0.01133898925036192,
+              "rank_position": 5,
+              "l2_distance": 0.9311710596084595,
+              "cosine_similarity": 0.4768543243408203
+            }
+          ],
+          "species": [
+            {
+              "rank_value": "Mouriri myrtilloides",
+              "softmax_score": 0.011731638573110104,
+              "rank_position": 1,
+              "l2_distance": 0.5482339859008789,
+              "cosine_similarity": 0.840383768081665
+            },
+            {
+              "rank_value": "Eugenia nesiotica",
+              "softmax_score": 0.010066680610179901,
+              "rank_position": 2,
+              "l2_distance": 0.7012922763824463,
+              "cosine_similarity": 0.7129533290863037
+            },
+            {
+              "rank_value": "Mouriri panamensis",
+              "softmax_score": 0.009465886279940605,
+              "rank_position": 3,
+              "l2_distance": 0.7628288865089417,
+              "cosine_similarity": 0.6584675312042236
+            },
+            {
+              "rank_value": "Licania hypoleuca",
+              "softmax_score": 0.008777239359915257,
+              "rank_position": 4,
+              "l2_distance": 0.838361382484436,
+              "cosine_similarity": 0.5704588294029236
+            },
+            {
+              "rank_value": "Cojoba rufescens",
+              "softmax_score": 0.008243062533438206,
+              "rank_position": 5,
+              "l2_distance": 0.9011514186859131,
+              "cosine_similarity": 0.49946129322052
+            }
+          ]
+        },
+        "margin_by_rank": {
+          "family": 0.003938902169466019,
+          "genus": 0.0039819348603487015,
+          "species": 0.0016649579629302025
+        },
+        "per_image_predictions": [
+          {
+            "image_path": "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Melastomataceae/by_genus/Mouriri/by_species/myrtilloides/BAR0586/Melastomataceae_Mouriri_myrtilloides_BAR0586_001.jpg",
+            "top1_label": "Fabaceae",
+            "top1_softmax_score": 0.024092933163046837
+          },
+          {
+            "image_path": "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Melastomataceae/by_genus/Mouriri/by_species/myrtilloides/BAR0586/Melastomataceae_Mouriri_myrtilloides_BAR0586_002.jpg",
+            "top1_label": "Melastomataceae",
+            "top1_softmax_score": 0.028116105124354362
+          },
+          {
+            "image_path": "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Melastomataceae/by_genus/Mouriri/by_species/myrtilloides/BAR0586/Melastomataceae_Mouriri_myrtilloides_BAR0586_003.jpg",
+            "top1_label": "Melastomataceae",
+            "top1_softmax_score": 0.030329981818795204
+          },
+          {
+            "image_path": "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Melastomataceae/by_genus/Mouriri/by_species/myrtilloides/BAR0586/Melastomataceae_Mouriri_myrtilloides_BAR0586_004.jpg",
+            "top1_label": "Melastomataceae",
+            "top1_softmax_score": 0.02991177700459957
+          },
+          {
+            "image_path": "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Melastomataceae/by_genus/Mouriri/by_species/myrtilloides/BAR0586/Melastomataceae_Mouriri_myrtilloides_BAR0586_005.jpg",
+            "top1_label": "Melastomataceae",
+            "top1_softmax_score": 0.028391746804118156
+          }
+        ],
+        "nearest_support": [
+          {
+            "label": "Melastomataceae",
+            "l2_distance": 0.4174620807170868,
+            "cosine_similarity": 0.9128626585006714,
+            "image_path": "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Melastomataceae/by_genus/Mouriri/by_species/myrtilloides/BAR0586/Melastomataceae_Mouriri_myrtilloides_BAR0586_003.jpg"
+          },
+          {
+            "label": "Melastomataceae",
+            "l2_distance": 0.44894516468048096,
+            "cosine_similarity": 0.8992242217063904,
+            "image_path": "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Melastomataceae/by_genus/Mouriri/by_species/myrtilloides/BAR0586/Melastomataceae_Mouriri_myrtilloides_BAR0586_002.jpg"
+          },
+          {
+            "label": "Melastomataceae",
+            "l2_distance": 0.49055275321006775,
+            "cosine_similarity": 0.8796789646148682,
+            "image_path": "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Melastomataceae/by_genus/Mouriri/by_species/myrtilloides/BAR0586/Melastomataceae_Mouriri_myrtilloides_BAR0586_005.jpg"
+          },
+          {
+            "label": "Melastomataceae",
+            "l2_distance": 0.6064238548278809,
+            "cosine_similarity": 0.8161250948905945,
+            "image_path": "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Melastomataceae/by_genus/Mouriri/by_species/myrtilloides/BAR0586/Melastomataceae_Mouriri_myrtilloides_BAR0586_004.jpg"
+          },
+          {
+            "label": "Melastomataceae",
+            "l2_distance": 0.6240561008453369,
+            "cosine_similarity": 0.8052769899368286,
+            "image_path": "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Melastomataceae/by_genus/Mouriri/by_species/myrtilloides/PEA0321/Melastomataceae_Mouriri_myrtilloides_PEA0321_001.jpg"
+          }
+        ],
+        "embedding_dim": 768,
+        "num_images_pooled": 5,
+        "hierarchical_consistency": {
+          "consistent": true,
+          "notes": [],
+          "family_genus_agree": true,
+          "species_genus_agree": true,
+          "species_family_agree": true
+        }
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 183.43190988525748
+    },
+    "trait_retrieval": {
+      "data": {
+        "query": "Tropical tree seedling with relative_position: opposite, spacing: distal, type: simple, margin: entire, shape: lanceolate, apex: acute, base: cuneate, venation: pinnate, secondary_veins: visible, close spacing, numerous, surface_features: shiny, glabrous, trichomes: absent, petiole_length: short, petiole_features: terete, type: woody, trichomes: absent, color: green to light brown, texture: smooth, stipules: absent, pulvinus: absent, tendrils: present, notes: the seedling exhibits a climbing or scrambling habit with tendrils at shoot tips. leaves are opposite, simple, lanceolate, and shiny. the stem is woody and smooth. some leaves show minor damage such as small holes or margin irregularities, but no clear signs of herbivory or disease. the plant is growing amidst leaf litter and other understory vegetation. tendrils are a key diagnostic feature for climbing habit.",
+        "rag_matches": [
+          {
+            "taxon": "Smilax",
+            "rank": "Genus",
+            "description": "Woody lianas, dioecious; stems frequently with thorns. Leaves simple, alternate, petiolate, with paired stipular tendrils that arise from the expanded base of the petiole; blade 3\u20149-nerved. Inflorescences axillary, solitary umbels, or rarely racemose. Flowers unisexual, actinomorphic, small; members of the perianth (tepals) 6, separate, equal; stamens 6, separate; anthers basifixed, with longitudinal dehiscence; staminodes present in the pistillate flowers; pistil 1, compound; ovary superior, 1\u20143-locular; ovules 1 or 2 per locule; placentation axile or parietal; styles (1)3. Fruit a globose berry; seeds 1-3. [This species] is recognized by its climbing habit, especially by its stipular and paired tendrils and by its leaves with 3-9 parallel veins and umbelliform inflorescences. The rhizomes of several species are used in [Costa Rica] for home treatment of various diseases. More than half of the species in [Costa Rica] have spines, at least towards the base of the stem.",
+            "score": 0.6385031342506409
+          },
+          {
+            "taxon": "Smilacaceae",
+            "rank": "Family",
+            "description": "Woody lianas, dioecious; stems frequently with thorns. Leaves simple, alternate, petiolate, with paired stipular tendrils that arise from the expanded base of the petiole; blade 3\u20149-nerved. Inflorescences axillary, solitary umbels, or rarely racemose. Flowers unisexual, actinomorphic, small; members of the perianth (tepals) 6, separate, equal; stamens 6, separate; anthers basifixed, with longitudinal dehiscence; staminodes present in the pistillate flowers; pistil 1, compound; ovary superior, 1\u20143-locular; ovules 1 or 2 per locule; placentation axile or parietal; styles (1)3. Fruit a globose berry; seeds 1-3. [The species] is recognized by [its] climbing habit, especially by [its] stipular and paired tendrils and by [its] leaves with 3-9 parallel veins and umbelliform inflorescences. The rhizomes of several species are used in [Costa Rica] for home treatment of various diseases. More than half of the species in [Costa Rica] have spines, at least towards the base of the stem.",
+            "score": 0.6348394155502319
+          },
+          {
+            "taxon": "Smilax",
+            "rank": "Genus",
+            "description": "Woody lianas, dioecious; stems frequently with thorns. Leaves simple, alternate, petiolate, with paired stipular tendrils that arise from the expanded base of the petiole; blade 3\u20149-nerved. Inflorescences axillary, solitary umbels, or rarely racemose. Flowers unisexual, actinomorphic, small; members of the perianth (tepals) 6, separate, equal; stamens 6, separate; anthers basifixed, with longitudinal dehiscence; staminodes present in the pistillate flowers; pistil 1, compound; ovary superior, 1\u20143-locular; ovules 1 or 2 per locule; placentation axile or parietal; styles (1)3. Fruit a globose berry; seeds 1-3. [This plant] is recognized by its climbing habit, especially by its stipular and paired tendrils and by its leaves with 3-9 parallel veins and umbelliform inflorescences. The rhizomes of several species are used in [Costa Rica] for home treatment of various diseases. More than half of the species in [Costa Rica] have spines, at least towards the base of the stem.",
+            "score": 0.6342235803604126
+          },
+          {
+            "taxon": "Inga punctata",
+            "rank": "Species",
+            "description": "Guavita cansa-boca, Bribri, Guava, Guava del mono Tree, to 15 m tall; branchlets sparsely strigose when young, glabrate in age, minutely lenticellate, minutely ribbed below petioles (at least when dried). Leaves strigose throughout, especially on axis and midrib of leaflets; petiole and rachis terete to narrowly margined; leaflets in 2 or 3 pairs, lanceolate to elliptic, long-acuminate, acute to rounded at base, the terminal pair 9-18 cm long, 3.5-7.5 cm wide. Spikes axillary, in groups of 1-7; peduncle and rachis strigose; peduncles 2-4 cm long; rachis much shorter, 1-2.5 cm long; bracts subulate, to \u00b1 2 mm long; calyx puberulent, 3-5 mm long, the lobes \u00b1 1 mm long; corolla moderately sericeous, 5-9 mm long, the lobes to 2 mm long; stamens and style to ca 2 cm long. Legumes flat, to 16 cm long and 2 cm wide, minutely puberulent, the margins raised.",
+            "score": 0.6316460371017456
+          },
+          {
+            "taxon": "Hirtella triandra",
+            "rank": "Species",
+            "description": "Tree or shrub, to 20 m; trunk to 23 cm dbh; outer bark thin, fissured, weakly flaky; inner bark reddish-brown, granular; wood light brown, hard, heavy; youngest stems pubescent; sap inconspicuous. Petioles to 5 mm long, moderately pubescent; stipules paired, subulate, to 5 mm long, subpersistent; blades elliptic-oblong, acuminate at apex, acute to rounded or subcordate at base, 4-12(14.5) cm long, 1.5-5 cm wide, glabrous above except on midrib, sparsely pubescent below, the trichomes denser on veins. Flowers in terminal racemose panicles to 8 cm long; rachis, branches, and pedicels tomentulose; pedicels slender, 2-3 mm long (appearing longer since flowers are often solitary at apices of branches); bracts and bracteoles narrowly lanceolate, 1-3.5 mm long, pubescent, lacking glands; calyx lobes 5, ovate, 3-4 mm long, rounded at apex, reflexed at anthesis, puberulent on both sides; petals 5, broadly elliptic, ca 5 mm long, rounded at both ends, white; stamens 3, long-exserted, arising from side of flower; filaments purplish above, 1-2 cm long, fused into a low ring arising from rim of hypanthium (remnants of a 4th and a 5th stamen persisting as sharp lobes on this ring); style \u00b1 equaling stamens and opposite them at anthesis, pilose and white below middle, purple above; ovary pilose-tomentose; stigma small, capitate. Drupes ovoid-oblong to rounded, ca 2.3 cm long, densely shortpubescent; exocarp thin, brownish-purple; mesocarp fleshy, sweet, tasty; seed \u00b1 ovate, ca 1.7 cm long, with irregular longitudinal grooves, abruptly narrowed at base. Common in the forest, mostly in the old forest. Flowers sporadically throughout the year, principally from November to May. Individual plants flower more than once a year, possibly as many as three times. The fruits mature throughout the year; white-faced monkeys eat the fruits in June and July.",
+            "score": 0.6088337898254395
+          },
+          {
+            "taxon": "Damburneya purpurea",
+            "rank": "Species",
+            "description": "Tree, 4.5-35 m, the young twigs minutely adpressed-pubescent to glabrescent. Leaves with the petiole 0.5-1.2 cm; blade 10-30 X 3.5-12 cm, elliptical to oblong-elliptical, acute to obtuse or (rarely) subtruncate at the base, glabrous on the underside, without domatia or (rarely) with countable trichomes in the axils of the main veins, with (4)5-8 secondary veins on each side. Inflorescences [of Nectandra purpurea] 10-17 cm. Flowers with the tepals (1\u2014)1.2\u20142(\u20142.4) mm. Fruits 1-1.5 cm, ellipsoidal; cup ca. 0.3 cm. Very wet and pluvial forest, 0-1550 m; Caribbean [vertical] Cords. of Guanacaste, Triar\u00e1n and Central (E.B. La Selva), San Carlos and Tortuguero Plains, Low Talamanca, both [vertical] Cord. de Talamanca, [Pacific] vertical, S Coastal Range (Fila Cruces). Flowers [of Nectandra purpurea] May-Sept. [in Nicaragua, Bolivia] and [Venezuela], [in the] Guiana [region], [in] Brazil. (Grayum et al. 8898, MO) Nectandra purpurea is recognized by its leaf blades that dry relatively opaque on the adaxial side, with the secondary veins slightly elevated and interconnected, forming a submarginal vein and by its flowers with the tepals densely covered by brown or yellowish trichomes and (usually) with the staminodes conspicuously elevated. The cupules that dry light brown, \u00b1 puberulent, are also distinctive.",
+            "score": 0.6045792102813721
+          },
+          {
+            "taxon": "Inga punctata",
+            "rank": "Species",
+            "description": "Tree, to 15 m tall; branchlets sparsely strigose when young, glabrate in age, minutely lenticellate, minutely ribbed below petioles (at least when dried). Leaves strigose throughout, especially on axis and midrib of leaflets; petiole and rachis terete to narrowly margined; leaflets in 2 or 3 pairs, lanceolate to elliptic, long-acuminate, acute to rounded at base, the terminal pair 9-18 cm long, 3.5-7.5 cm wide. Spikes axillary, in groups of 1-7; peduncle and rachis strigose; peduncles 2-4 cm long; rachis much shorter, 1-2.5 cm long; bracts subulate, to \u00b1 2 mm long; calyx puberulent, 3-5 mm long, the lobes \u00b1 1 mm long; corolla moderately sericeous, 5-9 mm long, the lobes to 2 mm long; stamens and style to ca 2 cm long. Legumes flat, to 16 cm long and 2 cm wide, minutely puberulent, the margins raised. Common in the forest. Flowers throughout the rainy season (May to December, rarely to January). One individual Inga punctata on Barro Colorado Island flowered for a week in early June in two consecutive years. Mature fruits seen in late dry season. Fruits are similar to those of Inga pezizifera, but that species lacks persistent warty fruit bases. Mexico to Peru; West Indies. In Panama, known from tropical moist forest in the Canal Zone, Bocas del Toro, San Bias, Veraguas, Panama, and Darien, from premontane wet forest in Colon, Chiriqui, Code, and Panama, from tropical wet forest in Panama and Darien and from lower montane wet forest in Chiriqui.",
+            "score": 0.6022316217422485
+          },
+          {
+            "taxon": "Inga pezizifera",
+            "rank": "Species",
+            "description": "Tree, to 27 m tall and 40 cm dbh, glabrous to puberulent throughout; trunk \u00b1 involuted with many prominent horizontal wrinkles; outer bark thin; inner bark reddish; young stems very prominently lenticellate. Petioles margined; rachis margined to narrowly winged; leaflets in 2-5 (usually 4) pairs, narrowly ovate to lanceolate-elliptic or oblanceolate, acuminate, rounded to acute at base, slightly asymmetrical, the terminal pair 8-22 cm long, 2.5-8 cm wide. Spikes axillary in groups of 1-6; peduncles 1.5-3.5 cm long; rachis shorter than peduncle, very densely flowered, 0.5-3 cm long; bracts ca 5 mm long; flowers sessile; calyx 1-2(3) mm long, the lobes ca 0.5 mm long, blunt; corolla 4-8 mm long, the lobes blunt to acute, ca 1 mm long; stamens and style ca 1 cm long. Legumes flat, 10-22 cm long, (2)2.5-3 cm wide, \u00b1 glabrous, \u00b1 straight, the marginal ribs prominent, the fruits probably mature from July to October. Known only from Panama, from tropical moist forest in the Canal Zone, Bocas del Toro, San Bias, Veraguas, Panama, and Darien, from premontane wet forest in Colon, Chiriqui, Code, and Panama.",
+            "score": 0.5999504923820496
+          },
+          {
+            "taxon": "Inga pezizifera",
+            "rank": "Species",
+            "description": "Tree, to 27 m tall and 40 cm dbh, glabrous to puberulent throughout; trunk \u00b1 involuted with many prominent horizontal wrinkles; outer bark thin; inner bark reddish; young stems very prominently lenticellate. Petioles margined; rachis margined to narrowly winged; leaflets in 2-5 (usually 4) pairs, narrowly ovate to lanceolate-elliptic or oblanceolate, acuminate, rounded to acute at base, slightly asymmetrical, the terminal pair 8-22 cm long, 2.5-8 cm wide. Spikes axillary in groups of 1-6; peduncles 1.5-3.5 cm long; rachis shorter than peduncle, very densely flowered, 0.5-3 cm long; bracts ca 5 mm long; flowers sessile; calyx 1-2(3) mm long, the lobes ca 0.5 mm long, blunt; corolla 4-8 mm long, the lobes blunt to acute, ca 1 mm long; stamens and style ca 1 cm long. Legumes flat, 10-22 cm long, (2)2.5-3 cm wide, \u00b1 glabrous, \u00b1 straight, the marginal ribs prominent.",
+            "score": 0.5999504923820496
+          },
+          {
+            "taxon": "Miconia elata",
+            "rank": "Species",
+            "description": "Tree, 3.5-11 (13) m tall; trunk usually 6-15 cm dbh; bark with moderately close, deep vertical fissures, but not flaking; young stems, axes of inflorescences, petioles, and underside of veins densely rufous-pubescent, the trichomes pinnately branched, often somewhat stalked. Petioles to 9 cm long; blades broadly elliptic, obtuse to abruptly short-acuminate, obtuse to rounded at base, 9-35 cm long, 6-18 cm wide, denticulate, the surface below canescent and completely covered with trichomes, these sessile, stellate, in part with a brown center; veins 5, dark. Panicles large, terminal, 18-22 cm long, branched many times, the branches \u00b1 flattened or angulate; flowers \u00b1 sessile; hypanthium and calyx together 1.5-2 mm long, campanulate, the teeth obscure or lacking; petals 5, white, obovate, to 1.5 mm long. Berries round to depressedglobose, to 6 mm diam, white to lavender-blue, probably becoming purple-black at full maturity; seeds numerous, minute. Croat 5693, 15070. Known only from shoreline north of the dock and south of Fairchild Point, but undoubtedly more abundant. Seasonal behavior uncertain. Flowers at least in January, February, and May. Mature fruits have been seen in April, May, and October. Easily confused with Miconia argentea, which is similar in most respects except pubescence, trunk bark, and stature. The species ranges from Mexico to Panama and Venezuela; West Indies. In Panama, the species is known only from tropical moist forest in the Canal Zone and Panama and from premontane wet forest in the Canal Zone.",
+            "score": 0.5992531180381775
+          },
+          {
+            "taxon": "Trophis racemosa",
+            "rank": "Species",
+            "description": "Locating an individual\nTres Rios Trail (STR); Northeast side of the Dining Hall.\nDistribution\nFrom Mexico to Peru, Venezuela, and the Antilles. In Costa Rica, 0-1350 m; Both slopes of the Guanacaste, Talamanca, and Tilar\u00e1n mountain ranges; Caribbean slope, Central Cordillera, Plains of Los Guatusos, San Carlos, and Tortuguero, Low Talamanca; Pacific slope, Central Valley, Central Pacific, Plains of Guanacaste, Osa and Nicoya Peninsulas.\nLeaves\nSimple, alternate leaves, with a blade of 4-22 \u00d7 1.5-7.5 cm, elliptical-oblong to obovate.\nFruits\nDrupes 0.3-0.7 cm in diameter, globose or ovoid.\nHabit\nTree, 5-18 m.\nDiagnosis\nEasily distinguished by its rough leaf blades on the underside, long staminate spikes, and red fruits when ripe.\nFlowers\nStaminate inflorescences spikes of 1.5-8 cm. Flowers with a 4-parted perianth; stamens 4, the filaments bent at the bud. Pistillate inflorescences spikes of 1-3 cm. Flowers with tubular or 4-lobed perianth, style 1, short, with 2 thin stigmatic arms.\nPhenology\nFlowers and fruits observed year-round.\nHabitat\nhumid, very humid, and dry forest.",
+            "score": 0.5985787510871887
+          },
+          {
+            "taxon": "Trophis racemosa",
+            "rank": "Species",
+            "description": "Locating an individual\nTres Rios Trail (STR); Northeast side of the Dining Hall.\nDistribution\nFrom Mexico to Peru, Venezuela, and the Antilles. In Costa Rica, 0-1350 m; Both slopes of the Guanacaste, Talamanca, and Tilar\u00e1n mountain ranges; Caribbean slope, Central Cordillera, Plains of Los Guatusos, San Carlos, and Tortuguero, Low Talamanca; Pacific slope, Central Valley, Central Pacific, Plains of Guanacaste, Osa and Nicoya Peninsulas.\nLeaves\nSimple, alternate leaves, with a blade of 4-22 \u00d7 1.5-7.5 cm, elliptical-oblong to obovate.\nFruits\nDrupes 0.3-0.7 cm in diameter, globose or ovoid.\nHabit\nTree, 5-18 m.\nDiagnosis\nEasily distinguished by its rough leaf blades on the underside, long staminate spikes, and red fruits when ripe.\nFlowers\nStaminate inflorescences spikes of 1.5-8 cm. Flowers with a 4-parted perianth; stamens 4, the filaments bent at the bud. Pistillate inflorescences spikes of 1-3 cm. Flowers with tubular or 4-lobed perianth, style 1, short, with 2 thin stigmatic arms.\nPhenology\nFlowers and fruits observed year-round.\nHabitat\nhumid, very humid, and dry forest.",
+            "score": 0.5985787510871887
+          },
+          {
+            "taxon": "Miconia elata",
+            "rank": "Species",
+            "description": "Locating an individual\nIntersection of the Southwest Trail (SSO) with the Hartshorn Trail (SHA).\nDistribution\nFrom Mexico to Bolivia, Brazil, Colombia, Ecuador, Peru, Venezuela, and the Antilles. In Costa Rica, 0-1100 m; Both slopes of the Talamanca Mountain Range; Caribbean slope, Central Mountain Range, Plains of the Guatusos and San Carlos; Pacific slope, Central Pacific, Osa Peninsula.\nHabit\nTree, 8-612(-40) m.\nLeaves\nLeaves 13-39 x 6-22 cm, elliptical to elliptic-ovate, 5-veined.\nFlowers\nFlowers 5(-6-7)-merous; calyx 0.5-1 mm, inconspicuously lobed, the outer teeth about 0.5 mm, subulate; petals 2-2.5 mm, glabrous.\nFruits\nFruits 0.4-0.5 cm.\nDiagnosis\nTree plants; young twigs (and petioles and axes of the inflorescences) densely covered with massively dendritic and shortly pediculate trichomes (sometimes simple and longer on the interpetiolar ridge), the underside of the leaves and hypanthium copiously covered with mostly creamy starry-lepidote trichomes; leaves 5-veined, conspicuously discolorous (green on the adaxial side and light brown on the abaxial side), with petioles deeply longitudinally striated; inflorescences panicles with sessile and glomerulate flowers; flowers 5(-6-7)-merous, with the calyx inconspicuously lobed, with glabrous petals, the stamens with slightly anisomorphic anthers and the ovary 3-locular. It is very similar to\nM. argentea\n, whose twigs are conspicuously laterally angled (completely quadrangular in\nM. elata\n) and whose leaves have short and strongly revolute bases, forming a sort of domatia on each side of the adaxial apex of the petiole (flattened in\nM. elata\n).\nHabitat\nWet and very wet forest.\nPhenology\nFlowers observed in September and November. Fruits observed from March to May, in September and November.",
+            "score": 0.5983000993728638
+          },
+          {
+            "taxon": "Miconia elata",
+            "rank": "Species",
+            "description": "Locating an individual\nIntersection of the Southwest Trail (SSO) with the Hartshorn Trail (SHA).\nDistribution\nFrom Mexico to Bolivia, Brazil, Colombia, Ecuador, Peru, Venezuela, and the Antilles. In Costa Rica, 0-1100 m; Both slopes of the Talamanca Mountain Range; Caribbean slope, Central Mountain Range, Plains of the Guatusos and San Carlos; Pacific slope, Central Pacific, Osa Peninsula.\nHabit\nTree, 8-612(-40) m.\nLeaves\nLeaves 13-39 x 6-22 cm, elliptical to elliptic-ovate, 5-veined.\nFlowers\nFlowers 5(-6-7)-merous; calyx 0.5-1 mm, inconspicuously lobed, the outer teeth about 0.5 mm, subulate; petals 2-2.5 mm, glabrous.\nFruits\nFruits 0.4-0.5 cm.\nDiagnosis\nTree plants; young twigs (and petioles and axes of the inflorescences) densely covered with massively dendritic and shortly pediculate trichomes (sometimes simple and longer on the interpetiolar ridge), the underside of the leaves and hypanthium copiously covered with mostly creamy starry-lepidote trichomes; leaves 5-veined, conspicuously discolorous (green on the adaxial side and light brown on the abaxial side), with petioles deeply longitudinally striated; inflorescences panicles with sessile and glomerulate flowers; flowers 5(-6-7)-merous, with the calyx inconspicuously lobed, with glabrous petals, the stamens with slightly anisomorphic anthers and the ovary 3-locular. It is very similar to\nM. argentea\n, whose twigs are conspicuously laterally angled (completely quadrangular in\nM. elata\n) and whose leaves have short and strongly revolute bases, forming a sort of domatia on each side of the adaxial apex of the petiole (flattened in\nM. elata\n).\nHabitat\nWet and very wet forest.\nPhenology\nFlowers observed in September and November. Fruits observed from March to May, in September and November.",
+            "score": 0.5983000993728638
+          },
+          {
+            "taxon": "Strychnos panamensis",
+            "rank": "Species",
+            "description": "Liana or climbing shrub; tendrils short-coiled, pubescent, becoming woody; stems sparsely long-pubescent to glabrous in age. Petioles 1-5(15) mm long, sparsely pubescent especially when young; blades lanceolate to elliptic, usually acuminate, acute to rounded (rarely cordate) at base, 4.5-12 cm long, 1.5-4(5) cm wide, sometimes sparsely pubescent at base of midrib below, pliveined, the veins 3 (5). Cymes pedunculate, terminal; pedicels obsolete or to 3.5 mm long; flowers (4)5-parted; sepals \u00b1 lanceolate, to 4 mm long, ciliate; corolla salverform, 8-24 mm long, the tube greenish-white, very minutely papillate outside, with a broad band of moniliform trichomes on apical third inside, the lobes white, slender, to 4.7 mm long, recurved at anthesis, densely papillate inside; stamens exserted to 3 mm above the rim; anthers ca 8 mm long, attached subbasally; style exserted about twice as far as stamens, expanded somewhat and flat at apex. Fruits globose, 1 to several on a stout woody stalk, at first blue-green, turning orange and usually 6-9 cm diam at maturity; seeds many, 2-3 cm long, irregular, embedded in a fleshy, sweet, orange pulp. Common along the shore; apparently less abundant in the forest. Usually flowering from April to August, chiefly from May to July, rarely late in the rainy season or in the early dry season. Full-sized fruits are seen by the late rainy season. Fruits [of Strychnos panamensis] turn orange in the dry season and are removed usually before flowering begins again. Plants usually put on new leaves shortly before flowering. Pacific slope of tropical Mexico to northeastern Venezuela and northern Colombia. In Panama, known from tropical moist forest in the Canal Zone, Chiriqui, Code, Panama, and Darien, from tropical dry forest in Panama (Taboga Island), and from premontane rain forest in Panama (summit of Cerro Jefe).",
+            "score": 0.5979106426239014
+          },
+          {
+            "taxon": "Strychnos panamensis",
+            "rank": "Species",
+            "description": "Liana or climbing shrub; tendrils short-coiled, pubescent, becoming woody; stems sparsely long-pubescent to glabrous in age. Petioles 1-5(15) mm long, sparsely pubescent especially when young; blades lanceolate to elliptic, usually acuminate, acute to rounded (rarely cordate) at base, 4.5-12 cm long, 1.5-4(5) cm wide, sometimes sparsely pubescent at base of midrib below, pliveined, the veins 3 (5). Cymes pedunculate, terminal; pedicels obsolete or to 3.5 mm long; flowers (4)5-parted; sepals \u00b1 lanceolate, to 4 mm long, ciliate; corolla salverform, 8-24 mm long, the tube greenish-white, very minutely papillate outside, with a broad band of moniliform trichomes on apical third inside, the lobes white, slender, to 4.7 mm long, recurved at anthesis, densely papillate inside; stamens exserted to 3 mm above the rim; anthers ca 8 mm long, attached subbasally; style exserted about twice as far as stamens, expanded somewhat and flat at apex. Fruits globose, 1 to several on a stout woody stalk, at first blue-green, turning orange and usually 6-9 cm diam at maturity; seeds many, 2-3 cm long, irregular, embedded in a fleshy, sweet, orange pulp. Common along the shore; apparently less abundant in the forest. Usually flowering from April to August, chiefly from May to July, rarely late in the rainy season or in the early dry season. Full-sized fruits are seen by the late rainy season. They turn orange in the dry season and are removed usually before flowering begins again. Pacific slope of tropical Mexico to northeastern Venezuela and northern Colombia. In Panama, known from tropical moist forest in the Canal Zone, Chiriqui, Code, Panama, and Darien, from tropical dry forest in Panama (Taboga Island), and from premontane rain forest in Panama (summit of Cerro Jefe).",
+            "score": 0.5979106426239014
+          },
+          {
+            "taxon": "Tetracera portobellensis",
+            "rank": "Species",
+            "description": "Androdioecious liana or scandent shrub; young stems, petioles, and axes of inflorescences with moderate to dense stellate pubescence interspersed with simple trichomes. Petioles 3-10 mm long, winged full length; blades elliptic to obovate, rounded to abruptly acuminate (rarely short-acuminate), acute to obtuse and decurrent on petiole at base, 5-18 cm long, 3-8 cm wide, the pubescence minute, pustular, stellate on both surfaces, the simple trichomes mostly restricted to veins; lateral veins in 15-25 pairs. Panicles spikelike; flowers unisexual, usually subsessile, 4-5 mm broad, closely congested; sepals 5; petals (2)3(4), pale yellow to greenish-white, rounded at apex, soon falling, the margin folded inward; stamens numerous, to ca 5 mm long, reduced in pistillate flowers; pistils reduced in staminate flowers; style usually directed to one side; stigma \u00b1 spatulate-truncate. Follicle 1, glabrous, shiny, dark brown, 5-7 mm long (excluding prominent beak), dehiscing on one side from style downward to expose seed; seeds 1-4, shiny, black, 3-4 mm long, enveloped at least in part by a deeply lacerate red aril. Frequent along the shore and in the forest. Flowering may be induced throughout much of the year, but the chief flowering period is the early dry season (December to March, especially January and February). Flowering appears to be induced by drought. Severing a vine in the proper stage of bud will soon cause the flowers to open. The fruits mature mostly from March to May (sometimes from February). Mexico to Colombia.",
+            "score": 0.5971686840057373
+          },
+          {
+            "taxon": "Symphonia globulifera",
+            "rank": "Species",
+            "description": "Dioecious, hemiepiphytic tree, to 10 m tall; trunk to 15 cm dbh; branches spiraled, stiff and spreading, densely rooting at the nodes, the roots often extending back to the host tree and enveloping the host tree for support; stems glabrous with prominent leaf scars; sap pale yellow to bright orange (in time), not copious. Petioles to 2 cm long; blades obovate, rounded at apex (sometimes acute to acuminate on juvenile leaves), acute to obtuse at base, 5-15 cm long, 3-10 cm wide, very thick, dark green and glossy above, dull below, coriaceous; veins indistinct, drying with many fine veins. Panicles stout, bracteated, divaricately branched, terminal; buds depressed-globose; pedicels stout, to 1 cm long; flowers thick, 5-parted, spreading at anthesis, to 4.5 cm diam, white to pink, the lobes often marked with maroon or magenta at base or apex; sepals 2, concave, unequal, persisting in fruit; petals 4-10, broadly oblong, 2-2.5 cm long; androecium of staminate flowers cushion-shaped, ca 1 cm wide and 5 mm high with numerous anthers; pollen white, granular, compressed in round or oval pouches ca 1 mm diam, embedded just beneath the sticky surface of the disk; pistillate flowers similar to staminate but the gynoecium divided into (4)9(15) segments, the petals falling soon after anthesis, the sepals closing. Capsules subglobose, 2.5-3 cm long, dehiscing into 5-9 parts at maturity; valves thick, \u00b1 spreading to expose the colorful mass of seeds; seeds numerous, reddish, curved-oblong, ca 5 mm long, embedded in a deeply divided, bright-orange aril. Frequent epiphyte in the forest or on exposed shorelines; epiphytic on rocks or on trees near the edge of the water. Plants are usually supported on tree trunks or large branches but the branches may grow into the top of the canopy. Apparently flowers and fruits sporadically throughout the year. Where plants occur along the shore, the branches usually root at the nodes with the roots hanging in the water. The pollen sacs of the staminate flowers burst under the slightest pressure, and abundant pollen oozes out (sometimes explosively). Several species of small bees, including Trigona spp., have been seen visiting the flowers. The geographical range of Symphonia globulifera extends from Nicaragua to Panama, probably to Colombia. In Panama, known from tropical moist forest in the Canal Zone, Colon, San Bias, Veraguas, Herrera, Panama, and Darien, from premontane wet forest in Code (El Valle) and Panama (Cerro Campana), and from tropical wet forest in Code (La Mesa) and Panama.",
+            "score": 0.595360517501831
+          },
+          {
+            "taxon": "Connaraceae",
+            "rank": "Family",
+            "description": "Trees, climbing shrubs, or lianas; stipules absent. Leaves compound, odd-pinnate or trifoliate, indumentum of simple trichomes, the blade sometimes with glandular dots on the underside, margin entire; petiole and petiolules pulvinated. Inflorescences in panicles, racemes, or spike-like, axillary or terminal. Flowers bisexual, white, yellowish, or pale pink; sepals 5, valvate or imbricate; petals 5, free; stamens 10, forming a short tube at the base; ovary superior, carpels 1-5, style one per carpel; ovules 2 per carpel. Fruit in follicles, often red; seeds 1 per fruit, black, the aril bright red, yellow, white, or orange.\nThe family consists of 16 genera and about 300\u2013350 species, pantropical, with a distribution center in western Africa; for tropical America, 5 genera and 108 species are known; 3 genera and 9 species in CR.\nIt is characterized by its compound leaves, mainly trifoliate or odd-pinnate, leaflets alternate on the rachis, sometimes with dendritic trichomes, petioles clearly pulvinated, stipules absent, and the fruit follicles with a black seed with a reddish basal aril. In vegetative form, its general appearance relates it directly to the family Fabaceae, but several of the characteristics mentioned earlier allow it to be separated.\nTraditionally, the family has been placed within the Order Rosales, or in close relation to the Order Sapindales, and some have suggested a link between such Orders. However, recent molecular studies suggest that its placement is in the Order Oxalidales, along with families such as: Oxalidaceae, Cunnoniaceae, Elaeocarpaceae, etc.",
+            "score": 0.5941545963287354
+          },
+          {
+            "taxon": "Connaraceae",
+            "rank": "Family",
+            "description": "Trees, climbing shrubs, or lianas; stipules absent. Leaves compound, odd-pinnate or trifoliate, indumentum of simple trichomes, the blade sometimes with glandular dots on the underside, margin entire; petiole and petiolules pulvinated. Inflorescences in panicles, racemes, or spike-like, axillary or terminal. Flowers bisexual, white, yellowish, or pale pink; sepals 5, valvate or imbricate; petals 5, free; stamens 10, forming a short tube at the base; ovary superior, carpels 1-5, style one per carpel; ovules 2 per carpel. Fruit in follicles, often red; seeds 1 per fruit, black, the aril bright red, yellow, white, or orange.\nThe family consists of 16 genera and about 300\u2013350 species, pantropical, with a distribution center in western Africa; for tropical America, 5 genera and 108 species are known; 3 genera and 9 species in CR.\nIt is characterized by its compound leaves, mainly trifoliate or odd-pinnate, leaflets alternate on the rachis, sometimes with dendritic trichomes, petioles clearly pulvinated, stipules absent, and the fruit follicles with a black seed with a reddish basal aril. In vegetative form, its general appearance relates it directly to the family Fabaceae, but several of the characteristics mentioned earlier allow it to be separated.\nTraditionally, the family has been placed within the Order Rosales, or in close relation to the Order Sapindales, and some have suggested a link between such Orders. However, recent molecular studies suggest that its placement is in the Order Oxalidales, along with families such as: Oxalidaceae, Cunnoniaceae, Elaeocarpaceae, etc.",
+            "score": 0.5941545963287354
+          }
+        ],
+        "convergence": [
+          {
+            "taxon": "Trophis racemosa",
+            "signal": "rag_only",
+            "rag_score": 0.5985787510871887,
+            "visual_softmax_score": 0.0,
+            "source": "literature"
+          },
+          {
+            "taxon": "Hirtella triandra",
+            "signal": "rag_only",
+            "rag_score": 0.6088337898254395,
+            "visual_softmax_score": 0.0,
+            "source": "literature"
+          },
+          {
+            "taxon": "Strychnos panamensis",
+            "signal": "rag_only",
+            "rag_score": 0.5979106426239014,
+            "visual_softmax_score": 0.0,
+            "source": "literature"
+          },
+          {
+            "taxon": "Eugenia nesiotica",
+            "signal": "visual_only",
+            "rag_score": 0.0,
+            "visual_softmax_score": 0.010066680610179901,
+            "source": "visual"
+          },
+          {
+            "taxon": "Eugenia",
+            "signal": "visual_only",
+            "rag_score": 0.0,
+            "visual_softmax_score": 0.012168461456894875,
+            "source": "visual"
+          },
+          {
+            "taxon": "Fabaceae",
+            "signal": "visual_only",
+            "rag_score": 0.0,
+            "visual_softmax_score": 0.02443385124206543,
+            "source": "visual"
+          }
+        ]
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 4.52751899138093
+    },
+    "evidence_synthesis": {
+      "data": {
+        "evidence_document": "# Evidence Summary\n\n## Morphological Profile\n\n\n### Leaf Arrangement\n\n- **Relative Position**: opposite\n- **Spacing**: distal\n\n### Leaf Complexity\n\n- **Type**: simple\n- **Compound Type**: N/A\n- **Num Leaflets**: N/A\n- **Leaflet Arrangement**: N/A\n\n### Leaf Morphology\n\n- **Margin**: entire\n- **Shape**: lanceolate\n- **Apex**: acute\n- **Base**: cuneate\n- **Venation**: pinnate\n- **Secondary Veins**: visible, close spacing, numerous\n- **Surface Features**: shiny, glabrous\n- **Trichomes**: absent\n- **Petiole Length**: short\n- **Petiole Features**: terete\n\n### Stem Traits\n\n- **Type**: woody\n- **Trichomes**: absent\n- **Color**: green to light brown\n- **Texture**: smooth\n\n### Special Features\n\n- **Stipules**: absent\n- **Latex**: not observed\n- **Pulvinus**: absent\n- **Tendrils**: present\n\n### Notes\n\nThe seedling exhibits a climbing or scrambling habit with tendrils at shoot tips. Leaves are opposite, simple, lanceolate, and shiny. The stem is woody and smooth. Some leaves show minor damage such as small holes or margin irregularities, but no clear signs of herbivory or disease. The plant is growing amidst leaf litter and other understory vegetation. Tendrils are a key diagnostic feature for climbing habit.\n\n## Visual Classification (Multi-Rank)\n\n### Family\n\nDecision margin: 0.004\n\n- #1: **Melastomataceae** (similarity share: 3.0%) | L2: 0.698, cosine: 0.731\n- #2: **Myrtaceae** (similarity share: 2.6%) | L2: 0.837, cosine: 0.554\n- #3: **Fabaceae** (similarity share: 2.4%) | L2: 0.915, cosine: 0.405\n- #4: **Loganiaceae** (similarity share: 2.4%) | L2: 0.931, cosine: 0.477\n- #5: **Chrysobalanaceae** (similarity share: 2.4%) | L2: 0.947, cosine: 0.351\n\n### Genus\n\nDecision margin: 0.004\n\n- #1: **Mouriri** (similarity share: 1.6%) | L2: 0.561, cosine: 0.834\n- #2: **Licania** (similarity share: 1.2%) | L2: 0.838, cosine: 0.570\n- #3: **Eugenia** (similarity share: 1.2%) | L2: 0.861, cosine: 0.509\n- #4: **Cojoba** (similarity share: 1.2%) | L2: 0.901, cosine: 0.499\n- #5: **Strychnos** (similarity share: 1.1%) | L2: 0.931, cosine: 0.477\n\n### Species\n\nDecision margin: 0.002\n\n- #1: **Mouriri myrtilloides** (similarity share: 1.2%) | L2: 0.548, cosine: 0.840\n- #2: **Eugenia nesiotica** (similarity share: 1.0%) | L2: 0.701, cosine: 0.713\n- #3: **Mouriri panamensis** (similarity share: 0.9%) | L2: 0.763, cosine: 0.658\n- #4: **Licania hypoleuca** (similarity share: 0.9%) | L2: 0.838, cosine: 0.570\n- #5: **Cojoba rufescens** (similarity share: 0.8%) | L2: 0.901, cosine: 0.499\n\n### Hierarchical Consistency: Consistent\n\n\n### Per-Image Predictions\n\n- /nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Melastomataceae/by_genus/Mouriri/by_species/myrtilloides/BAR0586/Melastomataceae_Mouriri_myrtilloides_BAR0586_001.jpg: **Fabaceae** (similarity share: 2.4%)\n- /nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Melastomataceae/by_genus/Mouriri/by_species/myrtilloides/BAR0586/Melastomataceae_Mouriri_myrtilloides_BAR0586_002.jpg: **Melastomataceae** (similarity share: 2.8%)\n- /nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Melastomataceae/by_genus/Mouriri/by_species/myrtilloides/BAR0586/Melastomataceae_Mouriri_myrtilloides_BAR0586_003.jpg: **Melastomataceae** (similarity share: 3.0%)\n- /nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Melastomataceae/by_genus/Mouriri/by_species/myrtilloides/BAR0586/Melastomataceae_Mouriri_myrtilloides_BAR0586_004.jpg: **Melastomataceae** (similarity share: 3.0%)\n- /nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Melastomataceae/by_genus/Mouriri/by_species/myrtilloides/BAR0586/Melastomataceae_Mouriri_myrtilloides_BAR0586_005.jpg: **Melastomataceae** (similarity share: 2.8%)\n\n### Nearest Support Images\n\n- **Melastomataceae** (L2: 0.417, cosine: 0.913) [/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Melastomataceae/by_genus/Mouriri/by_species/myrtilloides/BAR0586/Melastomataceae_Mouriri_myrtilloides_BAR0586_003.jpg]\n- **Melastomataceae** (L2: 0.449, cosine: 0.899) [/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Melastomataceae/by_genus/Mouriri/by_species/myrtilloides/BAR0586/Melastomataceae_Mouriri_myrtilloides_BAR0586_002.jpg]\n- **Melastomataceae** (L2: 0.491, cosine: 0.880) [/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Melastomataceae/by_genus/Mouriri/by_species/myrtilloides/BAR0586/Melastomataceae_Mouriri_myrtilloides_BAR0586_005.jpg]\n- **Melastomataceae** (L2: 0.606, cosine: 0.816) [/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Melastomataceae/by_genus/Mouriri/by_species/myrtilloides/BAR0586/Melastomataceae_Mouriri_myrtilloides_BAR0586_004.jpg]\n- **Melastomataceae** (L2: 0.624, cosine: 0.805) [/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Melastomataceae/by_genus/Mouriri/by_species/myrtilloides/PEA0321/Melastomataceae_Mouriri_myrtilloides_PEA0321_001.jpg]\n\n## Literature Evidence\n\n### Matching Taxa (by trait similarity)\n\n- **Smilax** (Genus, similarity: 0.64)\n  - Woody lianas, dioecious; stems frequently with thorns. Leaves simple, alternate, petiolate, with paired stipular tendrils that arise from the expanded base of the petiole; blade 3\u20149-nerved. Infloresce\n- **Smilacaceae** (Family, similarity: 0.63)\n  - Woody lianas, dioecious; stems frequently with thorns. Leaves simple, alternate, petiolate, with paired stipular tendrils that arise from the expanded base of the petiole; blade 3\u20149-nerved. Infloresce\n- **Smilax** (Genus, similarity: 0.63)\n  - Woody lianas, dioecious; stems frequently with thorns. Leaves simple, alternate, petiolate, with paired stipular tendrils that arise from the expanded base of the petiole; blade 3\u20149-nerved. Infloresce\n- **Inga punctata** (Species, similarity: 0.63)\n  - Guavita cansa-boca, Bribri, Guava, Guava del mono Tree, to 15 m tall; branchlets sparsely strigose when young, glabrate in age, minutely lenticellate, minutely ribbed below petioles (at least when dri\n- **Hirtella triandra** (Species, similarity: 0.61)\n  - Tree or shrub, to 20 m; trunk to 23 cm dbh; outer bark thin, fissured, weakly flaky; inner bark reddish-brown, granular; wood light brown, hard, heavy; youngest stems pubescent; sap inconspicuous. Pet\n- **Damburneya purpurea** (Species, similarity: 0.60)\n  - Tree, 4.5-35 m, the young twigs minutely adpressed-pubescent to glabrescent. Leaves with the petiole 0.5-1.2 cm; blade 10-30 X 3.5-12 cm, elliptical to oblong-elliptical, acute to obtuse or (rarely) s\n- **Inga punctata** (Species, similarity: 0.60)\n  - Tree, to 15 m tall; branchlets sparsely strigose when young, glabrate in age, minutely lenticellate, minutely ribbed below petioles (at least when dried). Leaves strigose throughout, especially on axi\n- **Inga pezizifera** (Species, similarity: 0.60)\n  - Tree, to 27 m tall and 40 cm dbh, glabrous to puberulent throughout; trunk \u00b1 involuted with many prominent horizontal wrinkles; outer bark thin; inner bark reddish; young stems very prominently lentic\n- **Inga pezizifera** (Species, similarity: 0.60)\n  - Tree, to 27 m tall and 40 cm dbh, glabrous to puberulent throughout; trunk \u00b1 involuted with many prominent horizontal wrinkles; outer bark thin; inner bark reddish; young stems very prominently lentic\n- **Miconia elata** (Species, similarity: 0.60)\n  - Tree, 3.5-11 (13) m tall; trunk usually 6-15 cm dbh; bark with moderately close, deep vertical fissures, but not flaking; young stems, axes of inflorescences, petioles, and underside of veins densely \n- **Trophis racemosa** (Species, similarity: 0.60)\n  - Locating an individual\nTres Rios Trail (STR); Northeast side of the Dining Hall.\nDistribution\nFrom Mexico to Peru, Venezuela, and the Antilles. In Costa Rica, 0-1350 m; Both slopes of the Guanacaste, \n- **Trophis racemosa** (Species, similarity: 0.60)\n  - Locating an individual\nTres Rios Trail (STR); Northeast side of the Dining Hall.\nDistribution\nFrom Mexico to Peru, Venezuela, and the Antilles. In Costa Rica, 0-1350 m; Both slopes of the Guanacaste, \n- **Miconia elata** (Species, similarity: 0.60)\n  - Locating an individual\nIntersection of the Southwest Trail (SSO) with the Hartshorn Trail (SHA).\nDistribution\nFrom Mexico to Bolivia, Brazil, Colombia, Ecuador, Peru, Venezuela, and the Antilles. In C\n- **Miconia elata** (Species, similarity: 0.60)\n  - Locating an individual\nIntersection of the Southwest Trail (SSO) with the Hartshorn Trail (SHA).\nDistribution\nFrom Mexico to Bolivia, Brazil, Colombia, Ecuador, Peru, Venezuela, and the Antilles. In C\n- **Strychnos panamensis** (Species, similarity: 0.60)\n  - Liana or climbing shrub; tendrils short-coiled, pubescent, becoming woody; stems sparsely long-pubescent to glabrous in age. Petioles 1-5(15) mm long, sparsely pubescent especially when young; blades \n- **Strychnos panamensis** (Species, similarity: 0.60)\n  - Liana or climbing shrub; tendrils short-coiled, pubescent, becoming woody; stems sparsely long-pubescent to glabrous in age. Petioles 1-5(15) mm long, sparsely pubescent especially when young; blades \n- **Tetracera portobellensis** (Species, similarity: 0.60)\n  - Androdioecious liana or scandent shrub; young stems, petioles, and axes of inflorescences with moderate to dense stellate pubescence interspersed with simple trichomes. Petioles 3-10 mm long, winged f\n- **Symphonia globulifera** (Species, similarity: 0.60)\n  - Dioecious, hemiepiphytic tree, to 10 m tall; trunk to 15 cm dbh; branches spiraled, stiff and spreading, densely rooting at the nodes, the roots often extending back to the host tree and enveloping th\n- **Connaraceae** (Family, similarity: 0.59)\n  - Trees, climbing shrubs, or lianas; stipules absent. Leaves compound, odd-pinnate or trifoliate, indumentum of simple trichomes, the blade sometimes with glandular dots on the underside, margin entire;\n- **Connaraceae** (Family, similarity: 0.59)\n  - Trees, climbing shrubs, or lianas; stipules absent. Leaves compound, odd-pinnate or trifoliate, indumentum of simple trichomes, the blade sometimes with glandular dots on the underside, margin entire;\n\n## Convergence Analysis\n\n- **Trophis racemosa** [Literature only] (RAG: 0.60, Visual: 0.0%)\n- **Hirtella triandra** [Literature only] (RAG: 0.61, Visual: 0.0%)\n- **Strychnos panamensis** [Literature only] (RAG: 0.60, Visual: 0.0%)\n- **Eugenia nesiotica** [Visual only] (RAG: 0.00, Visual: 1.0%)\n- **Eugenia** [Visual only] (RAG: 0.00, Visual: 1.2%)\n- **Fabaceae** [Visual only] (RAG: 0.00, Visual: 2.4%)\n",
+        "quality_flags": [
+          "Low classification similarity: top prediction captures only 3.0% of total similarity (threshold: 30.0%)",
+          "Per-image disagreement: images predict 2 distinct labels (Fabaceae, Melastomataceae)"
+        ]
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 0.1055810134857893
+    },
+    "reasoning": {
+      "data": {
+        "classification": {
+          "predicted_family": "Melastomataceae",
+          "predicted_genus": "Mouriri",
+          "predicted_species": "Mouriri myrtilloides",
+          "confidence": "medium",
+          "reasoning": "The visual classification strongly favors Melastomataceae with high similarity scores and consistent nearest neighbors, particularly Mouriri myrtilloides. However, the presence of tendrils conflicts with typical Melastomataceae traits, which usually lack tendrils. Literature evidence suggests Smilacaceae or Connaraceae as plausible alternatives due to tendrils, but visual evidence does not support those families. The morphological traits (opposite, simple, lanceolate leaves, shiny, glabrous, pinnate venation, woody stem) align better with Melastomataceae than other visual candidates.",
+          "supporting_features": [
+            "Opposite, simple, lanceolate leaves with entire margins and pinnate venation",
+            "Shiny, glabrous leaf surfaces and smooth, woody stems",
+            "Visual classification consistently places specimen in Melastomataceae with high similarity to Mouriri myrtilloides"
+          ],
+          "alternatives": [
+            {
+              "taxon": "Smilacaceae",
+              "reason": "Literature matches suggest Smilacaceae due to tendrils, but visual classification does not support this family, and Smilacaceae typically have alternate leaves, which contradicts the observed opposite arrangement."
+            },
+            {
+              "taxon": "Connaraceae",
+              "reason": "Literature matches include Connaraceae, which are climbing shrubs with stipules absent (consistent with specimen), but they typically have compound leaves, which contradicts the simple leaf observation."
+            },
+            {
+              "taxon": "Fabaceae",
+              "reason": "Visual classification ranks Fabaceae third, and some species in this family can be climbing, but the leaf complexity (simple, not compound) and lack of stipules are inconsistent with most Fabaceae."
+            }
+          ]
+        },
+        "raw_response": "{\n  \"predicted_family\": \"Melastomataceae\",\n  \"predicted_genus\": \"Mouriri\",\n  \"predicted_species\": \"Mouriri myrtilloides\",\n  \"confidence\": \"medium\",\n  \"reasoning\": \"The visual classification strongly favors Melastomataceae with high similarity scores and consistent nearest neighbors, particularly Mouriri myrtilloides. However, the presence of tendrils conflicts with typical Melastomataceae traits, which usually lack tendrils. Literature evidence suggests Smilacaceae or Connaraceae as plausible alternatives due to tendrils, but visual evidence does not support those families. The morphological traits (opposite, simple, lanceolate leaves, shiny, glabrous, pinnate venation, woody stem) align better with Melastomataceae than other visual candidates.\",\n  \"supporting_features\": [\n    \"Opposite, simple, lanceolate leaves with entire margins and pinnate venation\",\n    \"Shiny, glabrous leaf surfaces and smooth, woody stems\",\n    \"Visual classification consistently places specimen in Melastomataceae with high similarity to Mouriri myrtilloides\"\n  ],\n  \"alternatives\": [\n    {\n      \"taxon\": \"Smilacaceae\",\n      \"reason\": \"Literature matches suggest Smilacaceae due to tendrils, but visual classification does not support this family, and Smilacaceae typically have alternate leaves, which contradicts the observed opposite arrangement.\"\n    },\n    {\n      \"taxon\": \"Connaraceae\",\n      \"reason\": \"Literature matches include Connaraceae, which are climbing shrubs with stipules absent (consistent with specimen), but they typically have compound leaves, which contradicts the simple leaf observation.\"\n    },\n    {\n      \"taxon\": \"Fabaceae\",\n      \"reason\": \"Visual classification ranks Fabaceae third, and some species in this family can be climbing, but the leaf complexity (simple, not compound) and lack of stipules are inconsistent with most Fabaceae.\"\n    }\n  ]\n}",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 8675.691846059635
+    }
+  },
+  "total_elapsed_ms": 28956.21425495483,
+  "benchmark_metadata": {
+    "scientific_name": "Mouriri myrtilloides",
+    "family": "Melastomataceae",
+    "genus": "Mouriri",
+    "species_epithet": "myrtilloides",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

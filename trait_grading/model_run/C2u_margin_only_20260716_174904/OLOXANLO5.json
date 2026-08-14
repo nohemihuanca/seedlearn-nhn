@@ -1,0 +1,72 @@
+{
+  "specimen_id": "OLOXANLO5",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Annonaceae/by_genus/Oxandra/by_species/longipetala/OLOXANLO5/Annonaceae_Oxandra_longipetala_OLOXANLO5_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Annonaceae/by_genus/Oxandra/by_species/longipetala/OLOXANLO5/Annonaceae_Oxandra_longipetala_OLOXANLO5_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Annonaceae/by_genus/Oxandra/by_species/longipetala/OLOXANLO5/Annonaceae_Oxandra_longipetala_OLOXANLO5_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Annonaceae/by_genus/Oxandra/by_species/longipetala/OLOXANLO5/Annonaceae_Oxandra_longipetala_OLOXANLO5_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Annonaceae/by_genus/Oxandra/by_species/longipetala/OLOXANLO5/Annonaceae_Oxandra_longipetala_OLOXANLO5_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {},
+          "leaf_complexity": {},
+          "leaf_morphology": {
+            "margin": "entire"
+          },
+          "stem_traits": {},
+          "special_features": {},
+          "notes": "The leaves are glossy and wet; some show signs of insect damage (irregular holes), but the natural margin where intact is smooth."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nC. Leaf Morphology\n    7.\tLeaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (the leaf edges appear smooth and continuous without any teeth or serrations, as seen clearly in the close-up images)\nF. Notes: The leaves are glossy and wet; some show signs of insect damage (irregular holes), but the natural margin where intact is smooth.\n\n####",
+        "thinking": null,
+        "few_shot_delivery": {
+          "n_examples": 0,
+          "n_exemplar_images": 0,
+          "n_specimen_images": 5,
+          "max_images": 10,
+          "images_over_budget": false,
+          "prompt_chars": 940
+        }
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 1692.853031000027
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 1692.853031000027,
+  "benchmark_metadata": {
+    "scientific_name": "Oxandra longipetala",
+    "family": "Annonaceae",
+    "genus": "Oxandra",
+    "species_epithet": "longipetala",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

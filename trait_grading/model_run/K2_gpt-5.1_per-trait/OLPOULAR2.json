@@ -1,0 +1,47 @@
+{
+  "specimen_id": "OLPOULAR2",
+  "source_answer_key": "Moraceae_Poulsenia_armata_OLPOULAR2",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "alternate",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "lanceolate",
+            "apex": "acuminate",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "clearly visible, raised on both surfaces; closely and regularly spaced; numerous, approximately 10\u201315 pairs per leaf",
+            "surface_features": "glabrous, shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "unclear"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Leaves arranged in a compact cluster near stem apex (all visible leaves emerge from a short section of the stem). Blades glossy and dark green (leaf surfaces reflect light clearly). Leaves elliptic to narrowly elliptic with entire margins (leaf outlines smooth without lobes or teeth). Pinnate venation prominent (single midrib with many lateral veins evident). Some leaves show holes and missing margin sections (discrete gaps and edge losses visible in blades). Petioles short but evident (narrow stalks between stem and leaf blade can be seen). Stem slender and brownish without obvious spines or hairs (surface appears smooth and unarmed in close-up). No reproductive structures or seed remnants visible (only vegetative organs seen in images)."
+        }
+      }
+    }
+  }
+}

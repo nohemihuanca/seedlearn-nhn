@@ -1,0 +1,47 @@
+{
+  "specimen_id": "SHMICOSI7",
+  "source_answer_key": "Melastomataceae_Miconia_simplex_SHMICOSI7",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "whorled",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "narrowly elliptic",
+            "apex": "acuminate",
+            "base": "cuneate",
+            "venation": "parallel",
+            "secondary_veins": "very prominent, closely spaced, numerous, ca. 20\u201330 pairs per leaf",
+            "surface_features": "glabrous, shiny, slightly rugose",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "unclear"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "reddish-pink",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Seedling shows a rosette-like arrangement of several elliptic leaves at the apex (all photos show leaves clustered at stem tip). Leaves have strongly raised, parallel lateral veins giving a ribbed appearance (clearly visible on adaxial surface). Some leaves have holes present and portions of the margin missing (visible damage on multiple leaves). Petiole and young stem tissues near the leaf base appear reddish (notable color contrast with green blades). A pink ribbon tag is attached near the stem base (visible in close-up images). Surrounding substrate consists of soil and leaf litter on the ground (seen beneath and around the seedling)."
+        }
+      }
+    }
+  }
+}

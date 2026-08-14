@@ -1,0 +1,47 @@
+{
+  "specimen_id": "BAR0538",
+  "source_answer_key": "Malpighiaceae_Hiraea_reclinata_BAR0538",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "whorled",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "1",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "acuminate",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "clearly visible, c. 8\u201311 pairs per leaf, regularly spaced, slightly arching toward the margin",
+            "surface_features": "glabrous, shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "unclear",
+            "trichomes": "absent",
+            "color": "green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "unclear",
+            "tendrils": "absent"
+          },
+          "notes": "Leaves are simple, elliptic, and mostly entire where intact, arranged in a cluster at the stem apex; several leaves exhibit holes and portions of the margin missing; no climbing or grasping structures are visible on the seedling."
+        }
+      }
+    }
+  }
+}

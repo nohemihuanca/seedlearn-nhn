@@ -1,0 +1,72 @@
+{
+  "specimen_id": "ANENTESC3",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Robrichia/by_species/schomburgkii/ANENTESC3/Fabaceae_Robrichia_schomburgkii_ANENTESC3_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Robrichia/by_species/schomburgkii/ANENTESC3/Fabaceae_Robrichia_schomburgkii_ANENTESC3_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Robrichia/by_species/schomburgkii/ANENTESC3/Fabaceae_Robrichia_schomburgkii_ANENTESC3_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Robrichia/by_species/schomburgkii/ANENTESC3/Fabaceae_Robrichia_schomburgkii_ANENTESC3_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Robrichia/by_species/schomburgkii/ANENTESC3/Fabaceae_Robrichia_schomburgkii_ANENTESC3_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {},
+          "leaf_complexity": {},
+          "leaf_morphology": {
+            "margin": "[toothed"
+          },
+          "stem_traits": {},
+          "special_features": {},
+          "notes": "The seedling displays a compound leaf structure with numerous small leaflets. Close inspection of the leaflet margins in the provided images reveals distinct, sharp projections along the edges. These projections are directed forward toward the leaflet tip, which is characteristic of a serrate margin. Consequently, the margin is classified as toothed."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nC. Leaf Morphology\n    7.\tLeaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): [toothed (serrate)]\nF. Notes: The seedling displays a compound leaf structure with numerous small leaflets. Close inspection of the leaflet margins in the provided images reveals distinct, sharp projections along the edges. These projections are directed forward toward the leaflet tip, which is characteristic of a serrate margin. Consequently, the margin is classified as toothed.\n\n####",
+        "thinking": null,
+        "few_shot_delivery": {
+          "n_examples": 0,
+          "n_exemplar_images": 0,
+          "n_specimen_images": 5,
+          "max_images": 10,
+          "images_over_budget": false,
+          "prompt_chars": 2155
+        }
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 1682.571158000087
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 1682.571158000087,
+  "benchmark_metadata": {
+    "scientific_name": "Robrichia schomburgkii",
+    "family": "Fabaceae",
+    "genus": "Robrichia",
+    "species_epithet": "schomburgkii",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

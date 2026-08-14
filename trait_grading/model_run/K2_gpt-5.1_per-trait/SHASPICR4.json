@@ -1,0 +1,47 @@
+{
+  "specimen_id": "SHASPICR4",
+  "source_answer_key": "Apocynaceae_Aspidosperma_desmanthum_SHASPICR4",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "whorled",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "lanceolate",
+            "apex": "acuminate",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "faint but discernible; moderately closely spaced; approximately 8\u201312 pairs per leaf",
+            "surface_features": "glabrous, slightly shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "unclear",
+            "trichomes": "absent",
+            "color": "green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "unclear",
+            "tendrils": "absent"
+          },
+          "notes": "Seedling shows a single upright stem with 6\u20137 narrow elliptic leaves arranged in a whorl near the apex; leaf surfaces appear smooth and entire, with some small holes and portions of margins missing on a few leaves (visible consistently across multiple angles)"
+        }
+      }
+    }
+  }
+}

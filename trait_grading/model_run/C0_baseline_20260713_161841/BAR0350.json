@@ -1,0 +1,91 @@
+{
+  "specimen_id": "BAR0350",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Senegalia/by_species/hayesii/BAR0350/Fabaceae_Senegalia_hayesii_BAR0350_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Senegalia/by_species/hayesii/BAR0350/Fabaceae_Senegalia_hayesii_BAR0350_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Senegalia/by_species/hayesii/BAR0350/Fabaceae_Senegalia_hayesii_BAR0350_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Senegalia/by_species/hayesii/BAR0350/Fabaceae_Senegalia_hayesii_BAR0350_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Senegalia/by_species/hayesii/BAR0350/Fabaceae_Senegalia_hayesii_BAR0350_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "alternate",
+            "spacing": "distal"
+          },
+          "leaf_complexity": {
+            "type": "compound",
+            "compound_type": "odd-pinnate",
+            "num_leaflets": "8",
+            "leaflet_arrangement": "alternate"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "acute",
+            "base": "rounded",
+            "venation": "pinnate",
+            "secondary_veins": "visible, closely spaced, numerous",
+            "surface_features": "glabrous, shiny",
+            "trichomes": "absent",
+            "petiole_length": "long",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "absent",
+            "color": "green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "The seedling exhibits typical pinnately compound leaves with numerous leaflets, consistent with Fabaceae morphology, but family, genus, or species are not identified per conservative rules. Some leaflets show small holes, likely from minor damage, but cause is not inferred. Yellow bands with numbers (e.g., \"18\") are present on nearby stems, likely research tags, not part of the plant. The plant grows among leaf litter, but habitat is not inferred. All images show the same individual from different angles, confirming consistent morphology."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): alternate (leaves are attached at successive nodes along the stem, alternating sides; no paired leaves or whorls observed at any node)\n    2. Leaf spacing (clustered / distal): distal (leaves are spaced along the stem with visible internodes, not clustered at the apex)\n\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): compound (each leaf has multiple leaflets attached to a central rachis)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): odd-pinnate (leaflets arranged along a central axis with a terminal leaflet present)\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): 8 (each compound leaf has approximately 8 pairs of leaflets plus a terminal leaflet, totaling ~17; estimated as 8 for the purpose of this form based on typical counts in such structures)\n    6. Leaflet arrangement (opposite / alternate / subopposite): alternate (leaflets are arranged alternately along the rachis)\n\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (leaflet margins are smooth without teeth or serrations)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): elliptic (leaflets are broadly elliptical, wider in the middle and tapering to both ends)\n    9. Leaf apex (acute, obtuse, acuminate): acute (leaflet tips are sharply pointed)\n    10. Leaf base (rounded, cordate, cuneate): rounded (leaflet bases are gently curved, not tapering or heart-shaped)\n    11. Venation type (pinnate / palmate / parallel): pinnate (main vein runs lengthwise with lateral veins branching off at angles)\n    12. Secondary veins (visibility, spacing, number): visible, closely spaced, numerous (secondary veins are clearly visible, running from midrib to margin, closely packed)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): glabrous, shiny (leaf surface is smooth and glossy, reflecting light)\n    14. Leaf surface trichomes (present / absent): absent (no visible hairs or fuzz on leaf surface)\n    15. Petiole length (short / long): long (petiole is visibly elongated, supporting the compound leaf structure)\n    16. Petiole features (winged / grooved / terete): terete (petiole is round in cross-section, without wings or grooves)\n\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): herbaceous (stem is green, flexible, and lacks visible bark or woody texture)\n    18. Stem trichomes (present / absent): absent (no visible hairs on stem surface)\n    19. Stem color: green (stem is uniformly green, with some yellowish tones near nodes)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (stem surface is smooth without ridges or lenticels)\n\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules observed at leaf bases)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no exudate visible when stem is broken or damaged)\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no swollen joint at base of petiole or leaflet; not visible in images)\n    24. Tendrils (present / absent): absent (no modified shoots or leaves functioning as tendrils)\n\nF. Notes: The seedling exhibits typical pinnately compound leaves with numerous leaflets, consistent with Fabaceae morphology, but family, genus, or species are not identified per conservative rules. Some leaflets show small holes, likely from minor damage, but cause is not inferred. Yellow bands with numbers (e.g., \"18\") are present on nearby stems, likely research tags, not part of the plant. The plant grows among leaf litter, but habitat is not inferred. All images show the same individual from different angles, confirming consistent morphology. \n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 22235.7778432779
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 22235.7778432779,
+  "benchmark_metadata": {
+    "scientific_name": "Senegalia hayesii",
+    "family": "Fabaceae",
+    "genus": "Senegalia",
+    "species_epithet": "hayesii",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

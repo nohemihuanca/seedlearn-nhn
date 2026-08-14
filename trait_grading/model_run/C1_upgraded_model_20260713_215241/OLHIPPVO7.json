@@ -1,0 +1,91 @@
+{
+  "specimen_id": "OLHIPPVO7",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Celastraceae/by_genus/Hippocratea/by_species/volubilis/OLHIPPVO7/Celastraceae_Hippocratea_volubilis_OLHIPPVO7_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Celastraceae/by_genus/Hippocratea/by_species/volubilis/OLHIPPVO7/Celastraceae_Hippocratea_volubilis_OLHIPPVO7_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Celastraceae/by_genus/Hippocratea/by_species/volubilis/OLHIPPVO7/Celastraceae_Hippocratea_volubilis_OLHIPPVO7_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Celastraceae/by_genus/Hippocratea/by_species/volubilis/OLHIPPVO7/Celastraceae_Hippocratea_volubilis_OLHIPPVO7_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Celastraceae/by_genus/Hippocratea/by_species/volubilis/OLHIPPVO7/Celastraceae_Hippocratea_volubilis_OLHIPPVO7_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "alternate",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "toothed",
+            "shape": "lanceolate",
+            "apex": "acuminate",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "prominent and clearly visible, arising from the midrib and curving towards the margin",
+            "surface_features": "shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "reddish-brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "The seedling displays distinct serration on the leaf margins and a reddish-brown stem color. Some leaves show minor physical damage (small holes/margin missing), likely mechanical or abiotic, but no insects or pathogens are visible."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): alternate (leaves are attached singly at different nodes along the stem, alternating sides, visible in multiple angles)\n    2. Leaf spacing (clustered / distal): clustered (leaves are concentrated at the apex of the seedling, with the lower stem appearing bare)\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): simple (leaves consist of a single blade without distinct leaflets)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): N/A\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): N/A\n    6. Leaflet arrangement (opposite / alternate / subopposite): N/A\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): toothed (margins exhibit distinct, sharp serrations, clearly visible in close-up views)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): lanceolate (leaves are elongated with the widest point below the middle, tapering to a point)\n    9. Leaf apex (acute, obtuse, acuminate): acuminate (leaf tip tapers gradually to a slender point)\n    10. Leaf base (rounded, cordate, cuneate): cuneate (leaf base tapers into the petiole)\n    11. Venation type (pinnate / palmate / parallel): pinnate (a central midrib with secondary veins branching off)\n    12. Secondary veins (visibility, spacing, number): prominent and clearly visible, arising from the midrib and curving towards the margin\n    13. Leaf surface features (glabrous, shiny, dull, rugose): shiny (leaf surfaces reflect light, indicating a glossy texture)\n    14. Leaf surface trichomes (present / absent): absent (surfaces appear smooth without visible hairs)\n    15. Petiole length (short / long): short (petioles are clearly present but relatively short compared to the leaf blade length)\n    16. Petiole features (winged / grooved / terete): terete (petioles appear round in cross-section, not flattened or winged)\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): woody (stem appears stiff, dark, and lignified, characteristic of a tree seedling)\n    18. Stem trichomes (present / absent): absent (stem appears smooth and hairless)\n    19. Stem color: reddish-brown (stem exhibits a distinct reddish or rust-brown pigmentation)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (stem surface appears relatively uniform without obvious ridges or large lenticels)\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules are clearly visible at the leaf nodes)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed\n    23. Pulvinus, for Fabaceae family only (present / absent): absent\n    24. Tendrils (present / absent): absent\nF. Notes: The seedling displays distinct serration on the leaf margins and a reddish-brown stem color. Some leaves show minor physical damage (small holes/margin missing), likely mechanical or abiotic, but no insects or pathogens are visible.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 4882.05480016768
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 4882.05480016768,
+  "benchmark_metadata": {
+    "scientific_name": "Hippocratea volubilis",
+    "family": "Celastraceae",
+    "genus": "Hippocratea",
+    "species_epithet": "volubilis",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

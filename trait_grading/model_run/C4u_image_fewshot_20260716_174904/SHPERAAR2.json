@@ -1,0 +1,72 @@
+{
+  "specimen_id": "SHPERAAR2",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Peraceae/by_genus/Pera/by_species/arborea/SHPERAAR2/Peraceae_Pera_arborea_SHPERAAR2_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Peraceae/by_genus/Pera/by_species/arborea/SHPERAAR2/Peraceae_Pera_arborea_SHPERAAR2_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Peraceae/by_genus/Pera/by_species/arborea/SHPERAAR2/Peraceae_Pera_arborea_SHPERAAR2_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Peraceae/by_genus/Pera/by_species/arborea/SHPERAAR2/Peraceae_Pera_arborea_SHPERAAR2_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Peraceae/by_genus/Pera/by_species/arborea/SHPERAAR2/Peraceae_Pera_arborea_SHPERAAR2_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {},
+          "leaf_complexity": {},
+          "leaf_morphology": {
+            "margin": "entire"
+          },
+          "stem_traits": {},
+          "special_features": {},
+          "notes": "The margins of all visible leaves are consistently smooth and unbroken, with no indentations or projections present."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nC. Leaf Morphology\n    7.\tLeaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (the leaf edges are smooth and continuous throughout, lacking any teeth, serrations, or scalloping)\nF. Notes: The margins of all visible leaves are consistently smooth and unbroken, with no indentations or projections present.\n\n####",
+        "thinking": null,
+        "few_shot_delivery": {
+          "n_examples": 1,
+          "n_exemplar_images": 3,
+          "n_specimen_images": 5,
+          "max_images": 10,
+          "images_over_budget": false,
+          "prompt_chars": 2155
+        }
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 1600.7097059998614
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 1600.7097059998614,
+  "benchmark_metadata": {
+    "scientific_name": "Pera arborea",
+    "family": "Peraceae",
+    "genus": "Pera",
+    "species_epithet": "arborea",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

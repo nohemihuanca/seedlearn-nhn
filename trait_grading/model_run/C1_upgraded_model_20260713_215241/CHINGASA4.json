@@ -1,0 +1,90 @@
+{
+  "specimen_id": "CHINGASA4",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Inga/by_species/sapindoides/CHINGASA4/Fabaceae_Inga_sapindoides_CHINGASA4_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Inga/by_species/sapindoides/CHINGASA4/Fabaceae_Inga_sapindoides_CHINGASA4_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Inga/by_species/sapindoides/CHINGASA4/Fabaceae_Inga_sapindoides_CHINGASA4_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Inga/by_species/sapindoides/CHINGASA4/Fabaceae_Inga_sapindoides_CHINGASA4_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Inga/by_species/sapindoides/CHINGASA4/Fabaceae_Inga_sapindoides_CHINGASA4_005.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Inga/by_species/sapindoides/CHINGASA4/Fabaceae_Inga_sapindoides_CHINGASA4_006.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "opposite",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "compound",
+            "compound_type": "odd-pinnate",
+            "num_leaflets": "5",
+            "leaflet_arrangement": "alternate"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "obovate to elliptic",
+            "apex": "acute",
+            "base": "rounded",
+            "venation": "pinnate",
+            "secondary_veins": "clearly visible, prominent, arranged in a pinnate pattern curving towards the margin",
+            "surface_features": "dull",
+            "trichomes": "present"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "present",
+            "color": "green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "not observed",
+            "latex": "not observed",
+            "pulvinus": "not observed",
+            "tendrils": "absent"
+          },
+          "notes": "Several leaflets exhibit irregular holes and margin damage, consistent with mechanical injury or herbivory. Some leaf surfaces show light-colored speckling or mottling."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): opposite (pairs of compound leaves are visible at successive nodes along the stem)\n    2. Leaf spacing (clustered / distal): clustered (leaves are grouped closely together at the apex of the seedling)\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): compound (each leaf unit is composed of multiple leaflets)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): odd-pinnate (each leaf has a single terminal leaflet at the end of the rachis)\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): 5 (clearly visible on multiple leaves)\n    6. Leaflet arrangement (opposite / alternate / subopposite): alternate (leaflets are arranged alternately along the rachis, with the terminal leaflet)\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.): entire (margins are smooth, though some leaves show mechanical damage/holes)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): obovate to elliptic (leaflets are broadly shaped, wider towards the apex)\n    9. Leaf apex (acute, obtuse, acuminate): acute (the tip of the leaflets comes to a distinct point)\n    10. Leaf base (rounded, cordate, cuneate): rounded (the base of the leaflets appears broad and rounded)\n    11. Venation type (pinnate / palmate / parallel): pinnate (a central midrib with secondary veins branching off)\n    12. Secondary veins (visibility, spacing, number): clearly visible, prominent, arranged in a pinnate pattern curving towards the margin\n    13. Leaf surface features (glabrous, shiny, dull, rugose): dull (surface appears matte rather than glossy)\n    14. Leaf surface trichomes (present / absent): present (fine hairs are visible along the rachis and leaflet margins in close-up views)\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): herbaceous (the stem appears green and soft, typical of a young seedling)\n    18. Stem trichomes (present / absent): present (hairs are visible on the stem surface)\n    19. Stem color: green\n    20. Stem texture (smooth / ridged / lenticellate): smooth (no obvious ridges or lenticels visible)\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): not observed (not clearly visible in the provided images)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed\n    23. Pulvinus, for Fabaceae family only (present / absent): not observed (no clear pulvinus visible at the leaf base)\n    24. Tendrils (present / absent): absent\n\nF. Notes: Several leaflets exhibit irregular holes and margin damage, consistent with mechanical injury or herbivory. Some leaf surfaces show light-colored speckling or mottling.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 4757.738125976175
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 4757.738125976175,
+  "benchmark_metadata": {
+    "scientific_name": "Inga sapindoides",
+    "family": "Fabaceae",
+    "genus": "Inga",
+    "species_epithet": "sapindoides",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

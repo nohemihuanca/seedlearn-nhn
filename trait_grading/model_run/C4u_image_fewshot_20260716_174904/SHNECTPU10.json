@@ -1,0 +1,72 @@
+{
+  "specimen_id": "SHNECTPU10",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Lauraceae/by_genus/Damburneya/by_species/purpurea/SHNECTPU10/Lauraceae_Damburneya_purpurea_SHNECTPU10_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Lauraceae/by_genus/Damburneya/by_species/purpurea/SHNECTPU10/Lauraceae_Damburneya_purpurea_SHNECTPU10_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Lauraceae/by_genus/Damburneya/by_species/purpurea/SHNECTPU10/Lauraceae_Damburneya_purpurea_SHNECTPU10_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Lauraceae/by_genus/Damburneya/by_species/purpurea/SHNECTPU10/Lauraceae_Damburneya_purpurea_SHNECTPU10_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Lauraceae/by_genus/Damburneya/by_species/purpurea/SHNECTPU10/Lauraceae_Damburneya_purpurea_SHNECTPU10_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {},
+          "leaf_complexity": {},
+          "leaf_morphology": {
+            "margin": "[entire"
+          },
+          "stem_traits": {},
+          "special_features": {},
+          "notes": "[The leaf margins are clearly entire across all visible leaves. Minor irregularities observed on some leaf tips and edges appear to be physical damage (e.g., insect feeding or mechanical injury) rather than natural morphological features.]"
+        },
+        "raw_response": "C. Leaf Morphology\n    7.\tLeaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): [entire (the leaf blade edges are smooth and continuous without any teeth, serrations, or lobes)]\nF. Notes: [The leaf margins are clearly entire across all visible leaves. Minor irregularities observed on some leaf tips and edges appear to be physical damage (e.g., insect feeding or mechanical injury) rather than natural morphological features.]\n####",
+        "thinking": null,
+        "few_shot_delivery": {
+          "n_examples": 1,
+          "n_exemplar_images": 3,
+          "n_specimen_images": 5,
+          "max_images": 10,
+          "images_over_budget": false,
+          "prompt_chars": 2155
+        }
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 1646.4300370000728
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 1646.4300370000728,
+  "benchmark_metadata": {
+    "scientific_name": "Damburneya purpurea",
+    "family": "Lauraceae",
+    "genus": "Damburneya",
+    "species_epithet": "purpurea",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

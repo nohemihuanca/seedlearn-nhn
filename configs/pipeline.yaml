@@ -1,0 +1,76 @@
+# Pipeline configuration for seedlearn 5-stage demo pipeline.
+# All values shown are the code defaults.  Uncomment and edit to override.
+#
+# Resolution order: code defaults -> this YAML -> CLI overrides
+# CLI overrides use dot notation:  --override vlm.model=custom/model
+
+# Stages to skip entirely (by name).
+# skip_stages: []
+
+# --- VLM morphological extraction ---
+vlm:
+  model: "Qwen/Qwen3-VL-32B-Instruct-FP8"
+  endpoint: "http://localhost:8000/v1"
+  prompt_style: "sys4"
+  image_mode: "file"          # "file" or "base64"
+  max_images: 10
+  max_tokens: 8192
+  temperature: 0.6
+  top_p: 0.95
+  top_k: 20
+  min_p: -1.0                 # -1.0 disables min_p filtering
+
+# --- Few-shot classification ---
+classifier:
+  rank: "family"
+  k_shot: 10
+  top_k: 5
+  split_seed: 42
+  device: "cuda"
+  catalog: null               # null = use default catalog
+  model_str: "hf-hub:imageomics/bioclip-2"
+  feature_aggregation: "mean"
+
+# --- RAG trait retrieval ---
+trait_retrieval:
+  enabled: true
+  index_path: null            # null = build index on the fly
+  descriptions_csv: null      # null = use default descriptions
+  embedding_model: "all-MiniLM-L6-v2"
+  top_k: 20
+  min_similarity: 0.3
+  cross_reference: true
+
+# --- Evidence synthesis ---
+evidence_synthesis:
+  include_raw_traits: false
+  include_rag_passages: true
+  max_rag_excerpts: 5
+  convergence_threshold: 0.3
+
+# --- LLM reasoning ---
+reasoning:
+  model: "Qwen/Qwen3-VL-32B-Instruct-FP8"
+  endpoint: "http://localhost:8000/v1"
+  max_tokens: 4096
+  temperature: 0.6
+  top_p: 0.95
+  top_k: 20
+
+# --- Prompt configuration ---
+# Each stage loads its prompt from the file path below.
+# To customize: copy the default file, edit it, and point the path here.
+# Template variables (e.g., {traits}) are substituted at runtime.
+# null = use hardcoded default in source code.
+prompts:
+  morphology: null            # e.g. "configs/prompts/stage1_morphology.txt"
+  rag_query: null             # e.g. "configs/prompts/stage3_rag_query.txt"
+  reasoning: null             # e.g. "configs/prompts/stage5_reasoning.txt"
+
+# --- Output ---
+output:
+  format:
+    - "json"
+    - "html"
+  directory: "results/pipeline/"
+  verbose: true

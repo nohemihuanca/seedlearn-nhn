@@ -1,0 +1,91 @@
+{
+  "specimen_id": "PPCALLLA6",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Callichlamys/by_species/latifolia/PPCALLLA6/Bignoniaceae_Callichlamys_latifolia_PPCALLLA6_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Callichlamys/by_species/latifolia/PPCALLLA6/Bignoniaceae_Callichlamys_latifolia_PPCALLLA6_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Callichlamys/by_species/latifolia/PPCALLLA6/Bignoniaceae_Callichlamys_latifolia_PPCALLLA6_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Callichlamys/by_species/latifolia/PPCALLLA6/Bignoniaceae_Callichlamys_latifolia_PPCALLLA6_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Bignoniaceae/by_genus/Callichlamys/by_species/latifolia/PPCALLLA6/Bignoniaceae_Callichlamys_latifolia_PPCALLLA6_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "opposite",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "compound",
+            "compound_type": "odd-pinnate",
+            "num_leaflets": "8",
+            "leaflet_arrangement": "alternate"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "obtuse",
+            "base": "rounded",
+            "venation": "pinnate",
+            "secondary_veins": "visible, closely spaced, multiple",
+            "surface_features": "shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "absent",
+            "color": "green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Some leaflets show minor surface blemishes or spots, possibly from environmental debris or minor damage, but no clear signs of insect feeding or pathogen. The plant is growing at the base of a larger tree with leaf litter and other understory vegetation visible, but habitat conditions are not directly assessed per rules. The compound leaves are arranged in opposite pairs on the stem, with each leaf having 4\u20135 leaflets per side and a terminal leaflet, consistent with odd-pinnate structure. Images are consistent across all views, confirming the above observations."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): opposite (multiple images show pairs of leaves emerging from the same node along the stem, with clear node visibility)\n    2. Leaf spacing (clustered / distal): clustered (leaves are grouped closely together at the stem apex, forming a dense terminal cluster)\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): compound (each leaf is composed of multiple leaflets attached to a central rachis)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): odd-pinnate (the leaflets are arranged along a central axis with a single terminal leaflet, as seen in the uppermost leaf)\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): 8 (each compound leaf has 4 pairs of leaflets plus one terminal leaflet, totaling 9; however, due to image angle and occlusion, the most consistent count across views is 8 visible leaflets, likely representing two compound leaves with 4 leaflets each; thus, estimated as 8 for the visible set)\n    6. Leaflet arrangement (opposite / alternate / subopposite): alternate (leaflets are arranged alternately along the rachis, not in pairs)\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (margins are smooth without any teeth or lobes)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): elliptic (leaflets are broadly oval with rounded ends and a gradual taper to the base)\n    9. Leaf apex (acute, obtuse, acuminate): obtuse (tip is rounded to slightly blunt, not pointed or tapering sharply)\n    10. Leaf base (rounded, cordate, cuneate): rounded (base is gently curved, not tapered or heart-shaped)\n    11. Venation type (pinnate / palmate / parallel): pinnate (main vein runs from base to apex, with lateral veins branching off and curving toward the margin)\n    12. Secondary veins (visibility, spacing, number): visible, closely spaced, multiple (secondary veins are clearly visible, forming a net-like pattern, closely spaced, with several pairs per leaflet)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): shiny (surface has a glossy sheen, reflecting light)\n    14. Leaf surface trichomes (present / absent): absent (no visible hairs or fuzz on leaf surface)\n    15. Petiole length (short / long): short (petioles are relatively short, attaching leaflets close to the rachis)\n    16. Petiole features (winged / grooved / terete): terete (petioles are round and cylindrical, without wings or grooves)\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): herbaceous (stem appears green, flexible, and non-woody, typical of a young seedling)\n    18. Stem trichomes (present / absent): absent (no visible hairs on stem)\n    19. Stem color: green (stem is bright green, consistent with young growth)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (surface is smooth without ridges or lenticels)\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules observed at leaf bases)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no milky sap or latex visible upon inspection)\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no swollen joint at leaflet base visible; pulvinus not present)\n    24. Tendrils (present / absent): absent (no tendrils observed)\nF. Notes: Some leaflets show minor surface blemishes or spots, possibly from environmental debris or minor damage, but no clear signs of insect feeding or pathogen. The plant is growing at the base of a larger tree with leaf litter and other understory vegetation visible, but habitat conditions are not directly assessed per rules. The compound leaves are arranged in opposite pairs on the stem, with each leaf having 4\u20135 leaflets per side and a terminal leaflet, consistent with odd-pinnate structure. Images are consistent across all views, confirming the above observations.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 23136.07402704656
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 23136.07402704656,
+  "benchmark_metadata": {
+    "scientific_name": "Callichlamys latifolia",
+    "family": "Bignoniaceae",
+    "genus": "Callichlamys",
+    "species_epithet": "latifolia",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

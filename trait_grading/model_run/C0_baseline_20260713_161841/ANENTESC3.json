@@ -1,0 +1,91 @@
+{
+  "specimen_id": "ANENTESC3",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Robrichia/by_species/schomburgkii/ANENTESC3/Fabaceae_Robrichia_schomburgkii_ANENTESC3_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Robrichia/by_species/schomburgkii/ANENTESC3/Fabaceae_Robrichia_schomburgkii_ANENTESC3_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Robrichia/by_species/schomburgkii/ANENTESC3/Fabaceae_Robrichia_schomburgkii_ANENTESC3_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Robrichia/by_species/schomburgkii/ANENTESC3/Fabaceae_Robrichia_schomburgkii_ANENTESC3_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Fabaceae/by_genus/Robrichia/by_species/schomburgkii/ANENTESC3/Fabaceae_Robrichia_schomburgkii_ANENTESC3_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "alternate",
+            "spacing": "distal"
+          },
+          "leaf_complexity": {
+            "type": "compound",
+            "compound_type": "odd-pinnate",
+            "num_leaflets": "8",
+            "leaflet_arrangement": "alternate"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "lanceolate",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "visible, closely spaced, numerous",
+            "surface_features": "shiny",
+            "trichomes": "absent",
+            "petiole_length": "long",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "absent",
+            "color": "green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "The plant appears to be a young seedling with a compound, odd-pinnate leaf structure. The leaflets are small, lanceolate, and arranged alternately along the rachis. The stem is herbaceous and green, with no visible trichomes or stipules. The leaf surface is shiny and glabrous. A pink tag is attached to the plant, likely for research or monitoring purposes. No damage or pathogens are visible. The surrounding environment includes leaf litter and a decaying log, but habitat conditions are not explicitly assessed per rules."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): alternate (leaves are attached at successive nodes along the stem, alternating sides; no paired or clustered arrangement visible)\n    2. Leaf spacing (clustered / distal): distal (leaves are spaced along the stem, not clustered at the apex or base)\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): compound (the leaf is clearly divided into multiple leaflets along a central axis)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): odd-pinnate (the leaflets are arranged along a central rachis with a terminal leaflet present, and leaflets occur in pairs along the rachis)\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): 8 (each pinna appears to have approximately 8\u201310 leaflets; total leaflets on the entire leaf are estimated as ~30\u201340, but the question asks for an integer estimate from the provided options; 8 is the closest low estimate for a single pinna, but the entire leaf is compound with multiple pinnae; however, the question likely refers to leaflets per pinna, so 8 is reasonable based on visible pairs; alternatively, if referring to total leaflets, it exceeds 8, but since 8 is the only option close to the count per pinna, we use 8 as the best estimate per pinna)\n    6. Leaflet arrangement (opposite / alternate / subopposite): alternate (leaflets are arranged alternately along the rachis, not in pairs)\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (leaflets have smooth margins with no visible teeth or serrations)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): lanceolate (leaflets are lance-shaped, tapering to an acute apex)\n    9. Leaf apex (acute, obtuse, acuminate): acute (leaflets end in a sharp point)\n    10. Leaf base (rounded, cordate, cuneate): cuneate (leaflets taper to the base, forming a wedge shape)\n    11. Venation type (pinnate / palmate / parallel): pinnate (veins run parallel to the margin and converge at the apex, typical of compound leaves with pinnate venation)\n    12. Secondary veins (visibility, spacing, number): visible, closely spaced, numerous (secondary veins are clearly visible as fine lines running perpendicular to the main vein, closely packed)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): shiny (leaf surface appears glossy, reflecting light)\n    14. Leaf surface trichomes (present / absent): absent (no visible hairs or trichomes on leaf surface)\n    15. Petiole length (short / long): long (petiole is visibly elongated, supporting the compound leaf)\n    16. Petiole features (winged / grooved / terete): terete (petiole is round in cross-section, not winged or grooved)\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): herbaceous (stem appears soft and green, not woody; not clearly visible, but based on context and appearance, likely herbaceous)\n    18. Stem trichomes (present / absent): absent (no visible hairs on stem)\n    19. Stem color: green (stem is light green, matching the leaf color)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (stem surface appears smooth without ridges or lenticels)\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules visible at the base of the leaf or stem)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no latex exudate visible)\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no pulvinus visible at the leaf base; note: pulvinus is a swelling at the base of leaflets or petiole that allows movement, not visible here)\n    24. Tendrils (present / absent): absent (no tendrils observed)\nF. Notes: The plant appears to be a young seedling with a compound, odd-pinnate leaf structure. The leaflets are small, lanceolate, and arranged alternately along the rachis. The stem is herbaceous and green, with no visible trichomes or stipules. The leaf surface is shiny and glabrous. A pink tag is attached to the plant, likely for research or monitoring purposes. No damage or pathogens are visible. The surrounding environment includes leaf litter and a decaying log, but habitat conditions are not explicitly assessed per rules.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 25181.2412510626
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 25181.2412510626,
+  "benchmark_metadata": {
+    "scientific_name": "Robrichia schomburgkii",
+    "family": "Fabaceae",
+    "genus": "Robrichia",
+    "species_epithet": "schomburgkii",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

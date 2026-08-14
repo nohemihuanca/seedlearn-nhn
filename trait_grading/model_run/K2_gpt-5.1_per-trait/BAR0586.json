@@ -1,0 +1,47 @@
+{
+  "specimen_id": "BAR0586",
+  "source_answer_key": "Melastomataceae_Mouriri_myrtilloides_BAR0586",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "alternate",
+            "spacing": "distal"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "unclear",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "toothed, crenate to shallowly lobed",
+            "shape": "narrowly lanceolate",
+            "apex": "acuminate",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "faintly visible with weak relief, appearing in roughly 6\u201310 pairs per leaf, spaced fairly regularly from base to apex",
+            "surface_features": "glabrous, shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "unclear"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "unclear",
+            "color": "greenish-brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "unclear",
+            "tendrils": "unclear"
+          },
+          "notes": "Seedling appears to be a slender climbing or scrambling plant with narrow, glossy green leaves showing some margin missing and small holes (indicating visible but neutrally described leaf damage)."
+        }
+      }
+    }
+  }
+}

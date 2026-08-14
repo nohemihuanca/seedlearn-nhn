@@ -1,0 +1,91 @@
+{
+  "specimen_id": "MEMASCNE4",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Malpighiaceae/by_genus/Mascagnia/by_species/ovatifolia/MEMASCNE4/Malpighiaceae_Mascagnia_ovatifolia_MEMASCNE4_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Malpighiaceae/by_genus/Mascagnia/by_species/ovatifolia/MEMASCNE4/Malpighiaceae_Mascagnia_ovatifolia_MEMASCNE4_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Malpighiaceae/by_genus/Mascagnia/by_species/ovatifolia/MEMASCNE4/Malpighiaceae_Mascagnia_ovatifolia_MEMASCNE4_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Malpighiaceae/by_genus/Mascagnia/by_species/ovatifolia/MEMASCNE4/Malpighiaceae_Mascagnia_ovatifolia_MEMASCNE4_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Malpighiaceae/by_genus/Mascagnia/by_species/ovatifolia/MEMASCNE4/Malpighiaceae_Mascagnia_ovatifolia_MEMASCNE4_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "opposite",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "acuminate",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "clearly visible, parallel to each other, and curving towards the apex",
+            "surface_features": "shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "absent",
+            "color": "green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Some leaves show minor damage (small holes), but no cause is inferred. The seedling is growing among leaf litter and other vegetation."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): opposite (clearly visible as leaves emerging in pairs from the same node along the stem)\n    2. Leaf spacing (clustered / distal): clustered (leaves appear closely packed along the short stem sections visible in the images)\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): simple (each leaf blade is undivided and attached directly to the petiole)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): N/A\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): N/A\n    6. Leaflet arrangement (opposite / alternate / subopposite): N/A\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (margins are smooth and continuous without teeth or serrations)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): elliptic (leaves are broadly oval with the widest part near the center, visible in close-up images)\n    9. Leaf apex (acute, obtuse, acuminate): acuminate (tips taper to a distinct, elongated point)\n    10. Leaf base (rounded, cordate, cuneate): cuneate (the base of the leaf tapers gradually to the petiole)\n    11. Venation type (pinnate / palmate / parallel): pinnate (a central midrib is visible with secondary veins branching off to the sides)\n    12. Secondary veins (visibility, spacing, number): clearly visible, parallel to each other, and curving towards the apex\n    13. Leaf surface features (glabrous, shiny, dull, rugose): shiny (leaves reflect light, indicating a smooth, possibly waxy cuticle)\n    14. Leaf surface trichomes (present / absent): absent (surface appears smooth without visible hairs)\n    15. Petiole length (short / long): short (petioles are relatively short compared to the leaf blade length)\n    16. Petiole features (winged / grooved / terete): terete (petioles appear cylindrical and round in cross-section)\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): herbaceous (stems appear green and soft, typical of young seedlings)\n    18. Stem trichomes (present / absent): absent (stems appear smooth)\n    19. Stem color: green (stems are a vibrant green color consistent with the leaves)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (no obvious ridges or lenticels are visible on the young stems)\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules are visible at the leaf nodes)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no latex exudate is visible)\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no pulvinus is visible at the base of the petiole)\n    24. Tendrils (present / absent): absent (no tendrils are present)\nF. Notes: Some leaves show minor damage (small holes), but no cause is inferred. The seedling is growing among leaf litter and other vegetation.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 4627.006372902542
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 4627.006372902542,
+  "benchmark_metadata": {
+    "scientific_name": "Mascagnia ovatifolia",
+    "family": "Malpighiaceae",
+    "genus": "Mascagnia",
+    "species_epithet": "ovatifolia",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

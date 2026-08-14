@@ -1,0 +1,91 @@
+{
+  "specimen_id": "OLTRI2TU6",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Meliaceae/by_genus/Trichilia/by_species/tuberculata/OLTRI2TU6/Meliaceae_Trichilia_tuberculata_OLTRI2TU6_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Meliaceae/by_genus/Trichilia/by_species/tuberculata/OLTRI2TU6/Meliaceae_Trichilia_tuberculata_OLTRI2TU6_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Meliaceae/by_genus/Trichilia/by_species/tuberculata/OLTRI2TU6/Meliaceae_Trichilia_tuberculata_OLTRI2TU6_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Meliaceae/by_genus/Trichilia/by_species/tuberculata/OLTRI2TU6/Meliaceae_Trichilia_tuberculata_OLTRI2TU6_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Meliaceae/by_genus/Trichilia/by_species/tuberculata/OLTRI2TU6/Meliaceae_Trichilia_tuberculata_OLTRI2TU6_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "alternate",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "compound",
+            "compound_type": "odd-pinnate",
+            "num_leaflets": "5",
+            "leaflet_arrangement": "subopposite"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "lanceolate",
+            "apex": "acuminate",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "clearly visible and prominent",
+            "surface_features": "shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "absent",
+            "color": "green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "The seedling exhibits heterophylly, showing variation in leaflet shape and size between different leaves on the same individual. Some leaflets appear broader and more elliptic, while others are distinctly narrower and lanceolate. Several leaves show minor damage in the form of small holes."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): alternate (leaves are attached at successive nodes along the stem, alternating sides)\n    2. Leaf spacing (clustered / distal): clustered (leaves are grouped in dense clusters near the apical region of the stem)\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): compound (leaves are composed of multiple leaflets attached to a central rachis)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): odd-pinnate (leaflets are arranged along a central axis ending in a single terminal leaflet)\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): 5 (visible leaflets range from 5 to 7, with 5 being clearly distinct on several leaves)\n    6. Leaflet arrangement (opposite / alternate / subopposite): subopposite (leaflets are arranged nearly opposite each other along the rachis but are slightly offset)\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.): entire (the leaf margins are smooth and continuous without teeth)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): lanceolate (leaflets are elongated with the widest point below the middle and tapering to a point at both ends)\n    9. Leaf apex (acute, obtuse, acuminate): acuminate (leaf tips taper to a distinct, elongated point)\n    10. Leaf base (rounded, cordate, cuneate): cuneate (leaflets taper to a wedge-shaped base where they attach to the rachis)\n    11. Venation type (pinnate / palmate / parallel): pinnate (a central midrib runs the length of the leaflet with veins branching off laterally)\n    12. Secondary veins (visibility, spacing, number): clearly visible and prominent (veins are distinct and appear to run parallel to each other towards the margin)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): shiny (the leaf surface reflects light, indicating a glossy texture)\n    14. Leaf surface trichomes (present / absent): absent (no visible hairs on the leaf surface)\n    15. Petiole length (short / long): short (the individual leaflets have very short stalks attaching them to the rachis)\n    16. Petiole features (winged / grooved / terete): terete (the rachis and leaflet stalks appear round in cross-section)\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): herbaceous (the stem appears green and flexible, typical of a young seedling)\n    18. Stem trichomes (present / absent): absent (the stem surface appears smooth without visible hairs)\n    19. Stem color: green (the stem is uniformly green)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (the stem surface appears even without ridges or prominent lenticels)\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules are visible at the leaf bases)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no latex is visible)\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no pulvinus is visible at the leaf base)\n    24. Tendrils (present / absent): absent (no tendrils are visible)\nF. Notes: The seedling exhibits heterophylly, showing variation in leaflet shape and size between different leaves on the same individual. Some leaflets appear broader and more elliptic, while others are distinctly narrower and lanceolate. Several leaves show minor damage in the form of small holes.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 5012.484961654991
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 5012.484961654991,
+  "benchmark_metadata": {
+    "scientific_name": "Trichilia tuberculata",
+    "family": "Meliaceae",
+    "genus": "Trichilia",
+    "species_epithet": "tuberculata",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

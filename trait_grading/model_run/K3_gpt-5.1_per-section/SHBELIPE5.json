@@ -1,0 +1,47 @@
+{
+  "specimen_id": "SHBELIPE5",
+  "source_answer_key": "Lauraceae_Beilschmiedia_tovarensis_SHBELIPE5",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "whorled",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "lanceolate",
+            "apex": "acuminate",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "clearly visible, regularly spaced, approximately 8\u201312 pairs per leaf side",
+            "surface_features": "shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "unclear"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "light brown-green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "unclear",
+            "tendrils": "absent"
+          },
+          "notes": "Leaves are simple, entire-margined, elliptic to narrowly elliptic with pinnate venation; several leaves form a cluster near the stem apex and some show holes or missing margin portions; seedling is growing among leaf litter on the ground."
+        }
+      }
+    }
+  }
+}

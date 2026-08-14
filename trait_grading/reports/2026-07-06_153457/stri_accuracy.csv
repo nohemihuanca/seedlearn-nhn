@@ -1,0 +1,16 @@
+trait_key,source,n_compared,n_correct,accuracy_vs_stri,n_kappa,cohen_kappa
+leaf_relative_position,model,75,27,0.360,68,0.043
+leaf_complexity_type,model,73,67,0.918,73,0.620
+leaf_margin,model,65,63,0.969,27,0.000
+stipules,model,75,44,0.587,63,0.000
+latex,model,0,0,,0,
+leaf_relative_position,roni,74,71,0.959,67,0.900
+leaf_complexity_type,roni,73,71,0.973,73,0.873
+leaf_margin,roni,72,66,0.917,30,0.234
+stipules,roni,46,41,0.891,38,0.740
+latex,roni,0,0,,0,
+leaf_relative_position,carmen,75,53,0.707,68,0.452
+leaf_complexity_type,carmen,73,67,0.918,73,0.580
+leaf_margin,carmen,67,62,0.925,27,0.282
+stipules,carmen,67,39,0.582,58,0.038
+latex,carmen,2,1,0.500,2,0.000

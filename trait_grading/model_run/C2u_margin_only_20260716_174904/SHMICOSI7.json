@@ -1,0 +1,72 @@
+{
+  "specimen_id": "SHMICOSI7",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Melastomataceae/by_genus/Miconia/by_species/simplex/SHMICOSI7/Melastomataceae_Miconia_simplex_SHMICOSI7_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Melastomataceae/by_genus/Miconia/by_species/simplex/SHMICOSI7/Melastomataceae_Miconia_simplex_SHMICOSI7_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Melastomataceae/by_genus/Miconia/by_species/simplex/SHMICOSI7/Melastomataceae_Miconia_simplex_SHMICOSI7_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Melastomataceae/by_genus/Miconia/by_species/simplex/SHMICOSI7/Melastomataceae_Miconia_simplex_SHMICOSI7_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Melastomataceae/by_genus/Miconia/by_species/simplex/SHMICOSI7/Melastomataceae_Miconia_simplex_SHMICOSI7_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {},
+          "leaf_complexity": {},
+          "leaf_morphology": {
+            "margin": "[entire"
+          },
+          "stem_traits": {},
+          "special_features": {},
+          "notes": "[The leaves exhibit significant physical damage, including holes and missing sections along the margins, likely due to herbivory. The margin is described as entire based on the undamaged sections visible in the images.]"
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nC. Leaf Morphology\n    7.\tLeaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): [entire (the leaf edges are smooth and continuous without any teeth or serrations, as seen clearly on the intact portions of the leaves in all images)]\nF. Notes: [The leaves exhibit significant physical damage, including holes and missing sections along the margins, likely due to herbivory. The margin is described as entire based on the undamaged sections visible in the images.]\n####",
+        "thinking": null,
+        "few_shot_delivery": {
+          "n_examples": 0,
+          "n_exemplar_images": 0,
+          "n_specimen_images": 5,
+          "max_images": 10,
+          "images_over_budget": false,
+          "prompt_chars": 940
+        }
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 1725.3153139999995
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 1725.3153139999995,
+  "benchmark_metadata": {
+    "scientific_name": "Miconia simplex",
+    "family": "Melastomataceae",
+    "genus": "Miconia",
+    "species_epithet": "simplex",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

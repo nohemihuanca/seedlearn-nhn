@@ -1,0 +1,47 @@
+{
+  "specimen_id": "CHPHRYCO10",
+  "source_answer_key": "Bignoniaceae_Bignonia_corymbosa_CHPHRYCO10",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "whorled",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "acuminate",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "visible and moderately prominent, fairly regular spacing, approximately 7\u201310 pairs per leaf",
+            "surface_features": "glabrous and slightly shiny",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "unclear"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "greenish-brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "unclear",
+            "tendrils": "absent"
+          },
+          "notes": "Leaves appear simple, entire, and elliptic with a glossy surface; several leaves are clustered near the stem apex giving a pseudo-whorled appearance; minor holes and small missing portions along some leaf margins are visible; no conspicuous hairs, spines, or other specialized structures seen."
+        }
+      }
+    }
+  }
+}

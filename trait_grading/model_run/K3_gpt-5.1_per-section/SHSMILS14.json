@@ -1,0 +1,47 @@
+{
+  "specimen_id": "SHSMILS14",
+  "source_answer_key": "Smilacaceae_Smilax_spinosa_SHSMILS14",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "whorled",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "narrowly elliptic",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "conspicuous, closely spaced, about 6\u201310 pairs, nearly parallel and slightly arching toward margin",
+            "surface_features": "glabrous, shiny, slightly rugose",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "absent",
+            "color": "greenish-brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Leaves are simple, entire, elliptic to narrowly ovate with several strong longitudinal veins that create a corrugated surface; leaves appear clustered near the shoot tip; some small round holes present on a few blades."
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "specimen_id": "PEA0208",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Euphorbiaceae/by_genus/Acalypha/by_species/diversifolia/PEA0208/Euphorbiaceae_Acalypha_diversifolia_PEA0208_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Euphorbiaceae/by_genus/Acalypha/by_species/diversifolia/PEA0208/Euphorbiaceae_Acalypha_diversifolia_PEA0208_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Euphorbiaceae/by_genus/Acalypha/by_species/diversifolia/PEA0208/Euphorbiaceae_Acalypha_diversifolia_PEA0208_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Euphorbiaceae/by_genus/Acalypha/by_species/diversifolia/PEA0208/Euphorbiaceae_Acalypha_diversifolia_PEA0208_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Euphorbiaceae/by_genus/Acalypha/by_species/diversifolia/PEA0208/Euphorbiaceae_Acalypha_diversifolia_PEA0208_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "opposite",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "toothed",
+            "shape": "ovate to elliptic",
+            "apex": "acuminate",
+            "base": "rounded to slightly cordate",
+            "venation": "pinnate",
+            "secondary_veins": "clearly visible, moderately spaced, approximately 5-7 pairs visible on larger leaves",
+            "surface_features": "dull",
+            "trichomes": "present",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "present",
+            "color": "green to brownish-green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "The seedling exhibits prominent serrate margins and fine trichomes on leaves and stems. Leaves are arranged oppositely. A yellow tag labeled \"84\" is wrapped around the stem in one image. Small holes are present on some leaves."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): opposite (clearly visible as paired leaves emerging from the same node along the stem in multiple images)\n    2. Leaf spacing (clustered / distal): clustered (leaves appear grouped near the top of the visible stem, not widely spaced along its length)\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): simple (each leaf unit is a single blade without division into leaflets)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): N/A\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): N/A\n    6. Leaflet arrangement (opposite / alternate / subopposite): N/A\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.): toothed (serrate) (clearly visible fine, regular teeth along the leaf edge)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): ovate to elliptic (broadest near the base, tapering toward the apex)\n    9. Leaf apex (acute, obtuse, acuminate): acuminate (tapers to a distinct, elongated tip)\n    10. Leaf base (rounded, cordate, cuneate): rounded to slightly cordate (appears broadly rounded or shallowly heart-shaped at the base)\n    11. Venation type (pinnate / palmate / parallel): pinnate (single midrib with secondary veins branching off laterally)\n    12. Secondary veins (visibility, spacing, number): clearly visible, moderately spaced, approximately 5-7 pairs visible on larger leaves\n    13. Leaf surface features (glabrous, shiny, dull, rugose): dull (lacks significant gloss; surface appears matte)\n    14. Leaf surface trichomes (present / absent): present (fine hairs are clearly visible along the margins and on the stem surface in close-up views)\n    15. Petiole length (short / long): short (petioles are visibly shorter than the leaf blade)\n    16. Petiole features (winged / grooved / terete): terete (appears rounded in cross-section, no obvious wings or grooves)\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): herbaceous (appears soft, green, and flexible, typical of young seedlings)\n    18. Stem trichomes (present / absent): present (fine hairs are visible along the stem, especially near nodes)\n    19. Stem color: green to brownish-green (varies along the stem, greener near tips, browner lower down)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (no obvious ridges, grooves, or prominent lenticels visible)\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): unclear (stipules, if present, are not clearly resolved in any image)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no latex exudate visible)\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no pulvinus structure visible at leaf bases)\n    24. Tendrils (present / absent): absent (no tendrils observed)\nF. Notes: The seedling exhibits prominent serrate margins and fine trichomes on leaves and stems. Leaves are arranged oppositely. A yellow tag labeled \"84\" is wrapped around the stem in one image. Small holes are present on some leaves.",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 5143.296691589057
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 5143.296691589057,
+  "benchmark_metadata": {
+    "scientific_name": "Acalypha diversifolia",
+    "family": "Euphorbiaceae",
+    "genus": "Acalypha",
+    "species_epithet": "diversifolia",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

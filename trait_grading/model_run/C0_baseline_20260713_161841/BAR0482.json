@@ -1,0 +1,91 @@
+{
+  "specimen_id": "BAR0482",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Celastraceae/by_genus/Hylenaea/by_species/praecelsa/BAR0482/Celastraceae_Hylenaea_praecelsa_BAR0482_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Celastraceae/by_genus/Hylenaea/by_species/praecelsa/BAR0482/Celastraceae_Hylenaea_praecelsa_BAR0482_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Celastraceae/by_genus/Hylenaea/by_species/praecelsa/BAR0482/Celastraceae_Hylenaea_praecelsa_BAR0482_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Celastraceae/by_genus/Hylenaea/by_species/praecelsa/BAR0482/Celastraceae_Hylenaea_praecelsa_BAR0482_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Celastraceae/by_genus/Hylenaea/by_species/praecelsa/BAR0482/Celastraceae_Hylenaea_praecelsa_BAR0482_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "alternate",
+            "spacing": "distal"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "acute",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "visible, moderately spaced, 4\u20135 pairs",
+            "surface_features": "dull",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "brown",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "The leaf margin has a distinct fringe of brown, granular material that may be glandular trichomes or debris; this feature is not typical of standard trichomes and may be a species-specific characteristic. The seedling is marked with an orange tag, indicating it is part of a monitoring plot. The surrounding leaf litter suggests a forest floor environment, but this is not directly observable on the plant itself. All images show the same individual from different angles; no additional leaves are visible to confirm leaf arrangement beyond alternate."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): alternate (only one leaf is clearly visible per node; no paired or whorled arrangement evident)\n    2. Leaf spacing (clustered / distal): distal (leaves appear spaced along the stem with visible internodes)\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): simple (single blade without divisions into leaflets)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): N/A\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): N/A\n    6. Leaflet arrangement (opposite / alternate / subopposite): N/A\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (smooth margin with no teeth or serrations visible)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): elliptic (broadest near the middle, tapering to both ends)\n    9. Leaf apex (acute, obtuse, acuminate): acute (tapering to a sharp point)\n    10. Leaf base (rounded, cordate, cuneate): cuneate (tapering to a narrow base, wedge-shaped)\n    11. Venation type (pinnate / palmate / parallel): pinnate (single midrib with lateral veins branching off)\n    12. Secondary veins (visibility, spacing, number): visible, moderately spaced, 4\u20135 pairs (lateral veins clearly visible and spaced along the midrib)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): dull (not glossy; surface appears matte)\n    14. Leaf surface trichomes (present / absent): absent (no visible hairs on the leaf surface; however, margin has a fringe of brown, possibly glandular structures, but not typical trichomes)\n    15. Petiole length (short / long): short (petiole is short, less than 1/3 the length of the leaf blade)\n    16. Petiole features (winged / grooved / terete): terete (circular in cross-section; no wings or grooves visible)\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): woody (stem appears firm and brown, typical of young woody seedling)\n    18. Stem trichomes (present / absent): absent (no visible hairs on stem surface)\n    19. Stem color: brown (dull brown, consistent with young woody stem)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (no ridges or lenticels visible)\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules visible at leaf base)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no exudate visible when stem is broken or cut)\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no swollen joint at leaf base visible)\n    24. Tendrils (present / absent): absent (no tendrils visible)\nF. Notes: The leaf margin has a distinct fringe of brown, granular material that may be glandular trichomes or debris; this feature is not typical of standard trichomes and may be a species-specific characteristic. The seedling is marked with an orange tag, indicating it is part of a monitoring plot. The surrounding leaf litter suggests a forest floor environment, but this is not directly observable on the plant itself. All images show the same individual from different angles; no additional leaves are visible to confirm leaf arrangement beyond alternate. \n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 20149.71516933292
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 20149.71516933292,
+  "benchmark_metadata": {
+    "scientific_name": "Hylenaea praecelsa",
+    "family": "Celastraceae",
+    "genus": "Hylenaea",
+    "species_epithet": "praecelsa",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

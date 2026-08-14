@@ -1,0 +1,91 @@
+{
+  "specimen_id": "CHCUPASY3",
+  "image_paths": [
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Sapindaceae/by_genus/Cupania/by_species/seemannii/CHCUPASY3/Sapindaceae_Cupania_seemannii_CHCUPASY3_001.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Sapindaceae/by_genus/Cupania/by_species/seemannii/CHCUPASY3/Sapindaceae_Cupania_seemannii_CHCUPASY3_002.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Sapindaceae/by_genus/Cupania/by_species/seemannii/CHCUPASY3/Sapindaceae_Cupania_seemannii_CHCUPASY3_003.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Sapindaceae/by_genus/Cupania/by_species/seemannii/CHCUPASY3/Sapindaceae_Cupania_seemannii_CHCUPASY3_004.jpg",
+    "/nfs/roberts/project/pi_lsc4/shared/seedlearn/data/raw/2026-01-29/sorted_12K/training/by_family/Sapindaceae/by_genus/Cupania/by_species/seemannii/CHCUPASY3/Sapindaceae_Cupania_seemannii_CHCUPASY3_005.jpg"
+  ],
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "opposite",
+            "spacing": "clustered"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "elliptic",
+            "apex": "acute",
+            "base": "rounded",
+            "venation": "pinnate",
+            "secondary_veins": "visible, closely spaced, numerous",
+            "surface_features": "glabrous, dull",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "woody",
+            "trichomes": "absent",
+            "color": "green to brownish-green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "absent",
+            "latex": "not observed",
+            "pulvinus": "absent",
+            "tendrils": "absent"
+          },
+          "notes": "Multiple images show the same seedling from various angles. Some leaves exhibit holes and missing margins, indicating damage, but no signs of herbivory or pathogen are inferred. The leaf arrangement is consistently opposite, with leaves clustered near the apex. The plant appears to be a young woody seedling with simple, elliptic, entire leaves and pinnate venation. No stipules, latex, pulvinus, or tendrils are observed. The stem is smooth, terete, and greenish-brown. The leaf surface is glabrous and dull. All images together confirm these observations without ambiguity."
+        },
+        "raw_response": "=== Morphological Assessment Form ===\nA. Leaf Arrangement & Architecture\n    1. Leaf relative position (alternate / opposite / whorled): opposite (clear paired leaves at visible nodes along stem, as seen in close-up image 5)\n    2. Leaf spacing (clustered / distal): clustered (leaves appear grouped near the apex of the stem, with multiple nodes close together)\n\nB. Leaf Complexity\n    3. Leaf complexity (simple / compound): simple (each leaf is a single blade without subdivisions)\n    4. Compound leaf type, ONLY if leaf complexity is compound (odd-pinnate / even-pinnate): N/A\n    5. Number of leaflets (integer estimate 2, 4, 8, \u2026): N/A\n    6. Leaflet arrangement (opposite / alternate / subopposite): N/A\n\nC. Leaf Morphology\n    7. Leaf margin (entire / toothed) AND if toothed (dentate, serrate, etc.)): entire (margins are smooth without teeth, though some leaves show damage with holes)\n    8. Leaf shape (elliptic, obovate, lanceolate, etc.): elliptic (broadest near the middle, tapering to both ends)\n    9. Leaf apex (acute, obtuse, acuminate): acute (tapering to a sharp point)\n    10. Leaf base (rounded, cordate, cuneate): rounded (base is gently curved, not tapering or heart-shaped)\n    11. Venation type (pinnate / palmate / parallel): pinnate (one central midrib with lateral veins branching off)\n    12. Secondary veins (visibility, spacing, number): visible, closely spaced, numerous (secondary veins are clearly visible and run parallel to each other, closer together toward the margin)\n    13. Leaf surface features (glabrous, shiny, dull, rugose): glabrous, dull (surface appears smooth without hairs, with a matte finish)\n    14. Leaf surface trichomes (present / absent): absent (no visible hairs or fuzz on leaf surface)\n    15. Petiole length (short / long): short (petiole is short, not exceeding the length of the leaf blade)\n    16. Petiole features (winged / grooved / terete): terete (cylindrical, round in cross-section, no wings or grooves visible)\n\nD. Stem & Shoot Traits\n    17. Stem type, may not be visible (woody / herbaceous): woody (stem is firm, brownish-green, with visible bark texture, consistent with young woody plant)\n    18. Stem trichomes (present / absent): absent (no visible hairs on stem surface)\n    19. Stem color: green to brownish-green (stem shows green coloration with some brownish tones, especially toward base)\n    20. Stem texture (smooth / ridged / lenticellate): smooth (surface is smooth, no ridges or lenticels clearly visible)\n\nE. Other Visible Seedling Traits\n    21. Stipules, sometimes visible only in close-up images (present / absent): absent (no stipules observed at leaf bases in any image)\n    22. Latex, rarely visible but extremely diagnostic when present (present / not observed): not observed (no milky or colored sap visible upon damage or breakage)\n    23. Pulvinus, for Fabaceae family only (present / absent): absent (no swollen joints at leaf base or petiole base visible)\n    24. Tendrils (present / absent): absent (no tendrils present; leaves are not modified into tendrils)\n\nF. Notes: Multiple images show the same seedling from various angles. Some leaves exhibit holes and missing margins, indicating damage, but no signs of herbivory or pathogen are inferred. The leaf arrangement is consistently opposite, with leaves clustered near the apex. The plant appears to be a young woody seedling with simple, elliptic, entire leaves and pinnate venation. No stipules, latex, pulvinus, or tendrils are observed. The stem is smooth, terete, and greenish-brown. The leaf surface is glabrous and dull. All images together confirm these observations without ambiguity.\n\n####",
+        "thinking": null
+      },
+      "skipped": false,
+      "error": null,
+      "elapsed_ms": 21198.916086927056
+    },
+    "classification": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "trait_retrieval": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "evidence_synthesis": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    },
+    "reasoning": {
+      "data": {},
+      "skipped": true,
+      "error": null,
+      "elapsed_ms": 0.0
+    }
+  },
+  "total_elapsed_ms": 21198.916086927056,
+  "benchmark_metadata": {
+    "scientific_name": "Cupania seemannii",
+    "family": "Sapindaceae",
+    "genus": "Cupania",
+    "species_epithet": "seemannii",
+    "stri_match_name": "",
+    "match_method": "curator_selection"
+  }
+}

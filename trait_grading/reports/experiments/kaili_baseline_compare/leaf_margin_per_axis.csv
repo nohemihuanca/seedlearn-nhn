@@ -1,0 +1,9 @@
+label,model,granularity,external,axis,agreement_rate,cohen_kappa,n_compared
+baseline_qwen3-vl-32b,Qwen/Qwen3-VL-32B-Instruct-FP8,,False,model_vs_roni,0.8393,0.5032,112
+baseline_qwen3-vl-32b,Qwen/Qwen3-VL-32B-Instruct-FP8,,False,model_vs_carmen,0.9123,0.6718,114
+K1_gpt-5.4_all-traits,gpt-5.4,all_traits,True,model_vs_roni,0.8378,0.5022,111
+K1_gpt-5.4_all-traits,gpt-5.4,all_traits,True,model_vs_carmen,0.9115,0.6713,113
+K2_gpt-5.1_per-trait,gpt-5.1,per_trait,True,model_vs_roni,0.8108,0.3953,111
+K2_gpt-5.1_per-trait,gpt-5.1,per_trait,True,model_vs_carmen,0.8839,0.5439,112
+K3_gpt-5.1_per-section,gpt-5.1,per_section,True,model_vs_roni,0.8018,0.3577,111
+K3_gpt-5.1_per-section,gpt-5.1,per_section,True,model_vs_carmen,0.8673,0.4744,113

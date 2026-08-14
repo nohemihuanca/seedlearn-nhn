@@ -1,0 +1,47 @@
+{
+  "specimen_id": "MEMASCNE4",
+  "source_answer_key": "Malpighiaceae_Mascagnia_ovatifolia_MEMASCNE4",
+  "stages": {
+    "morphology": {
+      "data": {
+        "traits": {
+          "leaf_arrangement": {
+            "relative_position": "opposite",
+            "spacing": "distal"
+          },
+          "leaf_complexity": {
+            "type": "simple",
+            "compound_type": "N/A",
+            "num_leaflets": "N/A",
+            "leaflet_arrangement": "N/A"
+          },
+          "leaf_morphology": {
+            "margin": "entire",
+            "shape": "lanceolate",
+            "apex": "acuminate",
+            "base": "cuneate",
+            "venation": "pinnate",
+            "secondary_veins": "visible, moderately spaced, approximately 8\u201312 pairs",
+            "surface_features": "shiny and glabrous",
+            "trichomes": "absent",
+            "petiole_length": "short",
+            "petiole_features": "terete"
+          },
+          "stem_traits": {
+            "type": "herbaceous",
+            "trichomes": "absent",
+            "color": "green",
+            "texture": "smooth"
+          },
+          "special_features": {
+            "stipules": "unclear",
+            "latex": "not observed",
+            "pulvinus": "unclear",
+            "tendrils": "absent"
+          },
+          "notes": "Seedling has an upright main stem with several leaves concentrated toward the upper portion. Some leaves show minor margin missing and small spots but overall morphology is intact. Ground surface is covered with leaf litter and a black irrigation tube is visible near the plant."
+        }
+      }
+    }
+  }
+}

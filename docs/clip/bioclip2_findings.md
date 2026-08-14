@@ -36,6 +36,7 @@ This confirms BioCLIP 2 embedding extraction was completed for the current 2026-
 Presentation figures:
 
 - [`figures/bioclip2_pca_family.png`](figures/bioclip2_pca_family.png) shows a 2D PCA projection of the verified BioCLIP 2 embeddings, colored for the ten largest family labels. The figure is generated from [`figures/bioclip2_pca_family_coords.csv`](figures/bioclip2_pca_family_coords.csv) with `scripts/plot_bioclip2_pca_family.R`.
+- [`figures/bioclip2_pca_family_ellipses.png`](figures/bioclip2_pca_family_ellipses.png) shows the same PCA projection with 68% normal ellipses around the ten largest families to visualize broad overlap and separation. It is generated with `scripts/plot_bioclip2_pca_family_ellipses.R`.
 - [`figures/seedlearn_family_distribution.png`](figures/seedlearn_family_distribution.png) shows the updated training-set composition: 10,407 images from 2,112 unique individuals across 52 families. It is generated from the same coordinate CSV with `scripts/plot_family_distribution.R`.
 
 ---

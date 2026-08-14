@@ -2,6 +2,7 @@
 
 suppressPackageStartupMessages({
   library(ggplot2)
+  library(ggrepel)
 })
 
 args <- commandArgs(trailingOnly = TRUE)
@@ -22,57 +23,104 @@ family_counts <- sort(table(coords$family), decreasing = TRUE)
 top_n <- 10
 top_families <- names(family_counts)[seq_len(min(top_n, length(family_counts)))]
 
-coords$plot_family <- ifelse(coords$family %in% top_families, coords$family, "Other families")
-legend_levels <- c(
-  paste0(top_families, " (n=", as.integer(family_counts[top_families]), ")"),
-  sprintf("Other families (n=%s)", format(sum(family_counts[setdiff(names(family_counts), top_families)]), big.mark = ","))
-)
-names(legend_levels) <- c(top_families, "Other families")
-coords$plot_family_label <- unname(legend_levels[coords$plot_family])
-coords$plot_family_label <- factor(coords$plot_family_label, levels = unname(legend_levels))
+coords_top <- coords[coords$family %in% top_families, ]
+coords_other <- coords[!coords$family %in% top_families, ]
+coords_other$family <- "Other families"
 
+coords_top$family <- factor(coords_top$family, levels = top_families)
+coords_other$family <- factor(coords_other$family, levels = "Other families")
+
+okabe_ito <- c(
+  "#0072B2", "#D55E00", "#009E73", "#CC79A7", "#E69F00",
+  "#56B4E9", "#F0E442", "#332288", "#88CCEE", "#AA4499"
+)
 palette <- c(
-  setNames(grDevices::hcl.colors(length(top_families), palette = "Dark 3"), unname(legend_levels[top_families])),
-  setNames("#c9c9c9", unname(legend_levels["Other families"]))
+  setNames(okabe_ito[seq_along(top_families)], top_families),
+  "Other families" = "grey78"
 )
 
-subtitle <- sprintf(
-  "%s field-collected seedling images, %s families, BioCLIP 2 embeddings projected from 768D to 2D PCA",
-  format(nrow(coords), big.mark = ","),
-  length(family_counts)
-)
+centroids <- aggregate(cbind(pc1, pc2) ~ family, data = coords_top, FUN = median)
+centroids$n <- as.integer(family_counts[as.character(centroids$family)])
+centroids$label <- paste0(centroids$family, "\n", "n=", centroids$n)
 
-p <- ggplot(coords, aes(pc1, pc2, color = plot_family_label)) +
-  geom_point(size = 0.65, alpha = 0.62, stroke = 0) +
-  scale_color_manual(values = palette, name = NULL) +
+label_families <- top_families[seq_len(min(6, length(top_families)))]
+label_centroids <- centroids[as.character(centroids$family) %in% label_families, ]
+
+legend_breaks <- c(top_families, "Other families")
+legend_labels <- c(
+  top_families,
+  sprintf("Other families (%s)", format(nrow(coords_other), big.mark = ","))
+)
+names(legend_labels) <- legend_breaks
+
+p <- ggplot() +
+  geom_point(
+    data = coords_other,
+    aes(pc1, pc2, color = family),
+    size = 0.34,
+    alpha = 0.36,
+    stroke = 0
+  ) +
+  geom_point(
+    data = coords_top,
+    aes(pc1, pc2, color = family),
+    size = 0.5,
+    alpha = 0.76,
+    stroke = 0
+  ) +
+  ggrepel::geom_text_repel(
+    data = label_centroids,
+    aes(pc1, pc2, label = family, color = family),
+    box.padding = 0.38,
+    point.padding = 0.18,
+    min.segment.length = 0,
+    segment.color = "grey48",
+    segment.size = 0.18,
+    size = 2.75,
+    fontface = "bold",
+    show.legend = FALSE,
+    seed = 42,
+    max.overlaps = Inf
+  ) +
+  scale_color_manual(
+    values = palette,
+    breaks = legend_breaks,
+    labels = legend_labels,
+    name = "Family label"
+  ) +
   labs(
-    title = "BioCLIP 2 Embedding Space for SeedLearn Seedlings",
-    subtitle = subtitle,
-    x = "Principal component 1",
-    y = "Principal component 2",
-    caption = "Points are individual images. The ten largest families are colored; remaining families are shown in grey."
+    title = NULL,
+    subtitle = NULL,
+    x = "PC1",
+    y = "PC2",
+    caption = sprintf(
+      "%s images, %s families. Ten largest families colored; remaining families in grey.",
+      format(nrow(coords), big.mark = ","),
+      length(family_counts)
+    )
   ) +
   coord_equal() +
-  theme_minimal(base_size = 12) +
+  theme_classic(base_size = 10.5) +
   theme(
-    plot.title = element_text(face = "bold", size = 16, margin = margin(b = 5)),
-    plot.subtitle = element_text(size = 10.5, color = "grey30", margin = margin(b = 12)),
-    plot.caption = element_text(size = 9, color = "grey35", hjust = 0),
-    legend.position = "bottom",
-    legend.text = element_text(size = 8.2),
-    legend.key.width = grid::unit(0.8, "lines"),
-    legend.key.height = grid::unit(0.8, "lines"),
-    panel.grid.minor = element_blank(),
-    panel.grid.major = element_line(color = "grey88", linewidth = 0.25),
-    axis.title = element_text(size = 11),
-    axis.text = element_text(size = 9, color = "grey35"),
+    plot.caption = element_text(size = 7.7, color = "grey35", hjust = 0, margin = margin(t = 6)),
+    legend.position = "right",
+    legend.justification = c(1, 0),
+    legend.title = element_text(face = "bold", size = 7.9),
+    legend.text = element_text(size = 7.25),
+    legend.key.size = grid::unit(0.34, "lines"),
+    axis.title = element_text(size = 9.4),
+    axis.text = element_text(size = 8.1, color = "grey35"),
+    axis.line = element_line(color = "grey20", linewidth = 0.25),
+    axis.ticks = element_line(color = "grey20", linewidth = 0.25),
+    panel.grid = element_blank(),
     plot.background = element_rect(fill = "white", color = NA),
     panel.background = element_rect(fill = "white", color = NA),
-    plot.margin = margin(14, 16, 12, 14)
-  )
+    plot.margin = margin(6, 8, 5, 6)
+  ) +
+  guides(color = guide_legend(override.aes = list(size = 1.8, alpha = 1), ncol = 1))
 
-ggsave(paste0(out_prefix, ".png"), p, width = 11, height = 7.2, dpi = 320, bg = "white")
-ggsave(paste0(out_prefix, ".pdf"), p, width = 11, height = 7.2, bg = "white")
+ggsave(paste0(out_prefix, ".png"), p, width = 6.8, height = 4.8, dpi = 450, bg = "white")
+ggsave(paste0(out_prefix, ".pdf"), p, width = 6.8, height = 4.8, bg = "white")
 
 summary_path <- paste0(out_prefix, "_summary.csv")
 write.csv(

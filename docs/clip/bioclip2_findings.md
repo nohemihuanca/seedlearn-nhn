@@ -33,6 +33,8 @@ Cluster inspection on 2026-08-14 found a newer BioCLIP 2 cache on shared NFS:
 
 This confirms BioCLIP 2 embedding extraction was completed for the current 2026-01-29 image catalog. A search under `data/experiments` did not find 2026-01-29 SimpleShot metrics or reports, so the downstream BioCLIP 2 few-shot baselines still need to be run or located outside the standard experiments tree.
 
+Presentation figure: [`figures/bioclip2_pca_family.png`](figures/bioclip2_pca_family.png) shows a 2D PCA projection of the verified BioCLIP 2 embeddings, colored for the ten largest family labels. The figure is generated from [`figures/bioclip2_pca_family_coords.csv`](figures/bioclip2_pca_family_coords.csv) with `scripts/plot_bioclip2_pca_family.R`.
+
 ---
 
 ## 1. BioCLIP 2: What Changed

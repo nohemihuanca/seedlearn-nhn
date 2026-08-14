@@ -131,4 +131,4 @@ seedlearn-dev/
 
 ## AI Assistants
 
-This repo includes a `CLAUDE.md` at the root with a structured guide to the codebase — architecture, key paths, conventions, and workflows. Claude Code and Cursor load this automatically. For other tools, point your assistant to this file.
+This repo includes an `AGENTS.md` guide for AI coding assistants, including Codex/OpenAI, Claude Code, Cursor, and related tools. It summarizes the architecture, key paths, data boundaries, conventions, and workflows to read before making changes.

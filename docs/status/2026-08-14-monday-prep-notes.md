@@ -170,6 +170,14 @@ Important files:
 - `human_trait_grading_per_trait.csv`
 - `human_trait_grading_overall.csv`
 
+Tracked exploratory copies for GitHub are in:
+
+```text
+docs/status/figures/2026-08-14/
+```
+
+These are working presentation artifacts, not final manuscript figures.
+
 Repo figures already committed/pushed:
 
 - `docs/clip/figures/bioclip2_pca_family.png`

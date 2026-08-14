@@ -1,0 +1,4 @@
+axis,macro_rate,macro_kappa,pairs
+model_vs_roni,0.68,0.1,1672
+model_vs_carmen,0.68,0.13,1870
+roni_vs_carmen,0.79,0.45,1774

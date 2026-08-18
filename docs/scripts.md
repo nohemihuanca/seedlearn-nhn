@@ -158,6 +158,41 @@ python scripts/run_simpleshot.py \
 
 ---
 
+## `run_alltrain_individual_numpy.py`
+
+Run the matched BioCLIP 2 family baseline used for visual candidate-generation
+reporting. This script fits one centroid per family from all training images,
+then evaluates one prediction per test individual by averaging that individual's
+image embeddings.
+
+This is not fine-tuning. It uses frozen BioCLIP 2 embeddings from the shared
+cluster cache and a NumPy nearest-centroid classifier.
+
+```bash
+python scripts/run_alltrain_individual_numpy.py
+```
+
+### Default Cluster Inputs
+
+| Input | Path |
+|-------|------|
+| Features | `/home/nh525/project_pi_lsc4/shared/seedlearn/data/embeddings/2026-01-29_v2026-01-29_12K/features.npz` |
+| Family split | `/home/nh525/project_pi_lsc4/shared/seedlearn/data/splits/2026-01-29_v2026-01-29_12K/family/split_seed42` |
+| Output | `/home/nh525/seedlearn_runs/bioclip2_simpleshot/results/family_alltrain_seed42_individual` |
+
+### Output Files
+
+```text
+family_alltrain_seed42_individual/
+├── metrics.json
+└── predictions.csv
+```
+
+See [BioCLIP 2 SimpleShot Baseline](clip/bioclip2_simpleshot_baseline.md) for
+the completed result and interpretation.
+
+---
+
 ## `run_experiments.py`
 
 Batch orchestration across all combinations of split seeds and k-shot values.

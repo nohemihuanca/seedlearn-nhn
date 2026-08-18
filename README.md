@@ -128,6 +128,7 @@ seedlearn-dev/
 | [Development Guide](docs/development.md) | Installation, testing, conventions, extending the project |
 | [vLLM Installation](docs/vllm-install.md) | Custom wheel install, rebuild instructions |
 | [Embedding Architecture](docs/clip/embedding-architecture.md) | BioCLIP 2 model internals, preprocessing, GPU guide |
+| [BioCLIP 2 SimpleShot Baseline](docs/clip/bioclip2_simpleshot_baseline.md) | Completed all-training, individual-level family baseline |
 
 ## AI Assistants
 

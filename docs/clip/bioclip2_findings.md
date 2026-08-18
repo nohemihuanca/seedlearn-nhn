@@ -3,9 +3,11 @@
 **Date**: 2026-01-29
 **Updated**: 2026-02-12
 **Branch**: dev
-**Status**: Tasks 1-4 complete, BioCLIP 2 embeddings verified on NFS, Tasks 5-9 pending
+**Status**: Tasks 1-5 complete, BioCLIP 2 embeddings and family baseline verified, Tasks 6-9 pending
 
 > **See also**: [Embedding Architecture Reference](embedding-architecture.md) — comprehensive technical deep dive on BioCLIP 2's architecture, pre-training, latent space, preprocessing, and software stack. Written 2026-02-12.
+>
+> **Completed baseline**: [BioCLIP 2 SimpleShot Baseline](bioclip2_simpleshot_baseline.md) records the all-training, individual-level family result: 64.7% Top-1 and 91.5% Top-5 across 317 test individuals.
 
 ---
 
@@ -19,7 +21,7 @@
 | Training data | TreeOfLife-10M |
 | pybioclip version | 2.1.1 |
 | Cached embeddings | `family_features.npz` (8377, 512), `species_features.npz` (8377, 512) |
-| Best result | SimpleShot 36.52% family accuracy (10-shot, Oct 23 clean data) |
+| Best result | BioCLIP 2 SimpleShot all-training family baseline: 64.7% Top-1, 91.5% Top-5 |
 | Known bugs | Demo classifier missing mean-centering, temperature scaling (see `bioclip_simpleshot_explainer.html`) |
 
 ### August 2026 verification
@@ -31,7 +33,7 @@ Cluster inspection on 2026-08-14 found a newer BioCLIP 2 cache on shared NFS:
 | `data/embeddings/2026-01-29_v2026-01-29_12K/family_features.npz` | `(10407, 768)` | Legacy single-rank family cache |
 | `data/embeddings/2026-01-29_v2026-01-29_12K/features.npz` | `(10407, 768)` | Multi-rank cache with image paths, individual IDs, family/genus/species labels |
 
-This confirms BioCLIP 2 embedding extraction was completed for the current 2026-01-29 image catalog. A search under `data/experiments` did not find 2026-01-29 SimpleShot metrics or reports, so the downstream BioCLIP 2 few-shot baselines still need to be run or located outside the standard experiments tree.
+This confirms BioCLIP 2 embedding extraction was completed for the current 2026-01-29 image catalog. The matched all-training, individual-level family baseline has since been run outside the standard `data/experiments` tree; see [BioCLIP 2 SimpleShot Baseline](bioclip2_simpleshot_baseline.md).
 
 Presentation figures:
 
@@ -100,7 +102,8 @@ Presentation figures:
 **Level 0 - SimpleShot on BioCLIP 2 (no training)**
 - Extract embeddings, run SimpleShot. Zero risk.
 - This is the baseline everything else must beat.
-- DO THIS FIRST. No exceptions.
+- Completed for the all-training, individual-level family baseline; see
+  [BioCLIP 2 SimpleShot Baseline](bioclip2_simpleshot_baseline.md).
 
 **Level 1 - Linear Probe**
 - Logistic regression on frozen BioCLIP 2 embeddings.
@@ -162,7 +165,7 @@ With ~49 images per species, LoRA is the ceiling of what's responsible. Full fin
 | 2 | Update model string to `bioclip-2`, verify pybioclip 2.x compat | - | Done | Default fixed in `extract_embeddings.py` (commit `fb659c3`) |
 | 3 | Regenerate static embeddings with BioCLIP 2 | 2 | Done | Verified `10407 x 768` caches under `data/embeddings/2026-01-29_v2026-01-29_12K/` |
 | 4 | Update embedding consumers for 768-dim | 3 | Done | All code is dimension-agnostic (verified) |
-| 5 | Run SimpleShot experiments (BioCLIP 2 baseline) | 3 | Pending | New ground truth scores |
+| 5 | Run SimpleShot experiments (BioCLIP 2 baseline) | 3 | Done | Family all-training individual-level result: 64.7% Top-1, 91.5% Top-5 |
 | 6 | Generate comparison reports (v1 vs v2) | 5 | Pending | Quantify improvement |
 | 7 | Implement linear probe baseline | 3 | Pending | Simple sklearn, quick win |
 | 8 | Prototype LoRA fine-tuning | 5 | Pending | Only if Level 0 baseline justifies it |
